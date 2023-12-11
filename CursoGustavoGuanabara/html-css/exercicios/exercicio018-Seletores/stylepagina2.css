@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+/*
+    Seletores personalizados
+    #   =   id
+    .   =   class
+    :   =   pseudo-class
+    ::  =   pseudo-element
+    >   =   children
+*/
+
+div {
+    display: inline-block;
+    background-color: rgb(212, 212, 212);
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    height: 200px; /*Altura*/
+    width: 200px; /*Largura*/
+}
+
+div:hover {
+    background-color: rgb(255, 255, 0)
+}
+
+a {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: rgb(0, 128, 0);
+}
+
+a:active {
+    color: rgb(255, 255, 0);
+}
+
+.especial {
+    background-color: rgb(255, 140,140);
+}
+
+.especial::before {
+    content: '⇒ ';
+}
+
+.especial::after {
+    content: ' ⇐';
+}

@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+/*Para baixar fontes para uso local : https://www.dafont.com/pt/*/
+/*Essa fonte não está instalada no computador, ela está em um diretório dentro do próprio site*/
+@font-face {
+    font-family: 'love larry';
+    src: url(fonts/love\ larry\ ttf.ttf);
+}    
+@font-face {
+    font-family: 'snowtop';
+    src: url(fonts/SnowtopCaps.otf);
+}
+
+@font-face {
+    font-family: 'SAN ANDREAS';
+    src: url(fonts/SAN\ ANDREAS.otf);
+}
+h1 {
+    font-family: 'love larry';
+    font-size: 50px; /*Tamanho da fonte*/
+    font-weight: normal; /*"Grossura" da fonte: lighter, normal, bold e bolder*/
+}
+
+h2 {
+    font-family: 'snowtop';
+    font-size: 50px; /*Tamanho da fonte*/
+    font-weight: normal; /*"Grossura" da fonte: lighter, normal, bold e bolder*/
+}
+
+h3 {
+    font-family: 'SAN ANDREAS';
+    font-size: 50px; /*Tamanho da fonte*/
+    font-weight: normal; /*"Grossura" da fonte: lighter, normal, bold e bolder*/
+}

@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+    font-style: normal; /*Estilo da fonte: */
+    font-weight: normal; /*"Grossura" da fonte: lighter, normal, bold e bolder*/
+    font-size: 16px; /*Tamanho da fonte*/
+    font-family: Arial, Helvetica, sans-serif; /*Estilo da fonte*/
+    text-decoration: none; /*Destaque do texto: line-through = tachado, overline = traço em cima, underline = sublinhado*/
+}
+
+h1 {
+    text-align: left; /*Alinha o texto a esquerda*/
+}
+
+h2{
+    text-align: center; /*Alinha o texto no centro*/
+}
+
+h3 {
+    text-align: right; /*Alinha o texto a direita*/
+}
+
+p {
+    text-align: justify; /*Alinha o texto justificado*/
+    text-indent: 30px; /*Cria um parágrafo*/
+}

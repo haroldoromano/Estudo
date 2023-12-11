@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif; /*Estilo da fonte*/
+    font-size: 16px; /*Tamanho da fonte*/
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif; /*Estilo da fonte*/
+    font-size: 75px; /*Tamanho da fonte*/
+}
+
+h2 {
+    font-family: cursive; /*Estilo da fonte*/
+    font-size: 50px; /*Tamanho da fonte*/
+}
+
+h3 {
+    /*Declaração em varias linhas*/
+    font-style: italic; /*Estilo da fonte: */
+    font-weight: bolder; /*"Grossura" da fonte: lighter, normal, bold e bolder*/
+    font-size: 25px; /*Tamanho da fonte*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*Estilo da fonte*/
+    text-decoration: underline; /*Destaque do texto: line-through = tachado, overline = traço em cima, underline = sublinhado*/
+}
+
+h4 {
+    /*Declaração em uma unica linha. Para esse caso, deve ser obedecida a seguinte ordem: font-style font-weight font-size font-family*/
+    font: italic bolder 25px Impact, Arial;
+}
