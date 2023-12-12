@@ -1,4 +1,4 @@
-# <code style="color : aqua">Exercício 1</code>
+# Exercício 1
 
 ```
 algoritmo "primeiro"
@@ -11,7 +11,7 @@ fimalgoritmo
 ```
 ---
 
-# <code style="color : aqua">Exercício 2</code>
+# Exercício 2
 
 ```
 algoritmo "segundo"
