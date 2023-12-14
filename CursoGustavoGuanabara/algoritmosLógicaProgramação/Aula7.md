@@ -106,8 +106,8 @@ inicio
    escreval("---------------------")
    media <- (nota1 + nota2) / 2
    escreval("")
-   escreval("MEDIA: ", media:2:1)
-   se (media > 7) então
+   escreval("MEDIA: ", media:4:2)
+   se (media >= 7) então
       escreval("ALUNO APROVADO")
    senao
         escreval("ALUNO REPROVADO")
