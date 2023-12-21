@@ -178,7 +178,7 @@ fimalgoritmo
 ```
 ---
 
-# Exercício 8
+# Exercício 9
 
 ```
 algoritmo "MelhorAluno"
