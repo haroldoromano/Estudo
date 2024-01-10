@@ -76,7 +76,7 @@ fimalgoritmo
 ```
 ---
 
-# Exercício 3
+# Exercício 5
 
 ```
 algoritmo "Combinacoes"
@@ -92,7 +92,7 @@ fimalgoritmo
 ```
 ---
 
-# Exercício 4
+# Exercício 6
 
 ```
 algoritmo "SequenciaFibonacci"
@@ -112,7 +112,7 @@ fimalgoritmo
 ```
 ---
 
-# Exercício 5
+# Exercício 7
 
 ```
 algoritmo "AnalisadorDeValores"
