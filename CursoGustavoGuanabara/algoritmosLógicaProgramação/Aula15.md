@@ -136,6 +136,38 @@ fimalgoritmo
 # Exercício 5
 
 ```
+algoritmo "DissecandoMatrizes"
+var
+   mat: vetor[1..4, 1..4] de inteiro
+   opcao, linha, coluna: inteiro
 
+funcao menu(): inteiro
+       var opcao: inteiro
+inicio
+      limpatela
+      escreval("MENU DE OPCOES")
+      escreval("==============")
+      escreval("[1] Mostrar a Matriz")
+      escreval("[2] Diagonal Principal")
+      escreval("[3] Triangulo Superior")
+      escreval("[4] Triangulo Inferior")
+      escreval("[5] Sair")
+      escreva("===== OPCAO: ")
+      leia(opcao)
+      retorne opcao
+fimfuncao
+
+inicio
+      opcao <- menu()
+      
+      para linha <- 1 ate 4 passo 1 faca
+           para coluna <- 1 ate 4 passo 1 faca
+                escreva("Digite o valor para a posicao [", linha, ", ", coluna, "]: ")
+                leia(mat[linha, coluna])
+           fimpara
+      fimpara
+      
+      
+fimalgoritmo
 ```
 ---
