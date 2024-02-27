@@ -141,33 +141,48 @@ var
    mat: vetor[1..4, 1..4] de inteiro
    opcao, linha, coluna: inteiro
 
-funcao menu(): inteiro
-       var opcao: inteiro
 inicio
-      limpatela
-      escreval("MENU DE OPCOES")
-      escreval("==============")
-      escreval("[1] Mostrar a Matriz")
-      escreval("[2] Diagonal Principal")
-      escreval("[3] Triangulo Superior")
-      escreval("[4] Triangulo Inferior")
-      escreval("[5] Sair")
-      escreva("===== OPCAO: ")
-      leia(opcao)
-      retorne opcao
-fimfuncao
-
-inicio
-      opcao <- menu()
-      
       para linha <- 1 ate 4 passo 1 faca
            para coluna <- 1 ate 4 passo 1 faca
-                escreva("Digite o valor para a posicao [", linha, ", ", coluna, "]: ")
+                aleatorio 1, 10
+                //escreva("Digite o valor para a posicao [", linha, ", ", coluna, "]: ")
                 leia(mat[linha, coluna])
+                aleatorio off
            fimpara
       fimpara
       
-      
+      enquanto (opcao <> 5) faca
+               limpatela
+               escreval("MENU DE OPCOES")
+               escreval("==============")
+               escreval("[1] Mostrar a Matriz")
+               escreval("[2] Diagonal Principal")
+               escreval("[3] Triangulo Superior")
+               escreval("[4] Triangulo Inferior")
+               escreval("[5] Sair")
+               escreva("===== OPCAO: ")
+               leia(opcao)
+
+               escolha(opcao)
+                             caso 1
+                                  para linha <- 1 ate 4 passo 1 faca
+                                       para coluna <- 1 ate 4 passo 1 faca
+                                            escreva(mat[linha, coluna]:5)
+                                       fimpara
+                                       escreval()
+                                  fimpara
+                             caso 2
+                                  escreva("2")
+                             caso 3
+                                  escreva("3")
+                             caso 4
+                                  escreva("4")
+                             caso 5
+                                  escreva("5")
+               fimescolha
+      fimenquanto
+
+
 fimalgoritmo
 ```
 ---
