@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif; /* Estilo das fontes */
+    background-color: rgb(105, 105, 105); /* Cor de fundo */
+    margin: 0px; /* Margem da caixa */
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px;
+}
+
+nav {
+    background-color: rgb(102, 102, 102);
+    padding: 3px;
+    box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.315); /* Cria sombra nas caixas */
+}
+
+nav > a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px 0px 10px 0px; /* Arredonda os cantos */
+    box-shadow: 4px 4px 9px 0px rgba(0, 0, 0, 0.384); /* Cria sombra nas caixas */
+}
+
+article {
+    background-color: rgb(211, 211, 211);
+    padding: 5px;
+}
+
+article > aside {
+    background-color: rgb(165, 165, 165);
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 4px;
+    margin: 0px;
+}
+
+footer > p {
+    margin: 0px;
+}
+
+#bola {
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+}
