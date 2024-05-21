@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+h1 { /* box-level*/
+    background-color: lightgray;
+    height: 300px;
+    width: 300px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(47, 79, 79);
+
+    /*padding, o espaço ao redor do conteúdo (ex.: ao redor do texto de um parágrafo).*/
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+
+    /*
+        - Outra forma de escrever esse comando é em apenas uma linha:
+            padding 10px 10px 10px 10px
+        - Se todos os valores forem iguais, você pode declar dessa forma:
+            padding 10px
+    */
+
+    /*margin, o espaço externo a um elemento.*/
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+
+    /*outline é uma propriedade abreviada para configurar uma ou mais das propriedades de contorno*/
+    outline-width: 5px;
+    outline-style: dashed;
+    outline-color: rgb(250, 128, 114);
+}
+
+.link3 { /* inline- level*/
+    /*border, a linha sólida do lado de fora do padding.*/
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(255,0,0);
+
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.link1 {
+    text-decoration: none;
+    color: rgb(0, 255, 0);
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+.link2 {
+    text-decoration: none;
+    color: rgb(255, 0, 255);
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+nav {
+    background-color: rgb(102, 102, 102);
+    padding: 3px;
+}
