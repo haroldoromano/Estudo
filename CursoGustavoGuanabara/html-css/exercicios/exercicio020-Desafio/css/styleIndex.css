@@ -1,0 +1,156 @@
+@charset "UTF-8";
+
+@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
+    font-family: 'BebasNeue-Regular';
+    src: url(../fontes/BebasNeue-Regular.ttf);
+}
+
+@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
+    font-family: 'idroid';
+    src: url(../fontes/idroid.otf);
+}
+
+* { /*Sempre que iniciar uma formatação, esse parametro vai zerar o CSS*/
+    margin: 0; /*Borda (espaço) externo da caixa.*/
+    padding: 0; /*Borda (espaço) interna da caixa.*/
+    box-sizing: border-box; 
+}
+
+body {
+    background-color: #83e1ad; /* Plano de fundo da página */
+}
+
+header {
+    background-image: linear-gradient(180deg, #83e1ad, #3ddc84, #2fa866, #063d1e); /* Cria efeito degrade no fundo da página */
+    display: block;
+    height: 125px; /*Altura da caixa*/
+    width: 100%; /*Largura da caixa*/
+    text-align: center; /*Alinha o texto no centro*/
+}
+
+.headerH1{
+    margin-right: auto; /*Borda (espaço) externo da caixa.*/
+    margin-left: auto; /*Borda (espaço) externo da caixa.*/
+    margin-top: 15px; /*Borda (espaço) externo da caixa.*/
+    font-size: 50px; /*Tamanho da fonte*/
+    font-family: 'BebasNeue-Regular'; /*Família da fonte*/
+    color: rgb(255, 255, 255);  /*Cor da fonte*/
+    text-shadow: rgb(0, 0, 0) 1px 1px 2px; /*Sobra da fonte*/
+    font-style: normal; /*Estilo da fonte: */
+    font-weight: normal; /*Intensidade da fonte*/
+}
+
+.headerP1 {
+    margin-right: auto; /*Borda (espaço) externo da caixa.*/
+    margin-left: auto; /*Borda (espaço) externo da caixa.*/
+    margin-top: 15px; /*Borda (espaço) externo da caixa.*/
+    font-size: 20px; /*Tamanho da fonte*/
+    font-family: Arial, Helvetica, sans-serif; /*Família da fonte*/
+    color: rgb(255, 255, 255); /*Cor da fonte*/
+    font-style: normal; /*Estilo da fonte: */
+    font-weight: normal; /*Intensidade da fonte*/
+}
+
+nav {
+    background-color: #063d1e; /*Cor do fundo*/
+    width: 100%; /*Largura da caixa*/
+    text-align: left; /*Alinha o texto na esquerda*/
+    padding: 5px; /*Borda (espaço) interna da caixa.*/
+}
+
+.link1 {
+    color: rgb(255, 255, 255); /*Cor da fonte*/
+    font-family: Arial, Helvetica, sans-serif; /*Família da fonte*/
+    padding-left: 10px; /*Borda (espaço) interna da caixa.*/
+    text-decoration: none; /*Destaque do texto: line-through = tachado, overline = traço em cima, underline = sublinhado none = sem destaque*/
+}
+main {
+    background-color: rgb(255, 255, 255); /*Cor do fundo*/
+    display: block;
+    max-width: 80%; /*Largura da caixa*/
+    margin-right: auto; /*Borda (espaço) externo da caixa.*/
+    margin-left: auto; /*Borda (espaço) externo da caixa.*/
+    text-align: justify; /*Alinha o texto justificado*/
+    padding-top: 20px; /*Borda (espaço) interna da caixa.*/
+    padding-right: 15px; /*Borda (espaço) interna da caixa.*/
+    padding-bottom: 20px; /*Borda (espaço) interna da caixa.*/
+    padding-left: 15px; /*Borda (espaço) interna da caixa.*/
+}
+
+.articleH1 {
+    color: #063d1e; /*Cor da fonte*/
+    font-family: 'idroid'; /*Família da fonte*/
+    margin-top: 0px; /*Borda (espaço) externo da caixa.*/
+    margin-bottom: 0px; /*Borda (espaço) externo da caixa.*/
+}
+
+.articleH2 {
+    color: #063d1ede; /*Cor da fonte*/
+    background-image: linear-gradient(270deg, #ffffff, #c5ebd6); /* Cria efeito degrade no fundo da página */
+    font-family: 'idroid'; /*Família da fonte*/
+    margin-top: 15px; /*Borda (espaço) externo da caixa.*/
+}
+
+.articleP1 {
+    color: rgb(0, 0, 0); /*Cor da fonte*/
+    font-family: Arial, Helvetica, sans-serif; /*Família da fonte*/
+    text-indent: 30px; /*Cria um parágrafo*/
+    margin-top: 10px; /*Borda (espaço) externo da caixa.*/
+}
+
+.imagem1 {
+    display: block;
+    max-width: 100%; /*Largura da caixa*/
+    margin-top: 10px; /*Borda (espaço) externo da caixa.*/
+    margin-right: auto; /*Borda (espaço) externo da caixa.*/
+    margin-left: auto; /*Borda (espaço) externo da caixa.*/
+}
+
+.div1 {
+    display: flex;
+    background-color: #063d1e; /*Cor do fundo*/
+    max-width: 100%; /*Largura da caixa*/
+    justify-content: center;
+    align-items: center;
+}
+
+.video1 {
+    aspect-ratio: 16 / 9;
+}
+
+.div2 {
+    display: block;
+    background-color: #c5ebd6; /*Cor do fundo*/
+    border-radius: 10px 10px 10px 10px; /*Arredonda os can*/
+    max-width: 100%; /*Largura da caixa*/
+    margin-top: 10px; /*Borda (espaço) externo da caixa.*/
+    margin-right: auto; /*Borda (espaço) externo da caixa.*/
+    margin-left: auto; /*Borda (espaço) externo da caixa.*/
+}
+
+.divP1 {
+    background-color: #3ddc84; /*Cor do fundo*/
+    color: #ffffff; /*Cor da fonte*/
+    border-radius: 10px 10px 0px 0px; /*Arredonda os can*/
+    max-width: 100%; /*Largura da caixa*/
+    font-family: Arial, Helvetica, sans-serif; /*Família da fonte*/
+}
+
+.divP2 {
+    color: rgb(0, 0, 0); /*Cor da fonte*/
+    font-family: Arial, Helvetica, sans-serif; /*Família da fonte*/
+    text-indent: 30px; /*Cria um parágrafo*/
+    margin-top: 10px; /*Borda (espaço) externo da caixa.*/
+}
+
+.lista1 {
+    list-style-type: square;
+}
+
+footer {
+        background-color: #063d1e; /*Cor do fundo*/
+        color: #ffffff; /*Cor da fonte*/
+        width: 100%; /*Largura da caixa*/
+        text-align: center; /*Alinha o texto na esquerda*/
+        padding: 5px; /*Borda (espaço) interna da caixa.*/
+}
