@@ -1,0 +1,205 @@
+@charset "UTF-8";
+
+@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
+    font-family: 'BebasNeue-Regular';
+    src: url(../fontes/BebasNeue-Regular.ttf);
+}
+
+@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
+    font-family: 'idroid';
+    src: url(../fontes/idroid.otf);
+}
+
+/*Seletor global, serve para definir um padrão de formatação para todo o documento*/
+* { /*Sempre que iniciar uma formatação, esse parametro vai zerar o CSS*/
+    margin: 0px; /*Borda (espaço) externo do elemento.*/
+    padding: 0px; /*Borda (espaço) interna do elemento.*/
+}
+
+/*Escopo GLOBAL de variáveis*/
+:root {
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #c5ebd6; /*Declaração de variáveis em CSS*/
+    --cor1: #83e1ad; /*Declaração de variáveis em CSS*/
+    --cor2: #3ddc84; /*Declaração de variáveis em CSS*/
+    --cor3: #2fa866; /*Declaração de variáveis em CSS*/
+    --cor4: #1a5c37; /*Declaração de variáveis em CSS*/
+    --cor5: #063d1e; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: Arial, Verdana, helvetica, Sans-serif; /*Declaração de variáveis em CSS*/
+    --fonteDestaque: 'BebasNeue-Regular'; /*Declaração de variáveis em CSS*/
+    --fonteAndroid: 'idroid'; /*Declaração de variáveis em CSS*/
+}
+
+body {
+    background-color: var(--cor0); /*Cor de fundo utilizando uma variável*/
+    font-family: var(--fontePadrao); /*Tipo da fonte utilizando uma variável*/
+}
+
+a.externo::after {
+    content: '\1F517'; /*Estilo do marcador https://emojipedia.org/ */
+}
+
+header {
+    background-image: linear-gradient(180deg, var(--cor3), var(--cor5)); /* Cria efeito degrade (ângulo sentido horário e cores)*/
+    min-height: 150px; /*Altura mínima do elemento*/
+    text-align: center; /*Alinhamento do texto*/
+    padding-top: 40px; /*Borda (espaço) interna do elemento.*/
+}
+
+header > h1 {
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+    font-family: var(--fonteDestaque); /*Tipo da fonte utilizando uma variável*/
+    font-size: 3em; /*Tamanho da fonte*/
+    font-weight: normal; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/
+    margin-bottom: auto; /*Borda (espaço) externo do elemento.*/
+    text-shadow: 2px 2px 0px var(--corSombra); /*Sobra do texto (eixo X e Y, desfoco e cor)*/
+}
+
+header > p {
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+    font-family: var(--fontePadrao); /*Tipo da fonte utilizando uma variável*/
+    font-size: 1.2em; /*Tamanho da fonte*/
+    max-width: 600px; /*Largura máxima do elemento*/
+    padding: 10px 10px 0px 10px; /*Borda (espaço) interna do elemento.*/
+    margin: auto; /*Borda (espaço) externo do elemento.*/
+    text-shadow: 2px 2px 0px var(--corSombra); /*Sobra do texto (eixo X e Y, desfoco e cor)*/
+}
+
+nav {
+    background-color: var(--cor5); /*Cor de fundo utilizando uma variável*/
+    padding: 0px 10px 10px 10px; /*Borda (espaço) interna do elemento.*/
+    box-shadow: 0px 7px 7px 0px var(--corSombra); /*Sobra externa do elementto (eixo X e Y, desfoco, tamanho e cor)*/
+}
+
+nav > a {
+    color: var(--cor0); /*Cor da fonte utilizando uma variável*/
+    padding: 10px; /*Borda (espaço) interna do elemento.*/
+    border-radius: 5px; /*Arredondamento de canto do elemento*/
+    text-decoration: none; /*Destaque do texto (line-through = tachado, overline = traço em cima, underline = sublinhado, none = sem destaque)*/
+    font-weight: bold; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/
+    transition-duration: 0.2s; /*Duração da transição*/
+}
+
+nav > a:hover {
+    background-color: var(--cor3); /*Cor de fundo utilizando uma variável*/
+    color: var(--cor5); /*Cor da fonte utilizando uma variável*/
+}
+
+main {
+    min-width: 300px; /*Largura mínima do elemento*/
+    max-width: 1000px; /*Largura máxima do elemento*/
+    margin: auto; /*Borda (espaço) externo do elemento.*/
+    margin-bottom: 30px; /*Borda (espaço) externo do elemento.*/
+    padding: 20px; /*Borda (espaço) interna do elemento.*/
+    background-color: var(--corBranco); /*Cor de fundo utilizando uma variável*/
+    box-shadow: 0px 0px 10px 0px var(--corSombra); /*Sobra externa do elementto (eixo X e Y, desfoco, tamanho e cor)*/
+    border-bottom-left-radius: 10px; /*Arredondamento de canto do elemento*/
+    border-bottom-right-radius: 10px; /*Arredondamento de canto do elemento*/
+}
+
+main h1 {
+    color: var(--cor5); /*Cor da fonte utilizando uma variável*/
+    font-family: var(--fonteAndroid); /*Tipo da fonte utilizando uma variável*/
+    font-weight: normal; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/
+    font-size: 1.8em; /*Tamanho da fonte*/
+}
+
+main h2 {
+    font-family: var(--fonteAndroid); /*Tipo da fonte utilizando uma variável*/
+    color: var(--cor4); /*Cor da fonte utilizando uma variável*/
+    font-size: 1.3em; /*Tamanho da fonte*/
+    font-weight: normal; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/
+    background-image: linear-gradient(90deg, var(--cor1), transparent); /* Cria efeito degrade (ângulo sentido horário e cores)*/
+    text-indent: 8px; /*Recuo do texto*/
+}
+
+main p {
+    margin: 15px 0px 15px 0px; /*Borda (espaço) externo do elemento.*/
+    text-align: justify; /*Alinhamento do texto*/
+    text-indent: 30px; /*Recuo do texto*/
+    font-size: 1em; /*Tamanho da fonte*/
+    line-height: 2em; /*Espaço entre linhas*/
+}
+
+main strong {
+    color: var(--cor4); /*Cor da fonte utilizando uma variável*/
+    font-weight: bold; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/    
+}
+
+main a {
+    text-decoration: none; /*Destaque do texto (line-through = tachado, overline = traço em cima, underline = sublinhado, none = sem destaque)*/
+    font-weight: bold; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/
+    color: var(--cor5); /*Cor da fonte utilizando uma variável*/
+    background-color: var(--cor1); /*Cor de fundo utilizando uma variável*/
+    padding: 2px 6px 2px 6px; /*Borda (espaço) interna do elemento.*/
+}
+
+main a:hover {
+    text-decoration: underline; /*Destaque do texto (line-through = tachado, overline = traço em cima, underline = sublinhado, none = sem destaque)*/
+    color: var(--cor4); /*Cor da fonte utilizando uma variável*/
+}
+
+main img {
+    width: 100%; /*Largura do elemento*/
+}
+
+main img.pequena {
+    max-width: 350px; /*Largura máxima do elemento*/
+    display: block; /*Propriedade do elemento*/
+    margin: auto; /*Borda (espaço) externo do elemento.*/
+}
+
+div.video {
+    background-color: var(--cor5); /*Cor de fundo utilizando uma variável*/
+    padding: 20px 20px 20px 20px; /*Borda (espaço) interna do elemento.*/
+    margin: 0px -20px 30px -20px; /*Borda (espaço) externo do elemento.*/
+}
+
+div.video > iframe {
+    width: 100%; /*Largura do elemento*/
+    height: 100%; /*Altura do elemento*/
+    aspect-ratio: 16 / 9; /*Proporção (dimensões) de largura para altura de um elemento*/
+}
+
+aside {
+    background-color: var(--cor1); /*Cor de fundo utilizando uma variável*/
+    padding: 10px 10px 10px 10px; /*Borda (espaço) interna do elemento.*/
+    border-radius: 10px; /*Arredondamento de canto do elemento*/
+    box-shadow: 1px 1px 10px 0px var(--corSombra); /*Sobra externa do elementto (eixo X e Y, desfoco, tamanho e cor)*/
+}
+
+aside > h3 {
+    background-color: var(--cor4); /*Cor de fundo utilizando uma variável*/
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+    padding: 10px; /*Borda (espaço) interna do elemento.*/
+    margin: -10px -10px 0px -10px; /*Borda (espaço) externo do elemento.*/
+    border-radius: 10px 10px 0px 0px; /*Arredondamento de canto do elemento*/
+}
+
+aside > ul {
+    list-style-type: '\2714'; /*Estilo do marcador https://emojipedia.org/ */
+    list-style-position: inside; /*Recuo do marcador (insider ou outsider)*/
+    columns: 2; /*Número de colunas*/
+}
+
+footer {
+    background-color: var(--cor5); /*Cor de fundo utilizando uma variável*/
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+    text-align: center; /*Alinhamento do texto*/
+    font-size: 0.8em; /*Tamanho da fonte*/
+    padding: 5px; /*Borda (espaço) interna do elemento.*/
+}
+
+footer a {
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+    font-weight: bold; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/
+    text-decoration: none; /*Destaque do texto (line-through = tachado, overline = traço em cima, underline = sublinhado, none = sem destaque)*/
+}
+
+footer a:hover {
+    color: var(--cor1); /*Cor da fonte utilizando uma variável*/
+    text-decoration: underline; /*Destaque do texto (line-through = tachado, overline = traço em cima, underline = sublinhado, none = sem destaque)*/
+}
