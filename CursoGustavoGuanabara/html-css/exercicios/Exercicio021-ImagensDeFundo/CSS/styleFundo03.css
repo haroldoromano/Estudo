@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/*Seletor global, serve para definir um padrão de formatação para todo o documento*/
+* { /*Sempre que iniciar uma formatação, esse parametro vai zerar o CSS*/
+    margin: 0px; /*Borda (espaço) externo do elemento.*/
+    padding: 0px; /*Borda (espaço) interna do elemento.*/
+    box-sizing: border-box; /*Incorpora os valores de padding e border às dimensões do elemento.*/
+}
+
+/*Escopo GLOBAL de variáveis*/
+:root {
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #d3d3d3; /*Declaração de variáveis em CSS*/
+    --cor1: #87ceeb; /*Declaração de variáveis em CSS*/
+    --cor2: #ffff00; /*Declaração de variáveis em CSS*/
+    --cor3: #ff0000; /*Declaração de variáveis em CSS*/
+    --cor4: #000000; /*Declaração de variáveis em CSS*/
+    --cor5: #000000; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: Arial, Verdana, helvetica, Sans-serif; /*Declaração de variáveis em CSS*/
+}
+
+div.bloco {
+    background-image: url('../Imagens/wallpaper003.jpg'); /*Imagem de fundo*/
+    border-width: 1px; /*Tamanho da borda do elemento*/
+    border-style: solid; /*Estilo da borda do elemento*/
+    border-color: var(--corPreto); /*Cor da borda do elemento*/
+    border-radius: 10px; /*Arredondamento de canto do elemento*/
+    height: 200px; /*Altura do elemento*/   
+    margin: 10px 10px 10px 10px; /*Borda (espaço) externo do elemento.*/
+    background-repeat: no-repeat; /*Padrão de repetição da imagem*/
+}
+
+div#q1 {
+    background-position: 0% 0%; /*Posição inicial da imagem (eixo X e Y)*/
+}
+
+div#q2 {
+    background-position: 0% 50%; /*Posição inicial da imagem (eixo X e Y)*/
+}
+
+div#q3 {
+    background-position: 100% 100%; /*Posição inicial da imagem (eixo X e Y)*/
+}
+
+div#q4 {
+    background-position: 50% 50%; /*Posição inicial da imagem (eixo X e Y)*/
+}
