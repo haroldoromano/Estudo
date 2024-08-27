@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+/*Seletor global, serve para definir um padrão de formatação para todo o documento*/
+* { /*Sempre que iniciar uma formatação, esse parametro vai zerar o CSS*/
+    margin: 0px; /*Borda (espaço) externo do elemento.*/
+    padding: 0px; /*Borda (espaço) interna do elemento.*/
+    box-sizing: border-box; /*Incorpora os valores de padding e border às dimensões do elemento.*/
+}
+
+/*Escopo GLOBAL de variáveis*/
+:root {
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #d3d3d3; /*Declaração de variáveis em CSS*/
+    --cor1: #87ceeb; /*Declaração de variáveis em CSS*/
+    --cor2: #ffff00; /*Declaração de variáveis em CSS*/
+    --cor3: #ff0000; /*Declaração de variáveis em CSS*/
+    --cor4: #000000; /*Declaração de variáveis em CSS*/
+    --cor5: #000000; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: Arial, Verdana, helvetica, Sans-serif; /*Declaração de variáveis em CSS*/
+}
+
+body {
+    padding: 10px 10px 10px 10px; /*Borda (espaço) interna do elemento.*/
+    background-image: url('../Imagens/wallpaper001.jpg');
+}
+
+
+div.quadrado {
+    border-width: 1px; /*Tamanho da borda do elemento*/
+    border-style: solid; /*Estilo da borda do elemento*/
+    border-color: var(--corPreto); /*Cor da borda do elemento*/
+    display: inline-block; /*Propriedade do elemento*/
+    border-radius: 10px; /*Arredondamento de canto do elemento*/
+    background-color: var(--cor0); /*Cor de fundo utilizando uma variável*/
+    width: 300px; /*Largura do elemento*/
+    height: 300px; /*Altura do elemento*/    
+}
+
+div#q1 {
+    background-color: var(--cor1); /*Cor de fundo utilizando uma variável*/
+}
+
+div#q2 {
+    background-image: linear-gradient(1800deg, var(--cor2), var(--cor3)); /* Cria efeito degrade (ângulo sentido horário e cores)*/
+}
+
+div#q3 {
+    background-image: url('../Imagens/pattern003.png'); /*Imagem de fundo*/
+}
