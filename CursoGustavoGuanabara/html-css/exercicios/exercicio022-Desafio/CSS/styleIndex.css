@@ -1,0 +1,108 @@
+@charset "UTF-8";
+
+@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
+    font-family: 'PassionOne';
+    src: url(../fontes/PassionOne-Regular.ttf);
+}
+
+@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
+    font-family: 'Sriracha';
+    src: url(../fontes/Sriracha-Regular.ttf);
+}
+
+/*Seletor global, serve para definir um padrão de formatação para todo o documento*/
+* { /*Sempre que iniciar uma formatação, esse parametro vai zerar o CSS*/
+    margin: 0px; /*Espaço externo do elemento.*/
+    padding: 0px; /*Espaço) interno do elemento.*/
+    border: 0px; /*Borda do elemento*/
+    box-sizing: border-box; /*Incorpora os valores de padding e border às dimensões do elemento.*/
+}
+
+/*Escopo GLOBAL de variáveis*/
+:root {
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #a9a9a9; /*Declaração de variáveis em CSS*/
+    --cor1: #87ceeb; /*Declaração de variáveis em CSS*/
+    --cor2: #ffff00; /*Declaração de variáveis em CSS*/
+    --cor3: #ff0000; /*Declaração de variáveis em CSS*/
+    --cor4: #000000; /*Declaração de variáveis em CSS*/
+    --cor5: #000000; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: Arial, Verdana, Tahoma; /*Declaração de variáveis em CSS*/
+    --fonteSriracha: 'Sriracha'; /*Declaração de variáveis em CSS*/
+    --fontePassionOne: 'PassionOne'; /*Declaração de variáveis em CSS*/
+}
+
+html, body {
+    min-height: 100vh; /*Altura mínima do elemento*/
+    background-color: var(--cor0); /*Cor de fundo utilizando uma variável*/
+    font-family: var(--fontePadrao); /*Tipo da fonte utilizando uma variável*/
+}
+
+header {
+    background-color: var(--corPreto); /*Cor de fundo utilizando uma variável*/
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+    text-align: center; /*Alinhamento do texto*/
+    padding: 50px 0px 50px 0px; /*Espaço) interno do elemento.*/
+    font-family: var(--fontePassionOne); /*Tipo da fonte utilizando uma variável*/
+}
+
+a {
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+    text-decoration: none; /*Destaque do texto (line-through = tachado, overline = traço em cima, underline = sublinhado, none = sem destaque)*/
+    font-weight: bold; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/
+}
+
+a:hover {
+    text-decoration: underline; /*Destaque do texto (line-through = tachado, overline = traço em cima, underline = sublinhado, none = sem destaque)*/
+}
+
+section {
+    padding: 10vh 0px 10vh 30px; /*Espaço) interno do elemento.*/
+    line-height: 2em; /*Espaço entre linhas*/
+    font-size: larger; /*Tamanho da fonte*/
+    font-family: var(--fonteSriracha); /*Tipo da fonte utilizando uma variável*/
+}
+
+section > p {
+    padding: 0px 0px 2em 0px; /*Espaço) interno do elemento.*/
+}
+
+section.normal {
+    background-color: var(--corBranco); /*Cor de fundo utilizando uma variável*/
+    color: var(--corPreto); /*Cor da fonte utilizando uma variável*/
+}
+
+section.imagem {
+    background-color: var(--cor1); /*Cor de fundo utilizando uma variável*/
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+    box-shadow: inset 6px 6px 13px var(--corSombra); /*Sobra do elemento (eixo X e Y, desfoco e cor)*/
+    background-size: cover; /*Tamanho da imagem de fundo*/
+    background-repeat: no-repeat; /*Padrão de repetição da imagem*/
+    background-position: 100% 50%; /*Posição inicial da imagem (eixo X e Y)*/
+    background-attachment: fixed; /*Determina se a imagem é fixa (fixed) ou rola junto com o bloco (scroll)*/
+}
+
+section.imagem > p {
+    background-color: var(--corSombra); /*Cor de fundo utilizando uma variável*/
+    display: inline-block; /*Propriedade do elemento*/
+    padding: 10px 10px 10px 10px; /*Espaço) interno do elemento.*/
+    text-shadow: 1px 1px 0px var(--corSombra); /*Sobra do texto (eixo X e Y, desfoco e cor)*/
+}
+
+section#imagem1 {
+    background-image: url('../Imagens/background001.jpg'); /*Imagem de fundo*/
+}
+
+section#imagem2 {
+    background-image: url('../Imagens/background002.jpg'); /*Imagem de fundo*/
+}
+
+footer {
+    background-color: var(--corPreto); /*Cor de fundo utilizando uma variável*/
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+    text-align: center; /*Alinhamento do texto*/
+    padding: 10px 0px 10px 0px; /*Espaço) interno do elemento.*/
+}
