@@ -23,9 +23,6 @@ root: Ab@@@4
 
 Suporte: abacabb
 
-https://www.vtrack.com.br/
-Usuário: SAAE.LENCOIS
-
 senha do gordo: Cris2010*-+
 
 
