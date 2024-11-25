@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ESCO">
+   <Description text="Scorpion" />
+   <Location start="WRMO" end="WBHE" index="0" />
+   <Sprite id="ZSCX" />
+   <Script file="Assets\Encounters\ESCO.lua" object="ESCO" />
+</Encounter>

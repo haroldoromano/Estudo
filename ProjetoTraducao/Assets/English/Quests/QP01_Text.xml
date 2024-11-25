@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QP01_ACTION1]">Track the thief</Text>
+   <Text tag="[QUEST_QP01_ACTION2]">Battle the thief</Text>
+   <Text tag="[QUEST_QP01_FAILURE]">You have failed to defeat the thief and reclaim Patches treasure.</Text>
+   <Text tag="[QUEST_QP01_REWARD]">Patch rewards you for helping to reclaim his treasure.</Text>
+   <Text tag="[QUEST_QP01_STEP1]">You must follow the tracks to the Pike to track down the thief who stole Patch&apos;s treasure.</Text>
+   <Text tag="[QUEST_QP01_STEP2]">You must follow the tracks to Tusk to track down the thief who stole Patch&apos;s treasure.</Text>
+   <Text tag="[QUEST_QP01_STEP3]">You must follow the tracks to Weret to track down the thief who stole Patch&apos;s treasure.</Text>
+
+</TextLibrary>

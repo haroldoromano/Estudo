@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1R2_ACTION]">Search the Lair</Text>
+   <Text tag="[QUEST_Q1R2_FAILURE]">You have failed to defeat the Medusa. In order to earch the lair, you will need to try again.</Text>
+   <Text tag="[QUEST_Q1R2_MSGA]">A Medusa is hiding in the Swamp Dragon&apos;s lair.</Text>
+   <Text tag="[QUEST_Q1R2_REWARD]">There are no Dragons here, and most of the treasure has already been looted.</Text>
+
+</TextLibrary>

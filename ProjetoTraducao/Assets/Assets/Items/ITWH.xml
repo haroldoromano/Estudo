@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ITWH">
+   <Text  name="[ITEM_ITWH_NAME]" power="[ITEM_ITWH_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="37" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ITWH.lua" object="ITWH"/>
+</Item>

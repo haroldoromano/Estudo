@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Quest id="Q0Q0">
+
+   <Text  name="[QUEST_Q0Q0_NAME]" description="[QUEST_Q0Q0_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q0Q0_Text.xml"/>
+   <Script  file="Assets\Quests\Q0Q0.lua" object="Q0Q0"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CBAR" minlevel="1" maxlevel="1000" repeat="1" 
+               donequest0="Q0T2" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="1" />
+
+   <Battle  monster="MTHF">
+
+      <Add  level="0" life="-10" />
+   </Battle>
+
+</Quest>

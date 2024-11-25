@@ -1,0 +1,6 @@
+<StatusEffect id="EDIS">
+	<Text		name="[STATUS_DISEASE_NAME]" description="[STATUS_DISEASE_DESC]" />
+	<Graphics	icon="1"/>
+	<Data		duration="6" stack="4"/>
+	<Script		file="Assets\StatusEffects\Disease.lua" object="Disease"/>
+</StatusEffect>

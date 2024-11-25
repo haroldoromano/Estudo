@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EETL">
+   <Description text="Liche" />
+   <Location start="CYLA" end="WETO" index="0" />
+   <Sprite id="ZLCH" />
+   <Script file="Assets\Encounters\EETL.lua" object="EETL" />
+</Encounter>

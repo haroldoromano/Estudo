@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q0E1">
+
+   <Text  name="[QUEST_Q0E1_NAME]" description="[QUEST_Q0E1_DESC]" group=""   file="English\Quests\Q0E1_Text.xml"/>
+   <Script  file="Assets\Quests\Q0E1.lua" object="Q0E1"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CDRA" minlevel="15" maxlevel="1000" repeat="0" 
+               donequest0="" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MSSP">
+
+   </Battle>
+
+</Quest>

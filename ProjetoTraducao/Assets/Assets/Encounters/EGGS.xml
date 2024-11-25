@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EGGS">
+   <Description text="Skelotaur" />
+   <Location start="WGGP" end="WGRW" index="0" />
+   <Sprite id="ZSKE" />
+   <Script file="Assets\Encounters\EGGS.lua" object="EGGS" />
+</Encounter>

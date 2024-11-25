@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ICBO">
+   <Text  name="[ITEM_ICBO_NAME]" power="[ITEM_ICBO_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="720" rarity="2" />
+   <Graphics  icon="15" />
+   <Restriction	type="skill" skill="air" level="5"/>
+   <Script  file="Assets\Items\ICBO.lua" object="ICBO"/>
+</Item>

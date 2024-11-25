@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q3E0">
+
+   <Text  name="[QUEST_Q3E0_NAME]" description="[QUEST_Q3E0_DESC]" group=""   file="English\Quests\Q3E0_Text.xml"/>
+   <Script  file="Assets\Quests\Q3E0.lua" object="Q3E0"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CDRH" minlevel="35" maxlevel="1000" repeat="0" 
+               donequest0="Q3D3" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MDRG">
+
+   </Battle>
+
+</Quest>

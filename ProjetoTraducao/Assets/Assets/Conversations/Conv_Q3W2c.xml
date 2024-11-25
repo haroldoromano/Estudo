@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Q3W2: Return with Blessing Stone"/>
+   <Text file="English\Conversations\Conv_Q3W2c_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_Forest.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_NPC_Winter.png" portraitindex="0" name="[Conv_Q3W2c_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3W2c_0000]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3W2c_0001]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3W2c_0002]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3W2c_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3W2c_0004]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3W2c_0005]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3W2c_0006]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3W2c_0007]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3W2c_0008]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3W2c_0009]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3W2c_0010]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3W2c_0011]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3W2c_0012]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3W2c_0013]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3W2c_0014]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3W2c_0015]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3W2c_0016]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3W2c_0017]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3W2c_0018]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3W2c_0019]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="Q3W2" function="CallbackConvC" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

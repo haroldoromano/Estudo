@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SROF">
+   <Text  name="[SPELL_SROF_NAME]" description="[SPELL_SROF_DESC]" detail="[SPELL_SROF_DETL]"/>
+   <Cost  earth="8" fire="12" air="0" water="0" />
+   <Learn  score="700" masks="1" keys="2" />
+   <Data  cooldown="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SROF.lua" object="SROF"/>
+</Spell>

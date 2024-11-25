@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ILBC">
+   <Text  name="[ITEM_ILBC_NAME]" power="[ITEM_ILBC_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="2500" rarity="0" />
+   <Graphics  icon="25" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ILBC.lua" object="ILBC"/>
+</Item>

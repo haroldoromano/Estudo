@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<City id="CDKO">
+   <Text name="[CITY_CDKO_NAME]" description="[CITY_CDKO_DESC]"/>
+   <Graphics icon="20" type="0"/>
+   <Data x="1712" y="737" level="0" visible="no" income="50" />
+   <Item tag="ITWS"/>
+   <Item tag="IWLR"/>
+   <Item tag="IGTI"/>
+   <Item tag="IBOI"/>
+   <Spell tag="SBSG"/>
+   <Spell tag="STHX"/>
+   <Spell tag="SCOU"/>
+</City>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Quest id="Q2Q4">
+
+   <Text  name="[QUEST_Q2Q4_NAME]" description="[QUEST_Q2Q4_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q2Q4_Text.xml"/>
+   <Script  file="Assets\Quests\Q2Q4.lua" object="Q2Q4"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CHTP" minlevel="21" maxlevel="1000" repeat="1" 
+               donequest0="Q2Q3" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MMIN">
+
+      <Name   help="[QUEST_Q2Q4_QMHELP0]"  />
+      <Add  earth="0" fire="0" air="3" water="0" />
+      <Add  battle="5" cunning="0" morale="0" />
+      <Add  level="4" life="20" />
+      <Item  id="ISTL" />
+   </Battle>
+
+</Quest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3I2_ACTION]">Battle the Undead</Text>
+   <Text tag="[QUEST_Q3I2_FAILURE]">You have failed to rescue the captives.</Text>
+   <Text tag="[QUEST_Q3I2_KILL]">You have defeated the Doomknight. A few of the Undead escaped with some of their captives.</Text>
+   <Text tag="[QUEST_Q3I2_RETURN]">Report to Queen</Text>
+   <Text tag="[QUEST_Q3I2_REWARD]">You are rewarded for rescuing most of the Elven captives.</Text>
+   <Text tag="[QUEST_Q3I2_STEP1]">You must travel to Iceguard Keep and defeat the Undead that have captured the Elven Warriors.</Text>
+   <Text tag="[QUEST_Q3I2_STEP2]">You must now escort the Elves back to Ehlariel.</Text>
+
+</TextLibrary>

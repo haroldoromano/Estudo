@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="ROTO">
+   <Text name="[RUIN_ROTO_NAME]" description="[RUIN_ROTO_DESC]"/>
+   <Graphics icon="5"/>
+   <Data x="1519" y="871" type="3" visible="no" attach="WTHR"/>
+</Ruin>

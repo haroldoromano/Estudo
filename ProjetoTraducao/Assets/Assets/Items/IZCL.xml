@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IZCL">
+   <Text  name="[ITEM_IZCL_NAME]" power="[ITEM_IZCL_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="400" rarity="0" />
+   <Graphics  icon="99" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IZCL.lua" object="IZCL"/>
+</Item>

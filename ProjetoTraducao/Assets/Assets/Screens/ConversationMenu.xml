@@ -1,0 +1,39 @@
+<Menu x="0" y="128" width="1024" height="602" timer="off" draw="off" modal="on">
+   <Assets>
+      <Button name="asset_butttiny" active="img_butttiny_act" highlight="img_butttiny_hi" pressed="img_butttiny_pres" grayed="img_butttiny_gray"/>
+       <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+  </Assets>
+   
+   <TextButton name="butt_skip"     id="10" x="884" y="562" width="128" height="35" textoffsety="-2" key="0" font="font_small" text="[SKIP]" graphic="asset_butttiny" sound="asset_buttsound"/>
+   <GamepadButton     name="gp_skip"     id="10" x="850" y="542" width="160" height="35" buttonwidth="35" textoffsetx="38" textoffsety="3" font="font_system" text="[SKIP]"  graphic_button="img_gamepad_x" sound="asset_buttsound"
+					 gp_button="x"/>
+   
+   <Pad		   name="pad_screen"      id="100"  x="0"  y="-166" width="1024"  height="768" />   
+
+   <String     name="str_location"	    x="0"   y="-60" width="1024" height="20" multiline="off" justify="center" font="font_button"/>
+   <Icon       name="icon_help"         x="496" y="494" width="32"   height="32" graphic="img_gamepad_a"/>
+   <String     name="str_help"			x="0"   y="540" width="1024" height="20" multiline="off" justify="center" font="font_small"/>
+   
+					
+   <Icon       name="icon_edge0"                x="-193"    y="0"   width="64" height="512" graphic="img_sidepanel_conv1"/>
+   <Icon       name="icon_edge1"                x="-129"    y="0"   width="64" height="512" graphic="img_sidepanel_conv0"/>
+   <Icon       name="icon_edge2"                x="-65"     y="0"   width="64" height="512" graphic="img_sidepanel_conv1"/>
+   <Icon       name="icon_edge3"                x="1025"    y="0"   width="64" height="512" graphic="img_sidepanel_conv0"/>
+   <Icon       name="icon_edge4"                x="1089"    y="0"   width="64" height="512" graphic="img_sidepanel_conv1"/>
+   <Icon       name="icon_edge5"                x="1153"    y="0"   width="64" height="512" graphic="img_sidepanel_conv0"/>
+   <Icon       name="icon_edge6"                x="-176"    y="-25"   width="370" height="25" graphic="img_sidepanel_edge"/>
+   <Icon       name="icon_edge7"                x="194"     y="-25"   width="370" height="25" graphic="img_sidepanel_edge"/>
+   <Icon       name="icon_edge8"                x="564"     y="-25"   width="370" height="25" graphic="img_sidepanel_edge"/>
+   <Icon       name="icon_edge9"                x="934"     y="-25"   width="370" height="25" graphic="img_sidepanel_edge"/>
+   <Icon       name="icon_edge10"                x="-176"    y="512"   width="370" height="25" graphic="img_sidepanel_edge"/>
+   <Icon       name="icon_edge11"                x="194"     y="512"   width="370" height="25" graphic="img_sidepanel_edge"/>
+   <Icon       name="icon_edge12"                x="564"     y="512"   width="370" height="25" graphic="img_sidepanel_edge"/>
+   <Icon       name="icon_edge13"                x="934"     y="512"   width="370" height="25" graphic="img_sidepanel_edge"/>
+					
+   <Icon       name="icon_dlg"                  x="0"    y="0"   width="1024" height="512" graphic="img_conversationbg"/>
+   
+   <Icon       name="icon_top"                  x="0"       y="-128"   width="1024" height="128" graphic="img_black"/>
+   <Icon       name="icon_bottom"               x="0"       y="512"  width="1024"  height="128"  graphic="img_black"/>
+   <Icon       name="icon_left"                 x="-176"    y="-128"   width="176" height="768" graphic="img_black"/>
+   <Icon       name="icon_right"                x="1024"    y="-128"   width="176" height="768" graphic="img_black"/>
+</Menu>

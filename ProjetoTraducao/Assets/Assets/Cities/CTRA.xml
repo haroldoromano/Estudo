@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<City id="CTRA">
+   <Text name="[CITY_CTRA_NAME]" description="[CITY_CTRA_DESC]"/>
+   <Graphics icon="8" type="1"/>
+   <Data x="1251" y="1164" level="0" visible="no" income="100" />
+   <Item tag="ITWS"/>
+   <Item tag="IWLB"/>
+   <Item tag="IGTW"/>
+   <Item tag="IBOI"/>
+   <Spell tag="SCHG"/>
+</City>

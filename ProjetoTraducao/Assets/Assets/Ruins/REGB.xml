@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="REGB">
+   <Text name="[RUIN_REGB_NAME]" description="[RUIN_REGB_DESC]"/>
+   <Graphics icon="13"/>
+   <Data x="1638" y="1164" type="0" visible="no" attach="WMAE"/>
+</Ruin>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SCMA">
+   <Text  name="[SPELL_SCMA_NAME]" description="[SPELL_SCMA_DESC]" detail="[SPELL_SCMA_DETL]"/>
+   <Cost  earth="6" fire="6" air="6" water="6" />
+   <Learn  score="520" masks="1" keys="2" />
+   <Data  cooldown="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SCMA.lua" object="SCMA"/>
+</Spell>

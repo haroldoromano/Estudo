@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EBBA">
+   <Description text="Arboleth" />
+   <Location start="WBBR" end="CLBC" index="0" />
+   <Sprite id="ZARB" />
+   <Script file="Assets\Encounters\EBBA.lua" object="EBBA" />
+</Encounter>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IFBL">
+   <Text  name="[ITEM_IFBL_NAME]" power="[ITEM_IFBL_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1950" rarity="1" />
+   <Graphics  icon="12" />
+   <Restriction	type="skill" skill="water" level="10"/>
+   <Script  file="Assets\Items\IFBL.lua" object="IFBL"/>
+</Item>

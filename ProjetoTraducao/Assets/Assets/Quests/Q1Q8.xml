@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Quest id="Q1Q8">
+
+   <Text  name="[QUEST_Q1Q8_NAME]" description="[QUEST_Q1Q8_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q1Q8_Text.xml"/>
+   <Script  file="Assets\Quests\Q1Q8.lua" object="Q1Q8"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CDRH" minlevel="19" maxlevel="1000" repeat="1" 
+               donequest0="Q1Q7" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MWYV">
+
+      <Name   help="[QUEST_Q1Q8_QMHELP0]"  />
+      <Add  earth="0" fire="5" air="0" water="0" />
+      <Add  battle="5" cunning="0" morale="0" />
+      <Add  level="2" life="0" />
+   </Battle>
+
+</Quest>

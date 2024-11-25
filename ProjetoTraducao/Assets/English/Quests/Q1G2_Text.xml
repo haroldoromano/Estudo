@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1G2_ACTION]">Trade the Troll Hair</Text>
+   <Text tag="[QUEST_Q1G2_ACTION2]">Trade the Wasp Wings</Text>
+   <Text tag="[QUEST_Q1G2_RETURN]">Return to Neehi</Text>
+   <Text tag="[QUEST_Q1G2_REWARD]">Once again, Neehi pays you for your troubles.</Text>
+   <Text tag="[QUEST_Q1G2_STEP1]">You must visit Theira and Silvermyr to exchange 2 items.</Text>
+   <Text tag="[QUEST_Q1G2_STEP2]">You must return the Theiran Axe-head and the Soultree Limb to Neehi the merchant in Gruuldok.</Text>
+   <Text tag="[QUEST_Q1G2_TRADE]">You have traded the Ice Troll Hair for a Theiran Axe-head. When you also have the Soultree Limb, this can be taken back to Neehi.</Text>
+   <Text tag="[QUEST_Q1G2_TRADE1]">You have traded the Ice Troll Hair for a Theiran Axe-head. Now both items can be taken back to Neehi.</Text>
+   <Text tag="[QUEST_Q1G2_TRADE2]">You have traded the Wasp Wings for a Soultree Limb. When you also have the Theiran Axe-head, this can be taken back to Neehi.</Text>
+   <Text tag="[QUEST_Q1G2_TRADE3]">You have traded the Wasp Wings for a Soultree Limb. Now both items can be taken back to Neehi.</Text>
+
+</TextLibrary>

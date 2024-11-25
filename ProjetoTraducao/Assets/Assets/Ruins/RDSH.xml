@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RDSH">
+   <Text name="[RUIN_RDSH_NAME]" description="[RUIN_RDSH_DESC]"/>
+   <Graphics icon="11"/>
+   <Data x="776" y="389" type="4" visible="no" attach="WIGK"/>
+</Ruin>

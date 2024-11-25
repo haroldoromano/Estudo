@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Quest id="QK04">
+
+   <Text  name="[QUEST_QK04_NAME]" description="[QUEST_QK04_DESC]" group=""   file="English\Quests\QK04_Text.xml"/>
+   <Script  file="Assets\Quests\QK04.lua" object="QK04"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CTSK" minlevel="22" maxlevel="1000" repeat="1" 
+               donequest0="Q2Q4" donequest1="QK02" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NKHA" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MMIK">
+
+      <Name  tag="[QUEST_QK04_QMNAME0]"   />
+   </Battle>
+
+</Quest>

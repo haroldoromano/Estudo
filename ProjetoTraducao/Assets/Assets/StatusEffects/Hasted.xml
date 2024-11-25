@@ -1,0 +1,6 @@
+<StatusEffect id="EHAS">
+	<Text		name="[STATUS_HASTED_NAME]" description="[STATUS_HASTED_DESC]" />
+	<Graphics	icon="23"/>
+	<Data		duration="8" stack="1"/>
+	<Script		file="Assets\StatusEffects\Hasted.lua" object="Hasted"/>
+</StatusEffect>

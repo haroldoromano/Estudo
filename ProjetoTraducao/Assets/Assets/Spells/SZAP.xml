@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SZAP">
+   <Text  name="[SPELL_SZAP_NAME]" description="[SPELL_SZAP_DESC]" detail="[SPELL_SZAP_DETL]"/>
+   <Cost  earth="0" fire="7" air="7" water="0" />
+   <Learn  score="290" masks="1" keys="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SZAP.lua" object="SZAP"/>
+</Spell>

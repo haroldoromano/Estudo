@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<City id="CGLK">
+   <Text name="[CITY_CGLK_NAME]" description="[CITY_CGLK_DESC]"/>
+   <Graphics icon="18" type="1"/>
+   <Data x="1929" y="1271" level="0" visible="no" income="58" />
+   <Item tag="ITWP"/>
+   <Item tag="IWLS"/>
+   <Item tag="IGTS"/>
+   <Item tag="IBOI"/>
+   <Spell tag="SSTO"/>
+   <Spell tag="STHU"/>
+</City>

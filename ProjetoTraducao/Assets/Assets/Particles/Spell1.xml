@@ -1,0 +1,10 @@
+<Particle name="Spell1" texture="Sparkle.png" radius="0.2" lifetime="1800">
+	<Number max="16" release="16" interval="0.05" life="1.8"  total="16"/>
+	<Graphics blend="additive" size="0.2" r="0.05" g="0.9" b="0.9" a="0.9"/>
+	<Animation size="1.2" r="0.05" g="0.5" b="0.9" a="0.0" start="0.2"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.3"/>
+	<Velocity x="0.0" y="0.4" z="0.0" var="0.8"/>
+	<Gravity x="0.0" y="-0.4" z="0.0"/>
+	<Forces airresistance="off" wind="off"/>
+	<Shape steps="1"/>
+</Particle>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISTG">
+   <Text  name="[ITEM_ISTG_NAME]" power="[ITEM_ISTG_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="200" rarity="0" />
+   <Graphics  icon="99" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ISTG.lua" object="ISTG"/>
+</Item>

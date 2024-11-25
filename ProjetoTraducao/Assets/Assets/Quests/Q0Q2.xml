@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Quest id="Q0Q2">
+
+   <Text  name="[QUEST_Q0Q2_NAME]" description="[QUEST_Q0Q2_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q0Q2_Text.xml"/>
+   <Script  file="Assets\Quests\Q0Q2.lua" object="Q0Q2"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CBAR" minlevel="3" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q1" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="1" />
+
+   <Battle  monster="MORC">
+
+      <Name   help="[QUEST_Q0Q2_QMHELP0]"  />
+      <Add  battle="2" cunning="0" morale="0" />
+      <Add  level="1" life="0" />
+      <Item  id="IGAX" />
+   </Battle>
+
+</Quest>

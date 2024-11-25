@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RMOL">
+   <Text name="[RUIN_RMOL_NAME]" description="[RUIN_RMOL_DESC]"/>
+   <Graphics icon="2"/>
+   <Data x="1982" y="617" type="2" visible="no" attach="CDRH"/>
+</Ruin>

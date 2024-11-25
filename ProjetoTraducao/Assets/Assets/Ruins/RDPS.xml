@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RDPS">
+   <Text name="[RUIN_RDPS_NAME]" description="[RUIN_RDPS_DESC]"/>
+   <Graphics icon="12"/>
+   <Data x="1215" y="1064" type="5" visible="no" attach="WBTH"/>
+</Ruin>

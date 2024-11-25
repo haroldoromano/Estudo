@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SIST">
+   <Text  name="[SPELL_SIST_NAME]" description="[SPELL_SIST_DESC]" detail="[SPELL_SIST_DETL]"/>
+   <Cost  earth="30" fire="10" air="10" water="10" />
+   <Learn  score="1750" masks="0" keys="0" />
+   <Data  cooldown="5" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SIST.lua" object="SIST"/>
+</Spell>

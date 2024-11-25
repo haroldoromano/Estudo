@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RUML">
+   <Text name="[RUIN_RUML_NAME]" description="[RUIN_RUML_DESC]"/>
+   <Graphics icon="2"/>
+   <Data x="1820" y="442" type="2" visible="no" attach="CDRH"/>
+</Ruin>

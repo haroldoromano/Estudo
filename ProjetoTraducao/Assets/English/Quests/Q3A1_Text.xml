@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3A1_ACTION]">Battle a Frost Dragon</Text>
+   <Text tag="[QUEST_Q3A1_FAILURE]">You have failed to defeat the Dragon. You must try again.</Text>
+   <Text tag="[QUEST_Q3A1_REWARD]">You have chased the Dragon away.  You find some treasure it had accumulated.</Text>
+
+</TextLibrary>

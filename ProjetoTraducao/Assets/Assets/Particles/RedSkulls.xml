@@ -1,0 +1,10 @@
+<Particle name="RedSkulls" texture="Skull.png" radius="0.2" lifetime="2200">
+	<Number max="20" release="1" interval="0.05" life="1.2" total="20"/>
+	<Graphics blend="additive" size="0.05" r="0.9" g="0.1" b="0.1" a="1.0"/>
+	<Animation size="1.0" r="0.8" g="0.05" b="0.05" a="0.0" start="0.6"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.1"/>
+	<Velocity x="0.0" y="0.0" z="0.0" var="0.8" planar="on" planes="110"/>
+	<Gravity x="0.0" y="0.0" z="-2.0"/>
+	<Forces airresistance="off" wind="off"/>
+	<Shape steps="1"/>
+</Particle>

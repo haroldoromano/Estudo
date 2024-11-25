@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IORI">
+   <Text  name="[ITEM_IORI_NAME]" power="[ITEM_IORI_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="928" rarity="0" />
+   <Graphics  icon="32" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IORI.lua" object="IORI"/>
+</Item>

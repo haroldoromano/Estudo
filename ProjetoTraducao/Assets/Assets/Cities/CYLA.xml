@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<City id="CYLA">
+   <Text name="[CITY_CYLA_NAME]" description="[CITY_CYLA_DESC]"/>
+   <Graphics icon="23" type="0"/>
+   <Data x="1061" y="438" level="0" visible="no" income="75" />
+   <Item tag="ITWM"/>
+   <Item tag="IWLS"/>
+   <Item tag="IGTW"/>
+   <Item tag="IMND"/>
+   <Spell tag="SENT"/>
+   <Spell tag="SCHM"/>
+</City>

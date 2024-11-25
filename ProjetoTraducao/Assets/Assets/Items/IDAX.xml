@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IDAX">
+   <Text  name="[ITEM_IDAX_NAME]" power="[ITEM_IDAX_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="900" rarity="0" />
+   <Graphics  icon="89" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IDAX.lua" object="IDAX"/>
+</Item>

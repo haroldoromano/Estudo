@@ -1,0 +1,10 @@
+<Particle name="Travel" texture="Sparkle.png" radius="0.05" lifetime="1500">
+	<Number max="4" release="4" interval="0.05" life="1.5" total="4"/>
+	<Graphics blend="additive" size="0.3" r="0.9" g="0.5" b="0.1" a="1.0"/>
+	<Animation size="0.05" r="0.6" g="0.3" b="0.05" a="0.0" start="0.5"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.1"/>
+	<Velocity x="0.0" y="0.0" z="0.0" var="0.3"/>
+	<Gravity x="0.0" y="0.0" z="0.0"/>
+	<Forces airresistance="off" wind="off"/>
+	<Shape steps="1"/>
+</Particle>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<City id="CDRA">
+   <Text name="[CITY_CDRA_NAME]" description="[CITY_CDRA_DESC]"/>
+   <Graphics icon="0" type="0"/>
+   <Data x="1339" y="1278" level="0" visible="no" income="150" />
+   <Item tag="ITWS"/>
+   <Item tag="IWLS"/>
+   <Item tag="IGTW"/>
+   <Item tag="IMOA"/>
+   <Spell tag="SCHG"/>
+</City>

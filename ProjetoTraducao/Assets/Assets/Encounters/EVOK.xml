@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EVOK">
+   <Description text="Liche" />
+   <Location start="WHBG" end="WVOK" index="0" />
+   <Sprite id="ZLCH" />
+   <Script file="Assets\Encounters\EVOK.lua" object="EVOK" />
+</Encounter>

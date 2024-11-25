@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0I0_ACTION]">Battle the Troll</Text>
+   <Text tag="[QUEST_Q0I0_FAILURE]">Egor defeats you. Then he dares you to try again...</Text>
+   <Text tag="[QUEST_Q0I0_REWARD]">Egor the Aged Troll has finally been defeated. The bridge is clear, and his treasure hoard is all yours!</Text>
+   <Text tag="[QUEST_Q0I0_QMNAME0]">Egor the Aged</Text>
+   <Text tag="[QUEST_Q0I0_QMHELP0]">Egor is better armored and a little more cunning than most Trolls.</Text>
+
+</TextLibrary>

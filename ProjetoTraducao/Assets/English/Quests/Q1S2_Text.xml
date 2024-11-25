@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1S2_ACTION1]">Battle the first Scorpion</Text>
+   <Text tag="[QUEST_Q1S2_ACTION2]">Battle the second Scorpion</Text>
+   <Text tag="[QUEST_Q1S2_FAILURE1]">You have failed to defeat the first Scorpion.</Text>
+   <Text tag="[QUEST_Q1S2_FAILURE2]">You have failed to defeat the second Scorpion.</Text>
+   <Text tag="[QUEST_Q1S2_PROGRESS1]">You must travel to the Scorpions&apos; Cave north of Dhun-Kor and slay the Scorpions.</Text>
+   <Text tag="[QUEST_Q1S2_PROGRESS2]">You must enter the Scorpions&apos; Cave once more and defeat the second Scorpion.</Text>
+   <Text tag="[QUEST_Q1S2_REWARD]">Both the Scorpions have been defeated. Sadly they had little treasure.</Text>
+   <Text tag="[QUEST_Q1S2_SUCCESS1]">You have defeated the first Scorpion.</Text>
+   <Text tag="[QUEST_Q1S2_QMNAME1]">Giant Scorpion</Text>
+   <Text tag="[QUEST_Q1S2_QMHELP1]">This Scorpion is larger than the first. It has huge claws and can cast the Rend spell.</Text>
+
+</TextLibrary>

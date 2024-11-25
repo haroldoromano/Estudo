@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Quest id="Q1Q4">
+
+   <Text  name="[QUEST_Q1Q4_NAME]" description="[QUEST_Q1Q4_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q1Q4_Text.xml"/>
+   <Script  file="Assets\Quests\Q1Q4.lua" object="Q1Q4"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CDKO" minlevel="16" maxlevel="1000" repeat="1" 
+               donequest0="Q1Q3" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MORC">
+
+      <Name  tag="[QUEST_Q1Q4_QMNAME0]"  help="[QUEST_Q1Q4_QMHELP0]"  />
+      <Add  earth="0" fire="0" air="2" water="0" />
+      <Add  battle="8" cunning="0" morale="2" />
+      <Add  level="5" life="0" />
+      <Item  id="IHOH" />
+      <Item  id="ICMA" />
+      <Spell  id="SHBT" />
+   </Battle>
+   <Battle  monster="MOGM">
+
+   </Battle>
+
+</Quest>

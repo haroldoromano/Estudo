@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISST">
+   <Text  name="[ITEM_ISST_NAME]" power="[ITEM_ISST_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1246" rarity="2" />
+   <Graphics  icon="14" />
+   <Restriction	type="skill" skill="earth" level="8"/>
+   <Script  file="Assets\Items\ISST.lua" object="ISST"/>
+</Item>

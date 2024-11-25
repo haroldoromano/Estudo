@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q2J4">
+
+   <Text  name="[QUEST_Q2J4_NAME]" description="[QUEST_Q2J4_DESC]" group="[QG_JAJO_NAME]"   file="English\Quests\Q2J4_Text.xml"/>
+   <Script  file="Assets\Quests\Q2J4.lua" object="Q2J4"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CJAK" minlevel="23" maxlevel="1000" repeat="1" 
+               donequest0="Q2J3" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="0" />
+
+   <Battle  monster="MMED">
+
+   </Battle>
+
+</Quest>

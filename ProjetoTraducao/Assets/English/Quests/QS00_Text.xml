@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QS00_RETCOMP]">Return with Serephine</Text>
+   <Text tag="[QUEST_QS00_ACTION]">Try to Save Serephine</Text>
+   <Text tag="[QUEST_QS00_FAILURE]">You escape the guards but not in time to save Serephine.  She has been taken away; you are uncertain exactly where.</Text>
+   <Text tag="[QUEST_QS00_NOCOMP]">You will need Serephine with you to complete the quest in Enmouth.</Text>
+   <Text tag="[QUEST_QS00_PRELUDE]">As you enter Enmouth, you are ambushed by guards.  They seem intent on capturing Princess Serephine.</Text>
+   <Text tag="[QUEST_QS00_REENTER]">This is where Serephine was taken from your party by Imperial Guards. Perhaps you can rescue her...</Text>
+   <Text tag="[QUEST_QS00_REMOVECOMP]">Princess Serephine has been removed from your party.  You must try to get her back.</Text>
+   <Text tag="[QUEST_QS00_REWARD]">By the time you defeat the Imperial Guards, they have taken Serephine away; you are uncertain exactly where.</Text>
+   <Text tag="[QUEST_QS00_STEP1]">You must travel to Enmouth to help Princess Serephine&apos;s friend.</Text>
+   <Text tag="[QUEST_QS00_STEP2]">You must try to save Serephine from the Imperial Guards in Enmouth.</Text>
+
+</TextLibrary>

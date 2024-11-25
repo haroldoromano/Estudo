@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="QK06">
+
+   <Text  name="[QUEST_QK06_NAME]" description="[QUEST_QK06_DESC]" group=""   file="English\Quests\QK06_Text.xml"/>
+   <Script  file="Assets\Quests\QK06.lua" object="QK06"/>
+   <Data  abandon="no" icon="2" important="no" />
+
+   <Available  location="CKUN" minlevel="30" maxlevel="1000" repeat="1" 
+               donequest0="QK05" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NKHA" companion1="" notcompanion="" 
+               item="IBSH" notitem="" award="" notaward="" />
+
+   <Battle  monster="MDDW">
+
+   </Battle>
+
+</Quest>

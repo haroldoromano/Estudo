@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IFPB">
+   <Text  name="[ITEM_IFPB_NAME]" power="[ITEM_IFPB_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="1600" rarity="1" />
+   <Graphics  icon="70" />
+   <Restriction	type="skill" skill="morale" level="10"/>
+   <Script  file="Assets\Items\IFPB.lua" object="IFPB"/>
+</Item>

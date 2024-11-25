@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Quest id="Q3S0">
+
+   <Text  name="[QUEST_Q3S0_NAME]" description="[QUEST_Q3S0_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q3S0_Text.xml"/>
+   <Script  file="Assets\Quests\Q3S0.lua" object="Q3S0"/>
+   <Data  abandon="yes" icon="2" important="yes" />
+
+   <Available  location="CLBC" minlevel="26" maxlevel="1000" repeat="1" 
+               donequest0="Q3Q5" donequest1="" donequest2="" notdonequest="Q3Q6" notactivequest="Q3Q6" 
+               companion0="" companion1="" notcompanion="" 
+               item="ISES" notitem="" award="" notaward="" />
+
+
+</Quest>

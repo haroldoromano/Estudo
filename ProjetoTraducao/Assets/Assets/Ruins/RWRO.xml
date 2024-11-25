@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RWRO">
+   <Text name="[RUIN_RWRO_NAME]" description="[RUIN_RWRO_DESC]"/>
+   <Graphics icon="2"/>
+   <Data x="1707" y="966" type="2" visible="no" attach="WRMO"/>
+</Ruin>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RSKM">
+   <Text name="[RUIN_RSKM_NAME]" description="[RUIN_RSKM_DESC]"/>
+   <Graphics icon="13"/>
+   <Data x="1486" y="1339" type="0" visible="no" attach="WSKE"/>
+</Ruin>

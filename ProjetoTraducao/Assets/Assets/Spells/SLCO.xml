@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SLCO">
+   <Text  name="[SPELL_SLCO_NAME]" description="[SPELL_SLCO_DESC]" detail="[SPELL_SLCO_DETL]"/>
+   <Cost  earth="12" fire="24" air="0" water="0" />
+   <Learn  score="790" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SLCO.lua" object="SLCO"/>
+</Spell>

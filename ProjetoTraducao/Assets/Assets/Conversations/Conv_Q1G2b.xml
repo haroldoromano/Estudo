@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Q1G2: Return to Neehi"/>
+   <Text file="English\Conversations\Conv_Q1G2b_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_GoblinMarket.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_Goblin.png" portraitindex="0" name="[Conv_Q1G2b_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="1" text="[Conv_Q1G2b_0000]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q1G2b_0001]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q1G2b_0002]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q1G2b_0003]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="Q1G2" function="CallbackConvB" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

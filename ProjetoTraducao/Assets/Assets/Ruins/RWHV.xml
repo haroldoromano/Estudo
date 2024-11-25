@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RWHV">
+   <Text name="[RUIN_RWHV_NAME]" description="[RUIN_RWHV_DESC]"/>
+   <Graphics icon="2"/>
+   <Data x="1956" y="720" type="2" visible="no" attach="WWSK"/>
+</Ruin>

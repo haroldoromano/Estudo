@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<Effect name="SpellGood" bitmap="" type="oneshot" duration="2.0">
+
+	<Child      name="WhiteSparkleLite"	type="particle"	time="0.0" duration="1.0" x="0" y="0" position="global" />
+	<Child      name="BlueExplosion"	type="particle"	time="0.2" duration="1.5" x="0" y="0" position="global" />
+	<Child      name="WhiteSparkleLite"	type="particle"	time="0.7" duration="1.0" x="0" y="0" position="global" />
+	<Child      name="BlueExplosion"	type="particle"	time="0.4" duration="1.5" x="0" y="0" position="global" />
+	
+	<Initialize parameter="dest_x"		value="0" />
+	<Initialize parameter="dest_y"		value="0" />
+
+</Effect>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2Q9_ACTION]">Enter the Horned Citadel</Text>
+   <Text tag="[QUEST_Q2Q9_FAILURE]">You have failed to defeat Minogoth. You must try again.</Text>
+   <Text tag="[QUEST_Q2Q9_KILL]">You quickly take the Skull of Sartek before Minogoth can return to full power. You also take Minogoth&apos;s armor.</Text>
+   <Text tag="[QUEST_Q2Q9_RETURN]">Return the Skull</Text>
+   <Text tag="[QUEST_Q2Q9_REWARD]">Tauron takes the final piece of Sartek.  The task is complete.</Text>
+   <Text tag="[QUEST_Q2Q9_STEP1]">You must travel to Ohtar and steal the Skull of Sartek from Minogoth.</Text>
+   <Text tag="[QUEST_Q2Q9_STEP2]">You must return the Skull of Sartek to Tauron at the Horned Temple.</Text>
+
+</TextLibrary>

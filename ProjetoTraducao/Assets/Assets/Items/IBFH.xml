@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IBFH">
+   <Text  name="[ITEM_IBFH_NAME]" power="[ITEM_IBFH_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="1230" rarity="1" />
+   <Graphics  icon="38" />
+   <Restriction	type="skill" skill="earth" level="13"/>
+   <Script  file="Assets\Items\IBFH.lua" object="IBFH"/>
+</Item>

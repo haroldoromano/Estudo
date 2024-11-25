@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IADO">
+   <Text  name="[ITEM_IADO_NAME]" power="[ITEM_IADO_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1000" rarity="0" />
+   <Graphics  icon="89" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IADO.lua" object="IADO"/>
+</Item>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2Q0_ACTION]">Approach the Temple</Text>
+   <Text tag="[QUEST_Q2Q0_ACTION4]">Battle a Firewalker</Text>
+   <Text tag="[QUEST_Q2Q0_FAILURE]">You have been defeated by the Firewalker, but Tauron allows you to try again.</Text>
+   <Text tag="[QUEST_Q2Q0_MSG1]">You see a huge pike. Impaled upon it are the heads of many creatures: Humans, Elves and Dwarves to name but a few...</Text>
+   <Text tag="[QUEST_Q2Q0_MSG2]">Tauron Flamebite is waiting for you on the steps of the Horned Temple.</Text>
+   <Text tag="[QUEST_Q2Q0_PROG1]">You must enter the Horned Temple.</Text>
+   <Text tag="[QUEST_Q2Q0_PROG2]">You must travel north to see the Pike.</Text>
+   <Text tag="[QUEST_Q2Q0_PROG3]">You must try to enter the Horned Temple once again.</Text>
+   <Text tag="[QUEST_Q2Q0_PROG4]">You must defeat a Minotaur Firewalker at the Horned Temple to prove your worth to Tauron Flamebite.</Text>
+   <Text tag="[QUEST_Q2Q0_REWARD]">Tauron seems to have warmed to you - just a little.</Text>
+   <Text tag="[QUEST_Q2Q0_QMNAME0]">Firewalker</Text>
+   <Text tag="[QUEST_Q2Q0_QMHELP0]">Firewalkers are similar to regular Minotaurs, but they have a stock of fire-related spells.</Text>
+
+</TextLibrary>

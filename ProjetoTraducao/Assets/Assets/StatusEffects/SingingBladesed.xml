@@ -1,0 +1,6 @@
+<StatusEffect id="ESBL">
+	<Text		name="[STATUS_SINGINGBLADESED_NAME]" description="[STATUS_SINGINGBLADESED_DESC]" />
+	<Graphics	icon="27"/>
+	<Data		duration="5" stack="1"/>
+	<Script		file="Assets\StatusEffects\SingingBladesed.lua" object="SingingBladesed"/>
+</StatusEffect>

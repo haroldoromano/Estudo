@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q3W2">
+
+   <Text  name="[QUEST_Q3W2_NAME]" description="[QUEST_Q3W2_DESC]" group="[QG_WWLF_NAME]"   file="English\Quests\Q3W2_Text.xml"/>
+   <Script  file="Assets\Quests\Q3W2.lua" object="Q3W2"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CYLA" minlevel="26" maxlevel="1000" repeat="1" 
+               donequest0="Q3W1" donequest1="Q3I3" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="">
+
+   </Battle>
+
+</Quest>

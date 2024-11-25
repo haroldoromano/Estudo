@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0I1_ACTION]">Fight the Spider</Text>
+   <Text tag="[QUEST_Q0I1_FAILURE]">The Spiders have chased you away, but you may return to fight again.</Text>
+   <Text tag="[QUEST_Q0I1_REWARD]">The Giant Spider has been slain. Almost immediately the rest scurry away into the forest.</Text>
+   <Text tag="[QUEST_Q0I1_QMNAME0]">Wolf Spider</Text>
+   <Text tag="[QUEST_Q0I1_QMHELP0]">This big hairy spider can Howl like a wolf, inflicting Fear in its enemies.</Text>
+
+</TextLibrary>

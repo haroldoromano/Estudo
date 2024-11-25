@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IRBR">
+   <Text  name="[ITEM_IRBR_NAME]" power="[ITEM_IRBR_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="250" rarity="0" />
+   <Graphics  icon="76" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IRBR.lua" object="IRBR"/>
+</Item>

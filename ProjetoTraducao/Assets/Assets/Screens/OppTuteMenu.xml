@@ -1,0 +1,9 @@
+<Menu x="0" y="0" width="256" height="176" timer="off" draw="off" modal="off">
+   <Assets>
+   </Assets>
+   
+   <String name="str_message"			x="16" y="12"	width="224" height="66" multiline="on" justify="center" vjustify="center" font="font_speech"/>
+   
+   <Icon   name="icon_dlg"                  x="0"    y="0"   width="256" height="128" graphic="img_opptute1"/>
+   
+</Menu>

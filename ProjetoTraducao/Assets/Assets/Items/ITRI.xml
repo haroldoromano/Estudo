@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ITRI">
+   <Text  name="[ITEM_ITRI_NAME]" power="[ITEM_ITRI_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="480" rarity="3" />
+   <Graphics  icon="77" />
+   <Restriction	type="level" level="3"/>
+   <Script  file="Assets\Items\ITRI.lua" object="ITRI"/>
+</Item>

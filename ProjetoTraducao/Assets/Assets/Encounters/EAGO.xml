@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EAGO">
+   <Description text="Goblin" />
+   <Location start="CGAL" end="WRAR" index="0" />
+   <Sprite id="ZGOB" />
+   <Script file="Assets\Encounters\EAGO.lua" object="EAGO" />
+</Encounter>

@@ -1,0 +1,11 @@
+<Particle name="RingYellow" texture="Flare.png" radius="1" lifetime="1500">
+	<Number max="240" release="12" interval="0.05" life="0.5" total="240"/>
+	<Graphics blend="additive" size="0.25" r="0.9" g="0.9" b="0.1" a="0.8"/>
+	<Animation size="0.05" r="0.9" g="0.9" b="0.1" a="0.0" start="0.1"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.05" perimeter="on" planar="on" planes="110"/>
+	<AnimPosition x="0.0" y="0.0" z="0.0" var="0.8" start="0.0" end="1.0"/>
+	<Velocity x="0.0" y="0.0" z="-0.2" var="0.2" />
+	<Gravity x="0.0" y="0.0" z="0.0"/>
+	<Forces airresistance="off" wind="off"/>
+	<Shape steps="1"/>
+</Particle>

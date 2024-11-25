@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Quest id="Q3A2">
+
+   <Text  name="[QUEST_Q3A2_NAME]" description="[QUEST_Q3A2_DESC]" group=""   file="English\Quests\Q3A2_Text.xml"/>
+   <Script  file="Assets\Quests\Q3A2.lua" object="Q3A2"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CEHL" minlevel="24" maxlevel="1000" repeat="1" 
+               donequest0="" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MHAR">
+
+      <Name  tag="[QUEST_Q3A2_QMNAME0]"  help="[QUEST_Q3A2_QMHELP0]"  />
+      <Add  earth="0" fire="10" air="0" water="0" />
+      <Add  battle="5" cunning="0" morale="0" />
+      <Add  level="5" life="25" />
+      <Item  id="IHCR" />
+      <Spell  id="SSTU" />
+   </Battle>
+
+</Quest>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[Q0I4_ACTIONFREE]">Free Serephine</Text>
+   <Text tag="[Q0I4_ACTIONGIVE]">Deliver Serephine</Text>
+   <Text tag="[Q0I4_GETSEREPHINE]">Meet Serephine</Text>
+   <Text tag="[Q0I4_PROGRESS0]">You must travel to Barthel and collect the Emperor&apos;s daughter, Princess Serephine.</Text>
+   <Text tag="[Q0I4_PROGRESS1]">You must decide whether to give Serephine to Utrarg of Trarg, or whether to free her in Bartonia.</Text>
+   <Text tag="[Q0I4_REWARD0]">Utrarg of Trarg is pleased with his new bride.  He gives you a small payment of gold as a token of his gratitude.</Text>
+   <Text tag="[Q0I4_REWARD1]">Serephine has been freed and she gives you the reward as promised. She also joins you as a Companion.</Text>
+
+</TextLibrary>

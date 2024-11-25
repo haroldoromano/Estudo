@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IELH">
+   <Text  name="[ITEM_IELH_NAME]" power="[ITEM_IELH_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="1235" rarity="2" />
+   <Graphics  icon="18" />
+   <Restriction	type="skill" skill="earth" level="12"/>
+   <Script  file="Assets\Items\IELH.lua" object="IELH"/>
+</Item>

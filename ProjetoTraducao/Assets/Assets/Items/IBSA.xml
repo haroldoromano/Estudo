@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IBSA">
+   <Text  name="[ITEM_IBSA_NAME]" power="[ITEM_IBSA_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="64" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IBSA.lua" object="IBSA"/>
+</Item>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Monster id="MZOM">
+   <Text name="[MONSTER_MZOM_NAME]" description="[MONSTER_MZOM_DESC]" capture="[MONSTER_MZOM_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Zombie.png" />
+   <Level min="4" max="8" base="4" levelto="25" />
+   <Skill earth="6" fire="0" air="0" water="1" battle="3" cunning="0" morale="1" />
+   <Add earth="1.00" fire="0.00" air="0.10" water="0.30" battle="0.50" cunning="0.00" morale="0.20" life="3.00" />
+   <Data life="50" mount="0" />
+   <Reward minxp="25" maxxp="50" mingold="15" maxgold="55" />
+   <Types type1="Undead" type2="" type3="Evil" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZZOM"  />
+   <Item tag="IZCL"  />
+   <Spell tag="SESK" learn="1" />
+   <Capture>
+      <Row data="-----B--" />
+      <Row data="-----S--" />
+      <Row data="-----B--" />
+      <Row data="--SBBG--" />
+      <Row data="--GBBS--" />
+      <Row data="SSGSSGSS" />
+      <Row data="GGSBBSBB" />
+      <Row data="SSGBBGSS" />
+   </Capture>
+</Monster>

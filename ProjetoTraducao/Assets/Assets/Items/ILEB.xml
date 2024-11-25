@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ILEB">
+   <Text  name="[ITEM_ILEB_NAME]" power="[ITEM_ILEB_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="140" rarity="4" />
+   <Graphics  icon="71" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ILEB.lua" object="ILEB"/>
+</Item>

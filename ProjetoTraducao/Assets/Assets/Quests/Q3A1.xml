@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q3A1">
+
+   <Text  name="[QUEST_Q3A1_NAME]" description="[QUEST_Q3A1_DESC]" group=""   file="English\Quests\Q3A1_Text.xml"/>
+   <Script  file="Assets\Quests\Q3A1.lua" object="Q3A1"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CEHL" minlevel="30" maxlevel="1000" repeat="1" 
+               donequest0="" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MDRB">
+
+   </Battle>
+
+</Quest>

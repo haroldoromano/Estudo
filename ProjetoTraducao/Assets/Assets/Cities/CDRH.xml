@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<City id="CDRH">
+   <Text name="[CITY_CDRH_NAME]" description="[CITY_CDRH_DESC]"/>
+   <Graphics icon="21" type="1"/>
+   <Data x="1911" y="490" level="0" visible="no" income="200" />
+   <Item tag="ITWM"/>
+   <Item tag="IWLM"/>
+   <Item tag="IGTA"/>
+   <Item tag="IFMO"/>
+   <Spell tag="SFBO"/>
+   <Spell tag="SSWP"/>
+</City>

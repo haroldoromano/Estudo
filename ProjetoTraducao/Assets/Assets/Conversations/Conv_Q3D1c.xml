@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Q3D1: Elistara gets bad news"/>
+   <Text file="English\Conversations\Conv_Q3D1c_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_Ruins.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_NPC_Elistara.png" portraitindex="0" name="[Conv_Q3D1c_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3D1c_0000]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3D1c_0001]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3D1c_0002]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3D1c_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3D1c_0004]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3D1c_0005]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3D1c_0006]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3D1c_0007]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3D1c_0008]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3D1c_0009]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3D1c_0010]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3D1c_0011]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3D1c_0012]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3D1c_0013]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3D1c_0014]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3D1c_0015]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3D1c_0016]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3D1c_0017]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3D1c_0018]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3D1c_0019]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3D1c_0020]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3D1c_0021]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3D1c_0022]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3D1c_0023]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="Q3D1" function="CallbackConvC" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

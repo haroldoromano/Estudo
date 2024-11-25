@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IISK">
+   <Text  name="[ITEM_IISK_NAME]" power="[ITEM_IISK_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="200" rarity="0" />
+   <Graphics  icon="24" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IISK.lua" object="IISK"/>
+</Item>

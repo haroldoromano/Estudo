@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q3D3">
+
+   <Text  name="[QUEST_Q3D3_NAME]" description="[QUEST_Q3D3_DESC]" group="[QG_LODR_NAME]"   file="English\Quests\Q3D3_Text.xml"/>
+   <Script  file="Assets\Quests\Q3D3.lua" object="Q3D3"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CYLA" minlevel="27" maxlevel="10003" repeat="1" 
+               donequest0="Q3D2" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NELI" companion1="NFLI" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MDRU">
+
+   </Battle>
+
+</Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0R0_ACTION0]">You must first patrol the road to Elenia.</Text>
+   <Text tag="[QUEST_Q0R0_ACTION1]">You must now patrol the road back to Bartonia.</Text>
+   <Text tag="[QUEST_Q0R0_DONE]">The patrol has ended successfully and you receive your payment.</Text>
+   <Text tag="[QUEST_Q0R0_MESSAGE]">You have completed the first part of your patrol.  Now you must travel back to Bartonia, but be warned, travelers report seeing Undead lurking near the road.</Text>
+
+</TextLibrary>

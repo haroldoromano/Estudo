@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Monster id="MDRB">
+   <Text name="[MONSTER_MDRB_NAME]" description="[MONSTER_MDRB_DESC]" capture="[MONSTER_MDRB_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_DragonBlue.png" />
+   <Level min="42" max="47" base="42" levelto="99" />
+   <Skill earth="15" fire="5" air="15" water="22" battle="20" cunning="12" morale="5" />
+   <Resistance earth="0" fire="0" air="0" water="20" />
+   <Add earth="0.50" fire="0.20" air="0.50" water="0.50" battle="0.50" cunning="0.40" morale="0.30" life="2.00" />
+   <Data life="175" mount="0" boss="0" />
+   <Reward minxp="125" maxxp="175" mingold="50" maxgold="150" />
+   <Types type1="Dragon" type2="Flying" type3="Large" type4="" />
+   <Mount speed="0" fly="1" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZWYV"  />
+   <Item tag="IDSC"  />
+   <Item tag="IDCW"  />
+   <Spell tag="SBRI" learn="0" />
+   <Spell tag="SWBU" learn="0" />
+   <Spell tag="STWH" learn="0" />
+   <Spell tag="SCHW" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--SBB---" />
+      <Row data="--SBBS--" />
+      <Row data="--BSSB--" />
+      <Row data="--BSSB--" />
+      <Row data="BBSGGSBB" />
+      <Row data="SSBGGBSS" />
+      <Row data="BBGSSGBB" />
+   </Capture>
+</Monster>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SWEB">
+   <Text  name="[SPELL_SWEB_NAME]" description="[SPELL_SWEB_DESC]" detail="[SPELL_SWEB_DETL]"/>
+   <Cost  earth="8" fire="0" air="12" water="0" />
+   <Learn  score="800" masks="1" keys="2" />
+   <Data  cooldown="3" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SWEB.lua" object="SWEB"/>
+</Spell>

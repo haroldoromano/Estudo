@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Quest id="Q0I6">
+
+   <Text  name="[QUEST_Q0I6_NAME]" description="[QUEST_Q0I6_DESC]" group=""   file="English\Quests\Q0I6_Text.xml"/>
+   <Script  file="Assets\Quests\Q0I6.lua" object="Q0I6"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CBAR" minlevel="8" maxlevel="1000" repeat="1" 
+               donequest0="Q0I5" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MKNI">
+
+      <Name  tag="[QUEST_Q0I6_QMNAME0]"  help="[QUEST_Q0I6_QMHELP0]"  />
+      <Add  battle="2" cunning="0" morale="0" />
+      <Add  level="0" life="10" />
+   </Battle>
+   <Battle  monster="MKNI">
+
+      <Name  tag="[QUEST_Q0I6_QMNAME1]"  help="[QUEST_Q0I6_QMHELP1]"  />
+      <Add  battle="0" cunning="0" morale="2" />
+      <Item  id="IHLA" />
+   </Battle>
+   <Battle  monster="MKNI">
+
+      <Name  tag="[QUEST_Q0I6_QMNAME2]"  help="[QUEST_Q0I6_QMHELP2]"  />
+      <Add  earth="1" fire="0" air="1" water="0" />
+      <Item  id="ILBW" />
+      <Spell  id="SARC" />
+   </Battle>
+   <Battle  monster="MKNI">
+
+      <Name  tag="[QUEST_Q0I6_QMNAME3]"  help="[QUEST_Q0I6_QMHELP3]"  />
+      <Add  earth="0" fire="1" air="0" water="0" />
+      <Item  id="ITHH" />
+   </Battle>
+   <Battle  monster="MKNI">
+
+      <Name  tag="[QUEST_Q0I6_QMNAME4]"  help="[QUEST_Q0I6_QMHELP4]"  />
+      <Add  battle="-2" cunning="2" morale="0" />
+      <Add  level="0" life="-20" />
+      <Item  id="IFPA" />
+      <Item  id="IFPH" />
+      <Item  id="IFPB" />
+   </Battle>
+
+</Quest>

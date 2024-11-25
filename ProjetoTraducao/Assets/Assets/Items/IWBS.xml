@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IWBS">
+   <Text  name="[ITEM_IWBS_NAME]" power="[ITEM_IWBS_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="1200" rarity="0" />
+   <Graphics  icon="81" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IWBS.lua" object="IWBS"/>
+</Item>

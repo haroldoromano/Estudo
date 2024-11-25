@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ICMB">
+   <Text  name="[ITEM_ICMB_NAME]" power="[ITEM_ICMB_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="410" rarity="3" />
+   <Graphics  icon="70" />
+   <Restriction	type="skill" skill="battle" level="5"/>
+   <Script  file="Assets\Items\ICMB.lua" object="ICMB"/>
+</Item>

@@ -1,0 +1,163 @@
+<Menu x="160" y="90" width="704" height="576" timer="on" draw="off" modal="on">
+   <Assets>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttblank" active="img_blank" highlight="img_blank" pressed="img_blank" grayed="img_blank"/>
+      <Button name="asset_dropbutt" active="img_drop_act" highlight="img_drop_hi" pressed="img_drop_pres" grayed="img_drop_gray"/>
+      <Button name="asset_gpdropbutt" active="img_gamepad_buttact" highlight="img_gamepad_buttact" pressed="img_gamepad_buttact" grayed="img_gamepad_buttgray"/>
+      <Button name="asset_butttiny" active="img_butttiny_act" highlight="img_butttiny_hi" pressed="img_butttiny_pres" grayed="img_butttiny_gray"/>
+      <Button name="asset_buttleft" active="img_buttleft_act" highlight="img_buttleft_hi" pressed="img_buttleft_pres" grayed="img_buttleft_gray"/>
+      <Button name="asset_buttright" active="img_buttright_act" highlight="img_buttright_hi" pressed="img_buttright_pres" grayed="img_buttright_gray"/>
+      <Drop name="asset_drop" top="img_drop_dtop" bottom="img_drop_dbot" center="img_drop_dctr" center_hi="img_drop_dctrhi"/>
+	  <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   
+   <String           name="str_profession"			 x="60"   y="220"  width="200" height="20" text="[CHOOSEAPROFESSION]" multiline="off" justify="left" font="font_system"/>
+   <Droplist         name="drop_profession" id="20" x="60"   y="240"  width="260" height="50" leftedge="15" topedge="13" topheight="12" lineheight="20" font="font_button" font_hi="font_button" graphic="asset_dropbutt" drop="asset_drop"/>
+   <GamepadDroplist  name="gp_profession"   id="20" x="60"   y="240"  width="260" height="50" leftedge="15" topedge="13" topheight="12" lineheight="20" font="font_button" font_hi="font_button" graphic="asset_gpdropbutt" drop="asset_drop"
+							 gp_button="x" graphic_button="img_gamepad_x" buttonx="5" buttony="5" buttonwidth="40"  buttonheight="40" />
+   <String           name="str_profdesc"			 x="60"   y="300"  width="300" height="144" text="[PROF_KNIGHT_DESC]" multiline="on" justify="left" font="font_system_dark"/>
+
+   <String     name="str_portrait"			    x="384"    y="120"  width="200" height="20" text="[CHOOSEAPORTRAIT]" multiline="off" justify="left" font="font_system"/>
+   <Button     name="butt_portraitprev" id="30" x="384"  y="403"  width="32" height="32" graphic="asset_buttleft" sound="asset_buttsound"/>
+   <Button     name="butt_portraitnext" id="31" x="608"  y="403"  width="32" height="32" graphic="asset_buttright" sound="asset_buttsound"/>
+  
+   <Icon       name="icon_portrait0"         x="384"    y="140"  width="256" height="256" graphic="img_portrait0"/>
+   <Icon       name="icon_portraitframe"     x="384"    y="140"  width="256" height="256" graphic="img_characterbg"/>
+ 
+   <TextButton name="butt_okay"		 id="1" x="442"  y="466" width="160" height="50" key="13" font="font_button" text="[OKAY]" graphic="asset_buttsmall" sound="asset_buttsound"/>
+   <TextButton name="butt_cancel"    id="0" x="102" y="466" width="160" height="50" key="27" font="font_button" text="[CANCEL]" graphic="asset_buttsmall" sound="asset_buttsound"/>
+
+   <GamepadButton     name="gp_okay"    id="1" x="462" y="466" width="200" height="40" buttonwidth="40" textoffsetx="44" textoffsety="3" font="font_button" text="[OKAY]"  graphic_button="img_gamepad_a" sound="asset_buttsound"
+					 gp_button="a"/>
+   <GamepadButton     name="gp_cancel"   id="0"  x="122" y="466" width="200" height="40"  buttonwidth="40" textoffsetx="44" textoffsety="3" font="font_button" text="[CANCEL]" graphic_button="img_gamepad_b" sound="asset_buttsound"
+					 gp_button="b"/>
+   
+   <GamepadButton     name="gp_portraitprev"    id="30" x="373" y="409" width="62" height="28" buttonwidth="62" textoffsetx="66" textoffsety="3" font="font_button" text="[BLANK]"  graphic_button="img_gamepad_l" sound="asset_buttsound"
+					 gp_button="left_bumper"/>
+   <GamepadButton     name="gp_portraitnext"   id="31"  x="589" y="409" width="62" height="28"  buttonwidth="62" textoffsetx="66" textoffsety="3" font="font_button" text="[BLANK]" graphic_button="img_gamepad_r" sound="asset_buttsound"
+					 gp_button="right_bumper"/>
+   
+   <String    name="str_title"				x="0"   y="50"  width="640" height="40" text="[CREATEHEROTITLE]" multiline="off" justify="center" font="font_heading"/>
+   <String    name="str_name"				 x="60"   y="120"  width="200" height="20" text="[TYPEYOURNAME]" multiline="off" justify="left" font="font_system"/>
+   <Editor    name="edit_name"       id="10" x="60"   y="140"  width="300" height="46" maxchars="15" caretwidth="20" caretheight="30" font="font_button" graphic="img_editor" graphic_caret="anim_caret"
+					  gp_button="y" graphic_button="img_gamepad_y" buttonx="3" buttony="3" buttonwidth="40"  buttonheight="40" blink="img_editor_blink"/>
+ 
+   <Icon       name="icon_hlp0"              x="60"    y="188"   width="24" height="24" graphic="img_gamepad_dpad_ud"/>
+   <String     name="str_hlp0"			     x="85"    y="192"  width="200" height="24" text="[GP_EDIT_HELP0]" multiline="off" justify="left" font="font_small"/>
+   <Icon       name="icon_hlp1"              x="240"   y="194"   width="24" height="12" graphic="img_gamepad_l"/>
+   <String     name="str_hlp1"			     x="265"   y="192"  width="200" height="24" text="[GP_EDIT_HELP1]" multiline="off" justify="left" font="font_small"/>
+   <Icon       name="icon_hlp2"              x="240"   y="209"   width="24" height="12" graphic="img_gamepad_r"/>
+   <String     name="str_hlp2"			     x="265"   y="207"  width="200" height="24" text="[GP_EDIT_HELP2]" multiline="off" justify="left" font="font_small"/>
+  
+   <Icon       name="icon_dlg"                  x="0"    y="0"   width="64" height="64" graphic="img_dlg_00"/>
+   <Icon       name="icon_dlg"                  x="64"   y="0"   width="64" height="64" graphic="img_dlg_01"/>
+   <Icon       name="icon_dlg"                  x="128"  y="0"   width="64" height="64" graphic="img_dlg_01"/>
+   <Icon       name="icon_dlg"                  x="192"  y="0"   width="64" height="64" graphic="img_dlg_01"/>
+   <Icon       name="icon_dlg"                  x="256"  y="0"   width="64" height="64" graphic="img_dlg_01"/>
+   <Icon       name="icon_dlg"                  x="320"  y="0"   width="64" height="64" graphic="img_dlg_01"/>
+   <Icon       name="icon_dlg"                  x="384"  y="0"   width="64" height="64" graphic="img_dlg_01"/>
+   <Icon       name="icon_dlg"                  x="448"  y="0"   width="64" height="64" graphic="img_dlg_01"/>
+   <Icon       name="icon_dlg"                  x="512"  y="0"   width="64" height="64" graphic="img_dlg_01"/>
+   <Icon       name="icon_dlg"                  x="576"  y="0"   width="64" height="64" graphic="img_dlg_01"/>
+   <Icon       name="icon_dlg"                  x="640"  y="0"   width="64" height="64" graphic="img_dlg_02"/>
+   
+   <Icon       name="icon_dlg"                  x="0"    y="64"  width="64" height="64" graphic="img_dlg_10"/>
+   <Icon       name="icon_dlg"                  x="64"   y="64"  width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="128"  y="64"  width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="192"  y="64"  width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="256"  y="64"  width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="320"  y="64"  width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="384"  y="64"  width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="448"  y="64"  width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="512"  y="64"  width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="576"  y="64"  width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="640"  y="64"  width="64" height="64" graphic="img_dlg_12"/>
+   
+   <Icon       name="icon_dlg"                  x="0"    y="128" width="64" height="64" graphic="img_dlg_10"/>
+   <Icon       name="icon_dlg"                  x="64"   y="128" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="128"  y="128" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="192"  y="128" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="256"  y="128" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="320"  y="128" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="384"  y="128" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="448"  y="128" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="512"  y="128" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="576"  y="128" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="640"  y="128" width="64" height="64" graphic="img_dlg_12"/>
+   
+   <Icon       name="icon_dlg"                  x="0"    y="192" width="64" height="64" graphic="img_dlg_10"/>
+   <Icon       name="icon_dlg"                  x="64"   y="192" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="128"  y="192" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="192"  y="192" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="256"  y="192" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="320"  y="192" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="384"  y="192" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="448"  y="192" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="512"  y="192" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="576"  y="192" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="640"  y="192" width="64" height="64" graphic="img_dlg_12"/>
+   
+   <Icon       name="icon_dlg"                  x="0"    y="256" width="64" height="64" graphic="img_dlg_10"/>
+   <Icon       name="icon_dlg"                  x="64"   y="256" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="128"  y="256" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="192"  y="256" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="256"  y="256" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="320"  y="256" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="384"  y="256" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="448"  y="256" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="512"  y="256" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="576"  y="256" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="640"  y="256" width="64" height="64" graphic="img_dlg_12"/>
+   
+   <Icon       name="icon_dlg"                  x="0"    y="320" width="64" height="64" graphic="img_dlg_10"/>
+   <Icon       name="icon_dlg"                  x="64"   y="320" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="128"  y="320" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="192"  y="320" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="256"  y="320" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="320"  y="320" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="384"  y="320" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="448"  y="320" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="512"  y="320" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="576"  y="320" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="640"  y="320" width="64" height="64" graphic="img_dlg_12"/>
+   
+   <Icon       name="icon_dlg"                  x="0"    y="384" width="64" height="64" graphic="img_dlg_10"/>
+   <Icon       name="icon_dlg"                  x="64"   y="384" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="128"  y="384" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="192"  y="384" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="256"  y="384" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="320"  y="384" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="384"  y="384" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="448"  y="384" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="512"  y="384" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="576"  y="384" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="640"  y="384" width="64" height="64" graphic="img_dlg_12"/>
+   
+   <Icon       name="icon_dlg"                  x="0"    y="448" width="64" height="64" graphic="img_dlg_10"/>
+   <Icon       name="icon_dlg"                  x="64"   y="448" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="128"  y="448" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="192"  y="448" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="256"  y="448" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="320"  y="448" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="384"  y="448" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="448"  y="448" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="512"  y="448" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="576"  y="448" width="64" height="64" graphic="img_dlg_11"/>
+   <Icon       name="icon_dlg"                  x="640"  y="448" width="64" height="64" graphic="img_dlg_12"/>
+   
+   <Icon       name="icon_dlg"                  x="0"    y="512" width="64" height="64" graphic="img_dlg_20"/>
+   <Icon       name="icon_dlg"                  x="64"   y="512" width="64" height="64" graphic="img_dlg_21"/>
+   <Icon       name="icon_dlg"                  x="128"  y="512" width="64" height="64" graphic="img_dlg_21"/>
+   <Icon       name="icon_dlg"                  x="192"  y="512" width="64" height="64" graphic="img_dlg_21"/>
+   <Icon       name="icon_dlg"                  x="256"  y="512" width="64" height="64" graphic="img_dlg_21"/>
+   <Icon       name="icon_dlg"                  x="320"  y="512" width="64" height="64" graphic="img_dlg_21"/>
+   <Icon       name="icon_dlg"                  x="384"  y="512" width="64" height="64" graphic="img_dlg_21"/>
+   <Icon       name="icon_dlg"                  x="448"  y="512" width="64" height="64" graphic="img_dlg_21"/>
+   <Icon       name="icon_dlg"                  x="512"  y="512" width="64" height="64" graphic="img_dlg_21"/>
+   <Icon       name="icon_dlg"                  x="576"  y="512" width="64" height="64" graphic="img_dlg_21"/>
+   <Icon       name="icon_dlg"                  x="640"  y="512" width="64" height="64" graphic="img_dlg_22"/>
+   
+   <Icon       name="icon_mist"                  x="-192"  y="-64" width="1024" height="768" graphic="img_mist"/>
+   
+</Menu>

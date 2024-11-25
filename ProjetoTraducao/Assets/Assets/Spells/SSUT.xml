@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SSUT">
+   <Text  name="[SPELL_SSUT_NAME]" description="[SPELL_SSUT_DESC]" detail="[SPELL_SSUT_DETL]"/>
+   <Cost  earth="0" fire="8" air="5" water="5" />
+   <Learn  score="1000" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SSUT.lua" object="SSUT"/>
+</Spell>

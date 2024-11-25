@@ -1,0 +1,112 @@
+<Menu x="0" y="0" width="1024" height="768" timer="on" draw="off" modal="off" gp_entry="butt_back">
+   <Assets>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttplus" active="img_buttplus_act" highlight="img_buttplus_hi" pressed="img_buttplus_pres" grayed="img_buttplus_gray"/>
+      <Button name="asset_butttiny" active="img_butttiny_act" highlight="img_butttiny_hi" pressed="img_butttiny_pres" grayed="img_butttiny_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+      <Button name="asset_buttoff"  active="img_buttoff_act" highlight="img_buttoff_hi" pressed="img_buttoff_pres" grayed="img_buttoff_gray"/>
+      <Button name="asset_button"   active="img_button_act"  highlight="img_button_hi" pressed="img_button_pres" grayed="img_button_gray"/>
+      <Button name="asset_dropbutt" active="img_drop_act" highlight="img_drop_hi" pressed="img_drop_pres" grayed="img_drop_gray"/>
+      <Drop name="asset_drop" top="img_drop_dtop" bottom="img_drop_dbot" center="img_drop_dctr" center_hi="img_drop_dctrhi"/>
+      <Button name="asset_buttleft" active="img_buttleft_act" highlight="img_buttleft_hi" pressed="img_buttleft_pres" grayed="img_buttleft_gray"/>
+      <Button name="asset_buttright" active="img_buttright_act" highlight="img_buttright_hi" pressed="img_buttright_pres" grayed="img_buttright_gray"/>
+   </Assets>
+   
+   <Icon       name="icon_help"                 x="0"    y="0"   width="1024" height="768" graphic="img_help_sp"/>
+   
+   <String    name="str_timelimit"			 x="134"   y="514"  width="200" height="20" text="[TIMELIMIT]" multiline="off" justify="left" font="font_system"/>
+   <Droplist  name="drop_timelimit" id="25"  x="134"   y="532"  width="260" height="50" leftedge="15" topedge="12" topheight="13" lineheight="20" font="font_button" font_hi="font_button" graphic="asset_dropbutt" drop="asset_drop"
+					gp_up="butt_inventory"  gp_down="chk_handicap"  gp_right="butt_back"/>
+   <Checkbox   name="chk_handicap"	id="26"  x="134"   y="605"  width="200" height="22" buttonwidth="22" text="[HANDICAPPING]" font="font_system" graphic_on="asset_button" graphic_off="asset_buttoff" sound="asset_buttsound"
+					gp_up="drop_timelimit"  gp_down="chk_ready"  gp_right="butt_back"/>
+   
+   <String    name="str_title"				    x="610" y="110" width="400" height="40" text="[MULTIPLAYER]" multiline="off" justify="center" font="font_heading"/>
+   <String    name="str_help"                   x="500" y="650" width="500" height="80" multiline="on" justify="center" font="font_system_dark" text="[MP_HELP_HOST]" />
+  
+   <TextButton name="butt_back"           id="0" x="660" y="505" width="300" height="50" key="0" font="font_button" text="[BACK]" graphic="asset_buttwide" sound="asset_buttsound"
+					gp_down="butt_start"  gp_left="butt_inventory" gp_right="butt_start"/>
+   <TextButton name="butt_start"          id="1" x="660" y="565" width="300" height="50" key="0" font="font_button" text="[STARTBATTLE]" graphic="asset_buttwide" sound="asset_buttsound"
+					gp_up="butt_back"	  gp_left="butt_inventory"/>
+   
+   <Button name="butt_prevhero"     id="10" x="67" y="273" width="32" height="32" key="0" graphic="asset_buttleft" sound="asset_buttsound"/>
+   <Button name="butt_nexthero"     id="11" x="429" y="273" width="32" height="32" key="0" graphic="asset_buttright" sound="asset_buttsound"/>
+   <GamepadButton     name="gp_prevhero"    id="10" x="58" y="279" width="62" height="28" buttonwidth="62" textoffsetx="66" textoffsety="3" font="font_button" text="[BLANK]"  graphic_button="img_gamepad_l" sound="asset_buttsound"
+					 gp_button="left_bumper"/>
+   <GamepadButton     name="gp_nexthero"   id="11"  x="408" y="279" width="62" height="28"  buttonwidth="62" textoffsetx="66" textoffsety="3" font="font_button" text="[BLANK]" graphic_button="img_gamepad_r" sound="asset_buttsound"
+					 gp_button="right_bumper"/>
+   
+   <GamepadButton     name="gp_levelup"   id="15"  x="290" y="136" width="160" height="40"  buttonwidth="40" textoffsetx="44" textoffsety="3" font="font_button" text="[LEVELUP]" graphic_button="img_gamepad_y" sound="asset_buttsound"
+					 gp_button="y"/>
+   <Button     name="butt_levelup"       id="15" x="363" y="211" width="32" height="32" key="0" graphic="asset_buttplus" sound="asset_buttsound"/>
+   <Icon       name="icon_levelup"               x="348"  y="194" width="64" height="64" graphic="anim_redglow"/>
+   
+   <TextButton name="butt_inventory"     id="16" x="235" y="449" width="160" height="50" textoffsety="-2" key="0" font="font_system" text="[INVENTORY_]" graphic="asset_buttsmall" sound="asset_buttsound"
+					gp_down="drop_timelimit"  gp_right="butt_back"/>
+
+   <Checkbox   name="chk_ready"		   id="18" x="134" y="640"  width="200" height="22" buttonwidth="22" text="[READY]" font="font_system" graphic_on="asset_button" graphic_off="asset_buttoff" sound="asset_buttsound"
+					gp_up="chk_handicap"  gp_right="butt_back"/>
+   
+   <Pad		   name="pad_hero"        id="20"   x="126"  y="202" width="290"  height="290" />
+  
+   <Icon       name="icon_hero"                 x="126"  y="202" width="290" height="290" graphic="img_large_hero"/>
+   <Icon       name="icon_enemyhero"            x="692"  y="202" width="226" height="162" graphic="img_enemy_hero"/>
+
+   <Icon       name="icon_charsheet"            x="126"  y="202" width="276" height="301" graphic="img_charsheet_sp"/>
+   <Icon       name="icon_charsheet_enemy"      x="692"  y="202" width="236" height="192" graphic="img_charsheet_mp"/>
+   
+   <String     name="str_oppready"              x="692" y="402" width="236" height="20" multiline="off" justify="center" font="font_system" text="[OPPNOTREADY]" />
+   
+   <Icon       name="icon_dlg"                  x="104"  y="180"   width="64" height="64" graphic="img_frm_00"/>
+   <Icon       name="icon_dlg"                  x="168"  y="180"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="232"  y="180"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="296"  y="180"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="360"  y="180"   width="64" height="64" graphic="img_frm_02"/>
+   
+   <Icon       name="icon_dlg"                  x="104"  y="244"   width="64" height="64" graphic="img_frm_10"/>
+   <Icon       name="icon_dlg"                  x="168"  y="244"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="232"  y="244"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="296"  y="244"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="360"  y="244"   width="64" height="64" graphic="img_frm_12"/>
+   
+   <Icon       name="icon_dlg"                  x="104"  y="308"   width="64" height="64" graphic="img_frm_10"/>
+   <Icon       name="icon_dlg"                  x="168"  y="308"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="232"  y="308"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="296"  y="308"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="360"  y="308"   width="64" height="64" graphic="img_frm_12"/>
+   
+   <Icon       name="icon_dlg"                  x="104"  y="372"   width="64" height="64" graphic="img_frm_10"/>
+   <Icon       name="icon_dlg"                  x="168"  y="372"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="232"  y="372"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="296"  y="372"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="360"  y="372"   width="64" height="64" graphic="img_frm_12"/>
+   
+   <Icon       name="icon_dlg"                  x="104"  y="436"   width="64" height="64" graphic="img_frm_10"/>
+   <Icon       name="icon_dlg"                  x="168"  y="436"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="232"  y="436"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="296"  y="436"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="360"  y="436"   width="64" height="64" graphic="img_frm_12"/>
+   
+   <Icon       name="icon_dlg"                  x="104"  y="500"   width="64" height="64" graphic="img_frm_10"/>
+   <Icon       name="icon_dlg"                  x="168"  y="500"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="232"  y="500"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="296"  y="500"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="360"  y="500"   width="64" height="64" graphic="img_frm_12"/>
+   
+   <Icon       name="icon_dlg"                  x="104"  y="564"   width="64" height="64" graphic="img_frm_10"/>
+   <Icon       name="icon_dlg"                  x="168"  y="564"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="232"  y="564"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="296"  y="564"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="360"  y="564"   width="64" height="64" graphic="img_frm_12"/>
+   
+   <Icon       name="icon_dlg"                  x="104"  y="628"   width="64" height="64" graphic="img_frm_20"/>
+   <Icon       name="icon_dlg"                  x="168"  y="628"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="232"  y="628"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="296"  y="628"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="360"  y="628"   width="64" height="64" graphic="img_frm_22"/>
+   
+   
+   <GamepadButton     name="gp_cancel"   id="999"  x="-100" y="-100" width="1" height="1"  buttonwidth="0" textoffsetx="0" textoffsety="0" font="font_button" text="[MENU]" graphic_button="img_gamepad_start" sound="asset_buttsound"
+					 gp_button="start"/>
+  
+</Menu>

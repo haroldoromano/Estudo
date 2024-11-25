@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EDIG">
+   <Description text="Iron Golems" />
+   <Location start="WLOB" end="CKUN" index="0" />
+   <Sprite id="ZIGO" />
+   <Script file="Assets\Encounters\EDIG.lua" object="EDIG" />
+</Encounter>

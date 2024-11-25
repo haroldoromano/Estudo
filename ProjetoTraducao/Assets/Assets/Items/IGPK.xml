@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IGPK">
+   <Text  name="[ITEM_IGPK_NAME]" power="[ITEM_IGPK_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="4" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IGPK.lua" object="IGPK"/>
+</Item>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SGOW">
+   <Text  name="[SPELL_SGOW_NAME]" description="[SPELL_SGOW_DESC]" detail="[SPELL_SGOW_DETL]"/>
+   <Cost  earth="0" fire="0" air="6" water="5" />
+   <Learn  score="500" masks="1" keys="2" />
+   <Data  cooldown="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SGOW.lua" object="SGOW"/>
+</Spell>

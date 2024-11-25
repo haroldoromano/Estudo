@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EUDD">
+   <Description text="Undead Dragon" />
+   <Location start="WSOI" end="CLBC" index="0" />
+   <Sprite id="ZUDR" />
+   <Script file="Assets\Encounters\EUDD.lua" object="EUDD" />
+</Encounter>

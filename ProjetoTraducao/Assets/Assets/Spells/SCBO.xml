@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SCBO">
+   <Text  name="[SPELL_SCBO_NAME]" description="[SPELL_SCBO_DESC]" detail="[SPELL_SCBO_DETL]"/>
+   <Cost  earth="8" fire="8" air="8" water="8" />
+   <Learn  score="680" masks="1" keys="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SCBO.lua" object="SCBO"/>
+</Spell>

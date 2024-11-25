@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Award id="AMME">
+   <Text  name="[AWD_AMME_NAME]" description="[AWD_AMME_DESC]" />
+   <Data  stat0="0" stat1="0" stat2="0" stat3="0" stat4="0" stat5="1" stat6="0"  />
+   <Script  file="Assets\Awards\AMME.lua" object="AMME"/>
+</Award>

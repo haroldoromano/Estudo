@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EDDS">
+   <Description text="Dragon Spider" />
+   <Location start="WDPS" end="CDRH" index="0" />
+   <Sprite id="ZGSX" />
+   <Script file="Assets\Encounters\EDDS.lua" object="EDDS" />
+</Encounter>

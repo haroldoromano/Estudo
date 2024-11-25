@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SCLI">
+   <Text  name="[SPELL_SCLI_NAME]" description="[SPELL_SCLI_DESC]" detail="[SPELL_SCLI_DETL]"/>
+   <Cost  earth="6" fire="0" air="9" water="6" />
+   <Learn  score="500" masks="1" keys="2" />
+   <Data  cooldown="0" />
+   <Input  type="column" />
+   <Script  file="Assets\Spells\SCLI.lua" object="SCLI"/>
+</Spell>

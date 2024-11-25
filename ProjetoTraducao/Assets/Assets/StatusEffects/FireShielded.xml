@@ -1,0 +1,6 @@
+<StatusEffect id="EFSH">
+	<Text		name="[STATUS_FIRESHIELDED_NAME]" description="[STATUS_FIRESHIELDED_DESC]" />
+	<Graphics	icon="24"/>
+	<Data		duration="8" stack="1"/>
+	<Script		file="Assets\StatusEffects\FireShielded.lua" object="FireShielded"/>
+</StatusEffect>

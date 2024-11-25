@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SDRR">
+   <Text  name="[SPELL_SDRR_NAME]" description="[SPELL_SDRR_DESC]" detail="[SPELL_SDRR_DETL]"/>
+   <Cost  earth="0" fire="25" air="15" water="0" />
+   <Learn  score="995" masks="0" keys="0" />
+   <Data  cooldown="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SDRR.lua" object="SDRR"/>
+</Spell>

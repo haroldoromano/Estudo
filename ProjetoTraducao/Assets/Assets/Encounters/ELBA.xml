@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ELBA">
+   <Description text="Arkliche" />
+   <Location start="WLOB" end="WIGK" index="0" />
+   <Sprite id="ZARK" />
+   <Script file="Assets\Encounters\ELBA.lua" object="ELBA" />
+</Encounter>

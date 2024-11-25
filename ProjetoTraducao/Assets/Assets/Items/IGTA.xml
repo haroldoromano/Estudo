@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IGTA">
+   <Text  name="[ITEM_IGTA_NAME]" power="[ITEM_IGTA_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="500" rarity="0" />
+   <Graphics  icon="40" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IGTA.lua" object="IGTA"/>
+</Item>

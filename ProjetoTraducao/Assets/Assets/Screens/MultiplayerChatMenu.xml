@@ -1,0 +1,26 @@
+<Menu x="0" y="0" width="1024" height="768" timer="off" draw="off" modal="off">
+   <Assets>
+   </Assets>
+   <String name="str_msg0" x="50" y="5" width="1000" height="20" multiline="off" justify="left" font="font_system"/>
+   <String name="str_msg1" x="50" y="25" width="1000" height="20" multiline="off" justify="left" font="font_system"/>
+   <String name="str_msg2" x="50" y="45" width="1000" height="20" multiline="off" justify="left" font="font_system"/>
+   <String name="str_msg3" x="50" y="65" width="1000" height="20" multiline="off" justify="left" font="font_system"/>
+   <String name="str_msg4" x="50" y="85" width="1000" height="20" multiline="off" justify="left" font="font_system"/>
+   <String name="str_msg5" x="50" y="105" width="1000" height="20" multiline="off" justify="left" font="font_system"/>
+   <String name="str_msg6" x="50" y="125" width="1000" height="20" multiline="off" justify="left" font="font_system"/>
+   <String name="str_msg7" x="50" y="145" width="1000" height="20" multiline="off" justify="left" font="font_system"/>
+   <String name="str_msg8" x="50" y="165" width="1000" height="20" multiline="off" justify="left" font="font_system"/>
+   
+   <Editor name="edit_msg" id="0" x="162" y="730" width="700" height="32" maxchars="85" caretwidth="20" caretheight="30" font="font_system" graphic="img_darken" graphic_caret="anim_caret"
+					  gp_button="" graphic_button="" buttonx="1" buttony="1" buttonwidth="30"  buttonheight="30" blink="img_editor_blink"/>
+					  
+   <Icon   name="icon_msg0" x="48" y="5" width="0" height="0" graphic="img_darken"/>
+   <Icon   name="icon_msg1" x="48" y="25" width="0" height="0" graphic="img_darken"/>
+   <Icon   name="icon_msg2" x="48" y="45" width="0" height="0" graphic="img_darken"/>
+   <Icon   name="icon_msg3" x="48" y="65" width="0" height="0" graphic="img_darken"/>
+   <Icon   name="icon_msg4" x="48" y="85" width="0" height="0" graphic="img_darken"/>
+   <Icon   name="icon_msg5" x="48" y="105" width="0" height="0" graphic="img_darken"/>
+   <Icon   name="icon_msg6" x="48" y="125" width="0" height="0" graphic="img_darken"/>
+   <Icon   name="icon_msg7" x="48" y="145" width="0" height="0" graphic="img_darken"/>
+   <Icon   name="icon_msg8" x="48" y="165" width="0" height="0" graphic="img_darken"/>
+</Menu>

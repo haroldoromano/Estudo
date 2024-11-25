@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<City id="CBAR">
+   <Text name="[CITY_CBAR_NAME]" description="[CITY_CBAR_DESC]"/>
+   <Graphics icon="3" type="0"/>
+   <Data x="1418" y="934" level="0" visible="yes" income="100" />
+   <Item tag="ITWH"/>
+   <Item tag="IWLM"/>
+   <Item tag="IGTS"/>
+   <Item tag="IMOA"/>
+   <Spell tag="SCHG"/>
+   <Spell tag="SBSG"/>
+</City>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2I4_ACTION]">Battle the Monster</Text>
+   <Text tag="[QUEST_Q2I4_FAILURE]">You have failed to defeat the Giants. The Pass remains blocked.</Text>
+   <Text tag="[QUEST_Q2I4_KILL]">You have cleared the Giants from the pass. Return to the Horned Temple for your reward.</Text>
+   <Text tag="[QUEST_Q2I4_RETURN]">Return to the Horned Temple</Text>
+   <Text tag="[QUEST_Q2I4_REWARD]">You have been rewarded for clearing the pass.</Text>
+   <Text tag="[QUEST_Q2I4_STEP1]">You must clear the Giants from the pass to Ar.</Text>
+   <Text tag="[QUEST_Q2I4_STEP2]">You must now return to the Horned Temple for your reward.</Text>
+
+</TextLibrary>

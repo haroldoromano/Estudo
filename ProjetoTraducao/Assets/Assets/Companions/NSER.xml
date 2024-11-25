@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Companion id="NSER">
+   <Text  name="[COMP_NSER_NAME]" description="[COMP_NSER_DESC]" activate="[COMP_NSER_ACTV]"  depart="[COMP_NSER_DEPT]"  goodbye="[COMP_NSER_GBYE]" 
+			race="[COMP_NSER_RACE]" gender="[COMP_NSER_GNDR]" flavor="[COMP_NSER_FLAV]"  age="16"/>
+   <Data  home="CBAR" portrait="Assets\Portraits\Portrait_NPC_PrincessSerephine.png" uses="0" />
+   <Script  file="Assets\Companions\NSER.lua" object="NSER"/>
+</Companion>

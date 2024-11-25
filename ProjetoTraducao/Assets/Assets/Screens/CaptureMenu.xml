@@ -1,0 +1,24 @@
+<Menu x="0" y="0" width="1024" height="768" timer="on" draw="on" modal="off">
+   <Assets>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttclose" active="img_buttclose_act" highlight="img_buttclose_hi" pressed="img_buttclose_pres" grayed="img_buttclose_gray"/>
+      <Button name="asset_buttmini" active="img_buttmini_act" highlight="img_buttmini_hi" pressed="img_buttmini_pres" grayed="img_buttmini_gray"/>
+      <Button name="asset_butthelp" active="img_butthelp_act" highlight="img_butthelp_hi" pressed="img_butthelp_pres" grayed="img_butthelp_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   <Pad		   name="pad_grid"           id="0"  x="217"  y="130" width="584"  height="584" />   
+
+   <Button     name="butt_close"         id="100" x="995" y="4"   width="20" height="20" key="0" graphic="asset_buttclose" sound="asset_buttsound"/>
+   <Button     name="butt_mini"          id="101" x="965"  y="4"   width="20" height="20" key="0" graphic="asset_buttmini" sound="asset_buttsound"/>
+
+   <String     name="str_name0"		x="48"  y="151" width="133" height="20" multiline="off" justify="center" font="font_small"/>
+   <String     name="str_name1"		x="841" y="151" width="133" height="20" multiline="off" justify="center" font="font_small"/>
+   <Icon       name="icon_char0"    x="50"  y="175" width="128" height="128" graphic="img_portrait0"/>
+   <Icon       name="icon_char1"    x="843" y="175" width="128" height="128" graphic="img_portrait1"/>
+
+   <String	   name="str_capture"			     x="256"  y="95"   width="512"  height="25" multiline="off" text="[CAPTURE]" justify="center" font="font_button"/>
+   <String     name="str_help"				     x="0"    y="733"  width="1024" height="18" multiline="off" text="[CAPTURE_HELP]" justify="center" font="font_small"/>
+   
+   <Icon       name="icon_psys"                  x="0"    y="0"   width="1024" height="768" graphic="img_psys"/>
+   <Icon       name="icon_grid"                  x="212"  y="45"  width="600"  height="680" graphic="img_grid"/>
+</Menu>

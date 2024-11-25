@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SRND">
+   <Text  name="[SPELL_SRND_NAME]" description="[SPELL_SRND_DESC]" detail="[SPELL_SRND_DETL]"/>
+   <Cost  earth="6" fire="2" air="6" water="0" />
+   <Learn  score="350" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SRND.lua" object="SRND"/>
+</Spell>

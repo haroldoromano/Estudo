@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Quest id="Q0S1">
+
+   <Text  name="[QUEST_Q0S1_NAME]" description="[QUEST_Q0S1_DESC]" group=""   file="English\Quests\Q0S1_Text.xml"/>
+   <Script  file="Assets\Quests\Q0S1.lua" object="Q0S1"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CBAR" minlevel="11" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q0" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MOGR">
+
+      <Name  tag="[QUEST_Q0S1_QMNAME0]"  help="[QUEST_Q0S1_QMHELP0]"  />
+      <Add  battle="0" cunning="1" morale="0" />
+      <Add  level="1" life="0" />
+      <Item  id="ISCH" />
+   </Battle>
+   <Battle  monster="MOGR">
+
+      <Name  tag="[QUEST_Q0S1_QMNAME1]"  help="[QUEST_Q0S1_QMHELP1]"  />
+      <Add  battle="1" cunning="0" morale="0" />
+      <Add  level="1" life="0" />
+      <Item  id="ITRI" />
+   </Battle>
+
+</Quest>

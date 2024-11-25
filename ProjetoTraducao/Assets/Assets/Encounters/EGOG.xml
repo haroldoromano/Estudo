@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EGOG">
+   <Description text="Ogre" />
+   <Location start="CGRU" end="WGRK" index="0" />
+   <Sprite id="ZOGR" />
+   <Script file="Assets\Encounters\EGOG.lua" object="EGOG" />
+</Encounter>

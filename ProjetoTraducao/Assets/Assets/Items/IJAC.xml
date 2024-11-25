@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IJAC">
+   <Text  name="[ITEM_IJAC_NAME]" power="[ITEM_IJAC_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="850" rarity="0" />
+   <Graphics  icon="46" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IJAC.lua" object="IJAC"/>
+</Item>

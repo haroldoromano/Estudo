@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2I6_ACTION]">Search for an Eye</Text>
+   <Text tag="[QUEST_Q2I6_FAILURE]">You have failed to defeat the Dragon Spider. You must try again if you want that eye.</Text>
+   <Text tag="[QUEST_Q2I6_KILL]">You have defeated the Dragon Spider.  The Eye is all yours.</Text>
+   <Text tag="[QUEST_Q2I6_RETURN]">Deliver the Eye</Text>
+   <Text tag="[QUEST_Q2I6_REWARD]">You have eased your conscience.</Text>
+   <Text tag="[QUEST_Q2I6_STEP1]">You must go to the Dragons&apos; Graveyard and get a Dragon&apos;s Eye.</Text>
+   <Text tag="[QUEST_Q2I6_STEP2]">You must now take the Dragon&apos;s Eye to Silvermyr.</Text>
+
+</TextLibrary>

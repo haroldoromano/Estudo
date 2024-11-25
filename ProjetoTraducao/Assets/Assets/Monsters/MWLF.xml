@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MWLF">
+   <Text name="[MONSTER_MWLF_NAME]" description="[MONSTER_MWLF_DESC]" capture="[MONSTER_MWLF_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Wolf.png" />
+   <Level min="4" max="7" base="4" levelto="25" />
+   <Skill earth="2" fire="2" air="2" water="3" battle="6" cunning="9" morale="2" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.20" fire="0.20" air="0.20" water="0.50" battle="1.00" cunning="1.00" morale="0.20" life="3.00" />
+   <Data life="55" mount="1" boss="0" />
+   <Reward minxp="20" maxxp="45" mingold="30" maxgold="60" />
+   <Types type1="Animal" type2="" type3="" type4="" />
+   <Mount speed="2" fly="0" spell="SHWL"  addstat="1" stat="3" addperlevel="1" addlevel="3" />
+   <Sprite id="ZWOF"  />
+   <Spell tag="SRBI" learn="0" />
+   <Spell tag="SHWL" learn="0" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="BB------" />
+      <Row data="RRB-----" />
+      <Row data="YYRY----" />
+      <Row data="GGYGG---" />
+      <Row data="RRGRRG--" />
+      <Row data="YYRYYRY-" />
+      <Row data="BBYBBYBB" />
+   </Capture>
+</Monster>

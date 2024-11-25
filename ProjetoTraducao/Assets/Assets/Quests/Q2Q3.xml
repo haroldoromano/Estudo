@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Quest id="Q2Q3">
+
+   <Text  name="[QUEST_Q2Q3_NAME]" description="[QUEST_Q2Q3_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q2Q3_Text.xml"/>
+   <Script  file="Assets\Quests\Q2Q3.lua" object="Q2Q3"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CHTP" minlevel="21" maxlevel="1000" repeat="1" 
+               donequest0="Q2Q2" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="0" />
+
+   <Battle  monster="MELG">
+
+   </Battle>
+   <Battle  monster="MGRI">
+
+   </Battle>
+
+</Quest>

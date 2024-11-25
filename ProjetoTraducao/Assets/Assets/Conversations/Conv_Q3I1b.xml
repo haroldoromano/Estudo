@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Q3I1: Return from Ice Crystal Mine."/>
+   <Text file="English\Conversations\Conv_Q3I1b_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_IceThroneRoom.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_NPC_QueenEhlanna.png" portraitindex="0" name="[Conv_Q3I1b_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3I1b_0000]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3I1b_0001]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3I1b_0002]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3I1b_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3I1b_0004]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3I1b_0005]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3I1b_0006]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3I1b_0007]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="Q3I1" function="CallbackConvB" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

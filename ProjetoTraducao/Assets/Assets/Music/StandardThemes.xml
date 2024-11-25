@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<Themes default="Theme_Selentia">
+
+	<Theme owner="QueenGwendholyn"	music="Theme_QueenOfBartonia" />
+	
+	<Theme owner="Drong"			music="Theme_Drong" />
+	
+	<Theme owner="Darkhunter"		music="Theme_Darkhunter" />
+	<Theme owner="LiandraGreythane" music="Theme_Darkhunter" />
+	
+	<Theme owner="Flicker"			music="Theme_Dragon" />
+	<Theme owner="Kelthurax"		music="Theme_Dragon" />
+	<Theme owner="Dragon"			music="Theme_Dragon" />
+	
+	<Theme owner="TauronFlamebite"	music="Theme_Tauron" />
+	<Theme owner="RedAxe"			music="Theme_Tauron" />
+	<Theme owner="Sunspear"			music="Theme_Tauron" />
+	
+	<Theme owner="LordBane"			music="Theme_LordBane" />
+	
+	<Theme owner="QueenEhlanna"		music="Theme_IceQueen" />
+	<Theme owner="QueenTitania"		music="Theme_IceQueen" />
+	<Theme owner="Winter"			music="Theme_IceQueen" />
+	<Theme owner="Iceguard"			music="Theme_IceQueen" />
+	
+	<Theme owner="Arkliche"			music="Theme_Necro" />
+	<Theme owner="Necromancer"		music="Theme_Necro" />
+	
+	<Theme owner="Elistara"			music="Theme_Elistara" />
+	
+	<Theme owner="Gruulkar"			music="Theme_Giant" />
+	<Theme owner="HillGiant"		music="Theme_Giant" />
+	<Theme owner="Jarl"				music="Theme_Giant" />
+	<Theme owner="Jotun"			music="Theme_Giant" />
+	<Theme owner="Orc"				music="Theme_Giant" />
+	
+	<Theme owner="Neehi"			music="Theme_Neehi" />
+	<Theme owner="Patch"			music="Theme_Neehi" />
+	<Theme owner="Gnoll"			music="Theme_Neehi" />
+	
+	<Theme owner="Khalkus"			music="Theme_Khalkus" />
+	<Theme owner="Khrona"			music="Theme_Khalkus" />
+	
+	<Theme owner="Serephine"		music="Theme_Selentia" />
+	<Theme owner="Selentius"		music="Theme_Selentia" />
+	<Theme owner="Guardsman"		music="Theme_Selentia" />
+	
+</Themes>

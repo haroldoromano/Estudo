@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3A3_ACTION]">Attack the Caravan</Text>
+   <Text tag="[QUEST_Q3A3_FAILURE]">You have failed to stop the caravan. You must try again.</Text>
+   <Text tag="[QUEST_Q3A3_REWARD]">You have stopped the Dark Dwarven caravan. You find they were supplying Lord Bane with metal for his armies.</Text>
+
+</TextLibrary>

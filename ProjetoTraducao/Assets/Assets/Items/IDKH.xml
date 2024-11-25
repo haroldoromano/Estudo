@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IDKH">
+   <Text  name="[ITEM_IDKH_NAME]" power="[ITEM_IDKH_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="1950" rarity="1" />
+   <Graphics  icon="3" />
+   <Restriction	type="skill" skill="earth" level="12"/>
+   <Script  file="Assets\Items\IDKH.lua" object="IDKH"/>
+</Item>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Quest id="Q2Q2">
+
+   <Text  name="[QUEST_Q2Q2_NAME]" description="[QUEST_Q2Q2_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q2Q2_Text.xml"/>
+   <Script  file="Assets\Quests\Q2Q2.lua" object="Q2Q2"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CHTP" minlevel="21" maxlevel="1000" repeat="1" 
+               donequest0="Q2Q1" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MMIN">
+
+   </Battle>
+   <Battle  monster="MMIN">
+
+      <Name  tag="[QUEST_Q2Q2_QMNAME1]"  help="[QUEST_Q2Q2_QMHELP1]"  />
+      <Add  battle="10" cunning="0" morale="0" />
+      <Add  level="5" life="10" />
+      <Item  id="IFPB" />
+      <Item  id="IHRA" />
+      <Spell  id="SCLV" />
+   </Battle>
+
+</Quest>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0S4_ACTION]">Search the Cave</Text>
+   <Text tag="[QUEST_Q0S4_FAILURE]">You have failed to defeat the Troll. You must try again!</Text>
+   <Text tag="[QUEST_Q0S4_MESSAGE]">There is no obvious sign of Embraxus the Dragon here. His cave looks empty.</Text>
+   <Text tag="[QUEST_Q0S4_REWARD]">You cannot find Embraxus the Dragon, but you do find a small amount of treasure on the Troll who was in his cave.</Text>
+   <Text tag="[QUEST_Q0S4_QMHELP0]">This Troll is slightly larger and tougher than normal; his giant claws allow him to cast the Rend spell.</Text>
+
+</TextLibrary>

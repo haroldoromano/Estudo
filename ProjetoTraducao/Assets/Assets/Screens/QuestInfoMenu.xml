@@ -1,0 +1,30 @@
+<Menu x="250" y="140" width="441" height="462" timer="off" draw="off" modal="on">
+   <Assets>
+      <Button name="asset_butttiny" active="img_butttiny_act" highlight="img_butttiny_hi" pressed="img_butttiny_pres" grayed="img_butttiny_gray"/>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttblank" active="img_blank" highlight="img_blank" pressed="img_blank" grayed="img_blank"/>
+	  <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   
+   <String     name="str_title"				    x="0"   y="60"  width="441" height="40" multiline="off" justify="center" font="font_script_medium"/>
+   
+   <String     name="str_difficulty"			x="100" y="100" width="241" height="100" multiline="off" justify="center" font="font_script_small"/>
+   <String     name="str_desc1"				    x="100" y="125" width="241" height="100" multiline="on"  justify="center" font="font_script_small"/>
+   <String     name="str_desc2"				    x="100" y="230" width="241" height="90"  multiline="on"  justify="center" font="font_script_small"/>
+   <String     name="str_progress"				x="100" y="320" width="241" height="100" multiline="off" justify="center" font="font_script_small"/>
+   
+  
+   <TextButton name="butt_done"			    id="0" x="268"  y="375" width="128" height="35" textoffsety="-2" key="13" font="font_system" text="[DONE]" graphic="asset_butttiny" sound="asset_buttsound"/>
+   <TextButton name="butt_abandon"          id="1" x="65" y="375" width="128" height="35" textoffsety="-2" key="27" font="font_system" text="[ABANDONQUEST]" graphic="asset_butttiny" sound="asset_buttsound"/>
+    
+   <GamepadButton     name="gp_done"   id="0"  x="268" y="375" width="200" height="32"  buttonwidth="32" textoffsetx="35" textoffsety="5" font="font_script_medium" text="[BACK]" graphic_button="img_gamepad_b" sound="asset_buttsound"
+					 gp_button="b"/>
+   <GamepadButton     name="gp_abandon"     id="1" x="50" y="375" width="240" height="32" buttonwidth="32" textoffsetx="35" textoffsety="5" font="font_script_medium" text="[ABANDONQUEST]"  graphic_button="img_gamepad_x" sound="asset_buttsound"
+					 gp_button="x"/>
+
+   <Icon       name="icon_dlg"                  x="0"    y="0"   width="441" height="462" graphic="img_bigscroll"/>
+   
+   <Icon       name="icon_mist"                  x="-250"  y="-140" width="1024" height="768" graphic="img_mist"/>
+   
+</Menu>

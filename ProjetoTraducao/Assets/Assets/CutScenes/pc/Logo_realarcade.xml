@@ -1,0 +1,105 @@
+<SlideShow duration="18500" x="0" y="0" width="1024" height="768" loop="off">
+
+	<Bitmap  id="0"  file="Assets\CutScenes\D3PLogo.jpg"/>
+	<Bitmap  id="1"  file="Assets\CutScenes\I2Logo.jpg"/>
+	<Bitmap  id="2"  file="Assets\CutScenes\VCSLogo.jpg"/>
+	<Bitmap  id="3"  file="Assets\CutScenes\ESRB_10_noMP.jpg"/>
+	<Bitmap  id="4"  file="Assets\CutScenes\Logo_valusoft.jpg"/>
+	<Bitmap  id="5"  file="Assets\CutScenes\Logo_realarcade.jpg"/>
+	
+	<Clear  x="-176" y="0" width="176" height="768"/>
+	<Clear  x="1024" y="0" width="176" height="768"/>
+	
+	<!-- Black -->	<Image id="0"  bitmap="0" x="0" y="770" width="50" height="50"/>	
+	<!-- D3P -->    <Image id="1"  bitmap="0" x="0" y="0" width="1024" height="768"/>	
+	<!-- I2 -->    	<Image id="2"  bitmap="1" x="0" y="0" width="1024" height="768"/>	
+	<!-- VCS -->   	<Image id="3"  bitmap="2" x="0" y="0" width="1024" height="768"/>	
+	<!-- ESRB -->  	<Image id="4"  bitmap="3" x="0" y="0" width="1024" height="768"/>	
+	<!-- VALU -->  	<Image id="5"  bitmap="4" x="0" y="0" width="1024" height="768"/>	
+	<!-- REAL -->  	<Image id="6"  bitmap="5" x="0" y="0" width="1024" height="768"/>	
+	
+	<!-- Black Screen -->
+	<Display image="0" start="0000" duration="1000" width="1024" height="768">
+	</Display>
+	
+	<!--  ESRB -->
+	<Display image="4" start="500" duration="5000">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+	</Display>
+	
+	<!-- Black Screen -->
+	<Display image="0" start="5000" duration="1000" width="1024" height="768">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+	</Display>
+	
+	<!--  D3P -->
+	<Display image="1" start="5500" duration="2500">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+		<Key parameter="scale" value="0.9" time="0000"/>
+		<Key parameter="scale" value="1.1" time="2500"/>
+	</Display>
+	
+	<!-- Black Screen -->
+	<Display image="0" start="7500" duration="1000" width="1024" height="768">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+	</Display>
+	
+	<!--  I2 -->
+	<Display image="2" start="8000" duration="2500" width="1024" height="768">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+		<Key parameter="scale" value="0.9" time="0000"/>
+		<Key parameter="scale" value="1.1" time="2500"/>
+	</Display>
+	
+	<!-- Black Screen -->
+	<Display image="0" start="10000" duration="1000" width="1024" height="768">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+	</Display>
+	
+	<!--  VCS -->
+	<Display image="3" start="10500" duration="2500" width="1024" height="768">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+		<Key parameter="scale" value="0.9" time="0000"/>
+		<Key parameter="scale" value="1.1" time="2500"/>
+	</Display>
+	
+	<!-- Fade to Black -->
+	<Display image="0" start="12500" duration="1000" width="1024" height="768">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+	</Display>
+	
+	<!--  VALUSOFT -->
+	<Display image="5" start="13000" duration="2500" width="1024" height="768">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+		<Key parameter="scale" value="0.9" time="0000"/>
+		<Key parameter="scale" value="1.1" time="2500"/>
+	</Display>
+	
+	<!-- Fade to Black -->
+	<Display image="0" start="15000" duration="1000" width="1024" height="768">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+	</Display>
+	
+	<!--  REAL ARCADE -->
+	<Display image="6" start="15500" duration="2500" width="1024" height="768">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+	</Display>
+	
+	<!-- Fade to Black -->
+	<Display image="0" start="17500" duration="1000" width="1024" height="768">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="500"/>
+	</Display>
+	
+</SlideShow>

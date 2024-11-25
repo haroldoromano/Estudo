@@ -1,0 +1,29 @@
+<?xml version="1.0"?> 
+<Effect name="SpellFireball1" bitmap="bmp_skin_battlemisc" type="oneshot" duration="1.2">
+
+	<Initialize parameter="source_x"	value="349" />
+	<Initialize parameter="source_y"	value="74" />
+	<Initialize parameter="source_w"	value="128" />
+	<Initialize parameter="source_h"	value="128" />
+	
+	<Initialize parameter="dest_x"		value="-8" />
+	<Initialize parameter="dest_y"		value="-8" />
+	<Initialize parameter="dest_w"		value="16" />
+	<Initialize parameter="dest_h"		value="16" />
+	
+	<Initialize parameter="alpha"		value="0.0" />
+	<Initialize parameter="rotation"	value="1.0" />
+	<Initialize parameter="color_r"		value="1.0" />
+	<Initialize parameter="color_g"		value="1.0" />
+	<Initialize parameter="color_b"		value="1.0" />
+
+	<Animate	parameter="alpha"		value="0.8"		time="0.2"	method="linear" />
+	<Animate	parameter="alpha"		value="0.9"		time="0.8"	method="linear" />
+	<Animate	parameter="alpha"		value="0.0"		time="1.2"	method="linear" />
+	<Animate	parameter="dest_x"		value="-220"	time="1.2"	method="linear" />
+	<Animate	parameter="dest_y"		value="-220"	time="1.2"	method="linear" />
+	<Animate	parameter="dest_w"		value="440"		time="1.2"	method="linear" />
+	<Animate	parameter="dest_h"		value="440"		time="1.2"	method="linear" />
+	<Initialize parameter="rotation"	value="1.1" />
+		
+</Effect>

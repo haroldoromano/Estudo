@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SLIG">
+   <Text  name="[SPELL_SLIG_NAME]" description="[SPELL_SLIG_DESC]" detail="[SPELL_SLIG_DETL]"/>
+   <Cost  earth="0" fire="6" air="10" water="0" />
+   <Learn  score="1450" masks="0" keys="1" />
+   <Data  cooldown="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SLIG.lua" object="SLIG"/>
+</Spell>

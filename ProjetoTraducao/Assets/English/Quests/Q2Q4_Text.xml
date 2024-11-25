@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2Q4_ACTION]">Challenge the Slaver</Text>
+   <Text tag="[QUEST_Q2Q4_FAILURE]">The Minotaur Slaver was too powerful for you.  You must try again.</Text>
+   <Text tag="[QUEST_Q2Q4_KILL]">The Minotaur Slaver has been defeated. You take the Tail of Sartek.</Text>
+   <Text tag="[QUEST_Q2Q4_RETURN]">Return the Tail</Text>
+   <Text tag="[QUEST_Q2Q4_REWARD]">The Tail of Sartek has been returned. Only 5 more pieces remain.</Text>
+   <Text tag="[QUEST_Q2Q4_STEP1]">You must travel to Blackhoof and fight for the Tail.</Text>
+   <Text tag="[QUEST_Q2Q4_STEP2]">You must return the Tail to the Horned Temple.</Text>
+   <Text tag="[QUEST_Q2Q4_QMHELP0]">This Minotaur Slaver wields the Tail of Sartek as a whip. When matching Red Mana it does from 1-10 extra damage.</Text>
+
+</TextLibrary>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EAOR">
+   <Description text="Orc" />
+   <Location start="WAPS" end="CGAL" index="0" />
+   <Sprite id="ZORC" />
+   <Script file="Assets\Encounters\EAOR.lua" object="EAOR" />
+</Encounter>

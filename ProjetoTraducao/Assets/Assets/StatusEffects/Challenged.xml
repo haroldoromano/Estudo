@@ -1,0 +1,6 @@
+<StatusEffect id="ECHA">
+	<Text		name="[STATUS_CHALLENGED_NAME]" description="[STATUS_CHALLENGED_DESC]" />
+	<Graphics	icon="17"/>
+	<Data		duration="6" stack="1"/>
+	<Script		file="Assets\StatusEffects\Challenged.lua" object="Challenged"/>
+</StatusEffect>

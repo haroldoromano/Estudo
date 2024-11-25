@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2J0_ACTION]">Take the Hammer</Text>
+   <Text tag="[QUEST_Q2J0_FAILURE]">You have failed to defeat Jotun and get the Hammer. You must try again.</Text>
+   <Text tag="[QUEST_Q2J0_KILL]">You have defeated Jotun.  The Hammer is now yours.</Text>
+   <Text tag="[QUEST_Q2J0_RETURN]">Return the Hammer</Text>
+   <Text tag="[QUEST_Q2J0_REWARD]">Jarl rewards you for returning his Hammer.</Text>
+   <Text tag="[QUEST_Q2J0_STEP1]">You must travel to Jotun&apos;s Keep and get the Hammer.</Text>
+   <Text tag="[QUEST_Q2J0_STEP2]">You must return the Hammer to Jarl&apos;s Keep.</Text>
+   <Text tag="[QUEST_Q2J0_QMNAME0]">Jotun</Text>
+
+</TextLibrary>

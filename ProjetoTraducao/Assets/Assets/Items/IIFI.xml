@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IIFI">
+   <Text  name="[ITEM_IIFI_NAME]" power="[ITEM_IIFI_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="200" rarity="0" />
+   <Graphics  icon="92" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IIFI.lua" object="IIFI"/>
+</Item>

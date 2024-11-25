@@ -1,0 +1,15 @@
+<Menu x="0" y="0" width="1024" height="768" timer="off" draw="off" modal="on" gp_entry="gp_button_a">
+   <Assets>
+      <Button name="asset_butthide" active="img_butthide_act" highlight="img_butthide_hi" pressed="img_butthide_pres" grayed="img_butthide_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   
+   <Button name="butt_hide" id="95" x="3" y="749" width="40"  height="18" key="0" graphic="asset_butthide" sound="asset_buttsound"
+							gp_button="x"/> 
+   <Icon   name="icon_tutorial"    x="0"   y="0"   width="1024" height="768" graphic="img_tutorial"/>
+   <Pad	   name="pad_screen"           id="99"  x="0"  y="0" width="1024"  height="768" />   
+   <Pad	   name="pad_block"           id="98"  x="140"  y="582" width="512"  height="186" />  
+    
+   <GamepadButton     name="gp_button_a"     id="830" x="0" y="0" width="1" height="1" buttonwidth="1" textoffsetx="0" textoffsety="0" font="font_system" graphic_button="img_blank" sound="asset_buttsound"
+					 gp_button="a"/>
+</Menu>

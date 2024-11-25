@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IRWM">
+   <Text  name="[ITEM_IRWM_NAME]" power="[ITEM_IRWM_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="450" rarity="4" />
+   <Graphics  icon="74" />
+   <Restriction	type="skill" skill="fire" level="4"/>
+   <Script  file="Assets\Items\IRWM.lua" object="IRWM"/>
+</Item>

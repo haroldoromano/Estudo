@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QU00_ACTION]">Battle a Frost Giant</Text>
+   <Text tag="[QUEST_QU00_FAILURE]">You have failed to defeat the Frost Giant. Sunspear asks that you try again.</Text>
+   <Text tag="[QUEST_QU00_NOCOMP]">You will need Sunspear in your party to watch you battle the Frost Giant.</Text>
+   <Text tag="[QUEST_QU00_REWARD]">Sunspear does not wish to fight the Frost Giant.</Text>
+   <Text tag="[QUEST_QU00_STEP1]">You must travel to Giants&apos; Walk and battle a Frost Giant.</Text>
+
+</TextLibrary>

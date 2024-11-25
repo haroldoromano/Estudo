@@ -1,0 +1,6 @@
+<StatusEffect id="EPAU">
+	<Text		name="[STATUS_PALADINSAURAED_NAME]" description="[STATUS_PALADINSAURAED_DESC]" />
+	<Graphics	icon="26"/>
+	<Data		duration="10" stack="1"/>
+	<Script		file="Assets\StatusEffects\PaladinsAuraed.lua" object="PaladinsAuraed"/>
+</StatusEffect>

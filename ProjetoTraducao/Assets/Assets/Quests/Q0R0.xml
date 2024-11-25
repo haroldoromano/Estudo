@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Quest id="Q0R0">
+
+   <Text  name="[QUEST_Q0R0_NAME]" description="[QUEST_Q0R0_DESC]" group=""   file="English\Quests\Q0R0_Text.xml"/>
+   <Script  file="Assets\Quests\Q0R0.lua" object="Q0R0"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CBAR" minlevel="1" maxlevel="1000" repeat="0" 
+               donequest0="Q0Q0" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="1" />
+
+
+</Quest>

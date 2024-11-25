@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Companion id="NSUN">
+   <Text  name="[COMP_NSUN_NAME]" description="[COMP_NSUN_DESC]" activate="[COMP_NSUN_ACTV]"  depart="[COMP_NSUN_DEPT]"  goodbye="[COMP_NSUN_GBYE]"  
+			race="[COMP_NSUN_RACE]" gender="[COMP_NSUN_GNDR]" flavor="[COMP_NSUN_FLAV]"  age="64"/>
+   <Data  home="CHTP" portrait="Assets\Portraits\Portrait_NPC_Sunspear.png" uses="0" />
+   <Script  file="Assets\Companions\NSUN.lua" object="NSUN"/>
+</Companion>

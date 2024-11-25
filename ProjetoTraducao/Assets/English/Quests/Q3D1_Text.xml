@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3D1_ACTION]">Search for the Dragon</Text>
+   <Text tag="[QUEST_Q3D1_ACTION2]">Battle the Dragon</Text>
+   <Text tag="[QUEST_Q3D1_FAILURE]">You have failed to defeat the Undead Dragon. You can try to fight it again or simply return to Elistara.</Text>
+   <Text tag="[QUEST_Q3D1_KILL]">You have defeated the Undead Dragon. You must return to Elistara with the news.</Text>
+   <Text tag="[QUEST_Q3D1_NOSIGN]">There is no sign of Elistara&apos;s Dragon here.</Text>
+   <Text tag="[QUEST_Q3D1_RETURN]">Return to Elistara</Text>
+   <Text tag="[QUEST_Q3D1_REWARD]">Elistara is devastated by the news.</Text>
+   <Text tag="[QUEST_Q3D1_STEP1]">You must search for Elistara&apos;s Dragon in the Realms of Death.</Text>
+   <Text tag="[QUEST_Q3D1_STEP2]">You may continue to try and fight the Dragon, or return to Elistara.</Text>
+   <Text tag="[QUEST_Q3D1_STEP3]">You must return to Elistara in Ylarie.</Text>
+   <Text tag="[QUEST_Q3D1_TRACKS]">You do not find the Dragon, but there appear to be some Dragon tracks leading towards Lord Bane&apos;s Citadel.</Text>
+
+</TextLibrary>

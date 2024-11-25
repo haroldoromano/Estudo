@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Monster id="MCIT">
+   <Text name="[MONSTER_MCIT_NAME]" description="[MONSTER_MCIT_DESC]" capture="[MONSTER_MCIT_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_City.png" />
+   <Level min="15" max="20" base="15" levelto="30" />
+   <Skill earth="5" fire="5" air="5" water="5" battle="30" cunning="5" morale="10" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.20" fire="0.20" air="0.20" water="0.20" battle="1.00" cunning="0.20" morale="0.50" life="3.00" />
+   <Data life="100" mount="0" boss="0" />
+   <Reward minxp="50" maxxp="80" mingold="100" maxgold="200" />
+   <Types type1="City" type2="" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id=""  />
+   <Item tag="ITWS"  />
+   <Item tag="IWLB"  />
+   <Item tag="IGTW"  />
+   <Item tag="IBOI"  />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+   </Capture>
+</Monster>

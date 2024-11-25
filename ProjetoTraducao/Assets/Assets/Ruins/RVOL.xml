@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RVOL">
+   <Text name="[RUIN_RVOL_NAME]" description="[RUIN_RVOL_DESC]"/>
+   <Graphics icon="13"/>
+   <Data x="1613" y="376" type="0" visible="no" attach="CHTP"/>
+</Ruin>

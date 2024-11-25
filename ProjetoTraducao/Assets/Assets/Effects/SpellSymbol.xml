@@ -1,0 +1,11 @@
+<?xml version="1.0"?> 
+<Effect name="SpellSymbol" bitmap="bmp_skin_battlemisc" type="oneshot" duration="2.7">
+
+	<Child      name="SpellSymbol0"	type="effect"	time="0.0" duration="2.0" x="0" y="0" position="global" />
+	<Child      name="SpellSymbol0"	type="effect"	time="0.3" duration="2.0" x="0" y="0" position="global" />
+	<Child      name="SpellSymbol0"	type="effect"	time="0.6" duration="2.0" x="0" y="0" position="global" />
+	
+	<Initialize parameter="dest_x"		value="0" />
+	<Initialize parameter="dest_y"		value="0" />
+		
+</Effect>

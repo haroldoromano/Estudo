@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3Q7_ACTION]">Fight Lord Bane</Text>
+   <Text tag="[QUEST_Q3Q7_FAILURE]">You manage to escape from Lord Bane&apos;s clutches.  You must try again!</Text>
+   <Text tag="[QUEST_Q3Q7_HUNGRY]">Lord Bane has been defeated, but Drong looks a little hungry...</Text>
+   <Text tag="[QUEST_Q3Q7_REWARD]">Lord Bane has finally been defeated.  For a time, at least, the Realms of Etheria are safe again.</Text>
+   <Text tag="[QUEST_Q3Q7_STEP1]">You must face Lord Bane in combat.  Only his defeat will stop the Undead invasion.</Text>
+
+</TextLibrary>

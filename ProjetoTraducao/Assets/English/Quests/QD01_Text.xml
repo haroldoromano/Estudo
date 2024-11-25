@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QD01_ACTION]">Battle the Fire Elemental</Text>
+   <Text tag="[QUEST_QD01_DRONG]">You do not need to battle the Fire Elemental as Drong is not here to try any of the rocks. You should return with Drong.</Text>
+   <Text tag="[QUEST_QD01_FAILURE]">You have failed to defeat the Fire Elemental. You&apos;ll need to beat it before Drong can have any tasty volcanic rocks.</Text>
+   <Text tag="[QUEST_QD01_REWARD]">Drong rewards you for finding him some tasty volcanic rocks.</Text>
+   <Text tag="[QUEST_QD01_STEP1]">You must journey to the Volcano to find volcanic rocks for Drong.</Text>
+
+</TextLibrary>

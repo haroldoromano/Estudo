@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Monster id="MORC">
+   <Text name="[MONSTER_MORC_NAME]" description="[MONSTER_MORC_DESC]" capture="[MONSTER_MORC_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Orc.png" />
+   <Level min="4" max="7" base="4" levelto="20" />
+   <Skill earth="3" fire="3" air="0" water="0" battle="8" cunning="3" morale="1" />
+   <Add earth="0.30" fire="0.40" air="0.20" water="0.20" battle="1.40" cunning="0.40" morale="0.20" life="3.00" />
+   <Data life="60" mount="0" />
+   <Reward minxp="25" maxxp="50" mingold="30" maxgold="50" />
+   <Types type1="Orc" type2="" type3="Evil" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZORC"  />
+   <Item tag="ILEA"  />
+   <Item tag="IORM"  />
+   <Item tag="ILEB"  />
+   <Spell tag="SENR" learn="1" />
+   <Capture>
+      <Row data="---SS---" />
+      <Row data="---YY---" />
+      <Row data="---RS---" />
+      <Row data="---SR---" />
+      <Row data="-GGSRGG-" />
+      <Row data="GSRRSRSG" />
+      <Row data="SRSSRSRS" />
+      <Row data="SRYSRYRS" />
+   </Capture>
+</Monster>

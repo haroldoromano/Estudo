@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0Q1_ACTION]">Search the Crypt</Text>
+   <Text tag="[QUEST_Q0Q1_FAILURE]">The Skeleton is still at large, you must continue your search for it.</Text>
+   <Text tag="[QUEST_Q0Q1_REWARD]">You have slain the Skeleton, but there appears to be no evidence of any cult activity.</Text>
+   <Text tag="[QUEST_Q0Q1_QMNAME0]">Rogue Skeleton</Text>
+   <Text tag="[QUEST_Q0Q1_QMHELP0]">This skeleton has a Ring of Earth that increases his Green Mana.</Text>
+
+</TextLibrary>

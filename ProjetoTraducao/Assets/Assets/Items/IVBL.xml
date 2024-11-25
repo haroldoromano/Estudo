@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IVBL">
+   <Text  name="[ITEM_IVBL_NAME]" power="[ITEM_IVBL_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1975" rarity="1" />
+   <Graphics  icon="51" />
+   <Restriction	type="skill" skill="fire" level="10"/>
+   <Script  file="Assets\Items\IVBL.lua" object="IVBL"/>
+</Item>

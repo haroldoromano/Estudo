@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="QK05">
+
+   <Text  name="[QUEST_QK05_NAME]" description="[QUEST_QK05_DESC]" group=""   file="English\Quests\QK05_Text.xml"/>
+   <Script  file="Assets\Quests\QK05.lua" object="QK05"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CEHL" minlevel="30" maxlevel="1000" repeat="1" 
+               donequest0="Q3I1" donequest1="QK04" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NKHA" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MDDW">
+
+   </Battle>
+
+</Quest>

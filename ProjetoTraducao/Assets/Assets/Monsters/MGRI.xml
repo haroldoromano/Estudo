@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Monster id="MGRI">
+   <Text name="[MONSTER_MGRI_NAME]" description="[MONSTER_MGRI_DESC]" capture="[MONSTER_MGRI_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Griffon.png" />
+   <Level min="11" max="15" base="11" levelto="30" />
+   <Skill earth="1" fire="3" air="14" water="1" battle="8" cunning="1" morale="5" />
+   <Add earth="0.10" fire="0.20" air="1.50" water="0.10" battle="0.50" cunning="0.20" morale="0.40" life="2.00" />
+   <Data life="85" mount="1" />
+   <Reward minxp="40" maxxp="60" mingold="45" maxgold="75" />
+   <Types type1="Flying" type2="Monster" type3="" type4="" />
+   <Mount speed="2" fly="1" spell="SDDI"  addstat="2" stat="2" addperlevel="1" addlevel="2" />
+   <Sprite id="ZGRI"  />
+   <Spell tag="SSOA" learn="0" />
+   <Spell tag="SDDI" learn="0" />
+   <Capture>
+      <Row data="-R--S---" />
+      <Row data="-B-SY---" />
+      <Row data="-B-YYS--" />
+      <Row data="-R-Y*G-G" />
+      <Row data="-G-*XB-R" />
+      <Row data="-G-**B-R" />
+      <Row data="RYBY*YGY" />
+      <Row data="YGY*YBYR" />
+   </Capture>
+</Monster>

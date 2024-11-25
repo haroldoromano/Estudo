@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IWHP">
+   <Text  name="[ITEM_IWHP_NAME]" power="[ITEM_IWHP_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="400" rarity="4" />
+   <Graphics  icon="97" />
+   <Restriction	type="skill" skill="cunning" level="5"/>
+   <Script  file="Assets\Items\IWHP.lua" object="IWHP"/>
+</Item>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SBRA">
+   <Text  name="[SPELL_SBRA_NAME]" description="[SPELL_SBRA_DESC]" detail="[SPELL_SBRA_DETL]"/>
+   <Cost  earth="6" fire="10" air="0" water="0" />
+   <Learn  score="750" masks="1" keys="2" />
+   <Data  cooldown="3" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SBRA.lua" object="SBRA"/>
+</Spell>

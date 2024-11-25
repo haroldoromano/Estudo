@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Quest id="Q0S4">
+
+   <Text  name="[QUEST_Q0S4_NAME]" description="[QUEST_Q0S4_DESC]" group=""   file="English\Quests\Q0S4_Text.xml"/>
+   <Script  file="Assets\Quests\Q0S4.lua" object="Q0S4"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CSIL" minlevel="10" maxlevel="1000" repeat="1" 
+               donequest0="" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MTRO">
+
+      <Name   help="[QUEST_Q0S4_QMHELP0]"  />
+      <Add  earth="0" fire="0" air="0" water="5" />
+      <Add  battle="0" cunning="2" morale="0" />
+      <Add  level="1" life="10" />
+      <Item  id="IROW" />
+      <Spell  id="SRND" />
+   </Battle>
+
+</Quest>

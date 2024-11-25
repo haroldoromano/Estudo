@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EZOM">
+   <Description text="Zombie" />
+   <Location start="CGAL" end="WSKE" index="0" />
+   <Sprite id="ZZOM" />
+   <Script file="Assets\Encounters\EZOM.lua" object="EZOM" />
+</Encounter>

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2I1_ACTION]">Battle the Fire Elemental</Text>
+   <Text tag="[QUEST_Q2I1_FAILURE]">You have failed to defeat the Fire Elemental. You must try again.</Text>
+   <Text tag="[QUEST_Q2I1_KILL]">You have defeated the Fire Elemental.</Text>
+   <Text tag="[QUEST_Q2I1_RETURN]">Help restore the Sacred Flame</Text>
+   <Text tag="[QUEST_Q2I1_REWARD]">The Sacred Flame has been restored. You are rewarded for your courage.</Text>
+   <Text tag="[QUEST_Q2I1_STEP1]">You must journey to the nearby Volcano to relight the Sacred Flame.</Text>
+   <Text tag="[QUEST_Q2I1_STEP2]">You must restore the Sacred Flame to the Horned Temple.</Text>
+
+</TextLibrary>

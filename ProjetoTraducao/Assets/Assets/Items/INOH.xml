@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="INOH">
+   <Text  name="[ITEM_INOH_NAME]" power="[ITEM_INOH_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="750" rarity="6" />
+   <Graphics  icon="2" />
+   <Restriction	type="level" level="5"/>
+   <Script  file="Assets\Items\INOH.lua" object="INOH"/>
+</Item>

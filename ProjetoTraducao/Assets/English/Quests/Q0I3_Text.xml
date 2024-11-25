@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0I3_ACTION]">Fight the Slavers</Text>
+   <Text tag="[QUEST_Q0I3_FAILURE]">There were more slavers than you thought. You must try again.</Text>
+   <Text tag="[QUEST_Q0I3_KILL]">The Slavers have been routed. You may now return to the Emperor and tell him of your success.</Text>
+   <Text tag="[QUEST_Q0I3_RETURN]">Visit the Emperor</Text>
+   <Text tag="[QUEST_Q0I3_REWARD]">The Emperor is pleased with you. He not only rewards you with gold, but also with a medal.</Text>
+   <Text tag="[QUEST_Q0I3_STEP1]">You must travel to the Slaver Camp and fight them.</Text>
+   <Text tag="[QUEST_Q0I3_STEP2]">You must now return to the Emperor for your reward.</Text>
+   <Text tag="[QUEST_Q0I3_QMNAME0]">Minotaur Slaver</Text>
+   <Text tag="[QUEST_Q0I3_QMHELP0]">This Minotaur has improved armor and a whip that deals damage whenever he matches Yellow Gems.</Text>
+
+</TextLibrary>

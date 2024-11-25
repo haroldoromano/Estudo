@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RSCC">
+   <Text name="[RUIN_RSCC_NAME]" description="[RUIN_RSCC_DESC]"/>
+   <Graphics icon="2"/>
+   <Data x="1616" y="677" type="2" visible="no" attach="CDKO"/>
+</Ruin>

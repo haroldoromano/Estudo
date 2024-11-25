@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3E1_ACTION]">Search for treasure</Text>
+   <Text tag="[QUEST_Q3E1_ATTACK]">A Flame Dragon surprises you during your search.</Text>
+   <Text tag="[QUEST_Q3E1_FAILURE]">You will have to defeat this Flame Dragon before you can try finding any treasure.</Text>
+   <Text tag="[QUEST_Q3E1_REWARD]">You have found some of Umbra&apos;s Treasure.</Text>
+
+</TextLibrary>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IWLM">
+   <Text  name="[ITEM_IWLM_NAME]" power="[ITEM_IWLM_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="500" rarity="0" />
+   <Graphics  icon="39" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IWLM.lua" object="IWLM"/>
+</Item>

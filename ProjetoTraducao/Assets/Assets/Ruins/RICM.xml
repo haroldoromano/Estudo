@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RICM">
+   <Text name="[RUIN_RICM_NAME]" description="[RUIN_RICM_DESC]"/>
+   <Graphics icon="2"/>
+   <Data x="988" y="341" type="2" visible="no" attach="WIGK"/>
+</Ruin>

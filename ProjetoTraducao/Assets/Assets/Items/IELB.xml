@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IELB">
+   <Text  name="[ITEM_IELB_NAME]" power="[ITEM_IELB_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="270" rarity="3" />
+   <Graphics  icon="15" />
+   <Restriction	type="skill" skill="earth" level="5"/>
+   <Script  file="Assets\Items\IELB.lua" object="IELB"/>
+</Item>

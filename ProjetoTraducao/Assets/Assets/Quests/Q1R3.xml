@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Quest id="Q1R3">
+
+   <Text  name="[QUEST_Q1R3_NAME]" description="[QUEST_Q1R3_DESC]" group="[QG_DRAG_NAME]"   file="English\Quests\Q1R3_Text.xml"/>
+   <Script  file="Assets\Quests\Q1R3.lua" object="Q1R3"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CDRH" minlevel="19" maxlevel="1000" repeat="1" 
+               donequest0="Q1R0" donequest1="Q1R1" donequest2="Q1R2" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MMIN">
+
+      <Add  level="2" life="0" />
+   </Battle>
+   <Battle  monster="MMIN">
+
+      <Add  level="4" life="0" />
+   </Battle>
+
+</Quest>

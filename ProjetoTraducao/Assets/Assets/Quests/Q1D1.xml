@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Quest id="Q1D1">
+
+   <Text  name="[QUEST_Q1D1_NAME]" description="[QUEST_Q1D1_DESC]" group="[QG_DRLA_NAME]"   file="English\Quests\Q1D1_Text.xml"/>
+   <Script  file="Assets\Quests\Q1D1.lua" object="Q1D1"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CGLK" minlevel="16" maxlevel="1000" repeat="1" 
+               donequest0="Q1D0" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MTRO">
+
+      <Name  tag="[QUEST_Q1D1_QMNAME0]"  help="[QUEST_Q1D1_QMHELP0]"  />
+      <Add  earth="0" fire="0" air="0" water="5" />
+      <Add  battle="2" cunning="0" morale="0" />
+      <Add  level="3" life="0" />
+      <Spell  id="SFRZ" />
+   </Battle>
+
+</Quest>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MIMP">
+   <Text name="[MONSTER_MIMP_NAME]" description="[MONSTER_MIMP_DESC]" capture="[MONSTER_MIMP_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Imp.png" />
+   <Level min="5" max="8" base="5" levelto="25" />
+   <Skill earth="0" fire="10" air="6" water="0" battle="3" cunning="5" morale="1" />
+   <Add earth="0.20" fire="0.80" air="0.50" water="0.20" battle="0.50" cunning="2.00" morale="0.20" life="3.00" />
+   <Data life="65" mount="0" />
+   <Reward minxp="30" maxxp="50" mingold="50" maxgold="80" />
+   <Types type1="Evil" type2="Flying" type3="Small" type4="" />
+   <Mount speed="0" fly="1" spell=""  addstat="1" stat="5" addperlevel="1" addlevel="2" />
+   <Sprite id="ZIMP"  />
+   <Spell tag="SBUR" learn="1" />
+   <Spell tag="STAU" learn="1" />
+   <Spell tag="SZAP" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="---OS---" />
+      <Row data="--SOOS--" />
+      <Row data="-OOSSOO-" />
+      <Row data="-RYOOYR-" />
+      <Row data="-RYOSYR-" />
+      <Row data="OSRSORSO" />
+      <Row data="SSYOSYSS" />
+   </Capture>
+</Monster>

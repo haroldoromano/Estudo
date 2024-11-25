@@ -1,0 +1,10 @@
+<Particle name="SmallFire" texture="Fire.png" radius="1" lifetime="0">
+	<Number max="70" release="8" interval="0.05" life="0.4" />
+	<Graphics blend="additive" size="0.15" r="0.9" g="0.9" b="0.05" a="1.0"/>
+	<Animation size="0.03" r="0.9" g="0.05" b="0.05" a="0.7" start="0.0"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.02"/>
+	<Velocity x="0.0" y="0.3" z="0.0" var="0.1"/>
+	<Gravity x="0.0" y="0.0" z="0.0"/>
+	<Forces airresistance="on" wind="off"/>
+	<Shape steps="1"/>
+</Particle>

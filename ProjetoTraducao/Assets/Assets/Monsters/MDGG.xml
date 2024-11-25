@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Monster id="MDGG">
+   <Text name="[MONSTER_MDGG_NAME]" description="[MONSTER_MDGG_DESC]" capture="[MONSTER_MDGG_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_NPC_Dugog.png" />
+   <Level min="18" max="24" base="18" levelto="100" />
+   <Skill earth="2" fire="10" air="4" water="1" battle="20" cunning="5" morale="6" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.20" fire="0.20" air="0.20" water="0.20" battle="0.50" cunning="0.20" morale="0.20" life="3.00" />
+   <Data life="110" mount="0" boss="1" />
+   <Reward minxp="100" maxxp="150" mingold="120" maxgold="170" />
+   <Types type1="Large" type2="Giant" type3="Evil" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZOGR"  />
+   <Item tag="IXHD"  />
+   <Item tag="IFPA"  />
+   <Item tag="IDCL"  />
+   <Item tag="ITRI"  />
+   <Spell tag="SDRR" learn="0" />
+   <Spell tag="STHU" learn="0" />
+   <Spell tag="SBAC" learn="0" />
+   <Spell tag="SSTO" learn="0" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+   </Capture>
+</Monster>

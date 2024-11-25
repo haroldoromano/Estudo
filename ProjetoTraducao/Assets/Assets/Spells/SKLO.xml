@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SKLO">
+   <Text  name="[SPELL_SKLO_NAME]" description="[SPELL_SKLO_DESC]" detail="[SPELL_SKLO_DETL]"/>
+   <Cost  earth="6" fire="0" air="6" water="6" />
+   <Learn  score="800" masks="1" keys="2" />
+   <Data  cooldown="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SKLO.lua" object="SKLO"/>
+</Spell>

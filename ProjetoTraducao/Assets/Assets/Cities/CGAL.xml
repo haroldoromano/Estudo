@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<City id="CGAL">
+   <Text name="[CITY_CGAL_NAME]" description="[CITY_CGAL_DESC]"/>
+   <Graphics icon="19" type="0"/>
+   <Data x="1522" y="1225" level="0" visible="no" income="120" />
+   <Item tag="ITWH"/>
+   <Item tag="IWLB"/>
+   <Item tag="IGTI"/>
+   <Item tag="IBOI"/>
+   <Spell tag="SCHG"/>
+   <Spell tag="SBAC"/>
+</City>

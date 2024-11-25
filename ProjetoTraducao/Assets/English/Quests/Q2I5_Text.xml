@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2I5_ACTION1]">Deliver Jarl&apos;s Invitation</Text>
+   <Text tag="[QUEST_Q2I5_ACTION2]">Deliver Jotun&apos;s Invitation</Text>
+   <Text tag="[QUEST_Q2I5_KILL1]">You have successfully delivered Jarl&apos;s invitation. You still need to deliver Jotun&apos;s.</Text>
+   <Text tag="[QUEST_Q2I5_KILL2]">You have successfully delivered Jotun&apos;s invititation. You still need to deliver Jarl&apos;s.</Text>
+   <Text tag="[QUEST_Q2I5_KILL3]">You have successfully delivered the invitations. Return to the City of Tusk for your reward.</Text>
+   <Text tag="[QUEST_Q2I5_RETURN]">Recieve your delivery fee</Text>
+   <Text tag="[QUEST_Q2I5_REWARD]">You are rewarded well for your services.</Text>
+   <Text tag="[QUEST_Q2I5_STEP0]">You must deliver both invitations to Jarl and Jotun.</Text>
+   <Text tag="[QUEST_Q2I5_STEP1]">You have delivered Jarl&apos;s invitation. You must now deliver Jotun&apos;s.</Text>
+   <Text tag="[QUEST_Q2I5_STEP2]">You have delivered Jotun&apos;s invitation. You must now deliver Jarl&apos;s.</Text>
+   <Text tag="[QUEST_Q2I5_STEP3]">You have delivered both invitations. You must now return to the City of Tusk to collect your delivery fee.</Text>
+
+</TextLibrary>

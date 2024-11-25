@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RWCV">
+   <Text name="[RUIN_RWCV_NAME]" description="[RUIN_RWCV_DESC]"/>
+   <Graphics icon="2"/>
+   <Data x="1971" y="861" type="2" visible="no" attach="WBHE"/>
+</Ruin>

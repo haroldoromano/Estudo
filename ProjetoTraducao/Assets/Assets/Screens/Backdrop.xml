@@ -1,0 +1,3 @@
+<Menu x="0" y="0" width="1024" height="768" timer="on" draw="off" modal="off">
+   <Icon       name="icon_static"       x="0"   y="0" width="1024" height="768" graphic="img_backdrop"/>
+</Menu>

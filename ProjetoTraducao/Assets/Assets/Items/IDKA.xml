@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IDKA">
+   <Text  name="[ITEM_IDKA_NAME]" power="[ITEM_IDKA_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="1950" rarity="1" />
+   <Graphics  icon="23" />
+   <Restriction	type="skill" skill="earth" level="12"/>
+   <Script  file="Assets\Items\IDKA.lua" object="IDKA"/>
+</Item>

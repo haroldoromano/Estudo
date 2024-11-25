@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EGRO">
+   <Description text="Wolfrider" />
+   <Location start="WSFA" end="CGRU" index="0" />
+   <Sprite id="ZWFR" />
+   <Script file="Assets\Encounters\EGRO.lua" object="EGRO" />
+</Encounter>

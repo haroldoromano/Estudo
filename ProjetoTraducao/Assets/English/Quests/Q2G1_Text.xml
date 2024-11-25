@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2G1_ACTION]">Fight the Assassin</Text>
+   <Text tag="[QUEST_Q2G1_FAILURE]">You have failed to defeat the Assassin. You must try again.</Text>
+   <Text tag="[QUEST_Q2G1_KILL]">You have defeated the Assassin. When all three are gone you should return to Patch in Hyaan.</Text>
+   <Text tag="[QUEST_Q2G1_MSG]">You have spotted one of the Imperial Assassins.</Text>
+   <Text tag="[QUEST_Q2G1_RETURN]">Return to Patch</Text>
+   <Text tag="[QUEST_Q2G1_REWARD]">Patch rewards you handsomely once again.</Text>
+   <Text tag="[QUEST_Q2G1_STEP1]">You must find and defeat three Assassins that are looking for Patch.</Text>
+   <Text tag="[QUEST_Q2G1_STEP2]">You must return to Patch and give him the good news.</Text>
+   <Text tag="[QUEST_Q2G1_QMNAME0]">Assassin</Text>
+
+</TextLibrary>

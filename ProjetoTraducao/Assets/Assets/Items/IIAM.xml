@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IIAM">
+   <Text  name="[ITEM_IIAM_NAME]" power="[ITEM_IIAM_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="625" rarity="4" />
+   <Graphics  icon="24" />
+   <Restriction	type="skill" skill="morale" level="10"/>
+   <Script  file="Assets\Items\IIAM.lua" object="IIAM"/>
+</Item>

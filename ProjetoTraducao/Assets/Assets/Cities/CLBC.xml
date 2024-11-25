@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<City id="CLBC">
+   <Text name="[CITY_CLBC_NAME]" description="[CITY_CLBC_DESC]"/>
+   <Graphics icon="4" type="1"/>
+   <Data x="955" y="175" level="0" visible="no" income="200" />
+   <Item tag="ITWH"/>
+   <Item tag="IWLM"/>
+   <Item tag="IGTA"/>
+   <Item tag="IMND"/>
+   <Spell tag="SWTD"/>
+   <Spell tag="SSPF"/>
+   <Spell tag="SBST"/>
+   <Spell tag="SDBR"/>
+</City>

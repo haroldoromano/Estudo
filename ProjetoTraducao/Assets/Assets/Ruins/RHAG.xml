@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RHAG">
+   <Text name="[RUIN_RHAG_NAME]" description="[RUIN_RHAG_DESC]"/>
+   <Graphics icon="13"/>
+   <Data x="636" y="421" type="0" visible="no" attach="WRAG"/>
+</Ruin>

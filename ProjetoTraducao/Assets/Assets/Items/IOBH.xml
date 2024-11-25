@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IOBH">
+   <Text  name="[ITEM_IOBH_NAME]" power="[ITEM_IOBH_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="1200" rarity="0" />
+   <Graphics  icon="28" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IOBH.lua" object="IOBH"/>
+</Item>

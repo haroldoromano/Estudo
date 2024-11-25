@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SFLV">
+   <Text  name="[SPELL_SFLV_NAME]" description="[SPELL_SFLV_DESC]" detail="[SPELL_SFLV_DETL]"/>
+   <Cost  earth="5" fire="25" air="5" water="10" />
+   <Learn  score="860" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SFLV.lua" object="SFLV"/>
+</Spell>

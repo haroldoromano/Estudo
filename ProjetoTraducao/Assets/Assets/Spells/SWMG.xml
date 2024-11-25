@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SWMG">
+   <Text  name="[SPELL_SWMG_NAME]" description="[SPELL_SWMG_DESC]" detail="[SPELL_SWMG_DETL]"/>
+   <Cost  earth="8" fire="8" air="8" water="8" />
+   <Learn  score="450" masks="1" keys="2" />
+   <Data  cooldown="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SWMG.lua" object="SWMG"/>
+</Spell>

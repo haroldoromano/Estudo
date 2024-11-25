@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IBNX">
+   <Text  name="[ITEM_IBNX_NAME]" power="[ITEM_IBNX_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="69" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IBNX.lua" object="IBNX"/>
+</Item>

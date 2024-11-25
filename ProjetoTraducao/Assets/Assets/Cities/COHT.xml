@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<City id="COHT">
+   <Text name="[CITY_COHT_NAME]" description="[CITY_COHT_DESC]"/>
+   <Graphics icon="16" type="1"/>
+   <Data x="1624" y="179" level="0" visible="no" income="150" />
+   <Item tag="ITWP"/>
+   <Item tag="IWLM"/>
+   <Item tag="IGTA"/>
+   <Item tag="IFMO"/>
+   <Spell tag="SBRA"/>
+   <Spell tag="SCHG"/>
+   <Spell tag="SROF"/>
+</City>

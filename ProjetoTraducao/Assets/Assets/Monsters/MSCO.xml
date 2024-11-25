@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Monster id="MSCO">
+   <Text name="[MONSTER_MSCO_NAME]" description="[MONSTER_MSCO_DESC]" capture="[MONSTER_MSCO_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Scorpion.png" />
+   <Level min="7" max="10" base="7" levelto="30" />
+   <Skill earth="7" fire="6" air="1" water="0" battle="10" cunning="4" morale="0" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.20" fire="0.20" air="0.20" water="0.20" battle="0.50" cunning="0.20" morale="0.20" life="3.00" />
+   <Data life="60" mount="1" boss="0" />
+   <Reward minxp="35" maxxp="60" mingold="20" maxgold="60" />
+   <Types type1="Animal" type2="" type3="Large" type4="" />
+   <Mount speed="0" fly="0" spell="SHID"  addstat="1" stat="0" addperlevel="1" addlevel="3" />
+   <Sprite id="ZSCO"  />
+   <Item tag="ICAR"  />
+   <Item tag="ISTG"  />
+   <Spell tag="SHID" learn="0" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="YBGBYBGR" />
+      <Row data="RYBGBYBG" />
+      <Row data="YBGBYBGR" />
+   </Capture>
+</Monster>

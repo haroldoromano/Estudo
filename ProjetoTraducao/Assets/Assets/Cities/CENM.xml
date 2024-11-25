@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<City id="CENM">
+   <Text name="[CITY_CENM_NAME]" description="[CITY_CENM_DESC]"/>
+   <Graphics icon="0" type="0"/>
+   <Data x="1202" y="883" level="0" visible="no" income="150" />
+   <Item tag="ITWS"/>
+   <Item tag="IWLB"/>
+   <Item tag="IGTW"/>
+   <Item tag="IBOI"/>
+   <Spell tag="SCHG"/>
+</City>

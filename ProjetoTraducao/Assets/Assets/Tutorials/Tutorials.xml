@@ -1,0 +1,275 @@
+<?xml version="1.0"?>
+<Tutorials>
+
+	<!-- Main Menu -->
+	<Tutorial	name="MainMenu" 
+				heading="[MAINMENU_HEADING]" description="[MAINMENU_TEXT]" description_gamepad="[MAINMENU_GP_TEXT]"
+				type="global" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_MainMenu"/>
+	
+	<Tutorial	name="MainMenu2" 
+				heading="[MAINMENU2_HEADING]" description="[MAINMENU2_TEXT]"
+				type="global" appearances="1" modal="no" continue="no" position="left"
+				event="OnTutorial_MainMenu2"/>
+	
+	<Tutorial	name="CreateHeroMenu" 
+				heading="[CREATEHERO_HEADING]" description="[CREATEHERO_TEXT]"
+				type="global" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_CreateHero"/>
+	
+	<Tutorial	name="SinglePlayerMenu" 
+				heading="[SINGLEPLAYERMENU_HEADING]" description="[SINGLEPLAYERMENU_TEXT]"
+				type="global" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_SinglePlayerMenu"/>
+	
+	<Tutorial	name="TavernMenu" 
+				heading="[TAVERNMENU_HEADING]" description="[TAVERNMENU_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_TavernMenu"/>
+	
+	<Tutorial	name="ShopMenu" 
+				heading="[SHOPMENU_HEADING]" description="[SHOPMENU_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_ShopMenu"/>
+				
+	<Tutorial	name="SellItemsMenu" 
+				heading="[SELLITEMSMENU_HEADING]" description="[SELLITEMSMENU_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_SellItemsMenu"/>
+	
+	<Tutorial	name="Inv_Intro" 
+				heading="[INV_INTRO_HEADING]" description="[INV_INTRO_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_InventoryIntro"/>
+	
+	<Tutorial	name="Inv_Items" 
+				heading="[INV_ITEMS_HEADING]" description="[INV_ITEMS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_InventoryItems"/>
+	
+	<Tutorial	name="Inv_Spells" 
+				heading="[INV_SPELLS_HEADING]" description="[INV_SPELLS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_InventorySpells"/>
+	
+	<Tutorial	name="Inv_Companions" 
+				heading="[INV_COMPANIONS_HEADING]" description="[INV_COMPANIONS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_InventoryCompanions"/>
+	
+	<Tutorial	name="Inv_Pets" 
+				heading="[INV_PETS_HEADING]" description="[INV_PETS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_InventoryPets"/>
+	
+	<Tutorial	name="Inv_Mounts" 
+				heading="[INV_MOUNTS_HEADING]" description="[INV_MOUNTS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_InventoryMounts"/>
+	
+	<Tutorial	name="Inv_Awards" 
+				heading="[INV_AWARDS_HEADING]" description="[INV_AWARDS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_InventoryAwards"/>
+	
+	<Tutorial	name="Inv_Battles" 
+				heading="[INV_BATTLES_HEADING]" description="[INV_BATTLES_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_InventoryBattles"/>
+	
+	<Tutorial	name="Inv_Kingdom" 
+				heading="[INV_KINGDOM_HEADING]" description="[INV_KINGDOM_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_InventoryKingdom"/>
+	
+	<Tutorial	name="Inv_Rumors" 
+				heading="[INV_RUMORS_HEADING]" description="[INV_RUMORS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_InventoryRumors"/>
+	
+	<Tutorial	name="YourCity_Intro" 
+				heading="[YOURCITY_INTRO_HEADING]" description="[YOURCITY_INTRO_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_YourCityMenu"/>
+	
+	<Tutorial	name="YourCity_Items" 
+				heading="[YOURCITY_ITEMS_HEADING]" description="[YOURCITY_ITEMS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_YourCityItems"/>
+	
+	<Tutorial	name="YourCity_Spells" 
+				heading="[YOURCITY_SPELLS_HEADING]" description="[YOURCITY_SPELLS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_YourCitySpells"/>
+	
+	<Tutorial	name="YourCity_Pets" 
+				heading="[YOURCITY_PETS_HEADING]" description="[YOURCITY_PETS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_YourCityPets"/>
+	
+	<Tutorial	name="YourCity_Mounts" 
+				heading="[YOURCITY_MOUNTS_HEADING]" description="[YOURCITY_MOUNTS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_YourCityMounts"/>
+	
+	<Tutorial	name="YourCity_Cities" 
+				heading="[YOURCITY_CITIES_HEADING]" description="[YOURCITY_CITIES_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_YourCityCities"/>
+	
+	<Tutorial	name="YourCity_Skills" 
+				heading="[YOURCITY_SKILLS_HEADING]" description="[YOURCITY_SKILLS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_YourCitySkills"/>
+	
+	<Tutorial	name="YourCity_Tower" 
+				heading="[YOURCITY_TOWER_HEADING]" description="[YOURCITY_TOWER_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_YourCityTower"/>
+	
+	<Tutorial	name="YourCity_Vault" 
+				heading="[YOURCITY_VAULT_HEADING]" description="[YOURCITY_VAULT_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_YourCityVault"/>
+	
+	<Tutorial	name="LevelUpMenu" 
+				heading="[LEVELUPMENU_HEADING]" description="[LEVELUPMENU_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_LevelUpMenu"/>
+	
+	<Tutorial	name="CaptureMenu" 
+				heading="[CAPTUREMENU_HEADING]" description="[CAPTUREMENU_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_CaptureMenu"/>
+	
+	<Tutorial	name="ItemGameMenu" 
+				heading="[ITEMGAMEMENU_HEADING]" description="[ITEMGAMEMENU_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_ItemGameMenu"/>
+	
+	<Tutorial	name="SpellGameMenu" 
+				heading="[SPELLGAMEMENU_HEADING]" description="[SPELLGAMEMENU_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_SpellGameMenu"/>
+	
+	<Tutorial	name="MapMenu" 
+				heading="[MAPMENU_HEADING]" description="[MAPMENU_TEXT]" description_gamepad="[MAPMENU_GP_TEXT]"
+				type="hero" appearances="0" modal="yes" continue="yes" position="left"
+				event="OnTutorial_MapMenu"/>
+	
+	<Tutorial	name="MapMenuQuest" 
+				heading="[MAPMENUQUEST_HEADING]" description="[MAPMENUQUEST_TEXT]" description_gamepad="[MAPMENUQUEST_GP_TEXT]"
+				type="hero" appearances="0" modal="yes" continue="yes" position="left"
+				event="OnTutorial_MapMenu"/>
+	
+	<Tutorial	name="MapMenuHero" 
+				heading="[MAPMENUHERO_HEADING]" description="[MAPMENUHERO_TEXT]" description_gamepad="[MAPMENUHERO_GP_TEXT]"
+				type="hero" appearances="0" modal="yes" continue="yes" position="left"
+				event="OnTutorial_MapMenu"/>
+	
+	<Tutorial	name="SelectSpellMenu" 
+				heading="[SELECTSPELLMENU_HEADING]" description="[SELECTSPELLMENU_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_SelectSpellMenu"/>
+	
+	<Tutorial	name="SelectRuneMenu" 
+				heading="[SELECTRUNEMENU_HEADING]" description="[SELECTRUNEMENU_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_SelectRuneMenu"/>
+	
+	<Tutorial	name="SelectMountMenu" 
+				heading="[SELECTMOUNTMENU_HEADING]" description="[SELECTMOUNTMENU_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_SelectMountMenu"/>
+	
+	<Tutorial	name="ManaDrain" 
+				heading="[MANADRAIN_HEADING]" description="[MANADRAIN_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_ManaDrain"/>
+	
+	<Tutorial	name="IllegalMove0" 
+				heading="[ILLEGALMOVE0_HEADING]" description="[ILLEGALMOVE0_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_IllegalMove0"/>
+	
+	<Tutorial	name="IllegalMove1" 
+				heading="[ILLEGALMOVE1_HEADING]" description="[ILLEGALMOVE1_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_IllegalMove1"/>
+	
+	<Tutorial	name="HeroicEffort" 
+				heading="[HEROICEFFORT_HEADING]" description="[HEROICEFFORT_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_HeroicEffort"/>
+	
+	<Tutorial	name="QuestIntro" 
+				heading="[QUESTINTRO_HEADING]" description="[QUESTINTRO_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_QuestIntro"/>
+	
+	<Tutorial	name="QuestIntro_a" 
+				heading="[QUESTINTRO_HEADING_a]" description="[QUESTINTRO_TEXT_a]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_QuestIntro"/>
+	
+	<Tutorial	name="QuestIntro2" 
+				heading="[QUESTINTRO2_HEADING]" description="[QUESTINTRO2_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_QuestIntro2"/>
+	
+	<Tutorial	name="QuestIntro2_a" 
+				heading="[QUESTINTRO2_HEADING_a]" description="[QUESTINTRO2_TEXT_a]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_QuestIntro2"/>
+	
+	<Tutorial	name="QuestMove" 
+				heading="[QUESTMOVE_HEADING]" description="[QUESTMOVE_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_QuestMove"/>
+	
+	<Tutorial	name="QuestAction" 
+				heading="[QUESTACTION_HEADING]" description="[QUESTACTION_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_QuestAction"/>
+	
+	<Tutorial	name="QuestMoreQuests" 
+				heading="[QUESTMOREQUESTS_HEADING]" description="[QUESTMOREQUESTS_TEXT]"
+				type="hero" appearances="1" modal="yes" continue="yes" position="left"
+				event="OnTutorial_QuestMoreQuests"/>
+	
+	<Tutorial	name="Quest_T1" 
+				heading="[QUEST_T1_HEADING]" description="[QUEST_T1_TEXT]"
+				type="hero" appearances="0" modal="yes" continue="yes" position="left"
+				event="OnTutorial_Quest_T1"/>
+	
+	<Tutorial	name="Quest_T1aa" 
+				heading="[QUEST_T1aa_HEADING]" description="[QUEST_T1aa_TEXT]" description_gamepad="[QUEST_T1aa_GP_TEXT]"
+				type="hero" appearances="0" modal="yes" continue="yes" position="left"
+				event="OnTutorial_Quest_T1aa"/>
+	
+	<Tutorial	name="Quest_T1a" 
+				heading="[QUEST_T1a_HEADING]" description="[QUEST_T1a_TEXT]"
+				type="hero" appearances="0" modal="yes" continue="yes" position="left"
+				event="OnTutorial_Quest_T1a"/>
+	
+	<Tutorial	name="Quest_T1b" 
+				heading="[QUEST_T1b_HEADING]" description="[QUEST_T1b_TEXT]"
+				type="hero" appearances="0" modal="yes" continue="yes" position="left"
+				event="OnTutorial_Quest_T1b"/>
+	
+	<Tutorial	name="Quest_T2" 
+				heading="[QUEST_T2_HEADING]" description="[QUEST_T2_TEXT]"
+				type="hero" appearances="0" modal="yes" continue="yes" position="left"
+				event="OnTutorial_Quest_T2"/>
+	
+	<Tutorial	name="Quest_T2a" 
+				heading="[QUEST_T2a_HEADING]" description="[QUEST_T2a_TEXT]"
+				type="hero" appearances="0" modal="yes" continue="yes" position="left"
+				event="OnTutorial_Quest_T2a"/>
+	
+	<Tutorial	name="Quest_T2b" 
+				heading="[QUEST_T2b_HEADING]" description="[QUEST_T2b_TEXT]"
+				type="hero" appearances="0" modal="yes" continue="yes" position="left"
+				event="OnTutorial_Quest_T2b"/>
+	
+</Tutorials>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SDBR">
+   <Text  name="[SPELL_SDBR_NAME]" description="[SPELL_SDBR_DESC]" detail="[SPELL_SDBR_DETL]"/>
+   <Cost  earth="8" fire="16" air="8" water="8" />
+   <Learn  score="1500" masks="1" keys="2" />
+   <Data  cooldown="3" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SDBR.lua" object="SDBR"/>
+</Spell>

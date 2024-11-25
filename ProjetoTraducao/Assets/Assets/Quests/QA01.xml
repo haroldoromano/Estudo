@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="QA01">
+
+   <Text  name="[QUEST_QA01_NAME]" description="[QUEST_QA01_DESC]" group=""   file="English\Quests\QA01_Text.xml"/>
+   <Script  file="Assets\Quests\QA01.lua" object="QA01"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CDKO" minlevel="16" maxlevel="1000" repeat="1" 
+               donequest0="QA00" donequest1="Q1Q6" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NDKH" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MKNI">
+
+   </Battle>
+
+</Quest>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Q2Q4: Return Tail"/>
+   <Text file="English\Conversations\Conv_Q2Q4b_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_SartekTemple.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_NPC_TauronFlamebite_Large.png" portraitindex="0" name="[Conv_Q2Q4b_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="1" text="[Conv_Q2Q4b_0000]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q2Q4b_0001]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q2Q4b_0002]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q2Q4b_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q2Q4b_0004]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q2Q4b_0005]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q2Q4b_0006]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q2Q4b_0007]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q2Q4b_0008]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q2Q4b_0009]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q2Q4b_0010]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q2Q4b_0011]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="Q2Q4" function="CallbackConvB" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

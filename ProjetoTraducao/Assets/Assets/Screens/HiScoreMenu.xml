@@ -1,0 +1,325 @@
+<Menu x="0" y="0" width="1024" height="768" timer="off" draw="off" modal="off" gp_entry="butt_done">
+   <Assets>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   <String    name="str_title0"				    x="192" y="100" width="640" height="40" text="[HISCORES0]" multiline="off" justify="center" font="font_button"/>
+   <String    name="str_title1"				    x="192" y="414" width="640" height="40" text="[HISCORES1]" multiline="off" justify="center" font="font_button"/>
+
+   <TextButton name="butt_done"          id="0" x="362" y="715" width="300" height="50" key="27" font="font_button" text="[DONE]" graphic="asset_buttwide" sound="asset_buttsound"/>
+   
+   <GamepadButton     name="gp_done"   id="0" x="440" y="718" width="260" height="40" buttonwidth="40" textoffsetx="44" textoffsety="3" font="font_button" text="[BACK]"  graphic_button="img_gamepad_b" sound="asset_buttsound"
+					 gp_button="b"/>
+					 
+
+
+   <String    name="str_heading"				x="0"   y="132"  width="156" height="20" text="[SCORE]" multiline="off" justify="right" font="font_system_yellow"/>
+   <String    name="str_heading"				x="190" y="132"  width="200" height="20" text="[HERO]" multiline="off" justify="left" font="font_system_yellow"/>
+   <String    name="str_heading"				x="390" y="132"  width="200" height="20" text="[PROFESSION]" multiline="off" justify="left" font="font_system_yellow"/>
+   <String    name="str_heading"				x="540" y="132"  width="200" height="20" text="[LEVEL]" multiline="off" justify="left" font="font_system_yellow"/>
+   <String    name="str_headingopp0"			x="650" y="132"  width="200" height="20" text="[OPPONENT]" multiline="off" justify="left" font="font_system_yellow"/>
+   <String    name="str_heading"				x="850" y="132"  width="200" height="20" text="[DATE]" multiline="off" justify="left" font="font_system_yellow"/>
+    
+   <String    name="str_heading"				x="0"   y="442"  width="156" height="20" text="[SCORE]" multiline="off" justify="right" font="font_system_yellow"/>
+   <String    name="str_heading"				x="190" y="442"  width="200" height="20" text="[HERO]" multiline="off" justify="left" font="font_system_yellow"/>
+   <String    name="str_heading"				x="390" y="442"  width="200" height="20" text="[PROFESSION]" multiline="off" justify="left" font="font_system_yellow"/>
+   <String    name="str_heading"				x="540" y="442"  width="200" height="20" text="[LEVEL]" multiline="off" justify="left" font="font_system_yellow"/>
+   <String    name="str_headingopp1"			x="650" y="442"  width="200" height="20" text="[OPPONENT]" multiline="off" justify="left" font="font_system_yellow"/>
+   <String    name="str_heading"				x="850" y="442"  width="200" height="20" text="[DATE]" multiline="off" justify="left" font="font_system_yellow"/>
+    
+    
+   <String    name="str_rec000"					x="64"  y="168"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec001"					x="110" y="168"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec002"					x="190" y="168"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec003"					x="390" y="168"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec004"					x="540" y="168"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec005"					x="650" y="168"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec006"					x="850" y="168"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec010"					x="64"  y="189"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec011"					x="110" y="189"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec012"					x="190" y="189"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec013"					x="390" y="189"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec014"					x="540" y="189"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec015"					x="650" y="189"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec016"					x="850" y="189"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec020"					x="64"  y="210"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec021"					x="110" y="210"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec022"					x="190" y="210"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec023"					x="390" y="210"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec024"					x="540" y="210"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec025"					x="650" y="210"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec026"					x="850" y="210"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec030"					x="64"  y="231"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec031"					x="110" y="231"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec032"					x="190" y="231"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec033"					x="390" y="231"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec034"					x="540" y="231"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec035"					x="650" y="231"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec036"					x="850" y="231"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec040"					x="64"  y="252"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec041"					x="110" y="252"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec042"					x="190" y="252"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec043"					x="390" y="252"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec044"					x="540" y="252"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec045"					x="650" y="252"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec046"					x="850" y="252"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec050"					x="64"  y="273"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec051"					x="110" y="273"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec052"					x="190" y="273"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec053"					x="390" y="273"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec054"					x="540" y="273"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec055"					x="650" y="273"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec056"					x="850" y="273"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec060"					x="64"  y="294"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec061"					x="110" y="294"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec062"					x="190" y="294"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec063"					x="390" y="294"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec064"					x="540" y="294"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec065"					x="650" y="294"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec066"					x="850" y="294"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec070"					x="64"  y="315"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec071"					x="110" y="315"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec072"					x="190" y="315"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec073"					x="390" y="315"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec074"					x="540" y="315"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec075"					x="650" y="315"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec076"					x="850" y="315"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec080"					x="64"  y="336"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec081"					x="110" y="336"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec082"					x="190" y="336"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec083"					x="390" y="336"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec084"					x="540" y="336"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec085"					x="650" y="336"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec086"					x="850" y="336"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec090"					x="64"  y="357"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec091"					x="110" y="357"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec092"					x="190" y="357"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec093"					x="390" y="357"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec094"					x="540" y="357"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec095"					x="650" y="357"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec096"					x="850" y="357"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+    
+   <String    name="str_rec100"					x="64"  y="478"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec101"					x="110" y="478"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec102"					x="190" y="478"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec103"					x="390" y="478"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec104"					x="540" y="478"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec105"					x="650" y="478"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec106"					x="850" y="478"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec110"					x="64"  y="499"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec111"					x="110" y="499"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec112"					x="190" y="499"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec113"					x="390" y="499"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec114"					x="540" y="499"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec115"					x="650" y="499"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec116"					x="850" y="499"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec120"					x="64"  y="520"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec121"					x="110" y="520"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec122"					x="190" y="520"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec123"					x="390" y="520"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec124"					x="540" y="520"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec125"					x="650" y="520"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec126"					x="850" y="520"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec130"					x="64"  y="541"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec131"					x="110" y="541"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec132"					x="190" y="541"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec133"					x="390" y="541"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec134"					x="540" y="541"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec135"					x="650" y="541"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec136"					x="850" y="541"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec140"					x="64"  y="562"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec141"					x="110" y="562"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec142"					x="190" y="562"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec143"					x="390" y="562"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec144"					x="540" y="562"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec145"					x="650" y="562"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec146"					x="850" y="562"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec150"					x="64"  y="583"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec151"					x="110" y="583"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec152"					x="190" y="583"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec153"					x="390" y="583"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec154"					x="540" y="583"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec155"					x="650" y="583"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec156"					x="850" y="583"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec160"					x="64"  y="604"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec161"					x="110" y="604"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec162"					x="190" y="604"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec163"					x="390" y="604"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec164"					x="540" y="604"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec165"					x="650" y="604"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec166"					x="850" y="604"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec170"					x="64"  y="625"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec171"					x="110" y="625"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec172"					x="190" y="625"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec173"					x="390" y="625"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec174"					x="540" y="625"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec175"					x="650" y="625"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec176"					x="850" y="625"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec180"					x="64"  y="646"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec181"					x="110" y="646"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec182"					x="190" y="646"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec183"					x="390" y="646"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec184"					x="540" y="646"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec185"					x="650" y="646"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec186"					x="850" y="646"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+   <String    name="str_rec190"					x="64"  y="667"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec191"					x="110" y="667"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec192"					x="190" y="667"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec193"					x="390" y="667"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec194"					x="540" y="667"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec195"					x="650" y="667"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+   <String    name="str_rec196"					x="850" y="667"  width="200" height="25" text="[RANK]" multiline="off" justify="left" font="font_button"/>
+  
+  
+   <Icon       name="icon_dlg"                  x="32"   y="150"   width="64" height="64" graphic="img_frm_00"/>
+   <Icon       name="icon_dlg"                  x="96"   y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="160"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="224"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="288"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="352"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="416"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="480"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="544"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="608"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="672"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="736"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="800"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="864"  y="150"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="928"  y="150"   width="64" height="64" graphic="img_frm_02"/>
+   
+   <Icon       name="icon_dlg"                  x="32"   y="212"   width="64" height="64" graphic="img_frm_10"/>
+   <Icon       name="icon_dlg"                  x="96"   y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="160"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="224"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="288"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="352"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="416"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="480"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="544"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="608"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="672"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="736"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="800"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="864"  y="212"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="928"  y="212"   width="64" height="64" graphic="img_frm_12"/>
+  
+   <Icon       name="icon_dlg"                  x="32"   y="276"   width="64" height="64" graphic="img_frm_10"/>
+   <Icon       name="icon_dlg"                  x="96"   y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="160"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="224"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="288"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="352"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="416"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="480"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="544"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="608"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="672"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="736"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="800"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="864"  y="276"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="928"  y="276"   width="64" height="64" graphic="img_frm_12"/>
+   
+   <Icon       name="icon_dlg"                  x="32"   y="340"   width="64" height="64" graphic="img_frm_20"/>
+   <Icon       name="icon_dlg"                  x="96"   y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="160"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="224"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="288"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="352"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="416"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="480"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="544"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="608"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="672"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="736"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="800"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="864"  y="340"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="928"  y="340"   width="64" height="64" graphic="img_frm_22"/>
+   
+   
+   <Icon       name="icon_dlg"                  x="32"   y="460"   width="64" height="64" graphic="img_frm_00"/>
+   <Icon       name="icon_dlg"                  x="96"   y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="160"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="224"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="288"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="352"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="416"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="480"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="544"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="608"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="672"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="736"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="800"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="864"  y="460"   width="64" height="64" graphic="img_frm_01"/>
+   <Icon       name="icon_dlg"                  x="928"  y="460"   width="64" height="64" graphic="img_frm_02"/>
+   
+   <Icon       name="icon_dlg"                  x="32"   y="522"   width="64" height="64" graphic="img_frm_10"/>
+   <Icon       name="icon_dlg"                  x="96"   y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="160"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="224"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="288"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="352"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="416"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="480"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="544"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="608"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="672"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="736"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="800"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="864"  y="522"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="928"  y="522"   width="64" height="64" graphic="img_frm_12"/>
+   
+   <Icon       name="icon_dlg"                  x="32"   y="586"   width="64" height="64" graphic="img_frm_10"/>
+   <Icon       name="icon_dlg"                  x="96"   y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="160"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="224"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="288"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="352"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="416"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="480"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="544"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="608"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="672"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="736"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="800"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="864"  y="586"   width="64" height="64" graphic="img_frm_11"/>
+   <Icon       name="icon_dlg"                  x="928"  y="586"   width="64" height="64" graphic="img_frm_12"/>
+   
+   <Icon       name="icon_dlg"                  x="32"   y="650"   width="64" height="64" graphic="img_frm_20"/>
+   <Icon       name="icon_dlg"                  x="96"   y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="160"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="224"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="288"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="352"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="416"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="480"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="544"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="608"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="672"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="736"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="800"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="864"  y="650"   width="64" height="64" graphic="img_frm_21"/>
+   <Icon       name="icon_dlg"                  x="928"  y="650"   width="64" height="64" graphic="img_frm_22"/>
+   
+   
+   <Icon       name="icon_mist"                  x="0"  y="0" width="1024" height="768" graphic="img_mist"/>
+   
+</Menu>

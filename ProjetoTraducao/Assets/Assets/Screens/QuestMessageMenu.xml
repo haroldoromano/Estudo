@@ -1,0 +1,17 @@
+<Menu x="283" y="230" width="458" height="332" timer="off" draw="off" modal="on">
+   <Assets>
+      <Button name="asset_butttiny" active="img_butttiny_act" highlight="img_butttiny_hi" pressed="img_butttiny_pres" grayed="img_butttiny_gray"/>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Button name="asset_buttscroll" active="img_scrollbutt_act" highlight="img_scrollbutt_hi" pressed="img_scrollbutt_pres" grayed="img_scrollbutt_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   
+   <String     name="str_heading"				    x="0"   y="75"  width="458" height="25" multiline="off" justify="center" font="font_script_medium"/>
+   <String     name="str_message"		    x="90"  y="105"  width="278" height="145" multiline="on" justify="center" vjustify="center" font="font_script_small"/>
+   
+   <TextButton name="butt_okay"				id="0"   x="165" y="270" width="128" height="35" textoffsety="-2" key="27" font="font_system" text="[DONE]" graphic="asset_butttiny" sound="asset_buttsound"/>
+   <GamepadButton     name="gp_okay"     id="0" x="165" y="255" width="128" height="35" buttonwidth="35" textoffsetx="38" textoffsety="3" font="font_script_medium" text="[BACK]"  graphic_button="img_gamepad_b" sound="asset_buttsound"
+					 gp_button="b"/>
+
+   <Icon       name="icon_scroll"    x="0"    y="0"   width="458" height="332" graphic="img_openingscroll"/>
+</Menu>

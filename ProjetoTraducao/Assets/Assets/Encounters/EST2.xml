@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EST2">
+   <Description text="Mino King" />
+   <Location start="WSHD" end="COHT" index="0" />
+   <Sprite id="ZMIN" />
+   <Script file="Assets\Encounters\EST2.lua" object="EST2" />
+</Encounter>

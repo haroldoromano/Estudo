@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IJOB">
+   <Text  name="[ITEM_IJOB_NAME]" power="[ITEM_IJOB_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="500" rarity="0" />
+   <Graphics  icon="71" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IJOB.lua" object="IJOB"/>
+</Item>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IHRA">
+   <Text  name="[ITEM_IHRA_NAME]" power="[ITEM_IHRA_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="715" rarity="3" />
+   <Graphics  icon="29" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IHRA.lua" object="IHRA"/>
+</Item>

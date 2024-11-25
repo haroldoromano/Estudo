@@ -1,0 +1,17 @@
+<Sprite id="ZARB" file="Assets\Sprites\Monster_Arboleth.png" hero="no" monster="yes" name="Arboleth">
+	<Animation type="stand" directions="1">
+		<Position x="0" y="0" width="64" height="64" spacex="64" spacey="64" originx="30" originy="40" />
+		<Frame index="0" duration="0" offx="0" offy="0"/>
+	</Animation>
+	<Animation type="wait" directions="1">
+		<Position x="0" y="0" width="64" height="64" spacex="64" spacey="64" originx="30" originy="40" />
+		<Frame index="0" duration="100" offx="0" offy="0" scale="1.00"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="1.04"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="1.08"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="1.04"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="1.00"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="0.96"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="0.92"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="0.96"/>
+	</Animation>
+</Sprite>

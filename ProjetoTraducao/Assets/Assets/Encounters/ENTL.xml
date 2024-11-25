@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ENTL">
+   <Description text="Arboleth" />
+   <Location start="WTIR" end="WIGK" index="0" />
+   <Sprite id="ZARB" />
+   <Script file="Assets\Encounters\ENTL.lua" object="ENTL" />
+</Encounter>

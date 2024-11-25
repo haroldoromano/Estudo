@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IRKK">
+   <Text  name="[ITEM_IRKK_NAME]" power="[ITEM_IRKK_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="2000" rarity="0" />
+   <Graphics  icon="82" />
+   <Restriction	type="level" level="20"/>
+   <Script  file="Assets\Items\IRKK.lua" object="IRKK"/>
+</Item>

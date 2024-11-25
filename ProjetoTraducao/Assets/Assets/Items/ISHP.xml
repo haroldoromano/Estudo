@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISHP">
+   <Text  name="[ITEM_ISHP_NAME]" power="[ITEM_ISHP_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="775" rarity="3" />
+   <Graphics  icon="84" />
+   <Restriction	type="skill" skill="morale" level="10"/>
+   <Script  file="Assets\Items\ISHP.lua" object="ISHP"/>
+</Item>

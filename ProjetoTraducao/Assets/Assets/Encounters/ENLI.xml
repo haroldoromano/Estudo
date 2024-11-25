@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ENLI">
+   <Description text="Liche" />
+   <Location start="CYLA" end="WTIR" index="0" />
+   <Sprite id="ZLCH" />
+   <Script file="Assets\Encounters\ENLI.lua" object="ENLI" />
+</Encounter>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q2M4">
+
+   <Text  name="[QUEST_Q2M4_NAME]" description="[QUEST_Q2M4_DESC]" group="[QG_MOTA_NAME]"   file="English\Quests\Q2M4_Text.xml"/>
+   <Script  file="Assets\Quests\Q2M4.lua" object="Q2M4"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CTSK" minlevel="22" maxlevel="1000" repeat="1" 
+               donequest0="Q2M3" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MRAX">
+
+   </Battle>
+
+</Quest>

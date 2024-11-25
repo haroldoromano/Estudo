@@ -1,0 +1,42 @@
+<?xml version="1.0"?> 
+<Effect name="SpellSymbol0" bitmap="bmp_skin_battlemisc" type="oneshot" duration="2.0">
+
+	<Initialize parameter="source_x"	value="202" />
+	<Initialize parameter="source_y"	value="358" />
+	<Initialize parameter="source_w"	value="100" />
+	<Initialize parameter="source_h"	value="100" />
+	
+	<Initialize parameter="dest_x"		value="-125" />
+	<Initialize parameter="dest_y"		value="-125" />
+	<Initialize parameter="dest_w"		value="250" />
+	<Initialize parameter="dest_h"		value="250" />
+	
+	<Initialize parameter="alpha"		value="0.0" />
+	<Initialize parameter="rotation"	value="0.0" />
+	<Initialize parameter="color_r"		value="1.0" />
+	<Initialize parameter="color_g"		value="1.0" />
+	<Initialize parameter="color_b"		value="1.0" />
+
+	<Animate	parameter="alpha"		value="0.8"		time="0.1"	method="linear" />
+	<Animate	parameter="alpha"		value="1.0"		time="0.6"	method="linear" />
+	<Animate	parameter="alpha"		value="1.0"		time="1.5"	method="linear" />
+	<Animate	parameter="alpha"		value="0.0"		time="2.0"	method="linear" />
+	
+	<Animate	parameter="dest_x"		value="-150"	time="1.25"	method="linear" />
+	<Animate	parameter="dest_y"		value="-150"	time="1.25"	method="linear" />
+	<Animate	parameter="dest_w"		value="300"		time="1.25"	method="linear" />
+	<Animate	parameter="dest_h"		value="300"		time="1.25"	method="linear" />
+	<Animate	parameter="color_r"		value="1.0" 	time="1.25"	method="linear" />
+	<Animate	parameter="color_g"		value="0.3" 	time="1.25"	method="linear" />
+	<Animate	parameter="color_b"		value="0.3" 	time="1.25"	method="linear" />
+		
+	<Animate	parameter="dest_x"		value="-125"	time="2.0"	method="linear" />
+	<Animate	parameter="dest_y"		value="-125"	time="2.0"	method="linear" />
+	<Animate	parameter="dest_w"		value="250"		time="2.0"	method="linear" />
+	<Animate	parameter="dest_h"		value="250"		time="2.0"	method="linear" />
+	<Animate	parameter="color_r"		value="1.0" 	time="2.0"	method="linear" />
+	<Animate	parameter="color_g"		value="1.0" 	time="2.0"	method="linear" />
+	<Animate	parameter="color_b"		value="1.0" 	time="2.0"	method="linear" />
+	<Animate	parameter="rotation"	value="1.8"		time="2.0"	method="linear" />
+		
+</Effect>

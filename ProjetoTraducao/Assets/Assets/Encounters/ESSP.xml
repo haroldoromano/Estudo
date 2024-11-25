@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ESSP">
+   <Description text="Selentine Spider" />
+   <Location start="CENM" end="WELE" index="0" />
+   <Sprite id="ZGSX" />
+   <Script file="Assets\Encounters\ESSP.lua" object="ESSP" />
+</Encounter>

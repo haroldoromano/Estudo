@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ILEA">
+   <Text  name="[ITEM_ILEA_NAME]" power="[ITEM_ILEA_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="160" rarity="4" />
+   <Graphics  icon="20" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ILEA.lua" object="ILEA"/>
+</Item>

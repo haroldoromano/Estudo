@@ -1,0 +1,37 @@
+<Assets>
+  <!-- 
+  NOTE: this file must include ALL assets that are used up to (and including)
+        the first loading screen. (the loading screen loads the other assets in the background)
+        try to keep this file as small as possible because some platforms have very high cost of
+        opening/reading files.
+  -->
+   <Font tag="font_button"		    index="1"/>
+
+   <Bitmap tag="bmp_skin_battlemisc"	precache="1">Assets\Skin\Skin_Battle_Misc.png</Bitmap>
+   <Bitmap tag="bmp_skin_splash"		  precache="0">Assets\Skin\Skin_Splash.jpg</Bitmap>
+   <Bitmap tag="bmp_skinsidepanel"	  precache="1">Assets\Skin\Skin_SidePanel.jpg</Bitmap>
+   <Bitmap tag="bmp_skin_backdrop"		precache="1">Assets\Skin\Skin_Backdrop_Standard.jpg</Bitmap>
+
+   <BitmapImage tag="img_sidepanel_l"				bitmap="bmp_skinsidepanel" x="0" y="0"   width="176" height="768" destwidth="176" destheight="768"/>
+   <BitmapImage tag="img_sidepanel_r"				bitmap="bmp_skinsidepanel" x="177" y="0"   width="176" height="768" destwidth="176" destheight="768"/>
+   <BitmapImage tag="img_backdrop"      bitmap="bmp_skin_backdrop" x="0" y="0"   width="1024" height="768" destwidth="1024" destheight="768"/>
+
+   <BitmapImage tag="img_timer_0"   bitmap="bmp_skin_battlemisc" x="201" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_timer_1"   bitmap="bmp_skin_battlemisc" x="252" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_timer_2"   bitmap="bmp_skin_battlemisc" x="303" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_timer_3"   bitmap="bmp_skin_battlemisc" x="354" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_timer_4"   bitmap="bmp_skin_battlemisc" x="405" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_timer_5"   bitmap="bmp_skin_battlemisc" x="456" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+
+   <BitmapImage tag="img_splash"    bitmap="bmp_skin_splash" x="0"    y="0"   width="1024" height="768"  destwidth="1024" destheight="768"/>
+
+   <Animation tag="anim_timer" frames="6" destwidth="50" destheight="50">
+      <Frame image="img_timer_0" sequence="0" time="120"/>
+      <Frame image="img_timer_1" sequence="1" time="120"/>
+      <Frame image="img_timer_2" sequence="2" time="120"/>
+      <Frame image="img_timer_3" sequence="3" time="120"/>
+      <Frame image="img_timer_4" sequence="4" time="120"/>
+      <Frame image="img_timer_5" sequence="5" time="120"/>
+   </Animation>
+  
+</Assets>

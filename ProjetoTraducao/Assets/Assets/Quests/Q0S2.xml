@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Quest id="Q0S2">
+
+   <Text  name="[QUEST_Q0S2_NAME]" description="[QUEST_Q0S2_DESC]" group=""   file="English\Quests\Q0S2_Text.xml"/>
+   <Script  file="Assets\Quests\Q0S2.lua" object="Q0S2"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CDRA" minlevel="5" maxlevel="1000" repeat="1" 
+               donequest0="" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MWLF">
+
+      <Name   help="[QUEST_Q0S2_QMHELP0]"  />
+      <Add  battle="2" cunning="0" morale="0" />
+   </Battle>
+
+</Quest>

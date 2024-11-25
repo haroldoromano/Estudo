@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2M3_ACTION]">Fight the Scorpion</Text>
+   <Text tag="[QUEST_Q2M3_FAILURE]">You have failed to defeat the Scorpion.  You must try again.</Text>
+   <Text tag="[QUEST_Q2M3_KILL]">You have defeated the Scorpion. You must now return to Red-Axe.</Text>
+   <Text tag="[QUEST_Q2M3_RETURN]">Return to Red-Axe</Text>
+   <Text tag="[QUEST_Q2M3_REWARD]">Red-Axe is pleased with your progress.</Text>
+   <Text tag="[QUEST_Q2M3_STEP1]">You must go to the Scorpion&apos;s Cave and battle a Giant Scorpion.</Text>
+   <Text tag="[QUEST_Q2M3_STEP2]">You must return to Red-Axe in the city of Tusk.</Text>
+   <Text tag="[QUEST_Q2M3_QMNAME0]">Giant Scorpion</Text>
+   <Text tag="[QUEST_Q2M3_QMHELP0]">This Scorpion is larger than the others.  It has more Life Points and a higher Air Mastery skill.</Text>
+
+</TextLibrary>

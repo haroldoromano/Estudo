@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IWLC">
+   <Text  name="[ITEM_IWLC_NAME]" power="[ITEM_IWLC_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="900" rarity="5" />
+   <Graphics  icon="47" />
+   <Restriction	type="skill" skill="cunning" level="3"/>
+   <Script  file="Assets\Items\IWLC.lua" object="IWLC"/>
+</Item>

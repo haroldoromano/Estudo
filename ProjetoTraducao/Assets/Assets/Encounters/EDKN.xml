@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EDKN">
+   <Description text="Knight" />
+   <Location start="WSKE" end="CDRA" index="1" />
+   <Sprite id="ZCAV" />
+   <Script file="Assets\Encounters\EDKN.lua" object="EDKN" />
+</Encounter>

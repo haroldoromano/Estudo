@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3Q5_ACTION]">Battle a Necromancer</Text>
+   <Text tag="[QUEST_Q3Q5_DHLEAVE]">Darkhunter has left your party.</Text>
+   <Text tag="[QUEST_Q3Q5_FAILURE]">You have failed to defeat the Necromancer. You must try again.</Text>
+   <Text tag="[QUEST_Q3Q5_KILL]">You have defeated one of Lord Bane&apos;s Generals.  When all three are done, the way to Lord Bane&apos;s citadel will be clear.</Text>
+   <Text tag="[QUEST_Q3Q5_RETURN]">N/A</Text>
+   <Text tag="[QUEST_Q3Q5_REWARD]">You have cleared the way to Lord Bane&apos;s citadel.</Text>
+   <Text tag="[QUEST_Q3Q5_STEP1]">You must travel into the Realms of Death, find Lord Bane&apos;s three Generals, and defeat them.</Text>
+   <Text tag="[QUEST_Q3Q5_STEP2]">You must continue battling Lord Bane&apos;s Generals - the three Necromancers, until they have all been defeated.</Text>
+
+</TextLibrary>

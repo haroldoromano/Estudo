@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[PROF_PDRU_NAME]">Druid</Text>
+   <Text tag="[PROF_PDRU_DESC]">Druids are well schooled in the magic of nature with many spells based on Yellow and Green Mana. They defeat their foes in a subtle manner, often doing such things as entangling them or changing the gems on the board.</Text>
+   <Text tag="[PROF_PKNI_NAME]">Knight</Text>
+   <Text tag="[PROF_PKNI_DESC]">Knights are noble and chivalrous warriors who excel in using the Stars on the board to great effect, such as gaining extra XP or healing themselves.  They also have a good stock of damage spells based on Red and Green Mana.</Text>
+   <Text tag="[PROF_PWAR_NAME]">Warrior</Text>
+   <Text tag="[PROF_PWAR_DESC]">Warriors are fierce and efficient fighters whose special attacks mostly deal direct damage to their foes. Although many of these damage spells are based on Red Mana, they have a wide variety of them for use in different situations.</Text>
+   <Text tag="[PROF_PWIZ_NAME]">Wizard</Text>
+   <Text tag="[PROF_PWIZ_DESC]">Wizards keep a good mix of different spells, based largely on Red and Yellow Mana.  They can just as easily cast damage spells like Fireball, as they can cast powerful defensive spells like Wall of Fire.</Text>
+
+</TextLibrary>

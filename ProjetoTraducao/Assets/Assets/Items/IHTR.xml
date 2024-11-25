@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IHTR">
+   <Text  name="[ITEM_IHTR_NAME]" power="[ITEM_IHTR_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="320" rarity="3" />
+   <Graphics  icon="83" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IHTR.lua" object="IHTR"/>
+</Item>

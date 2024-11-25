@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Q0Q0: Initial conversation with Queen"/>
+   <Text file="English\Conversations\Conv_Q0Q0_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_BartoniaThroneRoom.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_NPC_QueenGwendholyn.png" portraitindex="0" name="[Conv_Q0Q0_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0_0000]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0_0001]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0_0002]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0_0004]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0_0005]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0_0006]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0_0007]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0_0008]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0_0009]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0_0010]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0_0011]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0_0012]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0_0013]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0_0014]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0_0015]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0_0016]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0_0017]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0_0018]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0_0019]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0_0020]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0_0021]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0_0022]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0_0023]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0_0024]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0_0025]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0_0026]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0_0027]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0_0028]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0_0029]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0_0030]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0_0031]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0_0032]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0_0033]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0_0034]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0_0035]" />
+      <Action type="wait" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1Q5_ACTION]">Destroy the Weapon</Text>
+   <Text tag="[QUEST_Q1Q5_FAILURE]">You have failed to destroy the weapon. You must try again.</Text>
+   <Text tag="[QUEST_Q1Q5_KILL]">You have destroyed the weapon. Hopefully Gruulkar is not building any more.</Text>
+   <Text tag="[QUEST_Q1Q5_RETURN]">Visit the Council</Text>
+   <Text tag="[QUEST_Q1Q5_REWARD]">The Council of Merchants in Dhun-Kor reward you for your bravery.</Text>
+   <Text tag="[QUEST_Q1Q5_STEP1]">You must go to the village of Snake Fang in search of the weapon.</Text>
+   <Text tag="[QUEST_Q1Q5_STEP2]">You must now return to Dhun-Kor for your reward.</Text>
+   <Text tag="[QUEST_Q1Q5_WEAPON]">Gruulkar is building some form of giant catapult.  It looks like it is designed to hurl Goblins long distances.</Text>
+
+</TextLibrary>

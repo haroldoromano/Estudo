@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IROS">
+   <Text  name="[ITEM_IROS_NAME]" power="[ITEM_IROS_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="2975" rarity="1" />
+   <Graphics  icon="68" />
+   <Restriction	type="skill" skill="fire" level="24"/>
+   <Script  file="Assets\Items\IROS.lua" object="IROS"/>
+</Item>

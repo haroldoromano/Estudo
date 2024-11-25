@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SSGZ">
+   <Text  name="[SPELL_SSGZ_NAME]" description="[SPELL_SSGZ_DESC]" detail="[SPELL_SSGZ_DETL]"/>
+   <Cost  earth="6" fire="0" air="0" water="12" />
+   <Learn  score="750" masks="1" keys="2" />
+   <Data  cooldown="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SSGZ.lua" object="SSGZ"/>
+</Spell>

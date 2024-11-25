@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Quest id="Q0S0">
+
+   <Text  name="[QUEST_Q0S0_NAME]" description="[QUEST_Q0S0_DESC]" group="[QG_RATK_NAME]"   file="English\Quests\Q0S0_Text.xml"/>
+   <Script  file="Assets\Quests\Q0S0.lua" object="Q0S0"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CBAR" minlevel="5" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q0" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MRAT">
+
+   </Battle>
+   <Battle  monster="MRAT">
+
+      <Name  tag="[QUEST_Q0S0_QMNAME1]"  help="[QUEST_Q0S0_QMHELP1]"  />
+      <Add  battle="0" cunning="1" morale="0" />
+      <Spell  id="SCTO" />
+   </Battle>
+   <Battle  monster="MWIG">
+
+      <Name  tag="[QUEST_Q0S0_QMNAME2]"  help="[QUEST_Q0S0_QMHELP2]"  />
+      <Add  battle="0" cunning="2" morale="0" />
+      <Item  id="IRKA" />
+   </Battle>
+
+</Quest>

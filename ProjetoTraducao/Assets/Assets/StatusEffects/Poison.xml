@@ -1,0 +1,6 @@
+<StatusEffect id="EPOI">
+	<Text		name="[STATUS_POISON_NAME]" description="[STATUS_POISON_DESC]" />
+	<Graphics	icon="0"/>
+	<Data		duration="6" stack="4"/>
+	<Script		file="Assets\StatusEffects\Poison.lua" object="Poison"/>
+</StatusEffect>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?> 
+<Effect name="GrowGreenStar" bitmap="bmp_skin_battlemisc" type="oneshot" duration="0.7">
+
+	<Initialize parameter="source_x"	value="101" />
+	<Initialize parameter="source_y"	value="257" />
+	<Initialize parameter="source_w"	value="100" />
+	<Initialize parameter="source_h"	value="100" />
+	
+	<Initialize parameter="dest_x"		value="-64" />
+	<Initialize parameter="dest_y"		value="-64" />
+	<Initialize parameter="dest_w"		value="128" />
+	<Initialize parameter="dest_h"		value="128" />
+	
+	<Initialize parameter="alpha"		value="0.0" />
+	<Initialize parameter="rotation"	value="0.0" />
+	<Initialize parameter="color_r"		value="0.8" />
+	<Initialize parameter="color_g"		value="1.0" />
+	<Initialize parameter="color_b"		value="0.8" />
+
+	<Animate	parameter="alpha"		value="0.4"		time="0.1"	method="linear" />
+	<Animate	parameter="alpha"		value="0.8"		time="0.4"	method="linear" />
+	<Animate	parameter="alpha"		value="0.0"		time="0.7"	method="linear" />
+	<Animate	parameter="rotation"	value="4.0"		time="0.7"	method="linear" />
+	<Animate	parameter="color_r" 	value="0.4"		time="0.7"	method="linear" />
+	<Animate	parameter="color_g" 	value="0.8"		time="0.7"	method="linear" />
+	<Animate	parameter="color_b" 	value="1.0"		time="0.7"	method="linear" />
+	<Animate	parameter="dest_x"		value="-160"	time="0.4"	method="linear" />
+	<Animate	parameter="dest_y"		value="-160"	time="0.4"	method="linear" />
+	<Animate	parameter="dest_x"		value="-60"	    time="0.7"	method="linear" />
+	<Animate	parameter="dest_y"		value="-60"	    time="0.7"	method="linear" />
+	<Animate	parameter="dest_w"		value="220"		time="0.4"	method="linear" />
+	<Animate	parameter="dest_h"		value="220"		time="0.4"	method="linear" />
+	<Animate	parameter="dest_w"		value="50"		time="0.7"	method="linear" />
+	<Animate	parameter="dest_h"		value="50"		time="0.7"	method="linear" />
+		
+</Effect>

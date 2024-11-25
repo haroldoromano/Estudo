@@ -1,0 +1,10 @@
+<Particle name="NewTurn" texture="Sparkle.png" radius="1" lifetime="1600">
+	<Number max="80" release="8" interval="0.05" life="1.0" total="80"/>
+	<Graphics blend="additive" size="0.4" r="0.9" g="0.9" b="0.6" a="1.0"/>
+	<Animation size="0.1" r="0.9" g="0.9" b="0.1" a="0.0" start="0.2"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.5" perimeter="on" planar="on" planes="101"/>
+	<Velocity x="0.0" y="-0.5" z="0.0" var="0.3" planar="on" planes="010"/>
+	<Gravity x="0.0" y="-0.5" z="0.0"/>
+	<Forces airresistance="off" wind="off"/>
+	<Shape steps="1"/>
+</Particle>

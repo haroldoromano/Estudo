@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EAOG">
+   <Description text="Ogre" />
+   <Location start="WAPS" end="CGAL" index="1" />
+   <Sprite id="ZOGR" />
+   <Script file="Assets\Encounters\EAOG.lua" object="EAOG" />
+</Encounter>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IDHE">
+   <Text  name="[ITEM_IDHE_NAME]" power="[ITEM_IDHE_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="650" rarity="0" />
+   <Graphics  icon="9" />
+   <Restriction	type="skill" skill="water" level="2"/>
+   <Script  file="Assets\Items\IDHE.lua" object="IDHE"/>
+</Item>

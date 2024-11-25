@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Monster id="MMIK">
+   <Text name="[MONSTER_MMIK_NAME]" description="[MONSTER_MMIK_DESC]" capture="[MONSTER_MMIK_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Minotaur.png" />
+   <Level min="24" max="30" base="24" levelto="45" />
+   <Skill earth="8" fire="15" air="1" water="1" battle="40" cunning="7" morale="10" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.30" fire="0.75" air="0.20" water="0.20" battle="1.25" cunning="0.30" morale="0.50" life="3.00" />
+   <Data life="150" mount="0" boss="0" />
+   <Reward minxp="75" maxxp="100" mingold="80" maxgold="120" />
+   <Types type1="Large" type2="Evil" type3="Minotaur" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZMIK"  />
+   <Item tag="IHOH"  />
+   <Item tag="IGAX"  />
+   <Spell tag="SCHG" learn="0" />
+   <Spell tag="SBRA" learn="1" />
+   <Capture>
+      <Row data="*S*--*S*" />
+      <Row data="XRS**SRS" />
+      <Row data="RSRRSRSR" />
+      <Row data="SRSSRSRS" />
+      <Row data="RSRRSRSR" />
+      <Row data="SRSSRSRS" />
+      <Row data="RSRRSRSR" />
+      <Row data="S*SSRS*S" />
+   </Capture>
+</Monster>

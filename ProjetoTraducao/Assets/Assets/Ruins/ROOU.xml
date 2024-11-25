@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="ROOU">
+   <Text name="[RUIN_ROOU_NAME]" description="[RUIN_ROOU_DESC]"/>
+   <Graphics icon="5"/>
+   <Data x="1207" y="998" type="6" visible="no" attach="WBTH"/>
+</Ruin>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EKSW">
+   <Description text="Sand Worm" />
+   <Location start="WWSK" end="WBHE" index="0" />
+   <Sprite id="ZSDX" />
+   <Script file="Assets\Encounters\EKSW.lua" object="EKSW" />
+</Encounter>

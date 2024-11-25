@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IROY">
+   <Text  name="[ITEM_IROY_NAME]" power="[ITEM_IROY_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="1800" rarity="0" />
+   <Graphics  icon="54" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IROY.lua" object="IROY"/>
+</Item>

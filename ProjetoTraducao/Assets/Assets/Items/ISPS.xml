@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISPS">
+   <Text  name="[ITEM_ISPS_NAME]" power="[ITEM_ISPS_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="707" rarity="2" />
+   <Graphics  icon="98" />
+   <Restriction	type="level" level="8"/>
+   <Script  file="Assets\Items\ISPS.lua" object="ISPS"/>
+</Item>

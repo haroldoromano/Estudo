@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Quest id="Q0I2">
+
+   <Text  name="[QUEST_Q0I2_NAME]" description="[QUEST_Q0I2_DESC]" group="[QG_SELE_NAME]"   file="English\Quests\Q0I2_Text.xml"/>
+   <Script  file="Assets\Quests\Q0I2.lua" object="Q0I2"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CBAR" minlevel="6" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q0" donequest1="Q0Q4" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MRAT">
+
+      <Name   help="[QUEST_Q0I2_QMHELP0]"  />
+      <Add  battle="2" cunning="2" morale="0" />
+      <Add  level="1" life="5" />
+      <Spell  id="SHAS" />
+   </Battle>
+
+</Quest>

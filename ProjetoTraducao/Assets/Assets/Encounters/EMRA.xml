@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EMRA">
+   <Description text="Gallia-Maethelburg : Giant Rat" />
+   <Location start="CGAL" end="WMAE" index="0" />
+   <Sprite id="ZRAX" />
+   <Script file="Assets\Encounters\EMRA.lua" object="EMRA" />
+</Encounter>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Companion id="NKHA">
+   <Text  name="[COMP_NKHA_NAME]" description="[COMP_NKHA_DESC]" activate="[COMP_NKHA_ACTV]"  depart="[COMP_NKHA_DEPT]"  goodbye="[COMP_NKHA_GBYE]" 
+          race="[COMP_NKHA_RACE]" gender="[COMP_NKHA_GNDR]" flavor="[COMP_NKHA_FLAV]"  age="235" />
+   <Data  home="WHPS" portrait="Assets\Portraits\Portrait_NPC_Khalkus.png" uses="0" />
+   <Script  file="Assets\Companions\NKHA.lua" object="NKHA"/>
+</Companion>

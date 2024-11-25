@@ -1,0 +1,919 @@
+<Assets>
+   <Font tag="font_system"		    index="0"/>
+   <Font tag="font_button"		    index="1"/>
+   <Font tag="font_heading"		    index="2"/>
+   <Font tag="font_small"		    index="3"/>
+   <Font tag="font_system_dark"	    index="4"/>
+   <Font tag="font_small_dark"	    index="5"/>
+   <Font tag="font_xp"			    index="6"/>
+   <Font tag="font_gold"		    index="7"/>
+   <Font tag="font_msg_white"	    index="8"/>
+   <Font tag="font_msg_red"		    index="9"/>
+   <Font tag="font_msg_orange"	    index="10"/>
+   <Font tag="font_msg_yellow"	    index="11"/>
+   <Font tag="font_msg_green"	    index="12"/>
+   <Font tag="font_msg_cyan"	    index="13"/>
+   <Font tag="font_msg_purple"	    index="14"/>
+   <Font tag="font_system_blue"	    index="15"/>
+   <Font tag="font_system_green"    index="16"/>
+   <Font tag="font_system_yellow"   index="17"/>
+   <Font tag="font_system_red"	    index="18"/>
+   <Font tag="font_small_blue"	    index="19"/>
+   <Font tag="font_system_gray"	    index="20"/>
+   <Font tag="font_small_red"	    index="21"/>
+   <Font tag="font_button_yellow"   index="22"/>
+   <Font tag="font_quest_large"	    index="23"/>
+   <Font tag="font_quest_medium"    index="24"/>
+   <Font tag="font_quest_small"	    index="25"/>
+   <Font tag="font_script_large"    index="26"/>
+   <Font tag="font_script_small"    index="27"/>
+   <Font tag="font_script_medium"   index="28"/>
+   <Font tag="font_script_small_hi" index="29"/>
+   <Font tag="font_speech"			index="30"/>
+   <Font tag="font_small_gray"	    index="31"/>
+  
+   <Cursor tag="curs_main" image="img_cursor" hotx="0" hoty="0"/>
+   
+   <Sound tag="snd_buttdown" precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\ButtonDown.wav</Sound>
+   <Sound tag="snd_buttup"   precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\ButtonUp.wav</Sound>
+   <Sound tag="snd_damage"   precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\Damage.wav</Sound>
+   <Sound tag="snd_earth"    precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\EarthMana.wav</Sound>
+   <Sound tag="snd_air"      precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\AirMana.wav</Sound>
+   <Sound tag="snd_fire"     precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\FireMana.wav</Sound>
+   <Sound tag="snd_water"    precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\WaterMana.wav</Sound>
+   <Sound tag="snd_xp"       precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\XP.wav</Sound>
+   <Sound tag="snd_gold"     precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\Gold.wav</Sound>
+   <Sound tag="snd_wildcard" precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\Wildcard.wav</Sound>
+   <Sound tag="snd_manadrain" precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\ManaDrain.wav</Sound>
+   <Sound tag="snd_illegal"  precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\IllegalMove.wav</Sound>
+   <Sound tag="snd_redskull" precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\RedSkull.wav</Sound>
+   <Sound tag="snd_stopgem0" precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\StopGem0.wav</Sound>
+   <Sound tag="snd_stopgem1" precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\StopGem1.wav</Sound>
+   <Sound tag="snd_stopgem2" precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\StopGem2.wav</Sound>
+   <Sound tag="snd_stopgem3" precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\StopGem3.wav</Sound>
+   <Sound tag="snd_extraturn" precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\ExtraTurn.wav</Sound>
+   <Sound tag="snd_newturn"  precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\NewTurn.wav</Sound>
+   <Sound tag="snd_enemyturn"  precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\EnemyTurn.wav</Sound>
+   <Sound tag="snd_tick"  precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\Tick.wav</Sound>
+   <Sound tag="snd_forceendturn"  precache="1" cache="cachelocked" type="interface" priority="6" fade="0">Assets\Sounds\ForceEndTurn.wav</Sound>
+   <Sound tag="snd_spellnature"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\SpellNature.wav</Sound>
+   <Sound tag="snd_spellbuff"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\SpellBuff.wav</Sound>
+   <Sound tag="snd_spelldebuff"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\SpellDebuff.wav</Sound>
+   <Sound tag="snd_spellfire"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\SpellFire.wav</Sound>
+   <Sound tag="snd_spellheal"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\SpellHeal.wav</Sound>
+   <Sound tag="snd_spellalter"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\SpellAlter.wav</Sound>
+   <Sound tag="snd_extrainput"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\ExtraInput.wav</Sound>
+   <Sound tag="snd_taunt"    precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Taunt.wav</Sound>
+   <Sound tag="snd_victory"  precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Victory.wav</Sound>
+   <Sound tag="snd_defeat"   precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Defeat.wav</Sound>
+   <Sound tag="snd_aispell"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\AISpell.wav</Sound>
+   <Sound tag="snd_buy"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Buy.wav</Sound>
+   <Sound tag="snd_useitem"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\UseItem.wav</Sound>
+   <Sound tag="snd_misceffect"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\MiscEffect.wav</Sound>
+   <Sound tag="snd_howl"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Howl.wav</Sound>
+   <Sound tag="snd_victoryquest"  precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\VictoryQuest.wav</Sound>
+   <Sound tag="snd_heroiceffort"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\HeroicEffort.wav</Sound>
+   <Sound tag="snd_stun"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Stun.wav</Sound>
+   <Sound tag="snd_stone"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Stone.wav</Sound>
+   <Sound tag="snd_travel"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Travel.wav</Sound>
+   <Sound tag="snd_arrive"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Arrive.wav</Sound>
+   <Sound tag="snd_addruin"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\AddRuin.wav</Sound>
+   <Sound tag="snd_addencounter"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\AddEncounter.wav</Sound>
+   <Sound tag="snd_removeencounter"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\RemoveEncounter.wav</Sound>
+   <Sound tag="snd_questmessage"  precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\QuestMessage.wav</Sound>
+   <Sound tag="snd_questconv"       precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\QuestConversation.wav</Sound>
+   <Sound tag="snd_questconvclick"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\QuestConversationClick.wav</Sound>
+   <Sound tag="snd_battle"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Battle.wav</Sound>
+   <Sound tag="snd_activatecompanion"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\ActivateCompanion.wav</Sound>
+   <Sound tag="snd_donategold"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\DonateGold.wav</Sound>
+   <Sound tag="snd_rebellion"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Rebellion.wav</Sound>
+   <Sound tag="snd_resistspell"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\ResistSpell.wav</Sound>
+   <Sound tag="snd_spellcategory"  precache="0" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\SpellCategory.wav</Sound>
+
+   <Sound tag="snd_cascade1"  precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Cascade1.wav</Sound>
+   <Sound tag="snd_cascade2"  precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Cascade2.wav</Sound>
+   <Sound tag="snd_cascade3"  precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Cascade3.wav</Sound>
+   <Sound tag="snd_cascade4"  precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Cascade4.wav</Sound>
+   <Sound tag="snd_cascade5"  precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Cascade5.wav</Sound>
+   <Sound tag="snd_cascade6"  precache="1" cache="cached" type="interface" priority="6" fade="0">Assets\Sounds\Cascade6.wav</Sound>
+  
+   <Sound tag="snd_voice_defeat"		precache="1" cache="cached" type="interface" priority="7" fade="0">English\Sounds\VDefeat.wav</Sound>
+   <Sound tag="snd_voice_heroiceffort"  precache="0" cache="cached" type="interface" priority="7" fade="0">English\Sounds\VHeroicEffort.wav</Sound>
+   <Sound tag="snd_voice_neardeath"		precache="0" cache="cached" type="interface" priority="7" fade="0">English\Sounds\VNearDeath.wav</Sound>
+   <Sound tag="snd_voice_newspell"		precache="0" cache="cached" type="interface" priority="7" fade="0">English\Sounds\VNewSpell.wav</Sound>
+   <Sound tag="snd_voice_questcomplete"	precache="0" cache="cached" type="interface" priority="7" fade="0">English\Sounds\VQuestComplete.wav</Sound>
+   <Sound tag="snd_voice_queststage"	precache="0" cache="cached" type="interface" priority="7" fade="0">English\Sounds\VQuestStage.wav</Sound>
+   <Sound tag="snd_voice_victory"		precache="1" cache="cached" type="interface" priority="7" fade="0">English\Sounds\VVictorious.wav</Sound>
+   <Sound tag="snd_cutscene"			precache="0" cache="cached" type="interface" priority="7" fade="0">English\CutScenes\Act_1_Intro.wav</Sound>
+  
+   <Sound tag="music_intro"			precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Intro.ogg</Sound>
+   <Sound tag="music_map"			precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Map.ogg</Sound>
+   <Sound tag="music_boss"			precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Boss.ogg</Sound>
+   <Sound tag="music_background0"	precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Background1.ogg</Sound>
+   <Sound tag="music_background1"	precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Background2.ogg</Sound>
+   <Sound tag="music_background2"	precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Background3.ogg</Sound>
+   <Sound tag="music_background3"	precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Background4.ogg</Sound>
+   <Sound tag="music_background4"	precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Background5.ogg</Sound>
+   <Sound tag="music_victory"		precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Victory.ogg</Sound>
+   <Sound tag="music_defeat"		precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Defeat.ogg</Sound>
+   <Sound tag="music_theme"			precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\Theme_Default.ogg</Sound>
+   <Sound tag="music_about_to_win"	precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\About_to_win.ogg</Sound>
+   <Sound tag="music_about_to_lose"	precache="0" cache="cached" type="music" priority="7" fade="2">Assets\Music\About_to_lose.ogg</Sound>
+  
+   <Bitmap tag="bmp_skinsidepanel"			precache="1">Assets\Skin\Skin_SidePanel.jpg</Bitmap> 
+   <Bitmap tag="bmp_skinsidepanel_game"		precache="0">Assets\Skin\Skin_SidePanel_Battle.jpg</Bitmap> 
+   <BitmapImage tag="img_sidepanel_l"				bitmap="bmp_skinsidepanel" x="0"    y="0"   width="176" height="768" destwidth="176" destheight="768"/>
+   <BitmapImage tag="img_sidepanel_r"				bitmap="bmp_skinsidepanel" x="177"  y="0"   width="176" height="768" destwidth="176" destheight="768"/>
+   <BitmapImage tag="img_sidepanel_l_top"			bitmap="bmp_skinsidepanel" x="0"    y="0"   width="176" height="95"  destwidth="176" destheight="95"/>
+   <BitmapImage tag="img_sidepanel_r_top"			bitmap="bmp_skinsidepanel" x="177"  y="0"   width="176" height="95"  destwidth="176" destheight="95"/>
+   <BitmapImage tag="img_sidepanel0"			bitmap="bmp_skinsidepanel_game" x="0"   y="0"   width="103" height="768" destwidth="103" destheight="768"/>
+   <BitmapImage tag="img_sidepanel1"			bitmap="bmp_skinsidepanel_game" x="153" y="0"   width="103" height="768" destwidth="103" destheight="768"/>
+   <BitmapImage tag="img_sidepanel_top_xb360"   bitmap="bmp_skinsidepanel" x="0" y="927"   width="102" height="97" destwidth="102" destheight="97"/>
+   <BitmapImage tag="img_sidepanel_conv0"       bitmap="bmp_skinsidepanel" x="383" y="0"   width="64" height="512" destwidth="64" destheight="512"/>
+   <BitmapImage tag="img_sidepanel_conv1"       bitmap="bmp_skinsidepanel" x="448" y="0"   width="64" height="512" destwidth="64" destheight="512"/>
+   <BitmapImage tag="img_sidepanel_edge"        bitmap="bmp_skinsidepanel" x="142" y="999"   width="370" height="25" destwidth="370" destheight="25"/>
+   
+   <Bitmap tag="bmp_skin_backdrop"		precache="1">Assets\Skin\Skin_Backdrop_Standard.jpg</Bitmap>
+   <Bitmap tag="bmp_skin_buttmain"		precache="1">Assets\Skin\Skin_Buttons_Main.png</Bitmap>
+   <Bitmap tag="bmp_skin_buttmisc"		precache="1">Assets\Skin\Skin_Buttons_Misc.png</Bitmap>
+   <Bitmap tag="bmp_skin_dlgmain"		precache="1">Assets\Skin\Skin_Dialogs_Main.png</Bitmap>
+   <Bitmap tag="bmp_skin_dlgchar"		precache="1">Assets\Skin\Skin_Dialogs_Character.png</Bitmap>
+   <Bitmap tag="bmp_skin_battlemisc"	precache="1">Assets\Skin\Skin_Battle_Misc.png</Bitmap>
+   <Bitmap tag="bmp_skin_gemsgrid"		precache="1">Assets\Skin\Skin_Gems_Grid.png</Bitmap>
+   <Bitmap tag="bmp_skin_gamepad"		precache="0">Assets\Skin\Skin_Gamepad.png</Bitmap>
+   <Bitmap tag="bmp_skin_splash"		precache="0">Assets\Skin\Skin_Splash.jpg</Bitmap>
+   <Bitmap tag="bmp_skin_xbla_mp"		precache="0">Assets\Graphics\MatchIcons.jpg</Bitmap>
+   <Bitmap tag="bmp_combatfx"			precache="0">Assets\Graphics\CombatEffectBits.png</Bitmap>
+
+   <Bitmap tag="bmp_rays"				precache="0">Assets\Graphics\Rays.png</Bitmap>
+   
+   <Bitmap tag="bmp_maincursor"		precache="1">Assets\Cursors\MainCursor.png</Bitmap>
+   <Bitmap tag="bmp_mist"			precache="1">Assets\Graphics\Mist.png</Bitmap>
+   <Bitmap tag="bmp_portraits"		precache="0">Assets\Portraits\Portrait_Knight0.png</Bitmap>
+   <Bitmap tag="bmp_listportraits"  precache="0">Assets\Portraits\Portrait_Knight0.png</Bitmap>
+   <Bitmap tag="bmp_enemyportrait"  precache="0">Assets\Portraits\Portrait_Knight0.png</Bitmap>
+   <Bitmap tag="bmp_items"          precache="0">Assets\Graphics\Items.png</Bitmap>
+   <Bitmap tag="bmp_resistspell"    precache="0">Assets\Graphics\ResistMessage.png</Bitmap>
+   <Bitmap tag="bmp_statuseffects"  precache="0">Assets\Graphics\StatusEffects.png</Bitmap>
+   <Bitmap tag="bmp_listbox"        precache="0">Assets\Graphics\Listbox.png</Bitmap>
+   <Bitmap tag="bmp_quest"          precache="0">Assets\Graphics\Quest_OrcKing.png</Bitmap>
+   <Bitmap tag="bmp_features"		precache="0">Assets\Graphics\Sites.png</Bitmap>
+   <Bitmap tag="bmp_cities"			precache="0">Assets\Graphics\Cities.jpg</Bitmap>
+   <Bitmap tag="bmp_charportrait0"  precache="0">Assets\Portraits\Portrait_Knight0.png</Bitmap>
+   <Bitmap tag="bmp_charportrait1"  precache="0">Assets\Portraits\Portrait_Knight0.png</Bitmap>
+   <Bitmap tag="bmp_scroll"			precache="0">Assets\Graphics\Scroll.png</Bitmap>
+   <Bitmap tag="bmp_citybits"		precache="0">Assets\Graphics\CityBits.png</Bitmap>
+   <Bitmap tag="bmp_compportrait"	precache="0">Assets\Portraits\Portrait_Knight0.png</Bitmap>
+   
+   <Bitmap tag="bmp_charicons"		precache="0">Assets\Graphics\CharIcons.png</Bitmap>
+   <BitmapImage tag="img_ci_earth"    bitmap="bmp_charicons" x="0"    y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_fire"     bitmap="bmp_charicons" x="32"   y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_air"      bitmap="bmp_charicons" x="64"   y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_water"    bitmap="bmp_charicons" x="96"   y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_battle"   bitmap="bmp_charicons" x="128"  y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_cunning"  bitmap="bmp_charicons" x="160"  y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_morale"   bitmap="bmp_charicons" x="192"  y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_spell0"   bitmap="bmp_charicons" x="0"    y="32" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_spell1"   bitmap="bmp_charicons" x="32"   y="32" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_locn0"    bitmap="bmp_charicons" x="64"   y="32" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_locn1"    bitmap="bmp_charicons" x="96"   y="32" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_locn2"    bitmap="bmp_charicons" x="128"  y="32" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_locn3"    bitmap="bmp_charicons" x="160"  y="32" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_ci_rune"     bitmap="bmp_charicons" x="192"  y="32" width="32" height="32"  destwidth="32" destheight="32"/>
+   
+   <Bitmap tag="bmp_messages"       precache="0">English\Messages.png</Bitmap>
+   
+   <Bitmap tag="bmp_rules"            precache="0">English\Rules_SpellGame.png</Bitmap>
+   <BitmapImage tag="img_rules"       bitmap="bmp_rules" x="0"  y="0" width="128" height="395"  destwidth="128" destheight="395"/>
+   <BitmapImage tag="img_rules_xbox"  bitmap="bmp_rules" x="0"  y="0" width="256" height="416"  destwidth="256" destheight="416"/>
+   
+   <Bitmap tag="bmp_opptute"			precache="0">Assets\Graphics\OppTuteDialog.png</Bitmap>
+   <Bitmap tag="bmp_opptute2"			precache="0">Assets\Graphics\OppTuteDialog2.png</Bitmap>
+   <BitmapImage tag="img_opptute0"   bitmap="bmp_opptute"  x="0" y="0" width="256" height="128"  destwidth="256" destheight="128"/>
+   <BitmapImage tag="img_opptute1"   bitmap="bmp_opptute"  x="0" y="128" width="256" height="128"  destwidth="256" destheight="128"/>
+   <BitmapImage tag="img_opptute2"   bitmap="bmp_opptute"  x="0" y="256" width="224" height="176"  destwidth="224" destheight="176"/>
+   <BitmapImage tag="img_opptute3"   bitmap="bmp_opptute2" x="0" y="0" width="256" height="128"  destwidth="256" destheight="128"/>
+   <BitmapImage tag="img_opptute4"   bitmap="bmp_opptute2" x="0" y="128" width="256" height="128"  destwidth="256" destheight="128"/>
+   
+   <Bitmap tag="bmp_spritehero"		precache="0">Assets\Graphics\Hero_Knight.png</Bitmap>
+   
+   <Bitmap tag="bmp_conversationbg"	precache="0">Assets\Conversations\Conv_Forest.png</Bitmap>
+   <Bitmap tag="bmp_speechbubble"	precache="0">Assets\Graphics\SpeechBubble.png</Bitmap>
+   <Bitmap tag="bmp_characterbg"	precache="0">Assets\Graphics\CharacterBackdrop.png</Bitmap>
+   
+   <Bitmap tag="bmp_inttut"			precache="0">Assets\Graphics\InteractiveTutorial.png</Bitmap>
+   <BitmapImage tag="img_butthide_act"   bitmap="bmp_inttut" x="336" y="0" width="40" height="18"  destwidth="40" destheight="18"/>
+   <BitmapImage tag="img_butthide_hi"    bitmap="bmp_inttut" x="336" y="20" width="40" height="18"  destwidth="40" destheight="18"/>
+   <BitmapImage tag="img_butthide_pres"  bitmap="bmp_inttut" x="336" y="40" width="40" height="18"  destwidth="40" destheight="18"/>
+   <BitmapImage tag="img_butthide_gray"  bitmap="bmp_inttut" x="336" y="60" width="40" height="18"  destwidth="40" destheight="18"/>
+   
+   <Bitmap tag="bmp_tavern"         precache="0">Assets\Graphics\Tavern.png</Bitmap>
+   <BitmapImage tag="img_tavern"    bitmap="bmp_tavern" x="0"    y="0"   width="180" height="220"  destwidth="180" destheight="220"/>
+   
+   <Bitmap tag="bmp_controls"         precache="0">English\Controls.jpg</Bitmap>
+   <BitmapImage tag="img_controls"    bitmap="bmp_controls" x="0"    y="0"   width="1024" height="768"  destwidth="1024" destheight="768"/>
+   
+   <Bitmap tag="bmp_hourglass"		precache="0">Assets\Graphics\Hourglass.png</Bitmap> 
+   <BitmapImage tag="img_hgl00"		bitmap="bmp_hourglass" x="0"   y="0"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl01"		bitmap="bmp_hourglass" x="30"  y="0"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl02"		bitmap="bmp_hourglass" x="60"  y="0"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl03"		bitmap="bmp_hourglass" x="90"  y="0"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl04"		bitmap="bmp_hourglass" x="120" y="0"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl05"		bitmap="bmp_hourglass" x="150" y="0"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl06"		bitmap="bmp_hourglass" x="180" y="0"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl07"		bitmap="bmp_hourglass" x="210" y="0"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl08"		bitmap="bmp_hourglass" x="0"   y="38"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl09"		bitmap="bmp_hourglass" x="30"  y="38"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl10"		bitmap="bmp_hourglass" x="60"  y="38"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl11"		bitmap="bmp_hourglass" x="90"  y="38"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl12"		bitmap="bmp_hourglass" x="120" y="38"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl13"		bitmap="bmp_hourglass" x="150" y="38"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl14"		bitmap="bmp_hourglass" x="180" y="38"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl15"		bitmap="bmp_hourglass" x="210" y="38"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl16"		bitmap="bmp_hourglass" x="0"   y="76"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl17"		bitmap="bmp_hourglass" x="30"  y="76"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl18"		bitmap="bmp_hourglass" x="60"  y="76"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl19"		bitmap="bmp_hourglass" x="90"  y="76"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl20"		bitmap="bmp_hourglass" x="120" y="76"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl21"		bitmap="bmp_hourglass" x="150" y="76"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl22"		bitmap="bmp_hourglass" x="180" y="76"   width="30" height="38" destwidth="30" destheight="38"/>
+   <BitmapImage tag="img_hgl23"		bitmap="bmp_hourglass" x="210" y="76"   width="30" height="38" destwidth="30" destheight="38"/>
+   
+   <BitmapImage tag="img_splash"    bitmap="bmp_skin_splash" x="0"    y="0"   width="1024" height="768"  destwidth="1024" destheight="768"/>
+   
+   <BitmapImage tag="img_border_top"    bitmap="bmp_skin_backdrop" x="0"    y="0"   width="1024" height="95"  destwidth="1024" destheight="95"/>
+   <BitmapImage tag="img_border_left"   bitmap="bmp_skin_backdrop" x="0"    y="95"  width="19"   height="653" destwidth="19"   destheight="653"/>
+   <BitmapImage tag="img_border_right"  bitmap="bmp_skin_backdrop" x="1003" y="95"  width="21"   height="653" destwidth="21"   destheight="653"/>
+   <BitmapImage tag="img_border_bottom" bitmap="bmp_skin_backdrop" x="0"    y="748" width="1024" height="20"  destwidth="1024" destheight="20"/>
+   <BitmapImage tag="img_border_top_xbox"    bitmap="bmp_skin_backdrop" x="0"    y="0"   width="1024" height="117"  destwidth="1024" destheight="117"/>
+   
+   <BitmapImage tag="img_redglow_00" bitmap="bmp_skin_buttmisc" x="261" y="231" width="88" height="88" destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_redglow_01" bitmap="bmp_skin_buttmisc" x="263" y="233" width="84" height="84" destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_redglow_02" bitmap="bmp_skin_buttmisc" x="265" y="235" width="80" height="80" destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_redglow_03" bitmap="bmp_skin_buttmisc" x="267" y="237" width="76" height="76" destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_redglow_04" bitmap="bmp_skin_buttmisc" x="269" y="239" width="72" height="72" destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_redglow_05" bitmap="bmp_skin_buttmisc" x="271" y="241" width="68" height="68" destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_redglow_06" bitmap="bmp_skin_buttmisc" x="273" y="243" width="64" height="64" destwidth="64" destheight="64"/>
+   
+   <BitmapImage tag="img_tabbar"    bitmap="bmp_skin_dlgchar" x="0" y="465" width="440" height="47" destwidth="440" destheight="47"/>
+   <BitmapImage tag="img_tabbar_00" bitmap="bmp_skin_dlgchar" x="0" y="414" width="48" height="47" destwidth="48"  destheight="47"/>
+   <BitmapImage tag="img_tabbar_01" bitmap="bmp_skin_dlgchar" x="49" y="414" width="48" height="47" destwidth="48"  destheight="47"/>
+   <BitmapImage tag="img_tabbar_02" bitmap="bmp_skin_dlgchar" x="98" y="414" width="48" height="47" destwidth="48"  destheight="47"/>
+   <BitmapImage tag="img_tabbar_03" bitmap="bmp_skin_dlgchar" x="147" y="414" width="48" height="47" destwidth="48"  destheight="47"/>
+   <BitmapImage tag="img_tabbar_04" bitmap="bmp_skin_dlgchar" x="196" y="414" width="48" height="47" destwidth="48"  destheight="47"/>
+   <BitmapImage tag="img_tabbar_05" bitmap="bmp_skin_dlgchar" x="245" y="414" width="48" height="47" destwidth="48"  destheight="47"/>
+   <BitmapImage tag="img_tabbar_06" bitmap="bmp_skin_dlgchar" x="294" y="414" width="48" height="47" destwidth="48"  destheight="47"/>
+   <BitmapImage tag="img_tabbar_07" bitmap="bmp_skin_dlgchar" x="343" y="414" width="48" height="47" destwidth="48"  destheight="47"/>
+   <BitmapImage tag="img_tabbar_08" bitmap="bmp_skin_dlgchar" x="392" y="414" width="48" height="47" destwidth="48"  destheight="47"/>
+   <BitmapImage tag="img_tabbar_hi" bitmap="bmp_skin_dlgchar" x="456" y="456" width="56" height="56" destwidth="56"  destheight="56"/>
+   
+   <BitmapImage tag="img_buttctr_act" bitmap="bmp_skin_dlgchar" x="0"  y="302" width="45" height="45" destwidth="45"  destheight="45"/>
+   <BitmapImage tag="img_buttctr_hi"  bitmap="bmp_skin_dlgchar" x="46" y="302" width="45" height="45" destwidth="45"  destheight="45"/>
+   <BitmapImage tag="img_buttctr_pres" bitmap="bmp_skin_dlgchar" x="0"  y="348" width="45" height="45" destwidth="45"  destheight="45"/>
+   <BitmapImage tag="img_buttctr_gray" bitmap="bmp_skin_dlgchar" x="46" y="348" width="45" height="45" destwidth="45"  destheight="45"/>
+   
+   <BitmapImage tag="img_darkpopup"     bitmap="bmp_skin_dlgmain"  x="0"   y="261" width="300" height="125" destwidth="448" destheight="125"/>
+   <BitmapImage tag="img_darkpopup0"    bitmap="bmp_skin_dlgmain"  x="0"   y="261" width="100" height="125" destwidth="100" destheight="125"/>
+   <BitmapImage tag="img_darkpopup1"    bitmap="bmp_skin_dlgmain"  x="100" y="261" width="100" height="125" destwidth="100" destheight="125"/>
+   <BitmapImage tag="img_darkpopup2"    bitmap="bmp_skin_dlgmain"  x="200" y="261" width="100" height="125" destwidth="100" destheight="125"/>
+   <BitmapImage tag="img_mapcharpopup"  bitmap="bmp_skin_dlgmain"  x="0"   y="387" width="300" height="125" destwidth="300" destheight="125"/>
+   <BitmapImage tag="img_xbl_logo"      bitmap="bmp_skin_dlgmain"  x="335"   y="413" width="177" height="38" destwidth="177" destheight="38"/>
+   <BitmapImage tag="img_xbl_mp_frame"  bitmap="bmp_skin_xbla_mp"  x="0"   y="0" width="622" height="335" destwidth="622" destheight="335"/>
+   <BitmapImage tag="img_xbl_list_frame_top"  bitmap="bmp_skin_xbla_mp"  x="0"   y="336" width="580" height="49" destwidth="580" destheight="49"/>
+   <BitmapImage tag="img_xbl_list_frame_off"  bitmap="bmp_skin_xbla_mp"  x="0"   y="385" width="580" height="36" destwidth="580" destheight="36"/>
+   <BitmapImage tag="img_xbl_list_frame_lo"   bitmap="bmp_skin_xbla_mp"  x="0"   y="421" width="580" height="36" destwidth="580" destheight="36"/>
+   <BitmapImage tag="img_xbl_list_frame_hi"   bitmap="bmp_skin_xbla_mp"  x="0"   y="457" width="580" height="36" destwidth="580" destheight="36"/>
+   <BitmapImage tag="img_xbl_list_frame_bot"  bitmap="bmp_skin_xbla_mp"  x="0"   y="493" width="580" height="9"  destwidth="580" destheight="9"/>
+   <BitmapImage tag="img_xbl_list_lvlt"  bitmap="bmp_skin_xbla_mp"  x="623"   y="0" width="64" height="32"  destwidth="64" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_lvl5"  bitmap="bmp_skin_xbla_mp"  x="623"   y="32" width="64" height="32"  destwidth="64" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_lvl10"  bitmap="bmp_skin_xbla_mp"  x="623"   y="64" width="64" height="32"  destwidth="64" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_lvl20"  bitmap="bmp_skin_xbla_mp"  x="623"   y="96" width="64" height="32"  destwidth="64" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_lvl30"  bitmap="bmp_skin_xbla_mp"  x="623"   y="128" width="64" height="32"  destwidth="64" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_lvl40"  bitmap="bmp_skin_xbla_mp"  x="623"   y="160" width="64" height="32"  destwidth="64" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_lvl50"  bitmap="bmp_skin_xbla_mp"  x="623"   y="192" width="64" height="32"  destwidth="64" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_h_t"   bitmap="bmp_skin_xbla_mp"  x="687"   y="0" width="40" height="32"  destwidth="40" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_h_on"   bitmap="bmp_skin_xbla_mp"  x="687"   y="32" width="40" height="32"  destwidth="40" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_h_off"  bitmap="bmp_skin_xbla_mp"  x="687"   y="64" width="40" height="32"  destwidth="40" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_tmt"    bitmap="bmp_skin_xbla_mp"  x="727"   y="0" width="40" height="32"  destwidth="40" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_tm4"    bitmap="bmp_skin_xbla_mp"  x="727"   y="32" width="40" height="32"  destwidth="40" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_tm8"    bitmap="bmp_skin_xbla_mp"  x="727"   y="64" width="40" height="32"  destwidth="40" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_tm12"   bitmap="bmp_skin_xbla_mp"  x="727"   y="96" width="40" height="32"  destwidth="40" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_tm16"   bitmap="bmp_skin_xbla_mp"  x="727"   y="128" width="40" height="32"  destwidth="40" destheight="32"/>
+   <BitmapImage tag="img_xbl_list_tm0"    bitmap="bmp_skin_xbla_mp"  x="727"   y="160" width="40" height="32"  destwidth="40" destheight="32"/>
+   <BitmapImage tag="img_xbl_long_hilite"  bitmap="bmp_skin_xbla_mp"  x="8"   y="457" width="565" height="36" destwidth="565" destheight="36"/>
+   
+   <BitmapImage tag="img_hint_00"    bitmap="bmp_skin_gemsgrid" x="101" y="477" width="55" height="35" destwidth="55" destheight="35"/>
+   <BitmapImage tag="img_hint_01"    bitmap="bmp_skin_gemsgrid" x="157" y="477" width="55" height="35" destwidth="55" destheight="35"/>
+   <BitmapImage tag="img_hint_02"    bitmap="bmp_skin_gemsgrid" x="213" y="477" width="55" height="35" destwidth="55" destheight="35"/>
+   <BitmapImage tag="img_hint_03"    bitmap="bmp_skin_gemsgrid" x="269" y="477" width="55" height="35" destwidth="55" destheight="35"/>
+   
+   <BitmapImage tag="img_ltimebg"    bitmap="bmp_skin_gemsgrid" x="331" y="422" width="90" height="90" destwidth="90" destheight="90"/>
+   <BitmapImage tag="img_rtimebg"    bitmap="bmp_skin_gemsgrid" x="422" y="422" width="90" height="90" destwidth="90" destheight="90"/>
+   
+   <BitmapImage tag="img_victory_gold" bitmap="bmp_skin_dlgchar" x="469" y="218" width="24" height="24" destwidth="24" destheight="24"/>
+   <BitmapImage tag="img_victory_xp"   bitmap="bmp_skin_dlgchar" x="469" y="243" width="24" height="24" destwidth="24" destheight="24"/>
+   
+   <BitmapImage tag="img_maincursor" bitmap="bmp_maincursor" x="0" y="0" width="32" height="32" destwidth="32" destheight="32"/>
+   
+   <BitmapImage tag="img_listbox" bitmap="bmp_listbox" x="0" y="0" width="256" height="200" destwidth="256" destheight="200"/>
+   
+   <BitmapImage tag="img_quest" bitmap="bmp_quest" x="0" y="0" width="128" height="160" destwidth="128" destheight="160"/>
+   
+   
+   <BitmapImage tag="img_backdrop"      bitmap="bmp_skin_backdrop" x="0" y="0"   width="1024" height="768" destwidth="1024" destheight="768"/>
+   <BitmapImage tag="img_toppanel"      bitmap="bmp_skin_backdrop" x="0" y="0"   width="1024" height="95" destwidth="1024" destheight="95"/>
+   <BitmapImage tag="img_black"         bitmap="bmp_skin_backdrop" x="0" y="768"   width="50" height="50" destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_buttwide_act"  bitmap="bmp_skin_buttmain" x="0" y="0" width="300" height="50"  destwidth="300" destheight="50"/>
+   <BitmapImage tag="img_buttwide_hi0"  bitmap="bmp_skin_buttmain" x="0" y="51" width="300" height="50"  destwidth="300" destheight="50"/>
+   <BitmapImage tag="img_buttwide_hi1"  bitmap="bmp_skin_buttmain" x="0" y="102" width="300" height="50"  destwidth="300" destheight="50"/>
+   <BitmapImage tag="img_buttwide_hi2"  bitmap="bmp_skin_buttmain" x="0" y="153" width="300" height="50"  destwidth="300" destheight="50"/>
+   <BitmapImage tag="img_buttwide_hi3"  bitmap="bmp_skin_buttmain" x="0" y="204" width="300" height="50"  destwidth="300" destheight="50"/>
+   <BitmapImage tag="img_buttwide_pres" bitmap="bmp_skin_buttmain" x="0" y="255" width="300" height="50"  destwidth="300" destheight="50"/>
+   <BitmapImage tag="img_buttwide_gray" bitmap="bmp_skin_buttmain" x="0" y="306" width="300" height="50"  destwidth="300" destheight="50"/>
+   <BitmapImage tag="img_buttsmall_act"  bitmap="bmp_skin_buttmain" x="301" y="0" width="160" height="50"  destwidth="160" destheight="50"/>
+   <BitmapImage tag="img_buttsmall_hi0"  bitmap="bmp_skin_buttmain" x="301" y="51" width="160" height="50"  destwidth="160" destheight="50"/>
+   <BitmapImage tag="img_buttsmall_hi1"  bitmap="bmp_skin_buttmain" x="301" y="102" width="160" height="50"  destwidth="160" destheight="50"/>
+   <BitmapImage tag="img_buttsmall_hi2"  bitmap="bmp_skin_buttmain" x="301" y="153" width="160" height="50"  destwidth="160" destheight="50"/>
+   <BitmapImage tag="img_buttsmall_hi3"  bitmap="bmp_skin_buttmain" x="301" y="204" width="160" height="50"  destwidth="160" destheight="50"/>
+   <BitmapImage tag="img_buttsmall_pres" bitmap="bmp_skin_buttmain" x="301" y="255" width="160" height="50"  destwidth="160" destheight="50"/>
+   <BitmapImage tag="img_buttsmall_gray" bitmap="bmp_skin_buttmain" x="301" y="306" width="160" height="50"  destwidth="160" destheight="50"/>
+   <BitmapImage tag="img_buttplus_act"   bitmap="bmp_skin_buttmisc" x="327" y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttplus_hi0"   bitmap="bmp_skin_buttmisc" x="327" y="33" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttplus_hi1"   bitmap="bmp_skin_buttmisc" x="327" y="66" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttplus_hi2"   bitmap="bmp_skin_buttmisc" x="327" y="99" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttplus_hi3"   bitmap="bmp_skin_buttmisc" x="327" y="132" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttplus_pres" bitmap="bmp_skin_buttmisc" x="327" y="165"   width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttplus_gray" bitmap="bmp_skin_buttmisc" x="327" y="198"   width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttminus_act"   bitmap="bmp_skin_buttmisc" x="360" y="0"   width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttminus_hi0"   bitmap="bmp_skin_buttmisc" x="360" y="33"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttminus_hi1"   bitmap="bmp_skin_buttmisc" x="360" y="66"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttminus_hi2"   bitmap="bmp_skin_buttmisc" x="360" y="99"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttminus_hi3"   bitmap="bmp_skin_buttmisc" x="360" y="132" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttminus_pres"  bitmap="bmp_skin_buttmisc" x="360" y="165" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttminus_gray"  bitmap="bmp_skin_buttmisc" x="360" y="198" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttoff_act"    bitmap="bmp_skin_buttmisc" x="393" y="0"   width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttoff_hi0"    bitmap="bmp_skin_buttmisc" x="393" y="33"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttoff_hi1"    bitmap="bmp_skin_buttmisc" x="393" y="66"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttoff_hi2"    bitmap="bmp_skin_buttmisc" x="393" y="99"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttoff_hi3"    bitmap="bmp_skin_buttmisc" x="393" y="132" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttoff_pres"   bitmap="bmp_skin_buttmisc" x="393" y="165" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttoff_gray"   bitmap="bmp_skin_buttmisc" x="393" y="198" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_button_act"     bitmap="bmp_skin_buttmisc" x="426" y="0"   width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_button_hi0"     bitmap="bmp_skin_buttmisc" x="426" y="33"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_button_hi1"     bitmap="bmp_skin_buttmisc" x="426" y="66"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_button_hi2"     bitmap="bmp_skin_buttmisc" x="426" y="99"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_button_hi3"     bitmap="bmp_skin_buttmisc" x="426" y="132" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_button_pres"    bitmap="bmp_skin_buttmisc" x="426" y="165" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_button_gray"    bitmap="bmp_skin_buttmisc" x="426" y="198" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbang_act"    bitmap="bmp_skin_buttmisc" x="261" y="0"   width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbang_hi0"    bitmap="bmp_skin_buttmisc" x="261" y="33"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbang_hi1"    bitmap="bmp_skin_buttmisc" x="261" y="66"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbang_hi2"    bitmap="bmp_skin_buttmisc" x="261" y="99"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbang_hi3"    bitmap="bmp_skin_buttmisc" x="261" y="132" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbang_pres"   bitmap="bmp_skin_buttmisc" x="261" y="165" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbang_gray"   bitmap="bmp_skin_buttmisc" x="261" y="198" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_butttiny_act"  bitmap="bmp_skin_buttmain" x="0" y="357" width="128" height="35"  destwidth="130" destheight="40"/>
+   <BitmapImage tag="img_butttiny_hi0"  bitmap="bmp_skin_buttmain" x="0" y="393" width="128" height="35"  destwidth="130" destheight="40"/>
+   <BitmapImage tag="img_butttiny_hi1"  bitmap="bmp_skin_buttmain" x="0" y="429" width="128" height="35"  destwidth="130" destheight="40"/>
+   <BitmapImage tag="img_butttiny_hi2"  bitmap="bmp_skin_buttmain" x="0" y="465" width="128" height="35"  destwidth="130" destheight="40"/>
+   <BitmapImage tag="img_butttiny_hi3"  bitmap="bmp_skin_buttmain" x="129" y="357" width="128" height="35"  destwidth="130" destheight="40"/>
+   <BitmapImage tag="img_butttiny_pres" bitmap="bmp_skin_buttmain" x="129" y="393" width="128" height="35"  destwidth="130" destheight="40"/>
+   <BitmapImage tag="img_butttiny_gray" bitmap="bmp_skin_buttmain" x="129" y="429" width="128" height="35"  destwidth="130" destheight="40"/>
+   <BitmapImage tag="img_buttbuy_act"    bitmap="bmp_skin_buttmisc" x="294" y="0"   width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbuy_hi0"    bitmap="bmp_skin_buttmisc" x="294" y="33"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbuy_hi1"    bitmap="bmp_skin_buttmisc" x="294" y="66"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbuy_hi2"    bitmap="bmp_skin_buttmisc" x="294" y="99"  width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbuy_hi3"    bitmap="bmp_skin_buttmisc" x="294" y="132" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbuy_pres"  bitmap="bmp_skin_buttmisc"  x="294" y="165" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttbuy_gray"  bitmap="bmp_skin_buttmisc"  x="294" y="198" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttclose_act"   bitmap="bmp_skin_buttmain" x="258" y="357" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_buttclose_hi"    bitmap="bmp_skin_buttmain" x="278" y="357" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_buttclose_pres"  bitmap="bmp_skin_buttmain" x="258" y="377" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_buttclose_gray"  bitmap="bmp_skin_buttmain" x="278" y="377" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_buttmini_act"   bitmap="bmp_skin_buttmain" x="299" y="357" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_buttmini_hi"    bitmap="bmp_skin_buttmain" x="319" y="357" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_buttmini_pres"  bitmap="bmp_skin_buttmain" x="299" y="377" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_buttmini_gray"  bitmap="bmp_skin_buttmain" x="319" y="377" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_butthelp_act"   bitmap="bmp_skin_buttmain" x="340" y="357" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_butthelp_hi"    bitmap="bmp_skin_buttmain" x="360" y="357" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_butthelp_pres"  bitmap="bmp_skin_buttmain" x="340" y="377" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_butthelp_gray"  bitmap="bmp_skin_buttmain" x="360" y="377" width="20" height="20"  destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_buttleft_act"   bitmap="bmp_skin_buttmisc" x="0"   y="424" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttleft_hi0"   bitmap="bmp_skin_buttmisc" x="33"  y="424" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttleft_hi1"   bitmap="bmp_skin_buttmisc" x="66"  y="424" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttleft_hi2"   bitmap="bmp_skin_buttmisc" x="99"  y="424" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttleft_hi3"   bitmap="bmp_skin_buttmisc" x="132" y="424" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttleft_pres"  bitmap="bmp_skin_buttmisc" x="165" y="424" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttleft_gray"  bitmap="bmp_skin_buttmisc" x="198" y="424" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttright_act"   bitmap="bmp_skin_buttmisc" x="0"   y="457" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttright_hi0"   bitmap="bmp_skin_buttmisc" x="33"  y="457" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttright_hi1"   bitmap="bmp_skin_buttmisc" x="66"  y="457" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttright_hi2"   bitmap="bmp_skin_buttmisc" x="99"  y="457" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttright_hi3"   bitmap="bmp_skin_buttmisc" x="132" y="457" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttright_pres"  bitmap="bmp_skin_buttmisc" x="165" y="457" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_buttright_gray"  bitmap="bmp_skin_buttmisc" x="198" y="457" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_darken"         bitmap="bmp_skin_dlgmain" x="0" y="224" width="50" height="20"  destwidth="50" destheight="20"/>
+   
+   <BitmapImage tag="img_vsbar_bg"		bitmap="bmp_skin_buttmain" x="462"  y="252" width="32" height="170" destwidth="32" destheight="170"/>
+   <BitmapImage tag="img_vsbar_decgray" bitmap="bmp_skin_buttmain" x="396"  y="357" width="32" height="32" destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_vsbar_decup"	bitmap="bmp_skin_buttmain" x="396"  y="390" width="32" height="32" destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_vsbar_decdown" bitmap="bmp_skin_buttmain" x="396"  y="423" width="32" height="32" destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_vsbar_incgray" bitmap="bmp_skin_buttmain" x="429"  y="357" width="32" height="32" destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_vsbar_incup"	bitmap="bmp_skin_buttmain" x="429"  y="390" width="32" height="32" destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_vsbar_incdown" bitmap="bmp_skin_buttmain" x="429"  y="423" width="32" height="32" destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_vsbar_thumb"	bitmap="bmp_skin_buttmain" x="462"  y="423" width="32" height="32" destwidth="32" destheight="32"/>
+   
+   <BitmapImage tag="img_charsheet_sp"    bitmap="bmp_skin_dlgchar" x="0"   y="0" width="273" height="301" destwidth="273" destheight="301"/>
+   <BitmapImage tag="img_charsheet_mp"    bitmap="bmp_skin_dlgchar" x="276" y="0" width="236" height="192" destwidth="236" destheight="192"/>
+   <BitmapImage tag="img_charsheet_mp0"    bitmap="bmp_skin_dlgchar" x="276" y="0" width="160" height="192" destwidth="160" destheight="192"/>
+   <BitmapImage tag="img_charsheet_mp1"    bitmap="bmp_skin_dlgchar" x="436" y="0" width="40"  height="192" destwidth="40" destheight="192"/>
+   <BitmapImage tag="img_charsheet_mp2"    bitmap="bmp_skin_dlgchar" x="476" y="0" width="36"  height="192" destwidth="36" destheight="192"/>
+   
+   <BitmapImage tag="img_dlg"    bitmap="bmp_skin_dlgmain" x="320" y="0" width="192" height="192" destwidth="192" destheight="192"/>
+   <BitmapImage tag="img_dlg_0"  bitmap="bmp_skin_dlgmain" x="320" y="0" width="192" height="64"  destwidth="192" destheight="64"/>
+   <BitmapImage tag="img_dlg_00" bitmap="bmp_skin_dlgmain" x="320" y="0" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_dlg_01" bitmap="bmp_skin_dlgmain" x="384" y="0" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_dlg_02" bitmap="bmp_skin_dlgmain" x="448" y="0" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_dlg_1"  bitmap="bmp_skin_dlgmain" x="320" y="64" width="192" height="64"  destwidth="192" destheight="64"/>
+   <BitmapImage tag="img_dlg_10" bitmap="bmp_skin_dlgmain" x="320" y="64" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_dlg_11" bitmap="bmp_skin_dlgmain" x="384" y="64" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_dlg_12" bitmap="bmp_skin_dlgmain" x="448" y="64" width="64"  height="64"  destwidth="64"  destheight="64"/>  
+   <BitmapImage tag="img_dlg_2"  bitmap="bmp_skin_dlgmain" x="320" y="128" width="192" height="64"  destwidth="192" destheight="64"/>
+   <BitmapImage tag="img_dlg_20" bitmap="bmp_skin_dlgmain" x="320" y="128" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_dlg_21" bitmap="bmp_skin_dlgmain" x="384" y="128" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_dlg_22" bitmap="bmp_skin_dlgmain" x="448" y="128" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   
+   <BitmapImage tag="img_frm"    bitmap="bmp_skin_dlgmain" x="320"  y="193" width="192" height="192" destwidth="192" destheight="192"/>
+   <BitmapImage tag="img_frm_0"  bitmap="bmp_skin_dlgmain" x="320"  y="193" width="192" height="64"  destwidth="192" destheight="64"/>
+   <BitmapImage tag="img_frm_00" bitmap="bmp_skin_dlgmain" x="320"  y="193" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_frm_01" bitmap="bmp_skin_dlgmain" x="384"  y="193" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_frm_02" bitmap="bmp_skin_dlgmain" x="448"  y="193" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_frm_1"  bitmap="bmp_skin_dlgmain" x="320"  y="257" width="192" height="64"  destwidth="192" destheight="64"/>
+   <BitmapImage tag="img_frm_10" bitmap="bmp_skin_dlgmain" x="320"  y="257" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_frm_11" bitmap="bmp_skin_dlgmain" x="384"  y="257" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_frm_12" bitmap="bmp_skin_dlgmain" x="448"  y="257" width="64"  height="64"  destwidth="64"  destheight="64"/>  
+   <BitmapImage tag="img_frm_2"  bitmap="bmp_skin_dlgmain" x="320"  y="321" width="192" height="64"  destwidth="192" destheight="64"/>
+   <BitmapImage tag="img_frm_20" bitmap="bmp_skin_dlgmain" x="320"  y="321" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_frm_21" bitmap="bmp_skin_dlgmain" x="384"  y="321" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   <BitmapImage tag="img_frm_22" bitmap="bmp_skin_dlgmain" x="448"  y="321" width="64"  height="64"  destwidth="64"  destheight="64"/>
+   
+   
+   <BitmapImage tag="img_lbx_0"  bitmap="bmp_skin_dlgmain"  x="312"  y="452" width="200" height="10"  destwidth="200" destheight="10"/>
+   <BitmapImage tag="img_lbx_00" bitmap="bmp_skin_dlgmain"  x="312"  y="452" width="50"  height="10"  destwidth="50"  destheight="10"/>
+   <BitmapImage tag="img_lbx_01" bitmap="bmp_skin_dlgmain"  x="362"  y="452" width="100" height="10"  destwidth="100" destheight="10"/>
+   <BitmapImage tag="img_lbx_01a" bitmap="bmp_skin_dlgmain" x="362"  y="452" width="50" height="10"  destwidth="50" destheight="10"/>
+   <BitmapImage tag="img_lbx_02" bitmap="bmp_skin_dlgmain"  x="462"  y="452" width="50"  height="10"  destwidth="50"  destheight="10"/>
+   <BitmapImage tag="img_lbx_1"  bitmap="bmp_skin_dlgmain"  x="312"  y="462" width="200" height="20"  destwidth="200" destheight="20"/>
+   <BitmapImage tag="img_lbx_10" bitmap="bmp_skin_dlgmain"  x="312"  y="462" width="50"  height="20"  destwidth="50"  destheight="20"/>
+   <BitmapImage tag="img_lbx_11" bitmap="bmp_skin_dlgmain"  x="362"  y="462" width="100" height="20"  destwidth="100" destheight="20"/>
+   <BitmapImage tag="img_lbx_11a" bitmap="bmp_skin_dlgmain" x="362"  y="462" width="50" height="20"  destwidth="50" destheight="20"/>
+   <BitmapImage tag="img_lbx_12" bitmap="bmp_skin_dlgmain"  x="462"  y="462" width="50"  height="20"  destwidth="50"  destheight="20"/>  
+   <BitmapImage tag="img_lbx_2"  bitmap="bmp_skin_dlgmain"  x="312"  y="502" width="200" height="10"  destwidth="200" destheight="10"/>
+   <BitmapImage tag="img_lbx_20" bitmap="bmp_skin_dlgmain"  x="312"  y="502" width="50"  height="10"  destwidth="50"  destheight="10"/>
+   <BitmapImage tag="img_lbx_21" bitmap="bmp_skin_dlgmain"  x="362"  y="502" width="100" height="10"  destwidth="100" destheight="10"/>
+   <BitmapImage tag="img_lbx_21a" bitmap="bmp_skin_dlgmain" x="362"  y="502" width="50" height="10"  destwidth="50" destheight="10"/>
+   <BitmapImage tag="img_lbx_22" bitmap="bmp_skin_dlgmain"  x="462"  y="502" width="50"  height="10"  destwidth="50"  destheight="10"/>
+   
+   <BitmapImage tag="img_editor"        bitmap="bmp_skin_buttmain" x="162" y="465" width="300"  height="32" destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_editor_caret1" bitmap="bmp_skin_buttmain" x="129" y="465" width="32" height="32" destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_editor_caret2" bitmap="bmp_skin_buttmain" x="342" y="460" width="4" height="4"   destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_editor_blink"  bitmap="bmp_skin_buttmain" x="463" y="465" width="16"  height="32" destwidth="16" destheight="32"/>
+   <BitmapImage tag="img_blank"         bitmap="bmp_skin_buttmain" x="342" y="460" width="4" height="4"   destwidth="16" destheight="16"/>
+   
+   <BitmapImage tag="img_drop_act"    bitmap="bmp_skin_buttmisc" x="0" y="0" width="260" height="50" destwidth="260" destheight="50"/>
+   <BitmapImage tag="img_drop_hi0"    bitmap="bmp_skin_buttmisc" x="0" y="51" width="260" height="50" destwidth="260" destheight="50"/>
+   <BitmapImage tag="img_drop_hi1"    bitmap="bmp_skin_buttmisc" x="0" y="102" width="260" height="50" destwidth="260" destheight="50"/>
+   <BitmapImage tag="img_drop_hi2"    bitmap="bmp_skin_buttmisc" x="0" y="153" width="260" height="50" destwidth="260" destheight="50"/>
+   <BitmapImage tag="img_drop_hi3"    bitmap="bmp_skin_buttmisc" x="0" y="204" width="260" height="50" destwidth="260" destheight="50"/>
+   <BitmapImage tag="img_drop_pres"   bitmap="bmp_skin_buttmisc" x="0" y="255" width="260" height="50" destwidth="260" destheight="50"/>
+   <BitmapImage tag="img_drop_gray"   bitmap="bmp_skin_buttmisc" x="0" y="306" width="260" height="50" destwidth="260" destheight="50"/>
+   <BitmapImage tag="img_drop_dtop"   bitmap="bmp_skin_buttmisc" x="0" y="357" width="250" height="13"  destwidth="250" destheight="13"/>
+   <BitmapImage tag="img_drop_dctr"   bitmap="bmp_skin_buttmisc" x="0" y="370" width="250" height="20" destwidth="250" destheight="20"/>
+   <BitmapImage tag="img_drop_dctrhi" bitmap="bmp_skin_buttmisc" x="0" y="390" width="250" height="20" destwidth="250" destheight="20"/>
+   <BitmapImage tag="img_drop_dbot"   bitmap="bmp_skin_buttmisc" x="0" y="410" width="250" height="13"  destwidth="250" destheight="13"/>
+   
+   <BitmapImage tag="img_qbutt0_act"  bitmap="bmp_skin_buttmain" x="462" y="0" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt0_hi"   bitmap="bmp_skin_buttmain" x="462" y="21" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt0_pres" bitmap="bmp_skin_buttmain" x="462" y="42" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt0_gray" bitmap="bmp_skin_buttmain" x="462" y="63" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt1_act"  bitmap="bmp_skin_buttmain" x="462" y="84" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt1_hi"   bitmap="bmp_skin_buttmain" x="462" y="105" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt1_pres" bitmap="bmp_skin_buttmain" x="462" y="126" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt1_gray" bitmap="bmp_skin_buttmain" x="462" y="147" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt2_act"  bitmap="bmp_skin_buttmain" x="462" y="168" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt2_hi"   bitmap="bmp_skin_buttmain" x="462" y="189" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt2_pres" bitmap="bmp_skin_buttmain" x="462" y="210" width="20" height="20" destwidth="20" destheight="20"/>
+   <BitmapImage tag="img_qbutt2_gray" bitmap="bmp_skin_buttmain" x="462" y="231" width="20" height="20" destwidth="20" destheight="20"/>
+   
+   <BitmapImage tag="img_listportraits" bitmap="bmp_listportraits" x="0" y="0" width="256" height="256"  destwidth="128" destheight="128"/>
+   <BitmapImage tag="img_listportraits2" bitmap="bmp_enemyportrait" x="0" y="0" width="256" height="256"  destwidth="128" destheight="128"/>
+
+   <BitmapImage tag="img_shieldgrn_0"   bitmap="bmp_skin_battlemisc" x="173" y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldgrn_1"   bitmap="bmp_skin_battlemisc" x="206" y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldgrn_2"   bitmap="bmp_skin_battlemisc" x="239" y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldgrn_3"   bitmap="bmp_skin_battlemisc" x="272" y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldgrn_4"   bitmap="bmp_skin_battlemisc" x="305" y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldgrn_5"   bitmap="bmp_skin_battlemisc" x="338" y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldgrn_6"   bitmap="bmp_skin_battlemisc" x="371" y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldgrn_7"   bitmap="bmp_skin_battlemisc" x="404" y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldgrn_8"   bitmap="bmp_skin_battlemisc" x="437" y="0" width="32" height="32"  destwidth="32" destheight="32"/>
+
+   <BitmapImage tag="img_shieldred_0"   bitmap="bmp_skin_battlemisc" x="173" y="33" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldred_1"   bitmap="bmp_skin_battlemisc" x="206" y="33" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldred_2"   bitmap="bmp_skin_battlemisc" x="239" y="33" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldred_3"   bitmap="bmp_skin_battlemisc" x="272" y="33" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldred_4"   bitmap="bmp_skin_battlemisc" x="305" y="33" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldred_5"   bitmap="bmp_skin_battlemisc" x="338" y="33" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldred_6"   bitmap="bmp_skin_battlemisc" x="371" y="33" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldred_7"   bitmap="bmp_skin_battlemisc" x="404" y="33" width="32" height="32"  destwidth="32" destheight="32"/>
+   <BitmapImage tag="img_shieldred_8"   bitmap="bmp_skin_battlemisc" x="437" y="33" width="32" height="32"  destwidth="32" destheight="32"/>
+   
+   <BitmapImage tag="img_timer_0"   bitmap="bmp_skin_battlemisc" x="201" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_timer_1"   bitmap="bmp_skin_battlemisc" x="252" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_timer_2"   bitmap="bmp_skin_battlemisc" x="303" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_timer_3"   bitmap="bmp_skin_battlemisc" x="354" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_timer_4"   bitmap="bmp_skin_battlemisc" x="405" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   <BitmapImage tag="img_timer_5"   bitmap="bmp_skin_battlemisc" x="456" y="206" width="50" height="50"  destwidth="50" destheight="50"/>
+   
+   <BitmapImage tag="img_shieldglow_0"  bitmap="bmp_skin_gemsgrid" x="216" y="216"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_shieldglow_1"  bitmap="bmp_skin_gemsgrid" x="281" y="216"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_shieldglow_2"  bitmap="bmp_skin_gemsgrid" x="346" y="216"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_shieldglow_3"  bitmap="bmp_skin_gemsgrid" x="411" y="216"  width="64" height="64"  destwidth="64" destheight="64"/>
+   
+   <BitmapImage tag="img_missturn_1"  bitmap="bmp_skin_battlemisc" x="0" y="74"   width="90" height="24"  destwidth="90" destheight="24"/>
+   <BitmapImage tag="img_missturn_2"  bitmap="bmp_skin_battlemisc" x="0" y="99"   width="90" height="24"  destwidth="90" destheight="24"/>
+   <BitmapImage tag="img_missturn_3"  bitmap="bmp_skin_battlemisc" x="0" y="124"  width="90" height="24"  destwidth="90" destheight="24"/>
+   <BitmapImage tag="img_missturn_4"  bitmap="bmp_skin_battlemisc" x="0" y="149"  width="90" height="24"  destwidth="90" destheight="24"/>
+   <BitmapImage tag="img_missturn_5"  bitmap="bmp_skin_battlemisc" x="0" y="174"  width="90" height="24"  destwidth="90" destheight="24"/>
+
+   <BitmapImage tag="img_gem_green"   bitmap="bmp_skin_gemsgrid" x="0"   y="0"  width="71" height="71"  destwidth="71" destheight="71"/>
+   <BitmapImage tag="img_gem_red"     bitmap="bmp_skin_gemsgrid" x="72"  y="0"  width="71" height="71"  destwidth="71" destheight="71"/>
+   <BitmapImage tag="img_gem_yellow"  bitmap="bmp_skin_gemsgrid" x="144" y="0"  width="71" height="71"  destwidth="71" destheight="71"/>
+   <BitmapImage tag="img_gem_blue"    bitmap="bmp_skin_gemsgrid" x="216" y="0"  width="71" height="71"  destwidth="71" destheight="71"/>
+   <BitmapImage tag="img_gem_scroll"  bitmap="bmp_skin_gemsgrid" x="72" y="216"  width="71" height="71"  destwidth="71" destheight="71"/>
+   <BitmapImage tag="img_hammanv_on"  bitmap="bmp_skin_gemsgrid" x="175" y="389"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_hammanv_off" bitmap="bmp_skin_gemsgrid" x="240" y="389"  width="64" height="64"  destwidth="64" destheight="64"/>
+
+   <BitmapImage tag="img_gamepad_a" bitmap="bmp_skin_gamepad" x="0"   y="51"  width="40" height="40"  destwidth="40" destheight="40"/>
+   <BitmapImage tag="img_gamepad_b" bitmap="bmp_skin_gamepad" x="41"  y="51"  width="40" height="40"  destwidth="40" destheight="40"/>
+   <BitmapImage tag="img_gamepad_x" bitmap="bmp_skin_gamepad" x="82"  y="51"  width="40" height="40"  destwidth="40" destheight="40"/>
+   <BitmapImage tag="img_gamepad_y" bitmap="bmp_skin_gamepad" x="123" y="51"  width="40" height="40"  destwidth="40" destheight="40"/>
+   <BitmapImage tag="img_gamepad_l" bitmap="bmp_skin_gamepad" x="102" y="92"  width="62" height="28"  destwidth="62" destheight="28"/>
+   <BitmapImage tag="img_gamepad_r" bitmap="bmp_skin_gamepad" x="165" y="92"  width="62" height="28"  destwidth="62" destheight="28"/>
+   <BitmapImage tag="img_gamepad_lt" bitmap="bmp_skin_gamepad" x="261" y="140"  width="57" height="51"  destwidth="57" destheight="51"/>
+   <BitmapImage tag="img_gamepad_rt" bitmap="bmp_skin_gamepad" x="319" y="140"  width="57" height="51"  destwidth="57" destheight="51"/>
+   <BitmapImage tag="img_gamepad_back"  bitmap="bmp_skin_gamepad" x="51" y="92"  width="50" height="40"  destwidth="50" destheight="40"/>
+   <BitmapImage tag="img_gamepad_start" bitmap="bmp_skin_gamepad" x="0" y="92"  width="50" height="40"  destwidth="50" destheight="40"/>
+   <BitmapImage tag="img_gamepad_buttact"  bitmap="bmp_skin_gamepad" x="0" y="0"    width="260" height="50"  destwidth="260" destheight="50"/>
+   <BitmapImage tag="img_gamepad_buttgray" bitmap="bmp_skin_gamepad" x="0" y="133"  width="260" height="50"  destwidth="260" destheight="50"/>
+   <BitmapImage tag="img_gamepad_dpad_ud" bitmap="bmp_skin_gamepad" x="403" y="0"  width="70" height="69"  destwidth="70" destheight="69"/>
+   <BitmapImage tag="img_gpcursor0" bitmap="bmp_skin_gamepad" x="0"   y="192"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_gpcursor1" bitmap="bmp_skin_gamepad" x="64"  y="192"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_gpcursor2" bitmap="bmp_skin_gamepad" x="128" y="192"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_gpcursor3" bitmap="bmp_skin_gamepad" x="192" y="192"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_gpcursor4" bitmap="bmp_skin_gamepad" x="256" y="192"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_gpcursor5" bitmap="bmp_skin_gamepad" x="320" y="192"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_gpcursor6" bitmap="bmp_skin_gamepad" x="384" y="192"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_gpcursor7" bitmap="bmp_skin_gamepad" x="448" y="192"  width="64" height="64"  destwidth="64" destheight="64"/>
+   <BitmapImage tag="img_selglow"   bitmap="bmp_skin_battlemisc" x="0" y="206"  width="200" height="50"  destwidth="200" destheight="50"/>
+
+   <BitmapImage tag="img_scroll"				bitmap="bmp_scroll" x="0" y="0"     width="353" height="256"  destwidth="353" destheight="256"/>
+   <BitmapImage tag="img_bigscroll"				bitmap="bmp_scroll" x="0" y="257"   width="441" height="462"  destwidth="441" destheight="462"/>
+   <BitmapImage tag="img_scrollbutt_act"		bitmap="bmp_scroll" x="380" y="0"   width="132" height="35" destwidth="132" destheight="35"/>
+   <BitmapImage tag="img_scrollbutt_hi"			bitmap="bmp_scroll" x="380" y="36"  width="132" height="35" destwidth="132" destheight="35"/>
+   <BitmapImage tag="img_scrollbutt_pres"		bitmap="bmp_scroll" x="380" y="72"  width="132" height="35" destwidth="132" destheight="35"/>
+   <BitmapImage tag="img_scrollbutt_gray"		bitmap="bmp_scroll" x="380" y="108" width="132" height="35" destwidth="132" destheight="35"/>
+   <BitmapImage tag="img_scrollframe"			bitmap="bmp_scroll" x="382" y="149" width="78" height="96"  destwidth="78"  destheight="96"/>
+   <BitmapImage tag="img_scrollbigframe"		bitmap="bmp_scroll" x="0" y="720"   width="318" height="256"  destwidth="318"  destheight="256"/>
+   <BitmapImage tag="img_scrollvsbar_bg"		bitmap="bmp_scroll" x="461"  y="149" width="16" height="148" destwidth="16" destheight="148"/>
+   <BitmapImage tag="img_scrollvsbar_decgray"	bitmap="bmp_scroll" x="478"  y="180" width="16" height="16" destwidth="16" destheight="16"/>
+   <BitmapImage tag="img_scrollvsbar_decup"		bitmap="bmp_scroll" x="478"  y="148" width="16" height="16" destwidth="16" destheight="16"/>
+   <BitmapImage tag="img_scrollvsbar_decdown"	bitmap="bmp_scroll" x="478"  y="164" width="16" height="16" destwidth="16" destheight="16"/>
+   <BitmapImage tag="img_scrollvsbar_incgray"	bitmap="bmp_scroll" x="478"  y="228" width="16" height="16" destwidth="16" destheight="16"/>
+   <BitmapImage tag="img_scrollvsbar_incup"		bitmap="bmp_scroll" x="478"  y="196" width="16" height="16" destwidth="16" destheight="16"/>
+   <BitmapImage tag="img_scrollvsbar_incdown"	bitmap="bmp_scroll" x="478"  y="212" width="16" height="16" destwidth="16" destheight="16"/>
+   <BitmapImage tag="img_scrollvsbar_thumb"		bitmap="bmp_scroll" x="478"  y="244" width="16" height="16" destwidth="16" destheight="16"/>
+
+   <BitmapImage tag="img_popup_0" bitmap="bmp_skin_buttmisc" x="256" y="396"  width="256"  height="15"  destwidth="256"  destheight="15"/>
+   <BitmapImage tag="img_popup_1" bitmap="bmp_skin_buttmisc" x="256" y="434" width="256"  height="26"  destwidth="256"  destheight="26"/>
+   <BitmapImage tag="img_popup_2" bitmap="bmp_skin_buttmisc" x="256" y="412" width="256"  height="15"  destwidth="256"  destheight="15"/>
+   
+   <BitmapImage tag="img_charportrait" bitmap="bmp_charportrait1" x="0" y="0" width="256" height="256"  destwidth="128"  destheight="128"/>
+   <BitmapImage tag="img_portrait0"    bitmap="bmp_portraits"     x="0" y="0" width="256" height="256"  destwidth="128"  destheight="128"/>
+   <BitmapImage tag="img_portrait1"    bitmap="bmp_enemyportrait" x="0" y="0" width="256" height="256"  destwidth="128"  destheight="128"/>
+   <BitmapImage tag="img_characterbg"  bitmap="bmp_characterbg"   x="0" y="0" width="128" height="128"  destwidth="128"  destheight="128"/>
+   <BitmapImage tag="img_portraitcomp" bitmap="bmp_compportrait"   x="0" y="0" width="256" height="256"  destwidth="128"  destheight="128"/>
+   
+   <BitmapImage tag="img_city_bg"     bitmap="bmp_citybits"   x="0"    y="0"   width="984" height="655"  destwidth="984"  destheight="655"/>
+   <BitmapImage tag="img_city_bord_l" bitmap="bmp_citybits"   x="2028" y="0"   width="20"  height="655"  destwidth="20"   destheight="655"/>
+   <BitmapImage tag="img_city_bord_r" bitmap="bmp_citybits"   x="2028" y="0"   width="20"  height="655"  destwidth="20"   destheight="655"/>
+   <BitmapImage tag="img_city_bld0"   bitmap="bmp_citybits"   x="1787" y="374" width="83"  height="102"  destwidth="83"   destheight="102"/>
+   <BitmapImage tag="img_city_bld1"   bitmap="bmp_citybits"   x="1222" y="340" width="264" height="185"  destwidth="264"  destheight="185"/>
+   <BitmapImage tag="img_city_bld2"   bitmap="bmp_citybits"   x="1787" y="4"   width="221" height="364"  destwidth="221"  destheight="364"/>
+   <BitmapImage tag="img_city_bld3"   bitmap="bmp_citybits"   x="1418" y="9"   width="366" height="256"  destwidth="366"  destheight="259"/>
+   <BitmapImage tag="img_city_bld4a"  bitmap="bmp_citybits"   x="1878" y="377" width="39"  height="99"   destwidth="39"   destheight="99"/>
+   <BitmapImage tag="img_city_bld4b"  bitmap="bmp_citybits"   x="1923" y="378" width="39"  height="98"   destwidth="39"   destheight="98"/>
+   <BitmapImage tag="img_city_bld5"   bitmap="bmp_citybits"   x="991"  y="11"  width="418" height="202"  destwidth="418"  destheight="202"/>
+   <BitmapImage tag="img_city_bld6"   bitmap="bmp_citybits"   x="991"  y="238" width="225" height="253"  destwidth="225"  destheight="253"/>
+   <BitmapImage tag="img_city_bld7a"  bitmap="bmp_citybits"   x="1497" y="348" width="124" height="123"  destwidth="124"  destheight="123"/>
+   <BitmapImage tag="img_city_bld7b"  bitmap="bmp_citybits"   x="1632" y="348" width="114" height="176"  destwidth="114"  destheight="176"/>
+   <BitmapImage tag="img_city_bld8"   bitmap="bmp_citybits"   x="1005" y="505" width="93"  height="152"  destwidth="93"   destheight="152"/>
+   
+   <BitmapImage tag="img_city_connlong"   bitmap="bmp_citybits"   x="0" y="810" width="20"  height="36"  destwidth="20"   destheight="36"/>
+   <BitmapImage tag="img_city_connshort"   bitmap="bmp_citybits"   x="0" y="828" width="20"  height="21"  destwidth="20"   destheight="21"/>
+   
+   <BitmapImage tag="img_dblbutton_act"    bitmap="bmp_citybits" x="0" y="675" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_hi"     bitmap="bmp_citybits" x="0" y="708" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_hi1"     bitmap="bmp_citybits" x="301"  y="708" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_hi2"     bitmap="bmp_citybits" x="602"  y="708" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_hi3"     bitmap="bmp_citybits" x="903"  y="708" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_hi4"     bitmap="bmp_citybits" x="1204" y="708" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_hi5"     bitmap="bmp_citybits" x="1505" y="708" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_pres"   bitmap="bmp_citybits" x="0" y="741" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_pres1"   bitmap="bmp_citybits" x="301"  y="741" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_pres2"   bitmap="bmp_citybits" x="602"  y="741" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_pres3"   bitmap="bmp_citybits" x="903"  y="741" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_pres4"   bitmap="bmp_citybits" x="1204" y="741" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_pres5"   bitmap="bmp_citybits" x="1505" y="741" width="300" height="32"  destwidth="300" destheight="32"/>
+   <BitmapImage tag="img_dblbutton_gray"   bitmap="bmp_citybits" x="0" y="774" width="300" height="32"  destwidth="300" destheight="32"/>
+   
+   <UserGraphic tag="img_large_hero"  callback="callback_draw_large_hero" data="0" destwidth="290" destheight="290"/>
+   <UserGraphic tag="img_large_hero2" callback="callback_draw_large_hero" data="1" destwidth="290" destheight="290"/>
+   <UserGraphic tag="img_small_hero" callback="callback_draw_small_hero" data="" destwidth="290" destheight="125"/>
+   <UserGraphic tag="img_enemy_hero" callback="callback_draw_enemy_hero" data="" destwidth="226" destheight="162"/>
+   <UserGraphic tag="img_grid"       callback="callback_draw_grid" data="" destwidth="600" destheight="680"/>
+   <UserGraphic tag="img_psys"       callback="callback_psys" data="" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_psys_map"   callback="callback_psys_map" data="" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_pmsg"        callback="callback_pmsg" data="" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_tmsg"        callback="callback_tmsg" data="" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_gamechar0"   callback="callback_draw_gamechar" data="0" destwidth="180" destheight="320"/>
+   <UserGraphic tag="img_gamechar1"   callback="callback_draw_gamechar" data="1" destwidth="180" destheight="320"/>
+   <UserGraphic tag="img_help_sp"     callback="callback_help_sp" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_help_lu"     callback="callback_help_lu" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_help_bs"     callback="callback_help_bs" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_help_gm"     callback="callback_help_gm" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_herodetails"  callback="callback_herodetails" data="0" destwidth="350" destheight="220"/>
+   <UserGraphic tag="img_mountlist"   callback="callback_minigamelist" data="1" destwidth="350" destheight="220"/>
+   <UserGraphic tag="img_spelllist"   callback="callback_minigamelist" data="2" destwidth="350" destheight="220"/>
+   <UserGraphic tag="img_runelist"   callback="callback_minigamelist" data="3" destwidth="350" destheight="220"/>
+   <UserGraphic tag="img_shoplist"    callback="callback_shoplist" data="0" destwidth="435" destheight="220"/>
+   <UserGraphic tag="img_questlist"   callback="callback_questlist" data="0" destwidth="500" destheight="220"/>
+   <UserGraphic tag="img_backdrop_fading"  callback="callback_backdrop_fading" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_campaign_map"  callback="callback_campaign_map" data="0" destwidth="984" destheight="653"/>
+   <UserGraphic tag="img_questpic"	  callback="callback_draw_quest" data="" destwidth="290" destheight="125"/>
+   <UserGraphic tag="img_campaignpopup" callback="callback_campaignpopup" data="" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_getquestlist" callback="callback_getquestlist" data="0" destwidth="395" destheight="220"/>
+   <UserGraphic tag="img_questreward" callback="callback_questreward" data="0" destwidth="260" destheight="100"/>
+   <UserGraphic tag="img_openingscroll"	callback="callback_openingscroll" data="0" destwidth="353" destheight="256"/>
+   <UserGraphic tag="img_conversationbg" callback="callback_conversationbg" data="0" destwidth="512" destheight="256"/>
+   <UserGraphic tag="img_rumorlist"    callback="callback_rumorlist" data="0" destwidth="360" destheight="220"/>
+   <UserGraphic tag="img_citybuildeffect"    callback="callback_citybuildeffect" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_tmsg_map"        callback="callback_tmsg_map" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_companions"        callback="callback_companions" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_tutorial"     callback="callback_tutorial" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_mist"     callback="callback_mist" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_credits" callback="callback_credits" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_gpmessage" callback="callback_gpmessage" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_mimpics" callback="callback_mimpics" data="0" destwidth="1024" destheight="768"/>
+   <UserGraphic tag="img_mainmenufx" callback="callback_mainmenufx" data="0" destwidth="1024" destheight="768"/>
+ 
+   <Animation tag="anim_caret" frames="4" destwidth="32" destheight="32">
+      <Frame image="img_editor_caret1" sequence="0" time="300"/>
+      <Frame image="img_editor_caret2" sequence="1" time="100"/>
+      <Frame image="img_editor_caret1" sequence="2" time="100"/>
+      <Frame image="img_editor_caret2" sequence="3" time="100"/>
+   </Animation>
+
+   <Animation tag="anim_redglow" frames="12" destwidth="64" destheight="64">
+      <Frame image="img_redglow_00" sequence="0" time="80"/>
+      <Frame image="img_redglow_01" sequence="1" time="80"/>
+      <Frame image="img_redglow_02" sequence="2" time="80"/>
+      <Frame image="img_redglow_03" sequence="3" time="80"/>
+      <Frame image="img_redglow_04" sequence="4" time="80"/>
+      <Frame image="img_redglow_05" sequence="5" time="80"/>
+      <Frame image="img_redglow_06" sequence="6" time="80"/>
+      <Frame image="img_redglow_05" sequence="7" time="80"/>
+      <Frame image="img_redglow_04" sequence="8" time="80"/>
+      <Frame image="img_redglow_03" sequence="9" time="80"/>
+      <Frame image="img_redglow_02" sequence="10" time="80"/>
+      <Frame image="img_redglow_01" sequence="11" time="80"/>
+   </Animation>
+
+   <Animation tag="anim_hint" frames="8" destwidth="55" destheight="35">
+      <Frame image="img_hint_00" sequence="0" time="100"/>
+      <Frame image="img_hint_01" sequence="1" time="100"/>
+      <Frame image="img_hint_02" sequence="2" time="100"/>
+      <Frame image="img_hint_03" sequence="3" time="100"/>
+      <Frame image="img_hint_02" sequence="4" time="100"/>
+      <Frame image="img_hint_01" sequence="5" time="100"/>
+      <Frame image="img_hint_00" sequence="6" time="100"/>
+      <Frame image="img_blank"   sequence="7" time="500"/>
+   </Animation>
+
+   <Animation tag="anim_shieldred" frames="9" destwidth="32" destheight="32">
+      <Frame image="img_shieldred_0" sequence="0" time="90"/>
+      <Frame image="img_shieldred_1" sequence="1" time="90"/>
+      <Frame image="img_shieldred_2" sequence="2" time="90"/>
+      <Frame image="img_shieldred_3" sequence="3" time="90"/>
+      <Frame image="img_shieldred_4" sequence="4" time="90"/>
+      <Frame image="img_shieldred_5" sequence="5" time="90"/>
+      <Frame image="img_shieldred_6" sequence="6" time="90"/>
+      <Frame image="img_shieldred_7" sequence="7" time="90"/>
+      <Frame image="img_shieldred_8" sequence="8" time="90"/>
+   </Animation>
+
+   <Animation tag="anim_shieldgreen" frames="9" destwidth="32" destheight="32">
+      <Frame image="img_shieldgrn_0" sequence="0" time="90"/>
+      <Frame image="img_shieldgrn_1" sequence="1" time="90"/>
+      <Frame image="img_shieldgrn_2" sequence="2" time="90"/>
+      <Frame image="img_shieldgrn_3" sequence="3" time="90"/>
+      <Frame image="img_shieldgrn_4" sequence="4" time="90"/>
+      <Frame image="img_shieldgrn_5" sequence="5" time="90"/>
+      <Frame image="img_shieldgrn_6" sequence="6" time="90"/>
+      <Frame image="img_shieldgrn_7" sequence="7" time="90"/>
+      <Frame image="img_shieldgrn_8" sequence="8" time="90"/>
+   </Animation>
+
+   <Animation tag="anim_shieldglow" frames="6" destwidth="128" destheight="128">
+      <Frame image="img_shieldglow_0" sequence="0" time="150"/>
+      <Frame image="img_shieldglow_1" sequence="1" time="150"/>
+      <Frame image="img_shieldglow_2" sequence="2" time="150"/>
+      <Frame image="img_shieldglow_3" sequence="3" time="150"/>
+      <Frame image="img_shieldglow_2" sequence="4" time="150"/>
+      <Frame image="img_shieldglow_1" sequence="5" time="150"/>
+   </Animation>
+
+   <Animation tag="img_buttwide_hi" frames="8" destwidth="300" destheight="50">
+      <Frame image="img_buttwide_hi0" sequence="0" time="100"/>
+      <Frame image="img_buttwide_hi1" sequence="1" time="100"/>
+      <Frame image="img_buttwide_hi2" sequence="2" time="100"/>
+      <Frame image="img_buttwide_hi3" sequence="3" time="100"/>
+      <Frame image="img_buttwide_hi1" sequence="4" time="100"/>
+      <Frame image="img_buttwide_hi0" sequence="5" time="100"/>
+      <Frame image="img_buttwide_hi3" sequence="6" time="100"/>
+      <Frame image="img_buttwide_hi2" sequence="7" time="100"/>
+   </Animation>
+
+   <Animation tag="img_buttsmall_hi" frames="8" destwidth="160" destheight="50">
+      <Frame image="img_buttsmall_hi0" sequence="0" time="100"/>
+      <Frame image="img_buttsmall_hi1" sequence="1" time="100"/>
+      <Frame image="img_buttsmall_hi2" sequence="2" time="100"/>
+      <Frame image="img_buttsmall_hi3" sequence="3" time="100"/>
+      <Frame image="img_buttsmall_hi1" sequence="4" time="100"/>
+      <Frame image="img_buttsmall_hi0" sequence="5" time="100"/>
+      <Frame image="img_buttsmall_hi3" sequence="6" time="100"/>
+      <Frame image="img_buttsmall_hi2" sequence="7" time="100"/>
+   </Animation>
+   
+   <Animation tag="img_butttiny_hi" frames="8" destwidth="128" destheight="35">
+      <Frame image="img_butttiny_hi0" sequence="0" time="100"/>
+      <Frame image="img_butttiny_hi1" sequence="1" time="100"/>
+      <Frame image="img_butttiny_hi2" sequence="2" time="100"/>
+      <Frame image="img_butttiny_hi3" sequence="3" time="100"/>
+      <Frame image="img_butttiny_hi1" sequence="4" time="100"/>
+      <Frame image="img_butttiny_hi0" sequence="5" time="100"/>
+      <Frame image="img_butttiny_hi3" sequence="6" time="100"/>
+      <Frame image="img_butttiny_hi2" sequence="7" time="100"/>
+   </Animation>
+   
+   <Animation tag="img_drop_hi" frames="8" destwidth="260" destheight="50">
+      <Frame image="img_drop_hi0" sequence="0" time="100"/>
+      <Frame image="img_drop_hi1" sequence="1" time="100"/>
+      <Frame image="img_drop_hi2" sequence="2" time="100"/>
+      <Frame image="img_drop_hi3" sequence="3" time="100"/>
+      <Frame image="img_drop_hi1" sequence="4" time="100"/>
+      <Frame image="img_drop_hi0" sequence="5" time="100"/>
+      <Frame image="img_drop_hi3" sequence="6" time="100"/>
+      <Frame image="img_drop_hi2" sequence="7" time="100"/>
+   </Animation>
+   
+   <Animation tag="img_buttplus_hi" frames="4" destwidth="32" destheight="32">
+      <Frame image="img_buttplus_hi0" sequence="0" time="125"/>
+      <Frame image="img_buttplus_hi1" sequence="1" time="125"/>
+      <Frame image="img_buttplus_hi2" sequence="2" time="125"/>
+      <Frame image="img_buttplus_hi3" sequence="3" time="125"/>
+   </Animation>
+   
+   <Animation tag="img_buttminus_hi" frames="4" destwidth="32" destheight="32">
+      <Frame image="img_buttminus_hi0" sequence="0" time="125"/>
+      <Frame image="img_buttminus_hi1" sequence="1" time="125"/>
+      <Frame image="img_buttminus_hi2" sequence="2" time="125"/>
+      <Frame image="img_buttminus_hi3" sequence="3" time="125"/>
+   </Animation>
+   
+   <Animation tag="img_buttleft_hi" frames="4" destwidth="32" destheight="32">
+      <Frame image="img_buttleft_hi0" sequence="0" time="125"/>
+      <Frame image="img_buttleft_hi1" sequence="1" time="125"/>
+      <Frame image="img_buttleft_hi2" sequence="2" time="125"/>
+      <Frame image="img_buttleft_hi3" sequence="3" time="125"/>
+   </Animation>
+   
+   <Animation tag="img_buttright_hi" frames="4" destwidth="32" destheight="32">
+      <Frame image="img_buttright_hi0" sequence="0" time="125"/>
+      <Frame image="img_buttright_hi1" sequence="1" time="125"/>
+      <Frame image="img_buttright_hi2" sequence="2" time="125"/>
+      <Frame image="img_buttright_hi3" sequence="3" time="125"/>
+   </Animation>
+   
+   <Animation tag="img_buttbuy_hi" frames="4" destwidth="32" destheight="32">
+      <Frame image="img_buttbuy_hi0" sequence="0" time="125"/>
+      <Frame image="img_buttbuy_hi1" sequence="1" time="125"/>
+      <Frame image="img_buttbuy_hi2" sequence="2" time="125"/>
+      <Frame image="img_buttbuy_hi3" sequence="3" time="125"/>
+   </Animation>
+   
+   <Animation tag="img_buttoff_hi" frames="4" destwidth="32" destheight="32">
+      <Frame image="img_buttoff_hi0" sequence="0" time="125"/>
+      <Frame image="img_buttoff_hi1" sequence="1" time="125"/>
+      <Frame image="img_buttoff_hi2" sequence="2" time="125"/>
+      <Frame image="img_buttoff_hi3" sequence="3" time="125"/>
+   </Animation>
+   
+   <Animation tag="img_button_hi" frames="4" destwidth="32" destheight="32">
+      <Frame image="img_button_hi0" sequence="0" time="125"/>
+      <Frame image="img_button_hi1" sequence="1" time="125"/>
+      <Frame image="img_button_hi2" sequence="2" time="125"/>
+      <Frame image="img_button_hi3" sequence="3" time="125"/>
+   </Animation>
+   
+   <Animation tag="img_buttbang_hi" frames="4" destwidth="32" destheight="32">
+      <Frame image="img_buttbang_hi0" sequence="0" time="125"/>
+      <Frame image="img_buttbang_hi1" sequence="1" time="125"/>
+      <Frame image="img_buttbang_hi2" sequence="2" time="125"/>
+      <Frame image="img_buttbang_hi3" sequence="3" time="125"/>
+   </Animation>
+   
+   <Animation tag="img_gpcursor" frames="8" destwidth="64" destheight="64">
+      <Frame image="img_gpcursor0" sequence="0" time="125"/>
+      <Frame image="img_gpcursor1" sequence="1" time="125"/>
+      <Frame image="img_gpcursor2" sequence="2" time="125"/>
+      <Frame image="img_gpcursor3" sequence="3" time="125"/>
+      <Frame image="img_gpcursor4" sequence="4" time="125"/>
+      <Frame image="img_gpcursor5" sequence="5" time="125"/>
+      <Frame image="img_gpcursor6" sequence="6" time="125"/>
+      <Frame image="img_gpcursor7" sequence="7" time="125"/>
+   </Animation>
+   
+   <Animation tag="img_hourglass" frames="24" destwidth="38" destheight="30">
+      <Frame image="img_hgl00" sequence="0" time="60"/>
+      <Frame image="img_hgl01" sequence="1" time="60"/>
+      <Frame image="img_hgl02" sequence="2" time="60"/>
+      <Frame image="img_hgl03" sequence="3" time="60"/>
+      <Frame image="img_hgl04" sequence="4" time="60"/>
+      <Frame image="img_hgl05" sequence="5" time="60"/>
+      <Frame image="img_hgl06" sequence="6" time="60"/>
+      <Frame image="img_hgl07" sequence="7" time="60"/>
+      <Frame image="img_hgl08" sequence="8" time="60"/>
+      <Frame image="img_hgl09" sequence="9" time="60"/>
+      <Frame image="img_hgl10" sequence="10" time="60"/>
+      <Frame image="img_hgl11" sequence="11" time="60"/>
+      <Frame image="img_hgl12" sequence="12" time="60"/>
+      <Frame image="img_hgl13" sequence="13" time="60"/>
+      <Frame image="img_hgl14" sequence="14" time="60"/>
+      <Frame image="img_hgl15" sequence="15" time="60"/>
+      <Frame image="img_hgl16" sequence="16" time="60"/>
+      <Frame image="img_hgl17" sequence="17" time="60"/>
+      <Frame image="img_hgl18" sequence="18" time="60"/>
+      <Frame image="img_hgl19" sequence="19" time="60"/>
+      <Frame image="img_hgl20" sequence="20" time="60"/>
+      <Frame image="img_hgl21" sequence="21" time="60"/>
+      <Frame image="img_hgl22" sequence="22" time="60"/>
+      <Frame image="img_hgl23" sequence="23" time="60"/>
+   </Animation>
+   
+   <Animation tag="anim_dblbutton_hi" frames="10" destwidth="32" destheight="32">
+      <Frame image="img_dblbutton_hi" sequence="0" time="100"/>
+      <Frame image="img_dblbutton_hi1" sequence="1" time="100"/>
+      <Frame image="img_dblbutton_hi2" sequence="2" time="100"/>
+      <Frame image="img_dblbutton_hi3" sequence="3" time="100"/>
+      <Frame image="img_dblbutton_hi4" sequence="4" time="100"/>
+      <Frame image="img_dblbutton_hi5" sequence="5" time="100"/>
+      <Frame image="img_dblbutton_hi4" sequence="6" time="100"/>
+      <Frame image="img_dblbutton_hi3" sequence="7" time="100"/>
+      <Frame image="img_dblbutton_hi2" sequence="8" time="100"/>
+      <Frame image="img_dblbutton_hi1" sequence="9" time="100"/>
+   </Animation>
+   
+   <Animation tag="anim_dblbutton_pres" frames="10" destwidth="32" destheight="32">
+      <Frame image="img_dblbutton_pres" sequence="0" time="100"/>
+      <Frame image="img_dblbutton_pres1" sequence="1" time="100"/>
+      <Frame image="img_dblbutton_pres2" sequence="2" time="100"/>
+      <Frame image="img_dblbutton_pres3" sequence="3" time="100"/>
+      <Frame image="img_dblbutton_pres4" sequence="4" time="100"/>
+      <Frame image="img_dblbutton_pres5" sequence="5" time="100"/>
+      <Frame image="img_dblbutton_pres4" sequence="6" time="100"/>
+      <Frame image="img_dblbutton_pres3" sequence="7" time="100"/>
+      <Frame image="img_dblbutton_pres2" sequence="8" time="100"/>
+      <Frame image="img_dblbutton_pres1" sequence="9" time="100"/>
+   </Animation>
+   
+   <Animation tag="anim_timer" frames="6" destwidth="50" destheight="50">
+      <Frame image="img_timer_0" sequence="0" time="120"/>
+      <Frame image="img_timer_1" sequence="1" time="120"/>
+      <Frame image="img_timer_2" sequence="2" time="120"/>
+      <Frame image="img_timer_3" sequence="3" time="120"/>
+      <Frame image="img_timer_4" sequence="4" time="120"/>
+      <Frame image="img_timer_5" sequence="5" time="120"/>
+   </Animation>
+   
+</Assets>

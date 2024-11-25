@@ -1,0 +1,28 @@
+<?xml version="1.0"?> 
+<Effect name="SpellSelectGem1" bitmap="bmp_skin_battlemisc" type="oneshot" duration="1.0">
+
+	<Initialize parameter="source_x"	value="220" />
+	<Initialize parameter="source_y"	value="74" />
+	<Initialize parameter="source_w"	value="128" />
+	<Initialize parameter="source_h"	value="128" />
+	
+	<Initialize parameter="dest_x"		value="-8" />
+	<Initialize parameter="dest_y"		value="-8" />
+	<Initialize parameter="dest_w"		value="16" />
+	<Initialize parameter="dest_h"		value="16" />
+	
+	<Initialize parameter="alpha"		value="0.0" />
+	<Initialize parameter="rotation"	value="0.0" />
+	<Initialize parameter="color_r"		value="1.0" />
+	<Initialize parameter="color_g"		value="1.0" />
+	<Initialize parameter="color_b"		value="1.0" />
+
+	<Animate	parameter="alpha"		value="0.9"		time="0.6"	method="linear" />
+	<Animate	parameter="alpha"		value="0.0"		time="1.0"	method="linear" />
+	<Animate	parameter="dest_x"		value="-180"	time="1.0"	method="linear" />
+	<Animate	parameter="dest_y"		value="-180"	time="1.0"	method="linear" />
+	<Animate	parameter="dest_w"		value="360"		time="1.0"	method="linear" />
+	<Animate	parameter="dest_h"		value="360"		time="1.0"	method="linear" />
+	<Animate	parameter="rotation"	value="-1.5"	time="1.0"	method="linear" />
+		
+</Effect>

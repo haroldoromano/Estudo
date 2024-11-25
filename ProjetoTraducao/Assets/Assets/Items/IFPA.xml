@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IFPA">
+   <Text  name="[ITEM_IFPA_NAME]" power="[ITEM_IFPA_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="1675" rarity="1" />
+   <Graphics  icon="24" />
+   <Restriction	type="skill" skill="morale" level="10"/>
+   <Script  file="Assets\Items\IFPA.lua" object="IFPA"/>
+</Item>

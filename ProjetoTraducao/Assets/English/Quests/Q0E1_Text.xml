@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0E1_ACTION]">Clear out Sea Serpents</Text>
+   <Text tag="[QUEST_Q0E1_FAILURE]">You have failed to clear out the Sea Serpents.</Text>
+   <Text tag="[QUEST_Q0E1_REWARD]">You have cleared the sewers and you are rewarded.</Text>
+
+</TextLibrary>

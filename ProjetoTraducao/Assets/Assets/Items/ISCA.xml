@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISCA">
+   <Text  name="[ITEM_ISCA_NAME]" power="[ITEM_ISCA_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="885" rarity="2" />
+   <Graphics  icon="21" />
+   <Restriction	type="skill" skill="battle" level="10"/>
+   <Script  file="Assets\Items\ISCA.lua" object="ISCA"/>
+</Item>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="QD03">
+
+   <Text  name="[QUEST_QD03_NAME]" description="[QUEST_QD03_DESC]" group=""   file="English\Quests\QD03_Text.xml"/>
+   <Script  file="Assets\Quests\QD03.lua" object="QD03"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CEHL" minlevel="20" maxlevel="1000" repeat="1" 
+               donequest0="QD02" donequest1="Q3I3" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NDRO" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MDDW">
+
+   </Battle>
+
+</Quest>

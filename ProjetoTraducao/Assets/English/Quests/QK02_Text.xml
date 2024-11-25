@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QK02_ACTION]">Battle the Sandworm</Text>
+   <Text tag="[QUEST_QK02_FAILURE]">You have failed to defeat the Sandworm. Khalkus begs you to try again.</Text>
+   <Text tag="[QUEST_QK02_NOCOMP]">You will need to have Khalkus in your party before battling the Sandworm.</Text>
+   <Text tag="[QUEST_QK02_REWARD]">You have found the third piece of the Great Machine.</Text>
+   <Text tag="[QUEST_QK02_STEP1]">You must go to the Worm Cave and fight the Sandworm.</Text>
+
+</TextLibrary>

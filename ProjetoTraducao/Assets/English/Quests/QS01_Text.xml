@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QS01_ACTION]">Rescue the Princess</Text>
+   <Text tag="[QUEST_QS01_FAILURE]">You have failed to rescue Princess Serephine.</Text>
+   <Text tag="[QUEST_QS01_REWARD]">You have defeated the Imperial Guards and rescued Princess Serephine.</Text>
+   <Text tag="[QUEST_QS01_STEP1]">You must travel to The Trarg and rescue Princess Serephine.</Text>
+
+</TextLibrary>

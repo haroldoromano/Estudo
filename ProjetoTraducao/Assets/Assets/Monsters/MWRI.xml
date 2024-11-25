@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Monster id="MWRI">
+   <Text name="[MONSTER_MWRI_NAME]" description="[MONSTER_MWRI_DESC]" capture="[MONSTER_MWRI_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Wolfrider.png" />
+   <Level min="8" max="11" base="8" levelto="30" />
+   <Skill earth="3" fire="7" air="2" water="4" battle="8" cunning="8" morale="2" />
+   <Add earth="0.30" fire="0.50" air="0.20" water="0.20" battle="1.00" cunning="1.00" morale="0.20" life="3.00" />
+   <Data life="70" mount="0" />
+   <Reward minxp="40" maxxp="70" mingold="45" maxgold="75" />
+   <Types type1="Orc" type2="Evil" type3="Animal" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZWFR"  />
+   <Item tag="ILEA"  />
+   <Item tag="IORM"  />
+   <Item tag="ILEB"  />
+   <Spell tag="SRBI" learn="0" />
+   <Spell tag="SHWL" learn="0" />
+   <Spell tag="SENR" learn="1" />
+   <Capture>
+      <Row data="---SS---" />
+      <Row data="---SS---" />
+      <Row data="---RB---" />
+      <Row data="---RB---" />
+      <Row data="---BR---" />
+      <Row data="RRBBR-RB" />
+      <Row data="BRBSSRBR" />
+      <Row data="RBRSSBRB" />
+   </Capture>
+</Monster>

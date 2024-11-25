@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1E1_ACTION]">Battle the Giant Wasp</Text>
+   <Text tag="[QUEST_Q1E1_FAILURE]">You have failed to defeat the Giant Wasp</Text>
+   <Text tag="[QUEST_Q1E1_KILL]">You have defeated the Giant Wasp. You must now take it&apos;s stinger back to Neehi.</Text>
+   <Text tag="[QUEST_Q1E1_RETURN]">Recieve Reward</Text>
+   <Text tag="[QUEST_Q1E1_REWARD]">Neehi pays you for the Wasp Stinger.</Text>
+   <Text tag="[QUEST_Q1E1_STEP1]">You must travel to Wasp Hive to win a Wasp Stinger. Stingers can only be won in battle.</Text>
+   <Text tag="[QUEST_Q1E1_STEP2]">You must now return to Gruuldok to recieve your reward.</Text>
+
+</TextLibrary>

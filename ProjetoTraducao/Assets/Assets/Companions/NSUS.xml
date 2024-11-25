@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Companion id="NSUS">
+   <Text  name="[COMP_NSUS_NAME]" description="[COMP_NSUS_DESC]" activate="[COMP_NSUS_ACTV]"  depart="[COMP_NSUS_DEPT]"  goodbye="[COMP_NSUS_GBYE]" 
+          race="[COMP_NSUS_RACE]" gender="[COMP_NSUS_GNDR]" flavor="[COMP_NSUS_FLAV]"  age="64" />
+   <Data  home="CHTP" portrait="Assets\Portraits\Portrait_NPC_Sunspear.png" uses="0" />
+   <Script  file="Assets\Companions\NSUS.lua" object="NSUS"/>
+</Companion>

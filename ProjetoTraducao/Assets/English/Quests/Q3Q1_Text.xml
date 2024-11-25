@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3Q1_REWARD]">You have successfully made contact with the High Elves of the Northern Tundra.</Text>
+   <Text tag="[QUEST_Q3Q1_STEP1]">You must travel to Ylarie and seek aid from the High Elves.</Text>
+   <Text tag="[QUEST_Q3Q1_STEP2]">You must follow Elistara to the Ruins of Ylarie.</Text>
+
+</TextLibrary>

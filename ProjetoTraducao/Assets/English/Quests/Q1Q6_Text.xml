@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1Q6_ACTION1]">Hide in a Scorpion Hole</Text>
+   <Text tag="[QUEST_Q1Q6_ACTION2]">Ambush Gruulkar</Text>
+   <Text tag="[QUEST_Q1Q6_FAILURE1]">You have failed to defeat the Scorpion. You must try again.</Text>
+   <Text tag="[QUEST_Q1Q6_FAILURE2]">You have failed to defeat Grullkar. You must try again, quickly!</Text>
+   <Text tag="[QUEST_Q1Q6_MSGA]">A fine plan, except there is a Scorpion down this hole!</Text>
+   <Text tag="[QUEST_Q1Q6_PROGRESS1]">Travel to Snake Fang and find a Scorpion Hole to hide in.</Text>
+   <Text tag="[QUEST_Q1Q6_PROGRESS2]">Wait for Gruulkar to pass by and then ambush him.</Text>
+   <Text tag="[QUEST_Q1Q6_REWARD]">You have defeated Gruulkar. As proof of your victory you take Gruulkar&apos;s Shield.</Text>
+   <Text tag="[QUEST_Q1Q6_SUCCESS1]">You have defeated the Scorpion. The hole is now all yours.</Text>
+   <Text tag="[QUEST_Q1Q6_QMHELP1]">Gruulkar is the leader of the Orcs of Kor.</Text>
+
+</TextLibrary>

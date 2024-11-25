@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MMIN">
+   <Text name="[MONSTER_MMIN_NAME]" description="[MONSTER_MMIN_DESC]" capture="[MONSTER_MMIN_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Minotaur.png" />
+   <Level min="9" max="13" base="9" levelto="25" />
+   <Skill earth="5" fire="9" air="1" water="1" battle="12" cunning="3" morale="6" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.40" fire="0.50" air="0.20" water="0.20" battle="1.00" cunning="0.20" morale="0.50" life="3.00" />
+   <Data life="90" mount="0" boss="0" />
+   <Reward minxp="40" maxxp="70" mingold="45" maxgold="75" />
+   <Types type1="Large" type2="Evil" type3="Minotaur" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZMIN"  />
+   <Item tag="IGAX"  />
+   <Spell tag="SCHG" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--*-----" />
+      <Row data="--S-----" />
+      <Row data="S-R*-RS-" />
+      <Row data="ROOS-*SR" />
+      <Row data="*RRSSRRO" />
+      <Row data="RXROORXR" />
+   </Capture>
+</Monster>

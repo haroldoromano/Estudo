@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RSLV">
+   <Text name="[RUIN_RSLV_NAME]" description="[RUIN_RSLV_DESC]"/>
+   <Graphics icon="5"/>
+   <Data x="1145" y="1165" type="3" visible="no" attach="WBTH"/>
+</Ruin>

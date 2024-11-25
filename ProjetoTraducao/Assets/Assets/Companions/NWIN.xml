@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Companion id="NWIN">
+   <Text  name="[COMP_NWIN_NAME]" description="[COMP_NWIN_DESC]" activate="[COMP_NWIN_ACTV]"  depart="[COMP_NWIN_DEPT]"  goodbye="[COMP_NWIN_GBYE]" 
+          race="[COMP_NWIN_RACE]" gender="[COMP_NWIN_GNDR]" flavor="[COMP_NWIN_FLAV]"  age="9" />
+   <Data  home="WTIR" portrait="Assets\Portraits\Portrait_NPC_Winter.png" uses="0" />
+   <Script  file="Assets\Companions\NWIN.lua" object="NWIN"/>
+</Companion>

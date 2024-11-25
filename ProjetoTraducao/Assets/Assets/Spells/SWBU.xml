@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SWBU">
+   <Text  name="[SPELL_SWBU_NAME]" description="[SPELL_SWBU_DESC]" detail="[SPELL_SWBU_DETL]"/>
+   <Cost  earth="10" fire="0" air="22" water="0" />
+   <Learn  score="850" masks="1" keys="2" />
+   <Data  cooldown="3" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SWBU.lua" object="SWBU"/>
+</Spell>

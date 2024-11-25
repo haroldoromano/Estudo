@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1S4_REWARDKEEP]">You decide to keep the Relic.  You had better not let the Orcish Priests find out though!</Text>
+   <Text tag="[QUEST_Q1S4_KEEP]">Keep the Relic</Text>
+   <Text tag="[QUEST_Q1S4_ACTION]">Search for the Goblin</Text>
+   <Text tag="[QUEST_Q1S4_FAILURE]">The Goblin has slipped away, he is still somewhere in Kor. You must pursue him!</Text>
+   <Text tag="[QUEST_Q1S4_RETURN]">Return the Relic</Text>
+   <Text tag="[QUEST_Q1S4_REWARD]">You return the Relic and the Orcish Priests of Ymorgia reward you with Gold.</Text>
+   <Text tag="[QUEST_Q1S4_STEP1]">You must find the Goblin, somewhere in Kor, and reclaim the relic.</Text>
+   <Text tag="[QUEST_Q1S4_STEP2]">You must return the relic to the Temple in Gruuldok to receive your reward, or if you are at Drong&apos;s Tower you could keep the relic instead.</Text>
+   <Text tag="[QUEST_Q1S4_SUCCESS]">You never caught the Goblin, but you have the relic to return to Gruuldok.  Of course, you could always decide to keep the relic instead...</Text>
+
+</TextLibrary>

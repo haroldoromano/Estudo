@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IBNS">
+   <Text  name="[ITEM_IBNS_NAME]" power="[ITEM_IBNS_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="86" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IBNS.lua" object="IBNS"/>
+</Item>

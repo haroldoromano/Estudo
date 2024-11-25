@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EHPG">
+   <Description text="Ogre" />
+   <Location start="WHPS" end="WTHR" index="1" />
+   <Sprite id="ZOGR" />
+   <Script file="Assets\Encounters\EHPG.lua" object="EHPG" />
+</Encounter>

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Monster id="MOGR">
+   <Text name="[MONSTER_MOGR_NAME]" description="[MONSTER_MOGR_DESC]" capture="[MONSTER_MOGR_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Ogre.png" />
+   <Level min="12" max="15" base="12" levelto="30" />
+   <Skill earth="2" fire="4" air="1" water="1" battle="15" cunning="1" morale="3" />
+   <Add earth="0.20" fire="0.20" air="0.20" water="0.20" battle="0.50" cunning="0.20" morale="0.20" life="3.00" />
+   <Data life="100" mount="0" />
+   <Reward minxp="50" maxxp="75" mingold="60" maxgold="85" />
+   <Types type1="Large" type2="Giant" type3="Evil" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZOGR"  />
+   <Item tag="ISPC"  />
+   <Spell tag="STHU" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="ROO--**R" />
+      <Row data="SRR--RRS" />
+      <Row data="SOOGY**S" />
+      <Row data="ORGRBYB*" />
+      <Row data="SGRO*BYS" />
+   </Capture>
+</Monster>

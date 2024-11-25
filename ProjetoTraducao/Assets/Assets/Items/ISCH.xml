@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISCH">
+   <Text  name="[ITEM_ISCH_NAME]" power="[ITEM_ISCH_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="855" rarity="2" />
+   <Graphics  icon="0" />
+   <Restriction	type="skill" skill="battle" level="10"/>
+   <Script  file="Assets\Items\ISCH.lua" object="ISCH"/>
+</Item>

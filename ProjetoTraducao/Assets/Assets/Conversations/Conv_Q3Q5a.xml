@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Q3Q5: Elistara gives quest"/>
+   <Text file="English\Conversations\Conv_Q3Q5a_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_Ruins.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_NPC_Elistara.png" portraitindex="0" name="[Conv_Q3Q5a_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3Q5a_0000]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3Q5a_0001]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3Q5a_0002]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3Q5a_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3Q5a_0004]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3Q5a_0005]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3Q5a_0006]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3Q5a_0007]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3Q5a_0008]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3Q5a_0009]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3Q5a_0010]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3Q5a_0011]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3Q5a_0012]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3Q5a_0013]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3Q5a_0014]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3Q5a_0015]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3Q5a_0016]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3Q5a_0017]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3Q5a_0018]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3Q5a_0019]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3Q5a_0020]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3Q5a_0021]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3Q5a_0022]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3Q5a_0023]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3Q5a_0024]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3Q5a_0025]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3Q5a_0026]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3Q5a_0027]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3Q5a_0028]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3Q5a_0029]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3Q5a_0030]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3Q5a_0031]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q3Q5a_0032]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q3Q5a_0033]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q3Q5a_0034]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q3Q5a_0035]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3Q5a_0036]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3Q5a_0037]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3Q5a_0038]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3Q5a_0039]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q3Q5a_0040]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q3Q5a_0041]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q3Q5a_0042]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q3Q5a_0043]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="Q3Q5" function="CallbackConvA" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

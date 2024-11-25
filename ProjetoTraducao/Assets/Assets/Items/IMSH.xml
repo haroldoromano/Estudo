@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IMSH">
+   <Text  name="[ITEM_IMSH_NAME]" power="[ITEM_IMSH_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="380" rarity="3" />
+   <Graphics  icon="42" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IMSH.lua" object="IMSH"/>
+</Item>

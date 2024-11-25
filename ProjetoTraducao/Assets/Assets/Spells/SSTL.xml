@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SSTL">
+   <Text  name="[SPELL_SSTL_NAME]" description="[SPELL_SSTL_DESC]" detail="[SPELL_SSTL_DETL]"/>
+   <Cost  earth="0" fire="0" air="6" water="6" />
+   <Learn  score="250" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SSTL.lua" object="SSTL"/>
+</Spell>

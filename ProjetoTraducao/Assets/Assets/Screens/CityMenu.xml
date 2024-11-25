@@ -1,0 +1,102 @@
+<Menu x="0" y="0" width="1024" height="768" timer="off" draw="off" modal="on">
+   <Assets>
+      <Button name="asset_buttclose" active="img_buttclose_act" highlight="img_buttclose_hi" pressed="img_buttclose_pres" grayed="img_buttclose_gray"/>
+      <Button name="asset_buttmini" active="img_buttmini_act" highlight="img_buttmini_hi" pressed="img_buttmini_pres" grayed="img_buttmini_gray"/>
+      <Button name="asset_butthelp" active="img_butthelp_act" highlight="img_butthelp_hi" pressed="img_butthelp_pres" grayed="img_butthelp_gray"/>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttblank" active="img_blank" highlight="img_blank" pressed="img_blank" grayed="img_blank"/>
+      <Button name="asset_dropbutt" active="img_drop_act" highlight="img_drop_hi" pressed="img_drop_pres" grayed="img_drop_gray"/>
+      <Drop name="asset_drop" top="img_drop_dtop" bottom="img_drop_dbot" center="img_drop_dctr" center_hi="img_drop_dctrhi"/>
+	  <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+      <Scroll name="asset_vscroll" background="img_vsbar_bg" thumb="img_vsbar_thumb" inc_active="img_vsbar_incup" inc_pressed="img_vsbar_incdown" inc_grayed="img_vsbar_incgray" dec_active="img_vsbar_decup" dec_pressed="img_vsbar_decdown" dec_grayed="img_vsbar_decgray"/>
+      <Button name="asset_buttbuy" active="img_buttbuy_act" highlight="img_buttbuy_hi" pressed="img_buttbuy_pres" grayed="img_buttbuy_gray"/>
+      <Button name="asset_buttdouble" active="img_dblbutton_act" highlight="anim_dblbutton_hi" pressed="anim_dblbutton_pres" grayed="img_dblbutton_gray"/>
+   </Assets>
+   
+   <Button     name="butt_close"         id="100" x="995" y="4"   width="20" height="20" key="0" graphic="asset_buttclose" sound="asset_buttsound"/>
+   <Button     name="butt_mini"          id="101" x="965"  y="4"   width="20" height="20" key="0" graphic="asset_buttmini" sound="asset_buttsound"/>
+
+   <Button     name="butt_help"          id="150" x="980"  y="173"   width="20" height="20" key="0" graphic="asset_butthelp" sound="asset_buttsound"/>
+   
+    <String     name="str_help"				    x="350"    y="102"  width="650" height="45" multiline="on"  justify="right" font="font_system"/>
+    <String     name="str_gold"				    x="700"   y="148"  width="300" height="20" multiline="off" justify="right" font="font_system"/>
+ 
+   <DoubleTextButton name="butt_build0"          id="10"  x="29"  y="105" width="300" height="32" key="0" font1="font_system" font2="font_system" offX1="16" offY1="6" offX2="263" offY2="6" graphic="asset_buttdouble" sound="asset_buttsound"
+				                    gp_down="butt_build1" gp_right="butt_forge"/>
+   <DoubleTextButton name="butt_build1"          id="11"  x="29"  y="139" width="300" height="32" key="0" font1="font_system" font2="font_system" offX1="16" offY1="6" offX2="263" offY2="6" graphic="asset_buttdouble" sound="asset_buttsound"
+				gp_up="butt_build0" gp_down="butt_build2" gp_right="butt_forge"/>
+   <DoubleTextButton name="butt_build2"          id="12"  x="29"  y="173" width="300" height="32" key="0" font1="font_system" font2="font_system" offX1="16" offY1="6" offX2="263" offY2="6" graphic="asset_buttdouble" sound="asset_buttsound"
+				gp_up="butt_build1" gp_down="butt_build3" gp_right="butt_forge"/>
+   <DoubleTextButton name="butt_build3"          id="13"  x="29"  y="207" width="300" height="32" key="0" font1="font_system" font2="font_system" offX1="16" offY1="6" offX2="263" offY2="6" graphic="asset_buttdouble" sound="asset_buttsound"
+				gp_up="butt_build2" gp_down="butt_build4" gp_right="butt_forge"/>
+   <DoubleTextButton name="butt_build4"          id="14"  x="29"  y="241" width="300" height="32" key="0" font1="font_system" font2="font_system" offX1="16" offY1="6" offX2="263" offY2="6" graphic="asset_buttdouble" sound="asset_buttsound"
+				gp_up="butt_build3" gp_down="butt_build5" gp_right="butt_forge"/>
+   <DoubleTextButton name="butt_build5"          id="15"  x="29"  y="275" width="300" height="32" key="0" font1="font_system" font2="font_system" offX1="16" offY1="6" offX2="263" offY2="6" graphic="asset_buttdouble" sound="asset_buttsound"
+				gp_up="butt_build4" gp_down="butt_build6" gp_right="butt_forge"/>
+   <DoubleTextButton name="butt_build6"          id="16"  x="29"  y="309" width="300" height="32" key="0" font1="font_system" font2="font_system" offX1="16" offY1="6" offX2="263" offY2="6" graphic="asset_buttdouble" sound="asset_buttsound"
+				gp_up="butt_build5" gp_down="butt_build7" gp_right="butt_forge"/>
+   <DoubleTextButton name="butt_build7"          id="17"  x="29"  y="343" width="300" height="32" key="0" font1="font_system" font2="font_system" offX1="16" offY1="6" offX2="263" offY2="6" graphic="asset_buttdouble" sound="asset_buttsound"
+				gp_up="butt_build6" gp_down="butt_build8" gp_right="butt_forge"/>
+   <DoubleTextButton name="butt_build8"          id="18"  x="29"  y="377" width="300" height="32" key="0" font1="font_system" font2="font_system" offX1="16" offY1="6" offX2="263" offY2="6" graphic="asset_buttdouble" sound="asset_buttsound"
+				gp_up="butt_build7"                       gp_right="butt_forge"/>
+  
+   <TextButton name="butt_forge"    id="5" x="760" y="610" width="240" height="32" textoffsety="-2" font="font_system" text="[FORGEITEMS]" graphic="asset_buttwide" sound="asset_buttsound"
+				                   gp_down="butt_research" gp_right="butt_research" gp_left="butt_build0"/>
+   <TextButton name="butt_research" id="6" x="760" y="645" width="240" height="32" textoffsety="-2" font="font_system" text="[RESEARCHSPELLS]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_forge" gp_down="butt_train"    gp_right="butt_train"    gp_left="butt_build0"/>
+   <TextButton name="butt_train"    id="7" x="760" y="680" width="240" height="32" textoffsety="-2" font="font_system" text="[TRAINMOUNTS]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_research" gp_down="butt_improve" gp_right="butt_improve" gp_left="butt_build0"/>
+   <TextButton name="butt_improve"  id="8" x="760" y="715" width="240" height="32" textoffsety="-2" font="font_system" text="[IMPROVESTATS]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_train"                          gp_left="butt_build0"/>
+   
+   <Icon       name="icon_connL0"                 x="41"    y="88"    width="20"  height="36" graphic="img_city_connlong"/>
+   <Icon       name="icon_connL1"                 x="41"    y="122"   width="20"  height="36" graphic="img_city_connlong"/>
+   <Icon       name="icon_connL2"                 x="41"    y="156"   width="20"  height="36" graphic="img_city_connlong"/>
+   <Icon       name="icon_connL3"                 x="41"    y="190"   width="20"  height="36" graphic="img_city_connlong"/>
+   <Icon       name="icon_connL4"                 x="41"    y="224"   width="20"  height="36" graphic="img_city_connlong"/>
+   <Icon       name="icon_connL5"                 x="41"    y="258"   width="20"  height="36" graphic="img_city_connlong"/>
+   <Icon       name="icon_connL6"                 x="41"    y="292"   width="20"  height="36" graphic="img_city_connlong"/>
+   <Icon       name="icon_connL7"                 x="41"    y="326"   width="20"  height="36" graphic="img_city_connlong"/>
+   <Icon       name="icon_connL8"                 x="41"    y="360"   width="20"  height="36" graphic="img_city_connlong"/>
+   
+   <Icon       name="icon_connS0"                 x="41"    y="103"   width="20"  height="21" graphic="img_city_connshort"/>
+   <Icon       name="icon_connS1"                 x="41"    y="137"   width="20"  height="21" graphic="img_city_connshort"/>
+   <Icon       name="icon_connS2"                 x="41"    y="171"   width="20"  height="21" graphic="img_city_connshort"/>
+   <Icon       name="icon_connS3"                 x="41"    y="205"   width="20"  height="21" graphic="img_city_connshort"/>
+   <Icon       name="icon_connS4"                 x="41"    y="239"   width="20"  height="21" graphic="img_city_connshort"/>
+   <Icon       name="icon_connS5"                 x="41"    y="273"   width="20"  height="21" graphic="img_city_connshort"/>
+   <Icon       name="icon_connS6"                 x="41"    y="307"   width="20"  height="21" graphic="img_city_connshort"/>
+   <Icon       name="icon_connS7"                 x="41"    y="341"   width="20"  height="21" graphic="img_city_connshort"/>
+   <Icon       name="icon_connS8"                 x="41"    y="375"   width="20"  height="21" graphic="img_city_connshort"/>
+   
+   <TextButton name="butt_done"          id="1"  x="422"  y="716" width="180" height="50" key="27" font="font_button" text="[DONE]" graphic="asset_buttsmall" sound="asset_buttsound"/>
+   <GamepadButton     name="gp_done"     id="1"  x="440" y="705" width="280" height="40"  buttonwidth="40" textoffsetx="44" textoffsety="3" font="font_button" text="[BACK]" graphic_button="img_gamepad_b" sound="asset_buttsound"
+					 gp_button="b"/>
+
+   <Icon       name="icon_effect"               x="0"    y="0"   width="1024"  height="768" graphic="img_citybuildeffect"/>
+
+   <Icon       name="icon_bld0"                 x="675"    y="338"   width="83"  height="102" graphic="img_city_bld0"/>
+   <Icon       name="icon_bld1"                 x="740"    y="447"   width="264" height="185" graphic="img_city_bld1"/>
+   <Icon       name="icon_bld2"                 x="749"    y="135"    width="221" height="364" graphic="img_city_bld2"/>
+   <Icon       name="icon_bld3"                 x="54"     y="461"   width="366" height="256" graphic="img_city_bld3"/>
+   <Icon       name="icon_bld4a"                x="417"    y="411"   width="39"  height="99"  graphic="img_city_bld4a"/>
+   <Icon       name="icon_bld4b"                x="538"    y="413"   width="39"  height="98"  graphic="img_city_bld4b"/>
+   <Icon       name="icon_bld5"                 x="482"    y="533"   width="418" height="202" graphic="img_city_bld5"/>
+   <Icon       name="icon_bld6"                 x="49"     y="284"   width="225" height="253" graphic="img_city_bld6"/>
+   <Icon       name="icon_bld7a"                x="53"     y="197"   width="124" height="123" graphic="img_city_bld7a"/>
+   <Icon       name="icon_bld7b"                x="846"    y="197"   width="114" height="176" graphic="img_city_bld7b"/>
+   <Icon       name="icon_bld8"                 x="234"    y="270"   width="93"  height="152" graphic="img_city_bld8"/>
+
+   <Icon       name="icon_border"               x="0"     y="95"   width="20"  height="655" graphic="img_city_bord_l"/>
+   <Icon       name="icon_border"               x="1004"  y="95"   width="20"  height="655" graphic="img_city_bord_r"/>
+   <Icon       name="icon_dlg"                  x="20"    y="95"   width="984" height="655" graphic="img_city_bg"/>
+   <Icon       name="icon_top"                  x="0"     y="0"   width="1024" height="95" graphic="img_toppanel"/>
+   
+   <Icon       name="icon_left"       x="-176"   y="0" width="176" height="768" graphic="img_sidepanel_l"/>
+   <Icon       name="icon_right"       x="1024"   y="0" width="176" height="768" graphic="img_sidepanel_r"/>
+
+   <GamepadButton     name="gp_cancel"   id="999"  x="-100" y="-100" width="1" height="1"  buttonwidth="0" textoffsetx="0" textoffsety="0" font="font_button" text="[MENU]" graphic_button="img_gamepad_start" sound="asset_buttsound"
+					 gp_button="start"/>
+  
+</Menu>

@@ -1,0 +1,6 @@
+<StatusEffect id="EWOF">
+	<Text		name="[STATUS_WALLOFFIRED_NAME]" description="[STATUS_WALLOFFIRED_DESC]" />
+	<Graphics	icon="22"/>
+	<Data		duration="0" stack="1"/>
+	<Script		file="Assets\StatusEffects\WallOfFired.lua" object="WallOfFired"/>
+</StatusEffect>

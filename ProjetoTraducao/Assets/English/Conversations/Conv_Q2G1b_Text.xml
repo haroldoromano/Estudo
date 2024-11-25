@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[Conv_Q2G1b_NAME1]">Patch</Text>
+
+   <Text tag="[Conv_Q2G1b_0000]">The Assassins have been dealt with.  You&apos;re free to leave the cave now.</Text>
+   <Text tag="[Conv_Q2G1b_0001]">The Assassins have been dealt with.  You&apos;re free to leave the cave now.</Text>
+   <Text tag="[Conv_Q2G1b_0002]">The Assassins have been dealt with.  You&apos;re free to leave the cave now.</Text>
+   <Text tag="[Conv_Q2G1b_0003]">The Assassins have been dealt with.  You&apos;re free to leave the cave now.</Text>
+   <Text tag="[Conv_Q2G1b_0004]">I just remembered... one more...one MORE!</Text>
+   <Text tag="[Conv_Q2G1b_0005]">I just remembered... one more...one MORE!</Text>
+   <Text tag="[Conv_Q2G1b_0006]">I just remembered... one more...one MORE!</Text>
+   <Text tag="[Conv_Q2G1b_0007]">I just remembered... one more...one MORE!</Text>
+   <Text tag="[Conv_Q2G1b_0008]">Another Assassin?</Text>
+   <Text tag="[Conv_Q2G1b_0009]">Another Assassin?</Text>
+   <Text tag="[Conv_Q2G1b_0010]">Another Assassin?</Text>
+   <Text tag="[Conv_Q2G1b_0011]">Another Assassin?</Text>
+   <Text tag="[Conv_Q2G1b_0012]">Sorry... But I will pay like I promised! A thousand Gold!</Text>
+   <Text tag="[Conv_Q2G1b_0013]">Sorry... But I will pay like I promised! A thousand Gold!</Text>
+   <Text tag="[Conv_Q2G1b_0014]">Sorry... But I will pay like I promised! A thousand Gold!</Text>
+   <Text tag="[Conv_Q2G1b_0015]">Sorry... But I will pay like I promised! A thousand Gold!</Text>
+
+</TextLibrary>

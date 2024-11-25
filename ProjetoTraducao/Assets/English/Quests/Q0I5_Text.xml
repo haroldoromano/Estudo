@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0I5_ACTION]">Fight an Imp</Text>
+   <Text tag="[QUEST_Q0I5_FAILURE]">Having defeated you, the Imp flies off. There are plenty more here though.</Text>
+   <Text tag="[QUEST_Q0I5_KILL]">You have defeated an Imp, but there appear to be plenty more here.</Text>
+   <Text tag="[QUEST_Q0I5_RETURN]">Deliver the Message</Text>
+   <Text tag="[QUEST_Q0I5_REWARD]">You have delivered the Emperor&apos;s reply to your Queen. She rewards you well.</Text>
+   <Text tag="[QUEST_Q0I5_STEP1]">You must return the Emperor&apos;s reply to Bartonia, but you may visit the Dark Path Shrine on the way if you wish.</Text>
+   <Text tag="[QUEST_Q0I5_STEP2]">You must return the Emperor&apos;s reply to Bartonia, or you may continue fighting Imps at the Dark Path Shrine.</Text>
+
+</TextLibrary>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0I2_ACTION1]">Approach the Palace</Text>
+   <Text tag="[QUEST_Q0I2_ACTION2]">Sneak into the Palace</Text>
+   <Text tag="[QUEST_Q0I2_DONE]">The message has finally been delivered to the Emperor of Selentia.</Text>
+   <Text tag="[QUEST_Q0I2_ENMOUTH]">You have arrived in Emouth, largest Trade Port in the eastern lands, and home to the Selentine Emperor.</Text>
+   <Text tag="[QUEST_Q0I2_FAIL]">The Giant Rat has blocked your progress, but you may try again...</Text>
+   <Text tag="[QUEST_Q0I2_GUARDIAN]">You sneak into the Palace through the sewers, but you find a Giant Rat blocking the way...</Text>
+   <Text tag="[QUEST_Q0I2_PROGRESS1]">You must carry your message to the Imperial Palace in Enmouth.</Text>
+   <Text tag="[QUEST_Q0I2_PROGRESS2]">You must find another way to enter the Imperial Palace.</Text>
+   <Text tag="[QUEST_Q0I2_QMHELP0]">This Rat is larger than most, and also very fast - it knows the Haste spell.</Text>
+
+</TextLibrary>

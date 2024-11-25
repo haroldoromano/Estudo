@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RSCV">
+   <Text name="[RUIN_RSCV_NAME]" description="[RUIN_RSCV_DESC]"/>
+   <Graphics icon="2"/>
+   <Data x="1274" y="635" type="2" visible="no" attach="WALF"/>
+</Ruin>

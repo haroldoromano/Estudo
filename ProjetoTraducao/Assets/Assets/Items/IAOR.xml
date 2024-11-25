@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IAOR">
+   <Text  name="[ITEM_IAOR_NAME]" power="[ITEM_IAOR_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="2500" rarity="0" />
+   <Graphics  icon="89" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IAOR.lua" object="IAOR"/>
+</Item>

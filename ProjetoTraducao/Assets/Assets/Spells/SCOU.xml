@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SCOU">
+   <Text  name="[SPELL_SCOU_NAME]" description="[SPELL_SCOU_DESC]" detail="[SPELL_SCOU_DETL]"/>
+   <Cost  earth="0" fire="2" air="2" water="2" />
+   <Learn  score="300" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SCOU.lua" object="SCOU"/>
+</Spell>

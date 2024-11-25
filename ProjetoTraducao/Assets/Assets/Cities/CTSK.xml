@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<City id="CTSK">
+   <Text name="[CITY_CTSK_NAME]" description="[CITY_CTSK_DESC]"/>
+   <Graphics icon="18" type="1"/>
+   <Data x="1469" y="228" level="0" visible="no" income="100" />
+   <Item tag="ITWP"/>
+   <Item tag="IWLB"/>
+   <Item tag="IGTS"/>
+   <Item tag="IBOI"/>
+   <Spell tag="SCOU"/>
+   <Spell tag="SBSG"/>
+</City>

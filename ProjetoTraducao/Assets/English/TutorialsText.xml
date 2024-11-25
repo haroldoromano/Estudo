@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[EVELINETHEWISE]">Eveline the Wise</Text>
+
+   <Text tag="[MAINMENU_HEADING]">Greetings Warlord</Text>
+   <Text tag="[MAINMENU_TEXT]">My name is Eveline the Wise, and you would be wise to heed my words as you journey through the Realms of Etheria. \n If you foolishly wish to ignore my advice, all you need to do is select the &quot;Hide&quot; button in the bottom left of the screen.</Text>
+   <Text tag="[MAINMENU_GP_TEXT]">My name is Eveline the Wise, and you would be wise to heed my words as you journey through the Realms of Etheria. \n If you foolishly wish to ignore my advice, you will need to turn off the Tutorial in the Settings menu.</Text>
+
+   <Text tag="[MAINMENU2_HEADING]">Starting Out</Text>
+   <Text tag="[MAINMENU2_TEXT]">I have many questions for you, and soon you will answer them all. \n So let us begin this journey by selecting the &quot;New Quest&quot; button at the top right of the screen.</Text>
+
+   <Text tag="[CREATEHERO_HEADING]">Creating a Hero</Text>
+   <Text tag="[CREATEHERO_TEXT]">Where are your manners? First you must introduce yourself! \n * Tell me your name. \n * Then your profession. \n * Then what you look like. \n When you have done all of these 3 things, select &quot;Okay&quot;.</Text>
+
+   <Text tag="[SINGLEPLAYERMENU_HEADING]">Single Player</Text>
+   <Text tag="[SINGLEPLAYERMENU_TEXT]">This is where you go if you do not wish to continue your quest. \n &quot;Instant Action&quot; and &quot;Choose Opponent&quot; will let you play a quick game outside of the main quest. \n You can set time limits for these types of games. They still earn you Experience and Gold.</Text>
+
+   <Text tag="[TAVERNMENU_HEADING]">Rumors</Text>
+   <Text tag="[TAVERNMENU_TEXT]">You can find taverns in cities. They are a good source of rumors. They are not a place to get drunk! \n Some rumors are free but others will cost you Gold. \n To learn rumors, simply select them from the list.</Text>
+
+   <Text tag="[SHOPMENU_HEADING]">Buying Items</Text>
+   <Text tag="[SHOPMENU_TEXT]">Pay attention! You can buy items to outfit your hero in this shop. To purchase an item, simply select it in the list. \n Items shown in gray are too expensive for you to buy. Items shown in red require a higher skill level than you currently possess.</Text>
+
+   <Text tag="[SELLITEMSMENU_HEADING]">Selling Items</Text>
+   <Text tag="[SELLITEMSMENU_TEXT]">Selling unwanted items is a great way to keep your inventory clean as well as earn a bit of extra Gold. \n Most items that are not currently equipped can be sold (except for special quest items that are worth zero Gold).</Text>
+
+   <Text tag="[INV_INTRO_HEADING]">Inventory</Text>
+   <Text tag="[INV_INTRO_TEXT]">This menu contains everything you need to know about yourself all itemized out into different groups. \n To scroll through each group, select the tab buttons along the top.  You will find everything from items and spells to mounts you have captured and awards you have won.</Text>
+
+   <Text tag="[INV_ITEMS_HEADING]">Items</Text>
+   <Text tag="[INV_ITEMS_TEXT]">You can equip up to 4 items: one helm or crown, one piece of armor or clothing, one weapon, and another miscellaneous object. \n Items have various beneficial effects in combat and they all work automatically.</Text>
+
+   <Text tag="[INV_SPELLS_HEADING]">Spells</Text>
+   <Text tag="[INV_SPELLS_TEXT]">You can take up to 6 spells into combat. \n As you gain levels, more spells will become available. You may also learn spells from your captives - monsters you have captured during play by completing special puzzle games.</Text>
+
+   <Text tag="[INV_COMPANIONS_HEADING]">Companions</Text>
+   <Text tag="[INV_COMPANIONS_TEXT]">Companions will offer to join you during your quest. \n All companions have a special ability that they can activate at the beginning of combat against certain enemies.</Text>
+
+   <Text tag="[INV_PETS_HEADING]">Captives</Text>
+   <Text tag="[INV_PETS_TEXT]">Captives are enemies you have captured that can teach you spells. \n You need to have built a Dungeon in your city to capture enemies.</Text>
+
+   <Text tag="[INV_MOUNTS_HEADING]">Mounts</Text>
+   <Text tag="[INV_MOUNTS_TEXT]">Mounts are beasts you have captured that can be ridden. \n You need to have built a Dungeon in your city to capture mounts.</Text>
+
+   <Text tag="[INV_KINGDOM_HEADING]">Your Kingdom</Text>
+   <Text tag="[INV_KINGDOM_TEXT]">This lists all of the cities you have captured. \n Once you have a Siege Workshop in your city, you may capture other cities on the map. \n Once you own a city it generates Gold for you each month and gives you access to &apos;Your Citadel&apos; when you visit.</Text>
+
+   <Text tag="[INV_RUMORS_HEADING]">Rumors</Text>
+   <Text tag="[INV_RUMORS_TEXT]">This list contains the rumors you have learned from taverns. \n A few important rumors are marked with a &apos;!&apos; and will remain at the top of your list.</Text>
+
+   <Text tag="[INV_BATTLES_HEADING]">Victories</Text>
+   <Text tag="[INV_BATTLES_TEXT]">Here you can see all of the enemies you have fought. \n The first number shows the times you have defeated an enemy, the second shows the number of times you have fought it.</Text>
+
+   <Text tag="[INV_AWARDS_HEADING]">Awards</Text>
+   <Text tag="[INV_AWARDS_TEXT]">This list shows all of the awards you have gained. \n You are given awards for completing special quests during the story. Each award gives you a special bonus to one of your skills.</Text>
+
+   <Text tag="[YOURCITY_INTRO_HEADING]">Your Citadel</Text>
+   <Text tag="[YOURCITY_INTRO_TEXT]">You can access your citadel from any city on the map that you have captured. \n You can add structures to your citadel that enable new game options and mini-games (such as creating items and learning spells).</Text>
+
+   <Text tag="[YOURCITY_ITEMS_HEADING]">Creating Items</Text>
+   <Text tag="[YOURCITY_ITEMS_TEXT]">Now that you have a Forge, you can create magic items in a mini-game. \n To create new items, you will need to find and collect runes on the map - check each waypoint for them. \n You have been given 3 basic runes to get started.</Text>
+
+   <Text tag="[YOURCITY_SPELLS_HEADING]">Learning Spells</Text>
+   <Text tag="[YOURCITY_SPELLS_TEXT]">Now that you have a Mage Tower, you can learn spells from your captives in a mini-game. \n Learned spells cost 50% extra mana for you to cast than they do for their original owner.</Text>
+
+   <Text tag="[YOURCITY_PETS_HEADING]">Captives</Text>
+   <Text tag="[YOURCITY_PETS_TEXT]">Now that you have a Dungeon, you may capture any enemy you have defeated 3 or more times by completing a puzzle mini-game. \n Captives can be used as either mounts or to teach you spells.</Text>
+
+   <Text tag="[YOURCITY_MOUNTS_HEADING]">Mounts</Text>
+   <Text tag="[YOURCITY_MOUNTS_TEXT]">Now that you have a Stable you can train mounts. \n Mounts add to your skills and give you an extra spell in combat. \n As mounts gain levels through training, they also begin to let you avoid some encounters on the map.</Text>
+
+   <Text tag="[YOURCITY_CITIES_HEADING]">Cities</Text>
+   <Text tag="[YOURCITY_CITIES_TEXT]">Now that you have a Siege Workshop you can capture cities. \n Captured cities not only generate Gold for you, but they allow you to access this menu from new locations.</Text>
+
+   <Text tag="[YOURCITY_SKILLS_HEADING]">Buying Skills</Text>
+   <Text tag="[YOURCITY_SKILLS_TEXT]">Now that you have a Temple, donating Gold will gain you the favor of the Gods, who will increase your skills. \n Increasing skills gets more expensive as the skills get higher.</Text>
+
+   <Text tag="[YOURCITY_TOWER_HEADING]">Towers</Text>
+   <Text tag="[YOURCITY_TOWER_TEXT]">Every so often, Cities you have captured will rebel. You cannot do anything at a rebel City except capture it back. \n Towers decrease the chance of rebellion by 50%.</Text>
+
+   <Text tag="[YOURCITY_VAULT_HEADING]">The Vault</Text>
+   <Text tag="[YOURCITY_VAULT_TEXT]">Every month, when you travel through your Cities, they will have gold waiting for you. \n The Vault increases that gold by 50%.</Text>
+
+   <Text tag="[LEVELUPMENU_HEADING]">Gaining a Level</Text>
+   <Text tag="[LEVELUPMENU_TEXT]">Every time you gain a level, you get 4 points to spend on your skills. \n Each skill will cost a different amount, depending on your profession. Any unused points may be saved for later.</Text>
+
+   <Text tag="[CAPTUREMENU_HEADING]">Capturing Enemies</Text>
+   <Text tag="[CAPTUREMENU_TEXT]">That was a brave decision! You are going to try and capture this enemy. \n To do that you will need to clear the board of gems, moving them one at a time, just like in a regular game. \n If you fail, you can always try again.</Text>
+
+   <Text tag="[ITEMGAMEMENU_HEADING]">Creating Items</Text>
+   <Text tag="[ITEMGAMEMENU_TEXT]">To beat this mini-game and create an item, you must destroy a number of special &apos;Hammer and Anvil&apos; gems shown on the right. \n Each time one or more of them are destroyed, the board will reset.</Text>
+
+   <Text tag="[SPELLGAMEMENU_HEADING]">Learning Spells</Text>
+   <Text tag="[SPELLGAMEMENU_TEXT]">To beat this mini-game and learn a spell, you must reach the total of mana and scrolls shown on the right by matching gems as in a regular game. \n Scrolls are a new gem type and are only created when matching 4 or 5 of a kind.</Text>
+
+   <Text tag="[SPELLGAMEMENU_HEADING]">Learning Spells</Text>
+   <Text tag="[SPELLGAMEMENU_TEXT]">To beat this mini-game and learn a spell, you must reach the total of mana and scrolls shown on the right by matching gems as in a regular game. \n Scrolls are a new gem type and are only created when matching 4 or 5 of a kind.</Text>
+
+   <Text tag="[MAPMENU_HEADING]">The World Map</Text>
+   <Text tag="[MAPMENU_TEXT]">To move around on the map, simply left-click your destination. \n To perform an action once you reach this destination, left-click on it again and choose from the list of options that appear.</Text>
+   <Text tag="[MAPMENU_GP_TEXT]">To move around on the map, simply move the cursor and select your destination. \n To perform an action once you reach this destination, select that destination again and choose from the list of options that appear.</Text>
+
+   <Text tag="[MAPMENUQUEST_HEADING]">Your Quests</Text>
+   <Text tag="[MAPMENUQUEST_TEXT]">This lists your current quests and today&apos;s date. \n To see more detail about each quest, click the buttons on the left side of the list.</Text>
+   <Text tag="[MAPMENUQUEST_GP_TEXT]">This lists your current quests and today&apos;s date. \n To see more detail about each quest, press the right back-button and select from the list.</Text>
+
+   <Text tag="[MAPMENUHERO_HEADING]">Your Hero</Text>
+   <Text tag="[MAPMENUHERO_TEXT]">This shows a brief overview of your hero. \n To quickly access your inventory, you can click on your portrait.</Text>
+   <Text tag="[MAPMENUHERO_GP_TEXT]">This shows a brief overview of your hero. \n To quickly access your inventory, press the left back-button.</Text>
+
+   <Text tag="[MANADRAIN_HEADING]">Mana Drain</Text>
+   <Text tag="[MANADRAIN_TEXT]">If there are no more moves left on the grid, then there is a Mana Drain. Both players lose all their mana and the grid resets.</Text>
+
+   <Text tag="[ILLEGALMOVE0_HEADING]">Illegal Moves</Text>
+   <Text tag="[ILLEGALMOVE0_TEXT]">If you make an illegal move, then you will take 5 points of damage. So be careful!</Text>
+
+   <Text tag="[ILLEGALMOVE1_HEADING]">Illegal Moves</Text>
+   <Text tag="[ILLEGALMOVE1_TEXT]">In the tutorial there is no penalty for an illegal move. \n If you make an illegal move in a real battle however, you will take 5 points of damage. So be careful!</Text>
+
+   <Text tag="[HEROICEFFORT_HEADING]">Heroic Effort</Text>
+   <Text tag="[HEROICEFFORT_TEXT]">If you manage to chain together a cascade of 5 or more series of gems, then we call that a Heroic Effort! \n You will receive a bonus of 100 Experience Points.</Text>
+
+   <Text tag="[SELECTSPELLMENU_HEADING]">Learning Spells</Text>
+   <Text tag="[SELECTSPELLMENU_TEXT]">The list shows you all the spells that you may learn from your captives, along with the difficulty of learning that spell. \n The most powerful spells are quite difficult to learn and you may require a number of attempts to be successful.</Text>
+
+   <Text tag="[SELECTRUNEMENU_HEADING]">Creating Items</Text>
+   <Text tag="[SELECTRUNEMENU_TEXT]">To create an item, you must select 3 runes and then play a mini-game. \n Each combination of runes will give a different item, and you need one rune from each category: Base, Modifier and Power. More powerful runes will make the item harder to create.</Text>
+
+   <Text tag="[SELECTMOUNTMENU_HEADING]">Training Mounts</Text>
+   <Text tag="[SELECTMOUNTMENU_TEXT]">The list shows all of your mounts along with their current level. \n Successfully training a mount, by defeating a special timed mini-game, adds +1 to its level and helps to improve your skills in combat.</Text>
+
+   <Text tag="[QUESTINTRO_HEADING]">Welcome to Etheria</Text>
+   <Text tag="[QUESTINTRO_TEXT]">You are standing in the Citadel of Bartonia, deep in the Agarian forest. \n You will travel through Etheria by getting and completing a series of quests, available from cities around the map.</Text>
+
+   <Text tag="[QUESTINTRO_HEADING_a]">Welcome to Etheria</Text>
+   <Text tag="[QUESTINTRO_TEXT_a]">I see you have already been traveling around! \n To progress, you will need to do more than travel; you will need to obtain and complete a series of quests. Your first quest is available in Bartonia.</Text>
+
+   <Text tag="[QUESTINTRO2_HEADING]">Quests</Text>
+   <Text tag="[QUESTINTRO2_TEXT]">Any city with a &apos;!&apos; above it has a quest for you. A red &apos;!&apos; means it is an important story quest. \n To get your first quest from Bartonia, select the city and choose &apos;Get Quests&apos;.</Text>
+
+   <Text tag="[QUESTINTRO2_HEADING_a]">Quests</Text>
+   <Text tag="[QUESTINTRO2_TEXT_a]">Any city with a &apos;!&apos; above it has a quest for you. A red &apos;!&apos; means it is an important story quest. \n To get your first quest, move to Bartonia, select the city and choose &apos;Get Quests&apos;.</Text>
+
+   <Text tag="[QUESTMOVE_HEADING]">Movement</Text>
+   <Text tag="[QUESTMOVE_TEXT]">To go to a new location, simply move the cursor there, select it and your hero will walk there. \n You need to travel to Siria - the small tower to the right of Bartonia with the sparkles on it.  Select it now.</Text>
+
+   <Text tag="[QUESTACTION_HEADING]">Actions</Text>
+   <Text tag="[QUESTACTION_TEXT]">Once you have reached a destination, you may need to do something. \n Each sparkling location has a list of actions you can perform. Select Siria now and choose &apos;Visit your Father&apos;.</Text>
+
+   <Text tag="[QUESTMOREQUESTS_HEADING]">More Quests</Text>
+   <Text tag="[QUESTMOREQUESTS_TEXT]">Congratulations! You have completed your first quest. \n You will see that another quest is available back in Bartonia, so you should travel back there now and get it.  Good luck!</Text>
+
+   <Text tag="[QUEST_T1_HEADING]">Basic Combat</Text>
+   <Text tag="[QUEST_T1_TEXT]">The objective of combat is to reduce your opponent&apos;s Life Points to zero.  You can see his 20 Life Points flashing up in the top right. \n To make your first combat easier, you are facing a Practice Dummy who cannot fight back, so take your time and experiment.</Text>
+   <Text tag="[QUEST_T1aa_HEADING]">Swapping Gems</Text>
+   <Text tag="[QUEST_T1aa_TEXT]">Now you will start swapping gems to make identical lines of 3 or more.  To swap gems left-click on the first gem, and then left-click on any gem adjacent to it.</Text>
+   <Text tag="[QUEST_T1aa_GP_TEXT]">Now you will start swapping gems to make identical lines of 3 or more.  To swap gems, move the cursor on the grid, select the first gem, and then press a directional button to swap it with an adjacent one.</Text>
+   <Text tag="[QUEST_T1a_HEADING]">Matching Gems</Text>
+   <Text tag="[QUEST_T1a_TEXT]">You are doing well! Keep matching groups of 3 gems (especially Skulls) until the Practice Dummy has no Life Points left.</Text>
+   <Text tag="[QUEST_T1b_HEADING]">Victory</Text>
+   <Text tag="[QUEST_T1b_TEXT]">I think you are ready for a bigger challenge now - it is time to get your next quest. \n However, the Practice Dummy is still there for now if you need to practice some more.</Text>
+
+   <Text tag="[QUEST_T2_HEADING]">Advanced Combat</Text>
+   <Text tag="[QUEST_T2_TEXT]">Now it gets tougher - you have an opponent who will fight back. \n You both take turns matching gems and trying to damage each other. Remember what you have learned!</Text>
+   <Text tag="[QUEST_T2a_HEADING]">Matching Gems</Text>
+   <Text tag="[QUEST_T2a_TEXT]">You are doing well! Keep matching groups of 3 gems and casting spells. \n Try not to allow your opponent to get any Skulls.</Text>
+   <Text tag="[QUEST_T2b_HEADING]">Victory</Text>
+   <Text tag="[QUEST_T2b_TEXT]">Congratulations! You have passed with flying colors. You are now a member of the Queen&apos;s Guard. \n And I believe the Queen was looking for you. She has a task for you already.</Text>
+
+   <Text tag="[OT_MATCH_SKULLS0]">Swap these gems to match 3 Skulls. This will damage your opponent.</Text>
+   <Text tag="[OT_MATCH_SKULLS1]">Match some more Skulls here. Each Skull does one point of damage.</Text>
+   <Text tag="[OT_MATCH_SKULLS2]">Skulls are the most important gems on the board. Try not to miss any!</Text>
+   <Text tag="[OT_MATCH_STARS0]">Keep matching 3 of a kind. These Purple Stars will give you Experience and help you gain levels.</Text>
+   <Text tag="[OT_MATCH_STARS1]">Here are some more Purple Stars to match. Each one gives you one point of Experience.</Text>
+   <Text tag="[OT_MATCH_GOLD0]">Swap these gems to match some Gold. You can spend gold in between battles.</Text>
+   <Text tag="[OT_MATCH_GOLD1]">You can use Gold in the Shop after this battle to buy items for your Hero.</Text>
+   <Text tag="[OT_MATCH_GREEN0]">Swap these gems to match some Green Mana. You use Green Mana for casting spells.</Text>
+   <Text tag="[OT_MATCH_RED0]">Swap these gems to match some Red Mana. You use Red Mana for casting spells.</Text>
+   <Text tag="[OT_MATCH_YELLOW0]">Swap these gems to match some Yellow Mana. You use Yellow Mana for casting spells.</Text>
+   <Text tag="[OT_MATCH_BLUE0]">Swap these gems to match some Blue Mana. You use Blue Mana for casting spells.</Text>
+   <Text tag="[OT_SPELLCASTING0]">You have enough mana to use this spell. Try casting it if you think it would be useful.</Text>
+   <Text tag="[OT_SPELLCASTING1]">A spell is active again. You will learn new spells when you gain levels.</Text>
+   <Text tag="[OT_MATCH_5]">Swap these gems to match 5-of-a-kind. This gives an extra turn and creates a Wildcard.</Text>
+   <Text tag="[OT_MATCH_4]">Swap these gems to match 4-of-a-kind. This gives you an extra turn.</Text>
+   <Text tag="[OT_REDSKULL0]">This is a +5 Skull. It matches with other Skulls. It does +5 damage and explodes!</Text>
+   <Text tag="[OT_REDSKULL1]">When it explodes a +5 Skull destroys (and gives effects for) all other gems around it.</Text>
+   <Text tag="[OT_WILDCARD0]">This is a Wildcard. It matches any mana color and multiplies the amount of mana it gives.</Text>
+   <Text tag="[OT_WILDCARD1]">Remember that Wildcards only match mana gems, not Skulls, Gold or Purple Stars.</Text>
+   <Text tag="[OT_MATCH_SKULLS3]">If you don&apos;t match skulls and damage your opponent, he will use them against you!</Text>
+   <Text tag="[OT_MATCH_SKULLS4]">As your character gains levels and improves their Battle skill, Skulls will do more damage.</Text>
+   <Text tag="[OT_MATCH_SKULLS5]">Try not to set up any Skulls for your opponent. Think one move ahead!</Text>
+   <Text tag="[OT_SPELLCASTING2]">Don&apos;t forget to keep an eye on your spells.  You have enough mana for this one.</Text>
+   <Text tag="[OT_SPELLCASTING3]">Each spell shows its mana cost on the button. Powerful spells have high mana costs.</Text>
+   <Text tag="[OT_SPELLCASTING4]">Remember to check your enemy&apos;s spells too. Try to deny him the mana he needs.</Text>
+   <Text tag="[OT_MATCH_GREEN1]">When you match mana gems, you will see the mana reserves next to your portrait fill up.</Text>
+   <Text tag="[OT_MATCH_RED1]">Try to match the correct mana for the spells you want to cast.</Text>
+   <Text tag="[OT_MATCH_YELLOW1]">As you gain levels and improve skills, mana gems will give more and more mana.</Text>
+   <Text tag="[OT_MATCH_BLUE1]">Try to match mana that your enemy needs. This will stop him casting spells at you.</Text>
+ 
+</TextLibrary>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RWGS">
+   <Text name="[RUIN_RWGS_NAME]" description="[RUIN_RWGS_DESC]"/>
+   <Graphics icon="13"/>
+   <Data x="1812" y="1076" type="0" visible="no" attach="CGRU"/>
+</Ruin>

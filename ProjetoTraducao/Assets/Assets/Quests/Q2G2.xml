@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Quest id="Q2G2">
+
+   <Text  name="[QUEST_Q2G2_NAME]" description="[QUEST_Q2G2_DESC]" group="[QG_ASSN_NAME]"   file="English\Quests\Q2G2_Text.xml"/>
+   <Script  file="Assets\Quests\Q2G2.lua" object="Q2G2"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CHYA" minlevel="20" maxlevel="1000" repeat="1" 
+               donequest0="Q2G1" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MTHF">
+
+      <Name  tag="[QUEST_Q2G2_QMNAME0]"   />
+      <Add  battle="10" cunning="0" morale="0" />
+      <Add  level="5" life="20" />
+      <Item  id="IMSE" />
+      <Item  id="ILSW" />
+      <Item  id="ILEH" />
+      <Item  id="ILEB" />
+   </Battle>
+
+</Quest>

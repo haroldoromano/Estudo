@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MSKE">
+   <Text name="[MONSTER_MSKE_NAME]" description="[MONSTER_MSKE_DESC]" capture="[MONSTER_MSKE_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Skeleton.png" />
+   <Level min="1" max="4" base="1" levelto="20" />
+   <Skill earth="3" fire="0" air="0" water="1" battle="2" cunning="1" morale="2" />
+   <Add earth="1.00" fire="0.00" air="0.20" water="0.50" battle="0.75" cunning="0.20" morale="0.20" life="3.00" />
+   <Data life="48" mount="0" />
+   <Reward minxp="25" maxxp="40" mingold="15" maxgold="50" />
+   <Types type1="Undead" type2="Evil" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZSKE"  />
+   <Item tag="ILSW"  />
+   <Spell tag="SCTO" learn="1" />
+   <Spell tag="SWTD" learn="1" />
+   <Capture>
+      <Row data="--X--X--" />
+      <Row data="-GO--OG-" />
+      <Row data="-OS--SO-" />
+      <Row data="-RS--SR-" />
+      <Row data="-GGOOGG-" />
+      <Row data="-RSGGSR-" />
+      <Row data="-RSRRSR-" />
+      <Row data="SSGSSGSS" />
+   </Capture>
+</Monster>

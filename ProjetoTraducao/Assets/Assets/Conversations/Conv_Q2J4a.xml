@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Q2J4: Talk to Jarl"/>
+   <Text file="English\Conversations\Conv_Q2J4a_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_GiantTowerExterior.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_NPC_Jarl_Large.png" portraitindex="0" name="[Conv_Q2J4a_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="0" text="[Conv_Q2J4a_0000]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q2J4a_0001]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q2J4a_0002]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q2J4a_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q2J4a_0004]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q2J4a_0005]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q2J4a_0006]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q2J4a_0007]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q2J4a_0008]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q2J4a_0009]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q2J4a_0010]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q2J4a_0011]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q2J4a_0012]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q2J4a_0013]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q2J4a_0014]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q2J4a_0015]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q2J4a_0016]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q2J4a_0017]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q2J4a_0018]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q2J4a_0019]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q2J4a_0020]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q2J4a_0021]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q2J4a_0022]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q2J4a_0023]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q2J4a_0024]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q2J4a_0025]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q2J4a_0026]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q2J4a_0027]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="Q2J4" function="CallbackConvA" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

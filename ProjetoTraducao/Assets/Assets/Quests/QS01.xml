@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="QS01">
+
+   <Text  name="[QUEST_QS01_NAME]" description="[QUEST_QS01_DESC]" group=""   file="English\Quests\QS01_Text.xml"/>
+   <Script  file="Assets\Quests\QS01.lua" object="QS01"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CENM" minlevel="20" maxlevel="1000" repeat="1" 
+               donequest0="QS00" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MIMG">
+
+   </Battle>
+
+</Quest>

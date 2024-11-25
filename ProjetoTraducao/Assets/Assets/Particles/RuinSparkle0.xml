@@ -1,0 +1,10 @@
+<Particle name="RuinSparkle0" texture="Sparkle.png" radius="1" lifetime="0">
+	<Number max="10" release="1" interval="0.1" life="1.0" />
+	<Graphics blend="additive" size="0.3" r="0.2" g="0.8" b="0.2" a="0.9"/>
+	<Animation size="0.15" r="0.1" g="1.0" b="0.1" a="0.0" start="0.5"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.15"/>
+	<Velocity x="0.0" y="0.2" z="0.0" var="0.1"/>
+	<Gravity x="0.0" y="0.5" z="0.0"/>
+	<Forces airresistance="on" wind="off"/>
+	<Shape steps="1"/>
+</Particle>

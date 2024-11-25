@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Award id="AICE">
+   <Text  name="[AWD_AICE_NAME]" description="[AWD_AICE_DESC]" />
+   <Data  stat0="0" stat1="0" stat2="0" stat3="1" stat4="0" stat5="0" stat6="0"  />
+   <Script  file="Assets\Awards\AICE.lua" object="AICE"/>
+</Award>

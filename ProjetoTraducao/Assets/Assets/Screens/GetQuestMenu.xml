@@ -1,0 +1,35 @@
+<Menu x="230" y="140" width="480" height="462" timer="off" draw="off" modal="on">
+   <Assets>
+      <Button name="asset_butttiny" active="img_butttiny_act" highlight="img_butttiny_hi" pressed="img_butttiny_pres" grayed="img_butttiny_gray"/>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttblank" active="img_blank" highlight="img_blank" pressed="img_blank" grayed="img_blank"/>
+      <Button name="asset_dropbutt" active="img_drop_act" highlight="img_drop_hi" pressed="img_drop_pres" grayed="img_drop_gray"/>
+      <Drop name="asset_drop" top="img_drop_dtop" bottom="img_drop_dbot" center="img_drop_dctr" center_hi="img_drop_dctrhi"/>
+	  <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+      <Scroll name="asset_scrollvscroll" background="img_scrollvsbar_bg" thumb="img_scrollvsbar_thumb" inc_active="img_scrollvsbar_incup" inc_pressed="img_scrollvsbar_incdown" inc_grayed="img_scrollvsbar_incgray" dec_active="img_scrollvsbar_decup" dec_pressed="img_scrollvsbar_decdown" dec_grayed="img_scrollvsbar_decgray"/>
+   </Assets>
+   
+   <String     name="str_title"				    x="0"   y="40"  width="480" height="40" text="[GETQUESTS]" multiline="off" justify="center" font="font_script_large"/>
+   
+   <VScrollbar name="sbar_list"            id="50" x="391" y="152" width="16" height="180" buttonsize="16" graphic="asset_scrollvscroll" min="0" max="100" page="10" arrows="on" keys="on"/>
+   
+   <Pad		   name="pad_list"           id="10"  x="89"    y="138"  width="290" height="200" />   
+   <Icon       name="icon_list"                   x="89"    y="138"  width="290" height="200" graphic="img_getquestlist"/>
+
+  
+   <TextButton name="butt_okay"			   id="0" x="270"  y="370" width="128" height="35" textoffsety="-2" key="13" font="font_system" text="[SELECT_]" graphic="asset_butttiny" sound="asset_buttsound"/>
+   <TextButton name="butt_cancel"          id="1" x="90" y="370" width="128" height="35" textoffsety="-2" key="27" font="font_system" text="[CANCEL]" graphic="asset_butttiny" sound="asset_buttsound"/>
+  
+   <GamepadButton     name="gp_okay"     id="0" x="250" y="370" width="128" height="35" buttonwidth="35" textoffsetx="38" textoffsety="3" font="font_script_medium" text="[SELECT_]"  graphic_button="img_gamepad_a" sound="asset_buttsound"
+					 gp_button="a"/>
+   <GamepadButton     name="gp_cancel"   id="1"  x="90" y="370" width="200" height="35"  buttonwidth="35" textoffsetx="38" textoffsety="3" font="font_script_medium" text="[CANCEL]" graphic_button="img_gamepad_b" sound="asset_buttsound"
+					 gp_button="b"/>
+   
+
+   <Icon       name="icon_dlg"                  x="73"   y="106" width="318" height="256" graphic="img_scrollbigframe"/>
+   <Icon       name="icon_dlg"                  x="0"    y="0"   width="480" height="462" graphic="img_bigscroll"/>
+   
+   <Icon       name="icon_mist"                  x="-230"  y="-140" width="1024" height="768" graphic="img_mist"/>
+   
+</Menu>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?> 
+<Effect name="SpellStun" bitmap="" type="oneshot" duration="1.5">
+
+	<Child      name="CyanStun"			type="effect"	time="0.0" duration="0.8" x="-20" y="0" position="global" />
+	<Child      name="CyanStun"			type="effect"	time="0.3" duration="0.8" x="10" y="-10" position="global" />
+	<Child      name="WhiteSparkleLite"	type="particle"	time="0.4" duration="1.0" x="0" y="-10" position="global" />
+	<Child      name="CyanStun"			type="effect"	time="0.5" duration="0.8" x="-10" y="20" position="global" />
+	<Child      name="CyanStun"			type="effect"	time="0.8" duration="0.8" x="-20" y="-10" position="global" />
+	<Child      name="CyanStun"			type="effect"	time="0.2" duration="0.8" x="-20" y="5" position="global" />
+	<Child      name="CyanStun"			type="effect"	time="0.6" duration="0.8" x="5" y="-10" position="global" />
+	<Child      name="CyanStun"			type="effect"	time="0.7" duration="0.8" x="-15" y="25" position="global" />
+	<Child      name="CyanStun"			type="effect"	time="0.9" duration="0.8" x="-20" y="-15" position="global" />
+	
+	<Initialize parameter="dest_x"		value="0" />
+	<Initialize parameter="dest_y"		value="0" />
+
+</Effect>

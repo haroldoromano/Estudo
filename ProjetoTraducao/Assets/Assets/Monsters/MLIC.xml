@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Monster id="MLIC">
+   <Text name="[MONSTER_MLIC_NAME]" description="[MONSTER_MLIC_DESC]" capture="[MONSTER_MLIC_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Liche.png" />
+   <Level min="10" max="14" base="10" levelto="50" />
+   <Skill earth="18" fire="8" air="4" water="4" battle="4" cunning="6" morale="1" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="1.50" fire="0.40" air="0.20" water="0.20" battle="0.50" cunning="0.50" morale="0.20" life="2.00" />
+   <Data life="90" mount="0" boss="0" />
+   <Reward minxp="50" maxxp="75" mingold="50" maxgold="80" />
+   <Types type1="Evil" type2="Undead" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZLCH"  />
+   <Item tag="IDSH"  />
+   <Item tag="IBST"  />
+   <Item tag="IROE"  />
+   <Spell tag="SWTD" learn="1" />
+   <Spell tag="SDGZ" learn="1" />
+   <Capture>
+      <Row data="----RG-X" />
+      <Row data="---OSSGS" />
+      <Row data="OOSOORXG" />
+      <Row data="GGRSSORR" />
+      <Row data="GGSRRSRR" />
+      <Row data="SSGYYGSS" />
+      <Row data="GGBXXBRR" />
+      <Row data="SSRXXRSS" />
+   </Capture>
+</Monster>

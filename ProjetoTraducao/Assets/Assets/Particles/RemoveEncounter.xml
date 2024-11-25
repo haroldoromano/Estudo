@@ -1,0 +1,10 @@
+<Particle name="RemoveEncounter" texture="Skull.png" radius="0.2" lifetime="1200">
+	<Number max="20" release="20" interval="0.05" life="1.2"  total="20"/>
+	<Graphics blend="additive" size="0.5" r="0.1" g="0.1" b="0.9" a="1.0"/>
+	<Animation size="0.05" r="0.2" g="0.2" b="0.6" a="0.0" start="0.2"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.4"/>
+	<Velocity x="0.0" y="0.0" z="0.0" var="0.4"/>
+	<Gravity x="0.0" y="0.0" z="0.0"/>
+	<Forces airresistance="off" wind="off"/>
+	<Shape steps="1"/>
+</Particle>

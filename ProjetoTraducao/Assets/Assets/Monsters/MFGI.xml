@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Monster id="MFGI">
+   <Text name="[MONSTER_MFGI_NAME]" description="[MONSTER_MFGI_DESC]" capture="[MONSTER_MFGI_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_FrostGiant.png" />
+   <Level min="20" max="26" base="20" levelto="50" />
+   <Skill earth="4" fire="4" air="2" water="12" battle="36" cunning="0" morale="6" />
+   <Resistance earth="0" fire="0" air="0" water="30" />
+   <Add earth="0.20" fire="0.20" air="0.20" water="0.20" battle="0.50" cunning="0.20" morale="0.20" life="3.00" />
+   <Data life="140" mount="0" boss="0" />
+   <Reward minxp="90" maxxp="130" mingold="60" maxgold="100" />
+   <Types type1="Giant" type2="" type3="Large" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZFRG"  />
+   <Item tag="IFBL"  />
+   <Spell tag="SSTO" learn="0" />
+   <Spell tag="SFRZ" learn="1" />
+   <Spell tag="SFBT" learn="1" />
+   <Capture>
+      <Row data="--O---S-" />
+      <Row data="-OBO-SBS" />
+      <Row data="-BSB-BOB" />
+      <Row data="-SBS-OBO" />
+      <Row data="BBOBBRBB" />
+      <Row data="OBB*BBSB" />
+      <Row data="BOBB*BBS" />
+      <Row data="BB*BBXBB" />
+   </Capture>
+</Monster>

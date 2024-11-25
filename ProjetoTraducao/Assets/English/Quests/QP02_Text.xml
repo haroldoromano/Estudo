@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QP02_ACTION]">Build Vault</Text>
+   <Text tag="[QUEST_QP02_REWARD]">Patch is very happy with his vault and rewards you well.</Text>
+   <Text tag="[QUEST_QP02_STEP1]">You must journey to Dhun-Kor with Khalkus and Patch to help build a vault for Patch&apos;s treasure.</Text>
+
+</TextLibrary>

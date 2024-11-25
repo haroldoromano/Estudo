@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISTA">
+   <Text  name="[ITEM_ISTA_NAME]" power="[ITEM_ISTA_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1600" rarity="0" />
+   <Graphics  icon="17" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ISTA.lua" object="ISTA"/>
+</Item>

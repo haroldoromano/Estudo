@@ -1,0 +1,6 @@
+<StatusEffect id="EVIG">
+	<Text		name="[STATUS_VIGILED_NAME]" description="[STATUS_VIGILED_DESC]" />
+	<Graphics	icon="19"/>
+	<Data		duration="10" stack="1"/>
+	<Script		file="Assets\StatusEffects\Vigiled.lua" object="Vigiled"/>
+</StatusEffect>

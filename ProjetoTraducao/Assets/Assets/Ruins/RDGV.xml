@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RDGV">
+   <Text name="[RUIN_RDGV_NAME]" description="[RUIN_RDGV_DESC]"/>
+   <Graphics icon="12"/>
+   <Data x="1713" y="451" type="5" visible="no" attach="WDPS"/>
+</Ruin>

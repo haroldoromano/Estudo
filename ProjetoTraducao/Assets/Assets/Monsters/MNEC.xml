@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Monster id="MNEC">
+   <Text name="[MONSTER_MNEC_NAME]" description="[MONSTER_MNEC_DESC]" capture="[MONSTER_MNEC_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_NPC_Necromancer.png" />
+   <Level min="28" max="32" base="28" levelto="60" />
+   <Skill earth="40" fire="10" air="10" water="15" battle="8" cunning="25" morale="15" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.50" fire="0.30" air="0.20" water="0.50" battle="0.20" cunning="0.50" morale="0.50" life="2.00" />
+   <Data life="100" mount="0" boss="0" />
+   <Reward minxp="70" maxxp="120" mingold="50" maxgold="100" />
+   <Types type1="Evil" type2="Human" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZLCH"  />
+   <Item tag="IBFH"  />
+   <Item tag="ISCL"  />
+   <Item tag="INST"  />
+   <Item tag="IROE"  />
+   <Spell tag="SDBO" learn="1" />
+   <Spell tag="SBAV" learn="1" />
+   <Spell tag="SBRL" learn="0" />
+   <Spell tag="SMBU" learn="0" />
+   <Capture>
+      <Row data="SSGSSGSS" />
+      <Row data="SSGSSGSS" />
+      <Row data="GGSGGSGG" />
+      <Row data="SSGSSGSS" />
+      <Row data="SSGSSGSS" />
+      <Row data="GGSGGSGG" />
+      <Row data="SSGSSGSS" />
+      <Row data="SSGSSGSS" />
+   </Capture>
+</Monster>

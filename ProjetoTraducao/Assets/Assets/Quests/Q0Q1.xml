@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Quest id="Q0Q1">
+
+   <Text  name="[QUEST_Q0Q1_NAME]" description="[QUEST_Q0Q1_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q0Q1_Text.xml"/>
+   <Script  file="Assets\Quests\Q0Q1.lua" object="Q0Q1"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CBAR" minlevel="1" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q0" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="1" />
+
+   <Battle  monster="MSKE">
+
+      <Name  tag="[QUEST_Q0Q1_QMNAME0]"  help="[QUEST_Q0Q1_QMHELP0]"  />
+      <Add  earth="2" fire="0" air="0" water="0" />
+      <Item  id="IROE" />
+   </Battle>
+
+</Quest>

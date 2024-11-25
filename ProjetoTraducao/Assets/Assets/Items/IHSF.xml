@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IHSF">
+   <Text  name="[ITEM_IHSF_NAME]" power="[ITEM_IHSF_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1300" rarity="1" />
+   <Graphics  icon="94" />
+   <Restriction	type="skill" skill="air" level="10"/>
+   <Script  file="Assets\Items\IHSF.lua" object="IHSF"/>
+</Item>

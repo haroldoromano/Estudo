@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Monster id="MIGO">
+   <Text name="[MONSTER_MIGO_NAME]" description="[MONSTER_MIGO_DESC]" capture="[MONSTER_MIGO_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_IronGolem.png" />
+   <Level min="11" max="15" base="11" levelto="50" />
+   <Skill earth="10" fire="8" air="1" water="1" battle="13" cunning="0" morale="0" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="1.00" fire="0.40" air="0.25" water="0.25" battle="1.00" cunning="0.20" morale="0.20" life="3.00" />
+   <Data life="100" mount="0" boss="0" />
+   <Reward minxp="55" maxxp="80" mingold="60" maxgold="80" />
+   <Types type1="Large" type2="Machine" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZIGO"  />
+   <Item tag="IISK"  />
+   <Item tag="IIFI"  />
+   <Spell tag="SIST" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="------G-" />
+      <Row data="RRGRRGRR" />
+      <Row data="BBGBBGBB" />
+      <Row data="GGBGGBGG" />
+   </Capture>
+</Monster>

@@ -1,0 +1,6 @@
+<StatusEffect id="EFAV">
+	<Text		name="[STATUS_FAVORED_NAME]" description="[STATUS_FAVORED_DESC]" />
+	<Graphics	icon="18"/>
+	<Data		duration="8" stack="1"/>
+	<Script		file="Assets\StatusEffects\Favored.lua" object="Favored"/>
+</StatusEffect>

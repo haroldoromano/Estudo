@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EHPO">
+   <Description text="Orc" />
+   <Location start="WHPS" end="WTHR" index="0" />
+   <Sprite id="ZORC" />
+   <Script file="Assets\Encounters\EHPO.lua" object="EHPO" />
+</Encounter>

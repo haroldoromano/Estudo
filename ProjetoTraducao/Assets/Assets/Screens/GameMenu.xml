@@ -1,0 +1,53 @@
+<Menu x="0" y="0" width="1024" height="768" timer="on" draw="on" modal="off">
+   <Assets>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttclose" active="img_buttclose_act" highlight="img_buttclose_hi" pressed="img_buttclose_pres" grayed="img_buttclose_gray"/>
+      <Button name="asset_buttmini" active="img_buttmini_act" highlight="img_buttmini_hi" pressed="img_buttmini_pres" grayed="img_buttmini_gray"/>
+      <Button name="asset_butthelp" active="img_butthelp_act" highlight="img_butthelp_hi" pressed="img_butthelp_pres" grayed="img_butthelp_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   <String     name="str_turn"				     x="450"  y="736"  width="124" height="18" multiline="off" justify="center" font="font_small"/>
+   <Pad		   name="pad_gamechar0"      id="30" x="11"   y="119" width="180"  height="348"  />
+   <Pad		   name="pad_gamechar1"      id="31" x="835"  y="119" width="180"  height="348"  />
+   <Pad		   name="pad_gamechar0_sp0"  id="40" x="11"   y="462" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar0_sp1"  id="41" x="11"   y="503" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar0_sp2"  id="42" x="11"   y="544" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar0_sp3"  id="43" x="11"   y="585" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar0_sp4"  id="44" x="11"   y="626" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar0_sp5"  id="45" x="11"   y="667" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar0_sp6"  id="46" x="11"   y="708" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar1_sp0"  id="50" x="835"  y="462" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar1_sp1"  id="51" x="835"  y="503" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar1_sp2"  id="52" x="835"  y="544" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar1_sp3"  id="53" x="835"  y="585" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar1_sp4"  id="54" x="835"  y="626" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar1_sp5"  id="55" x="835"  y="667" width="178"  height="37"  />
+   <Pad		   name="pad_gamechar1_sp6"  id="56" x="835"  y="708" width="178"  height="37"  />
+   <Pad		   name="pad_grid"           id="0"  x="217"  y="130" width="584"  height="584" />   
+
+   <Icon       name="icon_help"                 x="0"    y="0"   width="1024" height="768" graphic="img_help_gm"/>
+   <Icon       name="icon_hint"                  x="100"  y="100"   width="55" height="35" graphic="anim_hint"/>
+   
+   <Icon       name="icon_missturn0"             x="53"   y="100" width="90"  height="24" graphic="img_blank"/>
+   <Icon       name="icon_missturn1"             x="876"  y="100" width="90"  height="24" graphic="img_blank"/>
+   
+   <String     name="str_ltime"				     x="132"   y="38"   width="90" height="30" multiline="off" justify="center" font="font_button"/>
+   <String     name="str_rtime"				     x="781"   y="38"   width="90" height="30" multiline="off" justify="center" font="font_button"/>
+   <Icon       name="icon_ltimebg"               x="135"   y="16"   width="90" height="90" graphic="img_ltimebg"/>
+   <Icon       name="icon_rtimebg"               x="784"   y="16"   width="90" height="90" graphic="img_rtimebg"/>
+
+   <Button     name="butt_close"         id="100" x="995" y="4"   width="20" height="20" key="0" graphic="asset_buttclose" sound="asset_buttsound"/>
+   <Button     name="butt_mini"          id="101" x="965"  y="4"   width="20" height="20" key="0" graphic="asset_buttmini" sound="asset_buttsound"/>
+
+   <Icon       name="icon_turnmarker2"           x="102"  y="116"   width="32" height="32" graphic="anim_shieldgreen"/>
+   <Icon       name="icon_turnmarker1"           x="54"   y="8"   width="128" height="128" graphic="anim_shieldglow"/>
+   <Icon       name="icon_tmsg"                  x="0"    y="0"   width="1024" height="768" graphic="img_tmsg"/>
+   <Icon       name="icon_psys"                  x="0"    y="0"   width="1024" height="768" graphic="img_psys"/>
+   <Icon       name="icon_pmsg"                  x="0"    y="0"   width="1024" height="768" graphic="img_pmsg"/>
+   <Icon       name="icon_grid"                  x="212"  y="45"  width="600"  height="680" graphic="img_grid"/>
+   <Icon       name="icon_gamechar0"             x="11"   y="119" width="180"  height="320" graphic="img_gamechar0"/>
+   <Icon       name="icon_gamechar1"             x="835"   y="119" width="180"  height="320" graphic="img_gamechar1"/>
+   <String	   name="str_battlename"			 x="256"  y="95" width="512" height="25" multiline="off" justify="center" font="font_button"/>
+   
+   <Icon       name="icon_enemylifepts"          x="837"  y="121"   width="175" height="18" graphic="img_blank"/>
+</Menu>

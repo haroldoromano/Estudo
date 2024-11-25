@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IMHE">
+   <Text  name="[ITEM_IMHE_NAME]" power="[ITEM_IMHE_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="480" rarity="3" />
+   <Graphics  icon="9" />
+   <Restriction	type="skill" skill="battle" level="3"/>
+   <Script  file="Assets\Items\IMHE.lua" object="IMHE"/>
+</Item>

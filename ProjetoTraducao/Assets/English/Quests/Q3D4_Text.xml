@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3D4_ACTION]">Fight the Dark Dwarves</Text>
+   <Text tag="[QUEST_Q3D4_ARRIVE]">You see a bunch of Dark Dwarves outside Kal-Ungar using a Dragon to help them haul rock and ore.</Text>
+   <Text tag="[QUEST_Q3D4_FAILURE]">You have failed to defeat the Dark Dwarves. You must try again.</Text>
+   <Text tag="[QUEST_Q3D4_NOCOMPS]">You should have Flicker in the party to rescue his mother.</Text>
+   <Text tag="[QUEST_Q3D4_REWARD]">You have chased away the Dark Dwarves.  Flicker&apos;s mother is finally free.</Text>
+   <Text tag="[QUEST_Q3D4_STEP1]">You must travel to Kal-Ungar and rescue Flicker&apos;s mother from the Dark Dwarves.</Text>
+
+</TextLibrary>

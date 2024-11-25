@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Monster id="MTRO">
+   <Text name="[MONSTER_MTRO_NAME]" description="[MONSTER_MTRO_DESC]" capture="[MONSTER_MTRO_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Troll.png" />
+   <Level min="8" max="11" base="8" levelto="25" />
+   <Skill earth="2" fire="0" air="0" water="5" battle="10" cunning="4" morale="0" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.20" fire="0.00" air="0.10" water="1.00" battle="1.00" cunning="0.40" morale="0.20" life="3.00" />
+   <Data life="75" mount="0" boss="0" />
+   <Reward minxp="40" maxxp="70" mingold="40" maxgold="70" />
+   <Types type1="Monster" type2="Large" type3="Evil" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZTRO"  />
+   <Spell tag="SRGN" learn="1" />
+   <Capture>
+      <Row data="--G--G--" />
+      <Row data="--RORR--" />
+      <Row data="-GOGOOG-" />
+      <Row data="SGR*YRGS" />
+      <Row data="SYB*BBYS" />
+      <Row data="BBGOGGBB" />
+      <Row data="SYR*YRYS" />
+      <Row data="SYROYRYS" />
+   </Capture>
+</Monster>

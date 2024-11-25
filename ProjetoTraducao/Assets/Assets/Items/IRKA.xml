@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IRKA">
+   <Text  name="[ITEM_IRKA_NAME]" power="[ITEM_IRKA_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="812" rarity="0" />
+   <Graphics  icon="55" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IRKA.lua" object="IRKA"/>
+</Item>

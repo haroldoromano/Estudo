@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SFSH">
+   <Text  name="[SPELL_SFSH_NAME]" description="[SPELL_SFSH_DESC]" detail="[SPELL_SFSH_DETL]"/>
+   <Cost  earth="0" fire="5" air="0" water="6" />
+   <Learn  score="1300" masks="1" keys="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SFSH.lua" object="SFSH"/>
+</Spell>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IDSC">
+   <Text  name="[ITEM_IDSC_NAME]" power="[ITEM_IDSC_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="69" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IDSC.lua" object="IDSC"/>
+</Item>

@@ -1,0 +1,6 @@
+<CutScene file="Assets\CutScenes\Chap4_Intro.xml" voice="CutScenes\Act_4_Intro.ogg" duration="36000" voicedelay="1000" font="font_system" sound="snd_cutscene" x="0" y="128" width="1024" height="512" textx="512" texty="652">
+	<Text time="1000">The Firewalkers carefully pieced their God back together until they were prepared for the final ritual.</Text>
+	<Text time="8000">Slowly, whole once more after many centuries, Sartek rose up until he towered above his followers, and then he strode from the Horned Temple, ready for battle.</Text>
+	<Text time="19000">It was not long before he  scattered the remnants of Lord Bane&apos;s forces and cast down Minogoth from his throne in the Citadel of Ohtar...</Text>
+	<Text time="29000">...but the question still remained: What was Lord Bane&apos;s plan?</Text>
+</CutScene>

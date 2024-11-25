@@ -1,0 +1,6 @@
+<CutScene file="Assets\CutScenes\Chap1_Intro.xml" voice="CutScenes\Act_1_Intro.ogg" duration="30000" voicedelay="1000" font="font_system" sound="snd_cutscene" x="0" y="128" width="1024" height="512" textx="512" texty="652">
+	<Text time="1000">Many say that the universe moves in never-ending cycles: cycles of life and death, cycles of war and peace, cycles of light and darkness.</Text>
+	<Text time="13000">If that were true, then the lands of the Agarian Knights had known peace for too long.  Their kingdom had been quiet and prosperous for many years.</Text>
+	<Text time="22000">But soon that part of the cycle would end...</Text>
+	<Text time="26500">...and another would begin.</Text>
+</CutScene>

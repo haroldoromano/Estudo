@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MRAT">
+   <Text name="[MONSTER_MRAT_NAME]" description="[MONSTER_MRAT_DESC]" capture="[MONSTER_MRAT_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Rat.png" />
+   <Level min="1" max="4" base="1" levelto="10" />
+   <Skill earth="4" fire="0" air="0" water="4" battle="2" cunning="2" morale="0" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="1.00" fire="0.10" air="0.20" water="1.00" battle="0.50" cunning="0.50" morale="0.10" life="3.00" />
+   <Data life="34" mount="1" boss="0" />
+   <Reward minxp="12" maxxp="25" mingold="25" maxgold="60" />
+   <Types type1="Animal" type2="" type3="" type4="" />
+   <Mount speed="0" fly="0" spell="SRBI"  addstat="1" stat="5" addperlevel="1" addlevel="4" />
+   <Sprite id="ZRAT"  />
+   <Spell tag="SRBI" learn="0" />
+   <Spell tag="SSCV" learn="0" />
+   <Capture>
+      <Row data="---OO---" />
+      <Row data="--ORYO--" />
+      <Row data="-OGYRGO-" />
+      <Row data="OYGRYGYO" />
+      <Row data="RY*SS*YR" />
+      <Row data="R*GBBG*R" />
+      <Row data="*YGSSGY*" />
+      <Row data="RYBSSBYR" />
+   </Capture>
+</Monster>

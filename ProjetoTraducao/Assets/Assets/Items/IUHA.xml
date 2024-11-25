@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IUHA">
+   <Text  name="[ITEM_IUHA_NAME]" power="[ITEM_IUHA_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="88" />
+   <Restriction	type="skill" skill="battle" level="8"/>
+   <Script  file="Assets\Items\IUHA.lua" object="IUHA"/>
+</Item>

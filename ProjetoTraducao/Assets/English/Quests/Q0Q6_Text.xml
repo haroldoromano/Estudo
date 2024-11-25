@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[Q0Q6_ACTION]">Visit Queen Titania</Text>
+   <Text tag="[Q0Q6_GIFT]">Darkhunter gives you a Lichebane Charm to protect yourself.</Text>
+   <Text tag="[Q0Q6_PROGRESS0]">You must travel to Silvermyr and defeat the guardian on your way there.</Text>
+   <Text tag="[Q0Q6_PROGRESS1]">You must visit Queen Titania of Silvermyr and tell her the Liche has been defeated.</Text>
+   <Text tag="[Q0Q6_REWARD]">Queen Titania of Silvermyr rewards you well for your help.</Text>
+
+</TextLibrary>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ETWF">
+   <Description text="Wolf" />
+   <Location start="WBTH" end="CTRA" index="0" />
+   <Sprite id="ZWOX" />
+   <Script file="Assets\Encounters\ETWF.lua" object="ETWF" />
+</Encounter>

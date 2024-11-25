@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IHLA">
+   <Text  name="[ITEM_IHLA_NAME]" power="[ITEM_IHLA_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1600" rarity="1" />
+   <Graphics  icon="13" />
+   <Restriction	type="skill" skill="morale" level="12"/>
+   <Script  file="Assets\Items\IHLA.lua" object="IHLA"/>
+</Item>

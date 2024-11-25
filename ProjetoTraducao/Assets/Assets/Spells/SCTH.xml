@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SCTH">
+   <Text  name="[SPELL_SCTH_NAME]" description="[SPELL_SCTH_DESC]" detail="[SPELL_SCTH_DETL]"/>
+   <Cost  earth="0" fire="0" air="25" water="20" />
+   <Learn  score="850" masks="1" keys="2" />
+   <Data  cooldown="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SCTH.lua" object="SCTH"/>
+</Spell>

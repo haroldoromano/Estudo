@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IMND">
+   <Text  name="[ITEM_IMND_NAME]" power="[ITEM_IMND_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="500" rarity="0" />
+   <Graphics  icon="4" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IMND.lua" object="IMND"/>
+</Item>

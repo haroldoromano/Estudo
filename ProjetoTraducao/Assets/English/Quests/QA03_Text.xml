@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QA03_ACTION]">Meet with Liandra</Text>
+   <Text tag="[QUEST_QA03_ACTION2]">Fight Liandra</Text>
+   <Text tag="[QUEST_QA03_FAILURE]">You have failed to defeat Liandra. You must try again.</Text>
+   <Text tag="[QUEST_QA03_NOCOMP]">You must have Darkhunter with you before meeting Liandra.</Text>
+   <Text tag="[QUEST_QA03_REWARD]">Liandra has been defeated. Darkhunter takes her body.</Text>
+   <Text tag="[QUEST_QA03_STEP1]">You must travel to Skullguard Keep and meet with Liandra.</Text>
+
+</TextLibrary>

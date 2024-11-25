@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SVAM">
+   <Text  name="[SPELL_SVAM_NAME]" description="[SPELL_SVAM_DESC]" detail="[SPELL_SVAM_DETL]"/>
+   <Cost  earth="0" fire="8" air="6" water="0" />
+   <Learn  score="300" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SVAM.lua" object="SVAM"/>
+</Spell>

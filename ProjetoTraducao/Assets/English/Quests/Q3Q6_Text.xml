@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3Q6_ACTION1]">Enter the Citadel</Text>
+   <Text tag="[QUEST_Q3Q6_ACTION2]">Enter the Throne Room</Text>
+   <Text tag="[QUEST_Q3Q6_FAILURE1]">You have failed to gain entry into the citadel. You must try again.</Text>
+   <Text tag="[QUEST_Q3Q6_FAILURE2]">You have failed to gain entry into the Throne Room. You must try again.</Text>
+   <Text tag="[QUEST_Q3Q6_PROGRESS1]">You must defeat a guardian Doomknight to gain entry to the citadel.</Text>
+   <Text tag="[QUEST_Q3Q6_PROGRESS2]">You must defeat an Iron Golem to gain entry to the Throne Room.</Text>
+   <Text tag="[QUEST_Q3Q6_REWARD]">You have finally confronted Lord Bane. All that remains is to defeat him!</Text>
+   <Text tag="[QUEST_Q3Q6_SUCCESS1]">You have gained entry into the citadel. Now you must travel deeper inside.</Text>
+   <Text tag="[QUEST_Q3Q6_SUCCESS2]">You have gained entry into the Throne Room.</Text>
+
+</TextLibrary>

@@ -1,0 +1,6 @@
+<CutScene file="Assets\CutScenes\Chap3_Intro.xml" voice="CutScenes\Act_3_Intro.ogg" duration="27000" voicedelay="1000" font="font_system" sound="snd_cutscene" x="0" y="128" width="1024" height="512" textx="512" texty="652">
+	<Text time="1000">The Mechataur had been defeated, but still there were too many questions left unanswered.</Text>
+	<Text time="8000">The Undead attacks, the Orcish slavers, the disappearance of the Dragons - it was too much to be mere coincidence.</Text>
+	<Text time="16000">And the appearance of a creature like the Mechataur could only mean one thing...</Text>
+	<Text time="20000">...the answer lay beyond these mountains in the land of the Minotaurs - the dreaded Realms of War.</Text>
+</CutScene>

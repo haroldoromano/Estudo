@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1R0_ACTION]">Search the Lair</Text>
+   <Text tag="[QUEST_Q1R0_FAILURE]">You have failed to defeat the Frost Giant. You must try again if you want to search the lair.</Text>
+   <Text tag="[QUEST_Q1R0_MSGA]">The lair appears to be empty except for a Frost Giant that has wandered in.</Text>
+   <Text tag="[QUEST_Q1R0_REWARD]">All you find is a scattering of leftover treasure.</Text>
+
+</TextLibrary>

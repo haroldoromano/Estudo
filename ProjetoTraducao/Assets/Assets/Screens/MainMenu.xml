@@ -1,0 +1,40 @@
+<Menu x="0" y="0" width="1024" height="768" timer="on" draw="off" modal="off" gp_entry="butt_singleplayer">
+   <Assets>
+      <Button name="asset_buttclose" active="img_buttclose_act" highlight="img_buttclose_hi" pressed="img_buttclose_pres" grayed="img_buttclose_gray"/>
+      <Button name="asset_buttmini" active="img_buttmini_act" highlight="img_buttmini_hi" pressed="img_buttmini_pres" grayed="img_buttmini_gray"/>
+      <Button name="asset_butthelp" active="img_butthelp_act" highlight="img_butthelp_hi" pressed="img_butthelp_pres" grayed="img_butthelp_gray"/>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   
+	<Icon   name="icon_fx"                x="0"   y="0"   width="1024"  height="768" graphic="img_mainmenufx"/>
+   
+   <Button     name="butt_close"         id="100" x="995" y="4"   width="20" height="20" key="27" graphic="asset_buttclose" sound="asset_buttsound"/>
+   <Button     name="butt_mini"          id="101" x="965"  y="4"   width="20" height="20" key="0" graphic="asset_buttmini" sound="asset_buttsound"/>
+
+   <String    name="str_title"				    x="610" y="110"  width="400" height="40" text="[MAINMENU]" multiline="off" justify="center" font="font_heading"/>
+   <TextButton name="butt_newquest"  id="21" x="660" y="180" width="300" height="50" key="0" font="font_button" text="[NEWQUEST]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_quit" gp_down="butt_continuequest"/>
+   <TextButton name="butt_continuequest"  id="22" x="660" y="230" width="300" height="50" key="0" font="font_button" text="[CONTINUEQUEST]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_newquest" gp_down="butt_singleplayer"/>
+				
+   <TextButton name="butt_singleplayer"  id="1" x="660" y="300" width="300" height="50" key="0" font="font_button" text="[SINGLEPLAYER]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_continuequest" gp_down="butt_multiplayer1"/>
+   <TextButton name="butt_multiplayer1"   id="2" x="660" y="350" width="300" height="50" key="0" font="font_button" text="[MULTIPLAYER1]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_singleplayer" gp_down="butt_multiplayer2"/>
+   <TextButton name="butt_multiplayer2"   id="4" x="660" y="400" width="300" height="50" key="0" font="font_button" text="[MULTIPLAYER2]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_multiplayer1" gp_down="butt_settings"/>
+   <TextButton name="butt_settings"      id="7" x="660" y="470" width="300" height="50" key="0" font="font_button" text="[SETTINGS]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_multiplayer2" gp_down="butt_bhiscore"/>
+   <TextButton name="butt_bhiscore"        id="5" x="660" y="540" width="300" height="50" key="0" font="font_button" text="[BATTLEHISCORES]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_settings" gp_down="butt_mhiscore"/>
+   <TextButton name="butt_mhiscore"        id="6" x="660" y="590" width="300" height="50" key="0" font="font_button" text="[MPHISCORES]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_bhiscore" gp_down="butt_quit"/>
+   <TextButton name="butt_quit"          id="0" x="660" y="670" width="300" height="50" key="27" font="font_button" text="[QUIT]" graphic="asset_buttwide" sound="asset_buttsound"
+				gp_up="butt_mhiscore"  gp_down="butt_newquest" gp_left="butt_buynow"/>
+   <TextButton name="butt_buynow"        id="10" x="30" y="690" width="150" height="50" key="0" font="font_button" text="[BUYNOW]" graphic="asset_buttsmall" sound="asset_buttsound"
+				gp_right="butt_quit"/>
+   <String    name="str_version"  x="30" y="728" width="300" height="20" text="[VERSION]" multiline="off" justify="left" font="font_system"/>
+   <String    name="str_copyright" x="660" y="728" width="300" height="20" text="[COPYRIGHT]" multiline="off" justify="center" font="font_small"/>
+</Menu>

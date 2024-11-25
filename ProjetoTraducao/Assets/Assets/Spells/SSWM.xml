@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SSWM">
+   <Text  name="[SPELL_SSWM_NAME]" description="[SPELL_SSWM_DESC]" detail="[SPELL_SSWM_DETL]"/>
+   <Cost  earth="0" fire="0" air="15" water="9" />
+   <Learn  score="850" masks="1" keys="2" />
+   <Data  cooldown="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SSWM.lua" object="SSWM"/>
+</Spell>

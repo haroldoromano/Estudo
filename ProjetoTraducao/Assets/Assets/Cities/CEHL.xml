@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<City id="CEHL">
+   <Text name="[CITY_CEHL_NAME]" description="[CITY_CEHL_DESC]"/>
+   <Graphics icon="10" type="0"/>
+   <Data x="806" y="475" level="0" visible="no" income="160" />
+   <Item tag="ITWM"/>
+   <Item tag="IWLM"/>
+   <Item tag="IGTA"/>
+   <Item tag="IMND"/>
+   <Spell tag="SCHM"/>
+   <Spell tag="SENT"/>
+   <Spell tag="SFRZ"/>
+   <Spell tag="SFBT"/>
+</City>

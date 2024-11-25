@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SENR">
+   <Text  name="[SPELL_SENR_NAME]" description="[SPELL_SENR_DESC]" detail="[SPELL_SENR_DETL]"/>
+   <Cost  earth="2" fire="6" air="0" water="0" />
+   <Learn  score="250" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SENR.lua" object="SENR"/>
+</Spell>

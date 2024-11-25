@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Quest id="Q0T2">
+
+   <Text  name="[QUEST_Q0T2_NAME]" description="[QUEST_Q0T2_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q0T2_Text.xml"/>
+   <Script  file="Assets\Quests\Q0T2.lua" object="Q0T2"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CBAR" minlevel="1" maxlevel="1000" repeat="0" 
+               donequest0="Q0T1" donequest1="" donequest2="" notdonequest="Q0Q0" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="1" />
+
+   <Battle  monster="MKNI">
+
+      <Name  tag="[QUEST_Q0T2_QMNAME0]"   />
+      <Add  level="-2" life="-32" />
+   </Battle>
+
+</Quest>

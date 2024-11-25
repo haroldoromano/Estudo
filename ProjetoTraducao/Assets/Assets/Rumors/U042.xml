@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Rumor id="U042">
+   <Text  name="[RUMOR_U042_NAME]" description="[RUMOR_U042_DESC]"/>
+   <Data  sticky="no" city="CENM" cost="25"/>
+   <Condition  type="quest" data="Q0I0" />
+</Rumor>

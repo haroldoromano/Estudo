@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Monster id="MDOO">
+   <Text name="[MONSTER_MDOO_NAME]" description="[MONSTER_MDOO_DESC]" capture="[MONSTER_MDOO_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Doomknight.png" />
+   <Level min="30" max="34" base="30" levelto="60" />
+   <Skill earth="12" fire="10" air="1" water="1" battle="30" cunning="5" morale="20" />
+   <Resistance earth="10" fire="0" air="0" water="0" />
+   <Add earth="0.60" fire="0.50" air="0.20" water="0.20" battle="1.00" cunning="0.30" morale="0.60" life="3.00" />
+   <Data life="150" mount="0" boss="0" />
+   <Reward minxp="80" maxxp="120" mingold="90" maxgold="135" />
+   <Types type1="Undead" type2="Evil" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZSKE"  />
+   <Item tag="IDKH"  />
+   <Item tag="IDKA"  />
+   <Item tag="IUHL"  />
+   <Spell tag="SSOB" learn="1" />
+   <Spell tag="SBRL" learn="1" />
+   <Spell tag="SWTD" learn="0" />
+   <Capture>
+      <Row data="-GRG-GRG" />
+      <Row data="-GSG-GSG" />
+      <Row data="*S*S*S*S" />
+      <Row data="*G*G*G*G" />
+      <Row data="SGSGSGSG" />
+      <Row data="*S*S*S*S" />
+      <Row data="SGRGSGRG" />
+      <Row data="SGRGSGRG" />
+   </Capture>
+</Monster>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IRSA">
+   <Text  name="[ITEM_IRSA_NAME]" power="[ITEM_IRSA_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="69" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IRSA.lua" object="IRSA"/>
+</Item>

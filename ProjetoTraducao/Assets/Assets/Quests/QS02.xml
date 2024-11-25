@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Quest id="QS02">
+
+   <Text  name="[QUEST_QS02_NAME]" description="[QUEST_QS02_DESC]" group=""   file="English\Quests\QS02_Text.xml"/>
+   <Script  file="Assets\Quests\QS02.lua" object="QS02"/>
+   <Data  abandon="no" icon="1" important="no" />
+
+   <Available  location="CYLA" minlevel="21" maxlevel="1000" repeat="1" 
+               donequest0="QS01" donequest1="Q3Q2" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NSER" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MIMG">
+
+   </Battle>
+   <Battle  monster="MIMG">
+
+      <Add  battle="2" cunning="0" morale="0" />
+   </Battle>
+
+</Quest>

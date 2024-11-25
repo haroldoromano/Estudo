@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IHCR">
+   <Text  name="[ITEM_IHCR_NAME]" power="[ITEM_IHCR_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="875" rarity="2" />
+   <Graphics  icon="62" />
+   <Restriction	type="skill" skill="air" level="10"/>
+   <Script  file="Assets\Items\IHCR.lua" object="IHCR"/>
+</Item>

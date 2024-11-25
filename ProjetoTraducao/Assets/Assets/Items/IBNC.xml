@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IBNC">
+   <Text  name="[ITEM_IBNC_NAME]" power="[ITEM_IBNC_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="8" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IBNC.lua" object="IBNC"/>
+</Item>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IMOA">
+   <Text  name="[ITEM_IMOA_NAME]" power="[ITEM_IMOA_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="500" rarity="0" />
+   <Graphics  icon="4" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IMOA.lua" object="IMOA"/>
+</Item>

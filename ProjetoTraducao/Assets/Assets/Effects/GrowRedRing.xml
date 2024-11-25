@@ -1,0 +1,34 @@
+<?xml version="1.0"?> 
+<Effect name="GrowRedRing" bitmap="bmp_skin_battlemisc" type="oneshot" duration="2.0">
+
+	<Initialize parameter="source_x"	value="202" />
+	<Initialize parameter="source_y"	value="257" />
+	<Initialize parameter="source_w"	value="100" />
+	<Initialize parameter="source_h"	value="100" />
+	
+	<Initialize parameter="dest_x"		value="-50" />
+	<Initialize parameter="dest_y"		value="-50" />
+	<Initialize parameter="dest_w"		value="100" />
+	<Initialize parameter="dest_h"		value="100" />
+	
+	<Initialize parameter="alpha"		value="0.0" />
+	<Initialize parameter="rotation"	value="0.0" />
+	<Initialize parameter="color_r"		value="1.0" />
+	<Initialize parameter="color_g"		value="1.0" />
+	<Initialize parameter="color_b"		value="1.0" />
+
+	<Animate	parameter="alpha"		value="0.9"		time="0.2"	method="linear" />
+	<Animate	parameter="alpha"		value="1.0"		time="0.8"	method="linear" />
+	<Animate	parameter="alpha"		value="0.0"		time="2.0"	method="linear" />
+	
+	<Animate	parameter="dest_x"		value="-150"	time="0.5"	method="linear" />
+	<Animate	parameter="dest_y"		value="-150"	time="0.5"	method="linear" />
+	<Animate	parameter="dest_w"		value="300"		time="0.5"	method="linear" />
+	<Animate	parameter="dest_h"		value="300"		time="0.5"	method="linear" />
+		
+	<Animate	parameter="dest_x"		value="-225"	time="2.0"	method="linear" />
+	<Animate	parameter="dest_y"		value="-225"	time="2.0"	method="linear" />
+	<Animate	parameter="dest_w"		value="450"		time="2.0"	method="linear" />
+	<Animate	parameter="dest_h"		value="450"		time="2.0"	method="linear" />
+		
+</Effect>

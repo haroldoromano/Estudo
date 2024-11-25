@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Fonts numfonts="1">
+  <!--
+    NOTE: This file should include the fonts that are needed up to (and including) the loading screen
+          the other fonts will be loading in the background by the loading screen
+          try to keep this as few as possible. some platforms have a high cost of opening/reading files
+  -->
+  <Font id="1"  tag="font_button"		    file="Assets\Fonts\WC_Button"	pointsize="40" baseline="32" lineheight="34" r="240" g="220" b="200" a="255" scale="1"/>
+</Fonts>

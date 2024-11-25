@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MSSP">
+   <Text name="[MONSTER_MSSP_NAME]" description="[MONSTER_MSSP_DESC]" capture="[MONSTER_MSSP_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Sandworm.png" />
+   <Level min="15" max="20" base="15" levelto="50" />
+   <Skill earth="0" fire="8" air="0" water="20" battle="16" cunning="2" morale="1" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.10" fire="0.50" air="0.10" water="1.00" battle="1.00" cunning="0.30" morale="0.20" life="3.00" />
+   <Data life="130" mount="0" boss="0" />
+   <Reward minxp="50" maxxp="75" mingold="50" maxgold="100" />
+   <Types type1="Monster" type2="Large" type3="Aquatic" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZSDW"  />
+   <Spell tag="SSPT" learn="1" />
+   <Spell tag="SSBM" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="-----O--" />
+      <Row data="-O-O-O--" />
+      <Row data="-S-S-S-O" />
+      <Row data="-B-B-BOB" />
+      <Row data="OBOBOBOB" />
+      <Row data="BSBSBXBS" />
+   </Capture>
+</Monster>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EST3">
+   <Description text="Medusa" />
+   <Location start="WWRT" end="CTSK" index="1" />
+   <Sprite id="ZMED" />
+   <Script file="Assets\Encounters\EST3.lua" object="EST3" />
+</Encounter>

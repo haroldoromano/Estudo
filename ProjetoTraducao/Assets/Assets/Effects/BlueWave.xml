@@ -1,0 +1,26 @@
+<?xml version="1.0"?> 
+<Effect name="BlueWave" bitmap="" type="oneshot" duration="1.5">
+
+	
+	<Child      name="BlueWave0"	type="effect"	time="0.0" duration="1.5" x="0" y="0" position="global" />
+	<Child      name="BlueWave1"	type="effect"	time="0.0" duration="1.5" x="0" y="-10" position="global" />
+	
+	<Child      name="BlueWave0"	type="effect"	time="0.1" duration="1.5" x="0" y="0" position="global" />
+	<Child      name="BlueWave1"	type="effect"	time="0.1" duration="1.5" x="0" y="-10" position="global" />
+	<Child      name="BlueWave0"	type="effect"	time="0.2" duration="1.5" x="0" y="0" position="global" />
+	<Child      name="BlueWave1"	type="effect"	time="0.2" duration="1.5" x="0" y="-10" position="global" />
+	<Child      name="BlueWave0"	type="effect"	time="0.3" duration="1.5" x="0" y="0" position="global" />
+	<Child      name="BlueWave1"	type="effect"	time="0.3" duration="1.5" x="0" y="-10" position="global" />
+	<Child      name="BlueWave0"	type="effect"	time="0.4" duration="1.5" x="0" y="0" position="global" />
+	<Child      name="BlueWave1"	type="effect"	time="0.4" duration="1.5" x="0" y="-10" position="global" />
+	<Child      name="BlueWave0"	type="effect"	time="0.5" duration="1.5" x="0" y="0" position="global" />
+	<Child      name="BlueWave1"	type="effect"	time="0.5" duration="1.5" x="0" y="-10" position="global" />
+		
+	<Initialize parameter="dest_x"		value="0" />
+	<Initialize parameter="dest_y"		value="0" />
+	<Initialize parameter="rotation"	value="0" />
+
+
+
+	
+</Effect>

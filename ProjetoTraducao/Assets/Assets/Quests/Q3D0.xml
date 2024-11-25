@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q3D0">
+
+   <Text  name="[QUEST_Q3D0_NAME]" description="[QUEST_Q3D0_DESC]" group="[QG_LODR_NAME]"   file="English\Quests\Q3D0_Text.xml"/>
+   <Script  file="Assets\Quests\Q3D0.lua" object="Q3D0"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CYLA" minlevel="25" maxlevel="1000" repeat="1" 
+               donequest0="Q3Q4" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MARB">
+
+   </Battle>
+
+</Quest>

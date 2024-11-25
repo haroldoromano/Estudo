@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SENT">
+   <Text  name="[SPELL_SENT_NAME]" description="[SPELL_SENT_DESC]" detail="[SPELL_SENT_DETL]"/>
+   <Cost  earth="12" fire="0" air="12" water="0" />
+   <Learn  score="1100" masks="1" keys="1" />
+   <Data  cooldown="3" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SENT.lua" object="SENT"/>
+</Spell>

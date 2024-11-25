@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MGSP">
+   <Text name="[MONSTER_MGSP_NAME]" description="[MONSTER_MGSP_DESC]" capture="[MONSTER_MGSP_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Spider.png" />
+   <Level min="3" max="6" base="3" levelto="25" />
+   <Skill earth="5" fire="0" air="3" water="1" battle="3" cunning="7" morale="1" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="1.00" fire="0.10" air="0.60" water="0.00" battle="0.50" cunning="1.00" morale="0.10" life="3.00" />
+   <Data life="45" mount="1" boss="0" />
+   <Reward minxp="20" maxxp="40" mingold="25" maxgold="45" />
+   <Types type1="Animal" type2="" type3="" type4="" />
+   <Mount speed="0" fly="0" spell="SWEB"  addstat="1" stat="4" addperlevel="1" addlevel="3" />
+   <Sprite id="ZGSP"  />
+   <Item tag="IFNG"  />
+   <Spell tag="SWEB" learn="0" />
+   <Capture>
+      <Row data="RB----BR" />
+      <Row data="GB----BG" />
+      <Row data="RG----GR" />
+      <Row data="BBG--GBB" />
+      <Row data="RYRGGRYR" />
+      <Row data="BYGYBGYB" />
+      <Row data="BGRBYRGB" />
+      <Row data="GYRYBRYG" />
+   </Capture>
+</Monster>

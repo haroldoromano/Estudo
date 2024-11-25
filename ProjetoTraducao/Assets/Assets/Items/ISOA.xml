@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISOA">
+   <Text  name="[ITEM_ISOA_NAME]" power="[ITEM_ISOA_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="2500" rarity="0" />
+   <Graphics  icon="43" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ISOA.lua" object="ISOA"/>
+</Item>

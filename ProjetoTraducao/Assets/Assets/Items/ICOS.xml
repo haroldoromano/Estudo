@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ICOS">
+   <Text  name="[ITEM_ICOS_NAME]" power="[ITEM_ICOS_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="1260" rarity="2" />
+   <Graphics  icon="8" />
+   <Restriction	type="level" level="15"/>
+   <Script  file="Assets\Items\ICOS.lua" object="ICOS"/>
+</Item>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EVGI">
+   <Description text="Fire Giant" />
+   <Location start="WGWK" end="CJOK" index="0" />
+   <Sprite id="ZFIG" />
+   <Script file="Assets\Encounters\EVGI.lua" object="EVGI" />
+</Encounter>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISKT">
+   <Text  name="[ITEM_ISKT_NAME]" power="[ITEM_ISKT_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="1058" rarity="0" />
+   <Graphics  icon="38" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ISKT.lua" object="ISKT"/>
+</Item>

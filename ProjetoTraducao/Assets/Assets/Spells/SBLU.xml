@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SBLU">
+   <Text  name="[SPELL_SBLU_NAME]" description="[SPELL_SBLU_DESC]" detail="[SPELL_SBLU_DETL]"/>
+   <Cost  earth="5" fire="0" air="5" water="5" />
+   <Learn  score="300" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SBLU.lua" object="SBLU"/>
+</Spell>

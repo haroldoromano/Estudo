@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SFBT">
+   <Text  name="[SPELL_SFBT_NAME]" description="[SPELL_SFBT_DESC]" detail="[SPELL_SFBT_DETL]"/>
+   <Cost  earth="0" fire="0" air="6" water="9" />
+   <Learn  score="750" masks="1" keys="2" />
+   <Data  cooldown="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SFBT.lua" object="SFBT"/>
+</Spell>

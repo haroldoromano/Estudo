@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IFPH">
+   <Text  name="[ITEM_IFPH_NAME]" power="[ITEM_IFPH_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="1650" rarity="1" />
+   <Graphics  icon="9" />
+   <Restriction	type="skill" skill="morale" level="10"/>
+   <Script  file="Assets\Items\IFPH.lua" object="IFPH"/>
+</Item>

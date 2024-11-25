@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SHAS">
+   <Text  name="[SPELL_SHAS_NAME]" description="[SPELL_SHAS_DESC]" detail="[SPELL_SHAS_DETL]"/>
+   <Cost  earth="0" fire="0" air="6" water="5" />
+   <Learn  score="275" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SHAS.lua" object="SHAS"/>
+</Spell>

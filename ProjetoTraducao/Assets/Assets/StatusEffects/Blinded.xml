@@ -1,0 +1,6 @@
+<StatusEffect id="EBLI">
+	<Text		name="[STATUS_BLINDED_NAME]" description="[STATUS_BLINDED_DESC]" />
+	<Graphics	icon="3"/>
+	<Data		duration="5" stack="1"/>
+	<Script		file="Assets\StatusEffects\Blinded.lua" object="Blinded"/>
+</StatusEffect>

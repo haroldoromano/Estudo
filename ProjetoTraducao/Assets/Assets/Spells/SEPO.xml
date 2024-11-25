@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SEPO">
+   <Text  name="[SPELL_SEPO_NAME]" description="[SPELL_SEPO_DESC]" detail="[SPELL_SEPO_DETL]"/>
+   <Cost  earth="0" fire="7" air="7" water="7" />
+   <Learn  score="550" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SEPO.lua" object="SEPO"/>
+</Spell>

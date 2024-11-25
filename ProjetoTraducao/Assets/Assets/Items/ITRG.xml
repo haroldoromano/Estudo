@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ITRG">
+   <Text  name="[ITEM_ITRG_NAME]" power="[ITEM_ITRG_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="980" rarity="2" />
+   <Graphics  icon="77" />
+   <Restriction	type="level" level="8"/>
+   <Script  file="Assets\Items\ITRG.lua" object="ITRG"/>
+</Item>

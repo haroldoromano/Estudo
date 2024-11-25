@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Companion id="NFLI">
+   <Text  name="[COMP_NFLI_NAME]" description="[COMP_NFLI_DESC]" activate="[COMP_NFLI_ACTV]"  depart="[COMP_NFLI_DEPT]"  goodbye="[COMP_NFLI_GBYE]" 
+          race="[COMP_NFLI_RACE]" gender="[COMP_NFLI_GNDR]" flavor="[COMP_NFLI_FLAV]"  age="20" />
+   <Data  home="CDRH" portrait="Assets\Portraits\Portrait_NPC_Flicker.png" uses="0" />
+   <Script  file="Assets\Companions\NFLI.lua" object="NFLI"/>
+</Companion>

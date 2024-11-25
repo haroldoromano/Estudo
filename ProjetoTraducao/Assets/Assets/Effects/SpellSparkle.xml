@@ -1,0 +1,13 @@
+<?xml version="1.0"?> 
+<Effect name="SpellSparkle" bitmap="" type="oneshot" duration="1.8">
+
+	<Child      name="RingYellow"	type="particle"	time="0.0" duration="1.0" x="0" y="0" position="global" />
+	<Child      name="RingRed"		type="particle"	time="0.1" duration="1.0" x="-10" y="-5" position="global" />
+	<Child      name="RingWhite"	type="particle"	time="0.3" duration="1.0" x="10" y="10" position="global" />
+	<Child      name="RingYellow"	type="particle"	time="0.5" duration="1.0" x="-10" y="5" position="global" />
+	<Child      name="RingRed"		type="particle"	time="0.6" duration="1.0" x="5" y="-10" position="global" />
+	
+	<Initialize parameter="dest_x"		value="0" />
+	<Initialize parameter="dest_y"		value="0" />
+
+</Effect>

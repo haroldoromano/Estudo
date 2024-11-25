@@ -1,0 +1,28 @@
+<Sprite id="ZCEX" file="Assets\Sprites\CombatExplosion.png" hero="no" monster="no" name="Combat Explosion">
+	<Animation type="effect1" directions="1">
+		<Position x="64" y="0" width="42" height="42" spacex="42" spacey="42" originx="21" originy="21" />
+		<Frame index="0"  duration="50" offx="0" offy="0"/>
+		<Frame index="1"  duration="50" offx="0" offy="0"/>
+		<Frame index="2"  duration="50" offx="0" offy="0"/>
+		<Frame index="3"  duration="50" offx="0" offy="0"/>
+		<Frame index="4"  duration="50" offx="0" offy="0"/>
+		<Frame index="5"  duration="50" offx="0" offy="0"/>
+		<Frame index="6"  duration="50" offx="0" offy="0"/>
+		<Frame index="7"  duration="50" offx="0" offy="0"/>
+		<Frame index="8"  duration="50" offx="0" offy="0"/>
+		<Frame index="9"  duration="50" offx="0" offy="0"/>
+		<Frame index="10" duration="50" offx="0" offy="0"/>
+		<Frame index="11" duration="2000" offx="0" offy="0"/>
+	</Animation>
+	<Animation type="effect2" directions="1">
+		<Position x="0" y="0" width="64" height="64" spacex="64" spacey="64" originx="32" originy="32" />
+		<Frame index="0" duration="80"  offx="0" offy="0" />
+		<Frame index="1" duration="80"  offx="0" offy="0" />
+		<Frame index="2" duration="200" offx="0" offy="0" />
+		<Frame index="3" duration="80"  offx="0" offy="0" />
+		<Frame index="4" duration="80"  offx="0" offy="0" />
+		<Frame index="5" duration="200" offx="0" offy="0" />
+		<Frame index="6" duration="80"  offx="0" offy="0" />
+		<Frame index="7" duration="2000" offx="0" offy="0"/>
+	</Animation>
+</Sprite>

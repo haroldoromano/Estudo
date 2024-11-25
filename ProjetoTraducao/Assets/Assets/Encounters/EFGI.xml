@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EFGI">
+   <Description text="Frost Giant" />
+   <Location start="WGWK" end="CJAK" index="0" />
+   <Sprite id="ZFRG" />
+   <Script file="Assets\Encounters\EFGI.lua" object="EFGI" />
+</Encounter>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IRKT">
+   <Text  name="[ITEM_IRKT_NAME]" power="[ITEM_IRKT_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="3000" rarity="0" />
+   <Graphics  icon="80" />
+   <Restriction	type="level" level="20"/>
+   <Script  file="Assets\Items\IRKT.lua" object="IRKT"/>
+</Item>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RBST">
+   <Text name="[RUIN_RBST_NAME]" description="[RUIN_RBST_DESC]"/>
+   <Graphics icon="13"/>
+   <Data x="1149" y="266" type="0" visible="no" attach="WSGK"/>
+</Ruin>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Quest id="Q0I0">
+
+   <Text  name="[QUEST_Q0I0_NAME]" description="[QUEST_Q0I0_DESC]" group=""   file="English\Quests\Q0I0_Text.xml"/>
+   <Script  file="Assets\Quests\Q0I0.lua" object="Q0I0"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CGAL" minlevel="7" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q4" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="1" />
+
+   <Battle  monster="MTRO">
+
+      <Name  tag="[QUEST_Q0I0_QMNAME0]"  help="[QUEST_Q0I0_QMHELP0]"  />
+      <Add  battle="0" cunning="2" morale="0" />
+      <Item  id="ISCH" />
+   </Battle>
+
+</Quest>

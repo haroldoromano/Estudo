@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<City id="CKUN">
+   <Text name="[CITY_CKUN_NAME]" description="[CITY_CKUN_DESC]"/>
+   <Graphics icon="14" type="1"/>
+   <Data x="777" y="135" level="0" visible="no" income="150" />
+   <Item tag="ITWH"/>
+   <Item tag="IWLM"/>
+   <Item tag="IGTA"/>
+   <Item tag="IFMO"/>
+   <Spell tag="SFSK"/>
+   <Spell tag="SEPO"/>
+   <Spell tag="SMST"/>
+   <Spell tag="SMBU"/>
+</City>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Quest id="QA04">
+
+   <Text  name="[QUEST_QA04_NAME]" description="[QUEST_QA04_DESC]" group=""   file="English\Quests\QA04_Text.xml"/>
+   <Script  file="Assets\Quests\QA04.lua" object="QA04"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CYLA" minlevel="18" maxlevel="1000" repeat="1" 
+               donequest0="QA03" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NDKH" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+
+</Quest>

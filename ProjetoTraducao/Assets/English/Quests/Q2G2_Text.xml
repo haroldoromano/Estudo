@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2G2_ACTION]">Fight the Assassin</Text>
+   <Text tag="[QUEST_Q2G2_FAILURE]">You have failed to defeat the Master Assassin. You must try again.</Text>
+   <Text tag="[QUEST_Q2G2_KILL]">You have defeated the Master Assassin. You may now return and give Patch the good news.</Text>
+   <Text tag="[QUEST_Q2G2_RETURN]">Return to Patch</Text>
+   <Text tag="[QUEST_Q2G2_REWARD]">Patch is overjoyed.  He joins your party.</Text>
+   <Text tag="[QUEST_Q2G2_STEP1]">You must find the Master Assassin and defeat him.</Text>
+   <Text tag="[QUEST_Q2G2_STEP2]">You must now return to Hyaan and give Patch the good news.</Text>
+   <Text tag="[QUEST_Q2G2_QMNAME0]">Master Assassin</Text>
+
+</TextLibrary>

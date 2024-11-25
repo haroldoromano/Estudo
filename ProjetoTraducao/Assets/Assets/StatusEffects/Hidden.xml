@@ -1,0 +1,6 @@
+<StatusEffect id="EHID">
+	<Text		name="[STATUS_HIDDEN_NAME]" description="[STATUS_HIDDEN_DESC]" />
+	<Graphics	icon="25"/>
+	<Data		duration="0" stack="1"/>
+	<Script		file="Assets\StatusEffects\Hidden.lua" object="Hidden"/>
+</StatusEffect>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EETW">
+   <Description text="Wight" />
+   <Location start="WETO" end="CHYA" index="0" />
+   <Sprite id="ZSKE" />
+   <Script file="Assets\Encounters\EETW.lua" object="EETW" />
+</Encounter>

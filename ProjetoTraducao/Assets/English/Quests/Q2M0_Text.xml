@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2M0_ACTION0]">Visit Red-Axe</Text>
+   <Text tag="[QUEST_Q2M0_ACTION1]">Battle the Fire Elemental</Text>
+   <Text tag="[QUEST_Q2M0_FAILURE]">The Fire Elemental has defeated you. Red-Axe grudgingly offers you another chance to fight it.</Text>
+   <Text tag="[QUEST_Q2M0_REWARD]">Red-Axe agrees to train you in the art of using an axe.</Text>
+   <Text tag="[QUEST_Q2M0_STEP1]">You must travel to Tusk and visit Red-Axe.</Text>
+   <Text tag="[QUEST_Q2M0_STEP2]">You must battle Red-Axe&apos;s Fire Elemental before he will train you.</Text>
+
+</TextLibrary>

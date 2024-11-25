@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EHGN">
+   <Description text="Gnoll" />
+   <Location start="WPIK" end="CHYA" index="0" />
+   <Sprite id="ZGNO" />
+   <Script file="Assets\Encounters\EHGN.lua" object="EHGN" />
+</Encounter>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3S0_ABANDON]">Put the Sword Away</Text>
+   <Text tag="[QUEST_Q3S0_ACTION]">Point the Sword</Text>
+   <Text tag="[QUEST_Q3S0_DRINK]">Drink from the Bloodspring</Text>
+   <Text tag="[QUEST_Q3S0_IMMORTAL]">You feel a surge of power pass through your body. You feel like a God!</Text>
+   <Text tag="[QUEST_Q3S0_LEAVE0]">Serephine has left the party.</Text>
+   <Text tag="[QUEST_Q3S0_LEAVE1]">Winter has left the party.</Text>
+   <Text tag="[QUEST_Q3S0_LEAVE2]">Khalkus has left the party.</Text>
+   <Text tag="[QUEST_Q3S0_LEAVE3]">Flicker has left the party.</Text>
+   <Text tag="[QUEST_Q3S0_LEAVE4]">Elistara has left the party.</Text>
+   <Text tag="[QUEST_Q3S0_REWARD]">You have tasted the Bloodspring. You receive the Award: Immortality.</Text>
+   <Text tag="[QUEST_Q3S0_STEP0]">Use your sword at Bane&apos;s Citadel to see where it points.</Text>
+   <Text tag="[QUEST_Q3S0_STEP1]">Use your sword at the Lake of Blood to see where it points.</Text>
+   <Text tag="[QUEST_Q3S0_STEP2]">Use your sword at Kal-Ungar to see where it points.</Text>
+   <Text tag="[QUEST_Q3S0_STEP3]">Use your sword at the Wasteland to see where it points.</Text>
+   <Text tag="[QUEST_Q3S0_STEP4]">Use your sword in the Hidden Valley to see where it points.</Text>
+   <Text tag="[QUEST_Q3S0_STEP5]">Drink from the Bloodspring to gain this mysterious power.</Text>
+   <Text tag="[QUEST_Q3S0_SWORD0]">Your Sword is pointing towards the Lake of Blood.</Text>
+   <Text tag="[QUEST_Q3S0_SWORD1]">Your Sword is pointing towards the Dark Dwarven citadel of Kal-Ungar.</Text>
+   <Text tag="[QUEST_Q3S0_SWORD2]">Your Sword is pointing towards the Wasteland.</Text>
+   <Text tag="[QUEST_Q3S0_SWORD3]">Your Sword is pointing towards a Hidden Valley.</Text>
+   <Text tag="[QUEST_Q3S0_SWORD4]">Your Sword is pointing towards the Bloodspring - the source of the Lake of Blood.</Text>
+
+</TextLibrary>

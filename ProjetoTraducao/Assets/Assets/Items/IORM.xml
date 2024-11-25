@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IORM">
+   <Text  name="[ITEM_IORM_NAME]" power="[ITEM_IORM_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="55" rarity="6" />
+   <Graphics  icon="86" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IORM.lua" object="IORM"/>
+</Item>

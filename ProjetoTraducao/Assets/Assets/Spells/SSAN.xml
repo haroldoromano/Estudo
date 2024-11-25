@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SSAN">
+   <Text  name="[SPELL_SSAN_NAME]" description="[SPELL_SSAN_DESC]" detail="[SPELL_SSAN_DETL]"/>
+   <Cost  earth="8" fire="0" air="8" water="4" />
+   <Learn  score="500" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SSAN.lua" object="SSAN"/>
+</Spell>

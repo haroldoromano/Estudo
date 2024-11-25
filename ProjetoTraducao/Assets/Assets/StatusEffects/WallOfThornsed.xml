@@ -1,0 +1,6 @@
+<StatusEffect id="EWOT">
+	<Text		name="[STATUS_WALLOFTHORNSED_NAME]" description="[STATUS_WALLOFTHORNSED_DESC]" />
+	<Graphics	icon="20"/>
+	<Data		duration="0" stack="1"/>
+	<Script		file="Assets\StatusEffects\WallOfThornsed.lua" object="WallOfThornsed"/>
+</StatusEffect>

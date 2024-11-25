@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IFMO">
+   <Text  name="[ITEM_IFMO_NAME]" power="[ITEM_IFMO_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="500" rarity="0" />
+   <Graphics  icon="4" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IFMO.lua" object="IFMO"/>
+</Item>

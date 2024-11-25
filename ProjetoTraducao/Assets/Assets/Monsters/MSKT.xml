@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Monster id="MSKT">
+   <Text name="[MONSTER_MSKT_NAME]" description="[MONSTER_MSKT_DESC]" capture="[MONSTER_MSKT_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_NPC_Minogoth.png" />
+   <Level min="19" max="24" base="19" levelto="50" />
+   <Skill earth="15" fire="8" air="1" water="1" battle="30" cunning="7" morale="5" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.60" fire="0.30" air="0.20" water="0.20" battle="1.20" cunning="0.30" morale="0.30" life="3.00" />
+   <Data life="115" mount="0" boss="0" />
+   <Reward minxp="65" maxxp="90" mingold="70" maxgold="100" />
+   <Types type1="Large" type2="Evil" type3="Minotaur" type4="Undead" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZMIK"  />
+   <Item tag="IHOH"  />
+   <Item tag="IWBL"  />
+   <Spell tag="SCHG" learn="0" />
+   <Spell tag="SCTO" learn="0" />
+   <Spell tag="SWTD" learn="0" />
+   <Spell tag="SBST" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="---GS---" />
+      <Row data="---GS---" />
+      <Row data="-BGSGG--" />
+      <Row data="-GSGSG--" />
+      <Row data="-GSGSB--" />
+      <Row data="BRGSGSRR" />
+   </Capture>
+</Monster>

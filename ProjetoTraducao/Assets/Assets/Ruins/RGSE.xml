@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RGSE">
+   <Text name="[RUIN_RGSE_NAME]" description="[RUIN_RGSE_DESC]"/>
+   <Graphics icon="1"/>
+   <Data x="1384" y="1062" type="1" visible="no" attach="WGIL"/>
+</Ruin>

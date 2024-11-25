@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IGAX">
+   <Text  name="[ITEM_IGAX_NAME]" power="[ITEM_IGAX_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="480" rarity="2" />
+   <Graphics  icon="89" />
+   <Restriction	type="level" level="10"/>
+   <Script  file="Assets\Items\IGAX.lua" object="IGAX"/>
+</Item>

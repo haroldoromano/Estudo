@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[Q0Q7_ACTION0]">Meet with Khalkus</Text>
+   <Text tag="[Q0Q7_ACTION1]">Protect the Caravan</Text>
+   <Text tag="[Q0Q7_ACTION2]">Battle against Dugog</Text>
+   <Text tag="[Q0Q7_AMBUSH]">As you are making your way through the Hammer Pass, a band of Ogres leap out at you!</Text>
+   <Text tag="[Q0Q7_BATTLE0]">Khalkus is impressed with the way you saved the Caravan.   He joins you as a Companion.</Text>
+   <Text tag="[Q0Q7_LOSE3]">You will need to defeat these Ogres before you can progress any further.</Text>
+   <Text tag="[Q0Q7_LOSE4]">Dugog is too strong - you cannot get past him.  You must try again.</Text>
+   <Text tag="[Q0Q7_REWARD]">Dugog is dead, and the way into Dhun-Kor is clear. You take all of his treasure, including a huge Club that looks obviously magical.</Text>
+   <Text tag="[Q0Q7_STEP1]">You must travel to the Hammer Pass and meet with Khalkus.</Text>
+   <Text tag="[Q0Q7_STEP2]">You must travel to Theira and help the Caravan safely through.</Text>
+   <Text tag="[Q0Q7_STEP3]">You must travel to Dhun-Kor and defeat Dugog, the two-headed Ogre.</Text>
+   <Text tag="[Q0Q7_WIN3]">The Ogres have been defeated and you may travel down into the lands of Kor.</Text>
+   <Text tag="[Q0Q7_DUGOG]">Dugog, the giant two-headed Ogre, stands at the gates of Dhun-Kor, blocking your way.</Text>
+   <Text tag="[QUEST_Q0Q7_BATTLE0_FAIL]">The Wight has captured the Caravan. You must fight him again to capture it back.</Text>
+   <Text tag="[QUEST_Q0Q7_QMHELP0]">This  Wight is better equipped and armored than most.</Text>
+   <Text tag="[QUEST_Q0Q7_QMHELP1]">This Ogre is wearing Chainmail armor for better protection.</Text>
+   <Text tag="[QUEST_Q0Q7_QMHELP2]">Dugog, the two-headed Ogre, is the leader of the forces that have been attacking Agaria. Beware the second head!</Text>
+
+</TextLibrary>

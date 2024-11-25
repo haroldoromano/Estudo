@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EBBB">
+   <Description text="Doomknight" />
+   <Location start="WSGK" end="WBBR" index="0" />
+   <Sprite id="ZDKN" />
+   <Script file="Assets\Encounters\EBBB.lua" object="EBBB" />
+</Encounter>

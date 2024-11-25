@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISRI">
+   <Text  name="[ITEM_ISRI_NAME]" power="[ITEM_ISRI_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="31" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ISRI.lua" object="ISRI"/>
+</Item>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q3Q0">
+
+   <Text  name="[QUEST_Q3Q0_NAME]" description="[QUEST_Q3Q0_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q3Q0_Text.xml"/>
+   <Script  file="Assets\Quests\Q3Q0.lua" object="Q3Q0"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="COHT" minlevel="25" maxlevel="1000" repeat="1" 
+               donequest0="Q2Q9" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MDOO">
+
+   </Battle>
+
+</Quest>

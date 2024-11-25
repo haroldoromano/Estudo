@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SPET">
+   <Text  name="[SPELL_SPET_NAME]" description="[SPELL_SPET_DESC]" detail="[SPELL_SPET_DETL]"/>
+   <Cost  earth="24" fire="12" air="0" water="0" />
+   <Learn  score="1300" masks="1" keys="2" />
+   <Data  cooldown="3" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SPET.lua" object="SPET"/>
+</Spell>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1S1_ACTION]">Battle the Worm</Text>
+   <Text tag="[QUEST_Q1S1_FAILURE]">The worm has defeated you this time, but you may try again.</Text>
+   <Text tag="[QUEST_Q1S1_REWARD]">You cut the worm open, and inside you find a mountain of gold.</Text>
+
+</TextLibrary>

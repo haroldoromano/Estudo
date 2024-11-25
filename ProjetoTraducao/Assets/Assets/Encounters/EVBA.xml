@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EVBA">
+   <Description text="Vampire Bat" />
+   <Location start="WSMZ" end="WGGP" index="0" />
+   <Sprite id="ZGBA" />
+   <Script file="Assets\Encounters\EVBA.lua" object="EVBA" />
+</Encounter>

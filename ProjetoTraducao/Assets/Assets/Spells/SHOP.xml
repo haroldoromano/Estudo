@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SHOP">
+   <Text  name="[SPELL_SHOP_NAME]" description="[SPELL_SHOP_DESC]" detail="[SPELL_SHOP_DETL]"/>
+   <Cost  earth="5" fire="2" air="7" water="0" />
+   <Learn  score="250" masks="1" keys="2" />
+   <Data  cooldown="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SHOP.lua" object="SHOP"/>
+</Spell>

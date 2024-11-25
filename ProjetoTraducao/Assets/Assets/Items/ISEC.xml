@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISEC">
+   <Text  name="[ITEM_ISEC_NAME]" power="[ITEM_ISEC_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="520" rarity="3" />
+   <Graphics  icon="7" />
+   <Restriction	type="level" level="10"/>
+   <Script  file="Assets\Items\ISEC.lua" object="ISEC"/>
+</Item>

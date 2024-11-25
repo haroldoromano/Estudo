@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2Q3_ACTION0]">Visit the Queen</Text>
+   <Text tag="[QUEST_Q2Q3_ACTION1]">Climb the Tree</Text>
+   <Text tag="[QUEST_Q2Q3_ACTION2]">Take the Eye</Text>
+   <Text tag="[QUEST_Q2Q3_ACTION3]">Return the Eye</Text>
+   <Text tag="[QUEST_Q2Q3_FAILURE1]">The Elven Knight has stopped you climbing the tree. You may try again.</Text>
+   <Text tag="[QUEST_Q2Q3_FAILURE2]">The Griffon has stopped you taking the Eye. You may try again.</Text>
+   <Text tag="[QUEST_Q2Q3_PROGRESS0]">You must travel to Silvermyr and visit Queen Titania, asking her for the Eye of Sartek.</Text>
+   <Text tag="[QUEST_Q2Q3_PROGRESS1]">You must climb the Tree of Seeing in Silvermyr and take the Eye of Sartek.</Text>
+   <Text tag="[QUEST_Q2Q3_PROGRESS2]">You must take the Eye of Sartek.</Text>
+   <Text tag="[QUEST_Q2Q3_PROGRESS3]">You must return the Eye to the Horned Temple.</Text>
+   <Text tag="[QUEST_Q2Q3_REWARD]">Tauron accepts the Eye of Sartek. Now only 6 pieces remain.</Text>
+   <Text tag="[QUEST_Q2Q3_SUCCESS1]">Having defeated the Elven Knight, you climb the Tree of Seeing.</Text>
+   <Text tag="[QUEST_Q2Q3_SUCCESS2]">Having defeated the Griffon, you take the Eye.</Text>
+
+</TextLibrary>

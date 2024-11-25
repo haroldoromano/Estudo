@@ -1,0 +1,10 @@
+<Particle name="Wildcard" texture="Sparkle.png" radius="0.2" lifetime="1200">
+	<Number max="100" release="100" interval="0.05" life="1.2" total="100" />
+	<Graphics blend="additive" size="0.25" r="0.9" g="0.5" b="0.5" a="0.7"/>
+	<Animation size="0.1" r="0.9" g="0.9" b="0.6" a="0.0" start="0.6"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.1"/>
+	<Velocity x="0.0" y="0.0" z="0.0" var="1.6"/>
+	<Gravity x="0.0" y="0.0" z="0.0"/>
+	<Forces airresistance="off" wind="off"/>
+	<Shape steps="1"/>
+</Particle>

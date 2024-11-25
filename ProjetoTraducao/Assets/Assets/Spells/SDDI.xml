@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SDDI">
+   <Text  name="[SPELL_SDDI_NAME]" description="[SPELL_SDDI_DESC]" detail="[SPELL_SDDI_DETL]"/>
+   <Cost  earth="0" fire="6" air="9" water="0" />
+   <Learn  score="650" masks="1" keys="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SDDI.lua" object="SDDI"/>
+</Spell>

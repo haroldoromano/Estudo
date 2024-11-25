@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QD02_ACTION]">Battle the Sea Serpent</Text>
+   <Text tag="[QUEST_QD02_DRONG]">You don&apos;t need to battle the Sea Serpent as Drong is not here to try any sandstone. You should return with him.</Text>
+   <Text tag="[QUEST_QD02_FAILURE]">You have failed to defeat the Sea Serpent. You will need to beat it before Drong can have any tasty sandstone.</Text>
+   <Text tag="[QUEST_QD02_REWARD]">Drong rewards you for finding him some delicious sandstone.</Text>
+   <Text tag="[QUEST_QD02_STEP1]">You must journey to the beach at Tirianin to find sandstone for Drong.</Text>
+
+</TextLibrary>

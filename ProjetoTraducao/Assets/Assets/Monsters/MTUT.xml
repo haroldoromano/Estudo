@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Monster id="MTUT">
+   <Text name="[MONSTER_MTUT_NAME]" description="[MONSTER_MTUT_DESC]" capture="[MONSTER_MTUT_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Practice.png" />
+   <Level min="1" max="2" base="1" levelto="1" />
+   <Skill earth="0" fire="0" air="0" water="0" battle="0" cunning="0" morale="0" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.00" fire="0.00" air="0.00" water="0.00" battle="0.00" cunning="0.00" morale="0.00" life="0.00" />
+   <Data life="20" mount="0" boss="0" />
+   <Reward minxp="2" maxxp="2" mingold="0" maxgold="0" />
+   <Types type1="" type2="" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id=""  />
+   <Item tag="ITUT"  />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--O-----" />
+      <Row data="--*O**--" />
+      <Row data="--SOSS--" />
+   </Capture>
+</Monster>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Companion id="NPAT">
+   <Text  name="[COMP_NPAT_NAME]" description="[COMP_NPAT_DESC]" activate="[COMP_NPAT_ACTV]"  depart="[COMP_NPAT_DEPT]"  goodbye="[COMP_NPAT_GBYE]" 
+          race="[COMP_NPAT_RACE]" gender="[COMP_NPAT_GNDR]" flavor="[COMP_NPAT_FLAV]"  age="23" />
+   <Data  home="CHYA" portrait="Assets\Portraits\Portrait_NPC_Patch.png" uses="0" />
+   <Script  file="Assets\Companions\NPAT.lua" object="NPAT"/>
+</Companion>

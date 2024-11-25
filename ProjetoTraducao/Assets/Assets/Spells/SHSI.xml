@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SHSI">
+   <Text  name="[SPELL_SHSI_NAME]" description="[SPELL_SHSI_DESC]" detail="[SPELL_SHSI_DETL]"/>
+   <Cost  earth="3" fire="0" air="0" water="3" />
+   <Learn  score="375" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SHSI.lua" object="SHSI"/>
+</Spell>

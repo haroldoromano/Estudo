@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="QP02: Patch visits vault"/>
+   <Text file="English\Conversations\Conv_QP02b_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_Street.png"/>
+   <Character index="0" type="npc" portrait="Assets\Portraits\Portrait_NPC_Khalkus.png" portraitindex="0" name="[Conv_QP02b_NAME0]"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_NPC_Patch.png" portraitindex="0" name="[Conv_QP02b_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="0" text="[Conv_QP02b_0000]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_QP02b_0001]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_QP02b_0002]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_QP02b_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_QP02b_0004]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_QP02b_0005]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_QP02b_0006]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_QP02b_0007]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_QP02b_0008]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_QP02b_0009]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_QP02b_0010]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_QP02b_0011]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_QP02b_0012]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_QP02b_0013]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_QP02b_0014]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_QP02b_0015]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="QP02" function="CallbackConvB" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

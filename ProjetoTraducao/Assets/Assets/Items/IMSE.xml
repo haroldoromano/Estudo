@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IMSE">
+   <Text  name="[ITEM_IMSE_NAME]" power="[ITEM_IMSE_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="49" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IMSE.lua" object="IMSE"/>
+</Item>

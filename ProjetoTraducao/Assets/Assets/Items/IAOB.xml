@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IAOB">
+   <Text  name="[ITEM_IAOB_NAME]" power="[ITEM_IAOB_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="1280" rarity="0" />
+   <Graphics  icon="27" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IAOB.lua" object="IAOB"/>
+</Item>

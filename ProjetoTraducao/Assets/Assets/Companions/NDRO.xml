@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Companion id="NDRO">
+   <Text  name="[COMP_NDRO_NAME]" description="[COMP_NDRO_DESC]" activate="[COMP_NDRO_ACTV]"  depart="[COMP_NDRO_DEPT]"  goodbye="[COMP_NDRO_GBYE]" 
+          race="[COMP_NDRO_RACE]" gender="[COMP_NDRO_GNDR]" flavor="[COMP_NDRO_FLAV]"  age="50" />
+   <Data  home="WDRT" portrait="Assets\Portraits\Portrait_NPC_Drong.png" uses="0" />
+   <Script  file="Assets\Companions\NDRO.lua" object="NDRO"/>
+</Companion>

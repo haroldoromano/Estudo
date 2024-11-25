@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<City id="CHTP">
+   <Text name="[CITY_CHTP_NAME]" description="[CITY_CHTP_DESC]"/>
+   <Graphics icon="16" type="1"/>
+   <Data x="1498" y="423" level="0" visible="no" income="50" />
+   <Item tag="ITWM"/>
+   <Item tag="IWLR"/>
+   <Item tag="IGTW"/>
+   <Item tag="IFMO"/>
+   <Spell tag="SCHG"/>
+   <Spell tag="SBAC"/>
+   <Spell tag="SBRA"/>
+</City>

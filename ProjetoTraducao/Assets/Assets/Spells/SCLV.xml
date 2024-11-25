@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SCLV">
+   <Text  name="[SPELL_SCLV_NAME]" description="[SPELL_SCLV_DESC]" detail="[SPELL_SCLV_DETL]"/>
+   <Cost  earth="0" fire="9" air="6" water="0" />
+   <Learn  score="700" masks="1" keys="2" />
+   <Data  cooldown="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SCLV.lua" object="SCLV"/>
+</Spell>

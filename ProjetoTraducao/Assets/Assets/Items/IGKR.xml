@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IGKR">
+   <Text  name="[ITEM_IGKR_NAME]" power="[ITEM_IGKR_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1460" rarity="1" />
+   <Graphics  icon="91" />
+   <Restriction	type="skill" skill="cunning" level="10"/>
+   <Script  file="Assets\Items\IGKR.lua" object="IGKR"/>
+</Item>

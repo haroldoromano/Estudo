@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IXHD">
+   <Text  name="[ITEM_IXHD_NAME]" power="[ITEM_IXHD_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="38" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IXHD.lua" object="IXHD"/>
+</Item>

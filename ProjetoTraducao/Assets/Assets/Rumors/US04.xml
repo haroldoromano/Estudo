@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Rumor id="US04">
+   <Text  name="[RUMOR_US04_NAME]" description="[RUMOR_US04_DESC]"/>
+   <Data  sticky="yes" city="CHTP" cost="20"/>
+   <Condition  type="rumor" data="U020" />
+</Rumor>

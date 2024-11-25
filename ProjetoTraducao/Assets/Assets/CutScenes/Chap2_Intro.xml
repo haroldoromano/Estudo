@@ -1,0 +1,31 @@
+<SlideShow duration="30000" x="0" y="128" width="1024" height="512" loop="off">
+
+	<Bitmap  id="0"  file="Assets\CutScenes\Chap2_Intro.jpg"/>
+	
+	<Clear  x="0" y="0"   width="1024" height="128"/>
+	<Clear  x="0" y="640" width="1024" height="128"/>
+	<Clear  x="-176" y="0" width="176" height="768"/>
+	<Clear  x="1024" y="0" width="176" height="768"/>
+	
+	<!-- Black -->		<Image id="0"  bitmap="0" x="0" y="640" width="50" height="50"/>	
+	<!-- Mino -->    	<Image id="1"  bitmap="0" x="0" y="0" width="1024" height="630"/>	
+	
+	<!-- Black Screen -->
+	<Display image="0" start="0000" duration="2000" width="1024" height="512">
+	</Display>
+	
+	<!--  Mino -->
+	<Display image="1" start="1000" duration="28000">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="1000"/>
+		<Key parameter="y" value="-118" time="0000"/>
+		<Key parameter="y" value="0" time="27000"/>
+	</Display>
+	
+	<!-- Fade to Black -->
+	<Display image="0" start="28000" duration="2000" width="1024" height="512">
+		<Key parameter="alpha" value="0.0" time="0000"/>
+		<Key parameter="alpha" value="1.0" time="1800"/>
+	</Display>
+	
+</SlideShow>

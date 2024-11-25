@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISTL">
+   <Text  name="[ITEM_ISTL_NAME]" power="[ITEM_ISTL_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="87" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ISTL.lua" object="ISTL"/>
+</Item>

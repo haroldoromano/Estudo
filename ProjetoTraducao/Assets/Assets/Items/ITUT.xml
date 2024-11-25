@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ITUT">
+   <Text  name="[ITEM_ITUT_NAME]" power="[ITEM_ITUT_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="67" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ITUT.lua" object="ITUT"/>
+</Item>

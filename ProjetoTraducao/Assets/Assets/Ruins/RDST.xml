@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RDST">
+   <Text name="[RUIN_RDST_NAME]" description="[RUIN_RDST_DESC]"/>
+   <Graphics icon="1"/>
+   <Data x="889" y="150" type="6" visible="no" attach="CLBC"/>
+</Ruin>

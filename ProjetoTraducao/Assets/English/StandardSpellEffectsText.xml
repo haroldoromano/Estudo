@@ -1,0 +1,30 @@
+<TextLibrary>
+ 
+   <Text tag="[SPELL_EFFECT_DAMAGE1]">Damage: -%d pt.</Text>
+   <Text tag="[SPELL_EFFECT_DAMAGE2]">Damage: -%d pts.</Text>
+   <Text tag="[SPELL_EFFECT_HEALING1]">Healing: %d pt.</Text>
+   <Text tag="[SPELL_EFFECT_HEALING2]">Healing: %d pts.</Text>
+   <Text tag="[SPELL_EFFECT_MISSTURN1]">Miss %d turn</Text>
+   <Text tag="[SPELL_EFFECT_MISSTURN2]">Miss %d turns</Text>
+   <Text tag="[SPELL_EFFECT_MANA]">Mana: +%d</Text>
+   <Text tag="[SPELL_EFFECT_MANALOSS]">Mana Loss: -%d</Text>
+   <Text tag="[SPELL_EFFECT_GOLDLOSS]">Gold: -%d</Text>
+   <Text tag="[SPELL_EFFECT_GOLD]">Gold: +%d</Text>
+   <Text tag="[SPELL_EFFECT_XPLOSS]">XP: -%d</Text>
+   <Text tag="[SPELL_EFFECT_XP]">XP: +%d</Text>
+   <Text tag="[SPELL_EFFECT_SINKHOLE]">Doubles Green, Halves Other Colors</Text>
+   <Text tag="[SPELL_EFFECT_ADDFIRE]">Fire Mastery: %+d</Text>
+   <Text tag="[SPELL_EFFECT_ADDEARTH]">Earth Mastery: %+d</Text>
+   <Text tag="[SPELL_EFFECT_ADDWATER]">Water Mastery: %+d</Text>
+   <Text tag="[SPELL_EFFECT_ADDAIR]">Air Mastery: %+d</Text>
+   <Text tag="[SPELL_EFFECT_ADDBATTLE]">Battle Skill: %+d</Text>
+   <Text tag="[SPELL_EFFECT_ADDMORALE]">Morale Skill: %+d</Text>
+   <Text tag="[SPELL_EFFECT_ADDCUNNING]">Cunning Skill: %+d</Text>
+   <Text tag="[SPELL_EFFECT_DUPLICATE0]">No Items to Duplicate</Text>
+   <Text tag="[SPELL_EFFECT_DUPLICATE1]">Item Duplicated</Text>
+   <Text tag="[SPELL_EFFECT_ADDFIRERES]">Fire Resistance: %+d</Text>
+   <Text tag="[SPELL_EFFECT_ADDEARTHRES]">Earth Resistance: %+d</Text>
+   <Text tag="[SPELL_EFFECT_ADDWATERRES]">Water Resistance: %+d</Text>
+   <Text tag="[SPELL_EFFECT_ADDAIRRES]">Air Resistance: %+d</Text>
+   
+</TextLibrary>

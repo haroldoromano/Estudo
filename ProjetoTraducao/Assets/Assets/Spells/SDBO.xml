@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SDBO">
+   <Text  name="[SPELL_SDBO_NAME]" description="[SPELL_SDBO_DESC]" detail="[SPELL_SDBO_DETL]"/>
+   <Cost  earth="6" fire="0" air="0" water="6" />
+   <Learn  score="580" masks="1" keys="2" />
+   <Data  cooldown="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SDBO.lua" object="SDBO"/>
+</Spell>

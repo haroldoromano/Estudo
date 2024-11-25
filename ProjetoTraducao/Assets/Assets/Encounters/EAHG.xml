@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EAHG">
+   <Description text="Hill Giant" />
+   <Location start="CHTP" end="WPAR" index="0" />
+   <Sprite id="ZHGI" />
+   <Script file="Assets\Encounters\EAHG.lua" object="EAHG" />
+</Encounter>

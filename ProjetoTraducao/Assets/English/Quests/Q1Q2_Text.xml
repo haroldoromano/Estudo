@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1Q2_ACTION1]">Battle the Ogres</Text>
+   <Text tag="[QUEST_Q1Q2_ACTION2]">Battle the Ogres Again</Text>
+   <Text tag="[QUEST_Q1Q2_ACTION3]">Return to Khrona</Text>
+   <Text tag="[QUEST_Q1Q2_FAILURE1]">You have not beaten the Ogre, but you may try again.</Text>
+   <Text tag="[QUEST_Q1Q2_FAILURE2]">You have not beaten the second Ogre, but you may try again.</Text>
+   <Text tag="[QUEST_Q1Q2_OGRES]">There are a large number of Ogres here and they appear to be hostile.</Text>
+   <Text tag="[QUEST_Q1Q2_PROGRESS1]">You must travel south to Gork and try to settle down the Ogres.</Text>
+   <Text tag="[QUEST_Q1Q2_PROGRESS2]">The Ogres are still restless, you will need to teach them another lesson.</Text>
+   <Text tag="[QUEST_Q1Q2_REWARD]">Khrona is grateful for your help in driving the Ogres back into the south.</Text>
+   <Text tag="[QUEST_Q1Q2_SUCCESS1]">You have defeated one of the Ogres, but the rest seem to be ignoring you.</Text>
+   <Text tag="[QUEST_Q1Q2_SUCCESS2]">Defeating a second Ogre seems to have quietened them down a little.</Text>
+   <Text tag="[QUEST_Q1Q2_QMHELP1]">This Ogre is wearing a huge Horned Helm and Chain Armor to protect him.</Text>
+
+</TextLibrary>

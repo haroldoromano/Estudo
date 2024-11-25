@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2J1_ACTION]">Take the Helm</Text>
+   <Text tag="[QUEST_Q2J1_FAILURE]">You have failed to defeat Jarl. You must try again.</Text>
+   <Text tag="[QUEST_Q2J1_KILL]">You have defeated Jarl.  You now have the Helm.</Text>
+   <Text tag="[QUEST_Q2J1_RETURN]">Return the Helm</Text>
+   <Text tag="[QUEST_Q2J1_REWARD]">Jotun rewards you for returning his Helm.</Text>
+   <Text tag="[QUEST_Q2J1_STEP1]">You must travel to Jarl&apos;s Keep and get the Helm.</Text>
+   <Text tag="[QUEST_Q2J1_STEP2]">You must return the Helm to Jotun&apos;s Keep.</Text>
+   <Text tag="[QUEST_Q2J1_QMNAME0]">Jarl</Text>
+
+</TextLibrary>

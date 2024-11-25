@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IADS">
+   <Text  name="[ITEM_IADS_NAME]" power="[ITEM_IADS_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="680" rarity="2" />
+   <Graphics  icon="94" />
+   <Restriction	type="skill" skill="air" level="5"/>
+   <Script  file="Assets\Items\IADS.lua" object="IADS"/>
+</Item>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1G1_ACTION]">Enter the Hive</Text>
+   <Text tag="[QUEST_Q1G1_ACTION2]">Search for the Troll</Text>
+   <Text tag="[QUEST_Q1G1_FAILURE]">You did not defeat the Wasp, but you may enter the hive and try again.</Text>
+   <Text tag="[QUEST_Q1G1_FAILURE2]">You did not defeat the Troll, but you may try again.</Text>
+   <Text tag="[QUEST_Q1G1_KILL]">You take the wings from the Giant Wasp. When you also have the Ice Troll Hair, these can be taken back to Neehi.</Text>
+   <Text tag="[QUEST_Q1G1_KILL2]">You cut the hair from the Ice Troll.  When you also have the Wasp Wings, this can be taken back to Neehi.</Text>
+   <Text tag="[QUEST_Q1G1_KILL3]">You now have both the wings from the Giant Wasp and the hair from the Ice Troll. These can now be taken back to Neehi.</Text>
+   <Text tag="[QUEST_Q1G1_RETURN]">Deliver the Components</Text>
+   <Text tag="[QUEST_Q1G1_REWARD]">Neehi pays you for the delivery.</Text>
+   <Text tag="[QUEST_Q1G1_STEP1]">You must search for a set of Wasp Wings and also find an Ice Troll.</Text>
+   <Text tag="[QUEST_Q1G1_STEP2]">You must now deliver the goods to Neehi in Gruuldok for your reward.</Text>
+   <Text tag="[QUEST_Q1G1_QMNAME1]">Ice Troll</Text>
+   <Text tag="[QUEST_Q1G1_QMHELP1]">Ice Trolls live in the cold northern areas. They can Freeze their foes.</Text>
+
+</TextLibrary>

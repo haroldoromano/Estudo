@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Monster id="MOGM">
+   <Text name="[MONSTER_MOGM_NAME]" description="[MONSTER_MOGM_DESC]" capture="[MONSTER_MOGM_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_OgreMage.png" />
+   <Level min="15" max="18" base="15" levelto="40" />
+   <Skill earth="4" fire="8" air="1" water="1" battle="14" cunning="1" morale="4" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.30" fire="1.00" air="0.30" water="0.30" battle="1.50" cunning="0.20" morale="0.50" life="3.00" />
+   <Data life="110" mount="0" boss="0" />
+   <Reward minxp="50" maxxp="80" mingold="65" maxgold="100" />
+   <Types type1="Large" type2="Giant" type3="Evil" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id=""  />
+   <Item tag="INOB"  />
+   <Item tag="ISPS"  />
+   <Spell tag="STHU" learn="1" />
+   <Spell tag="SWMG" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--B--B--" />
+      <Row data="--Y--Y--" />
+      <Row data="B-G--G-B" />
+      <Row data="R-R--R-R" />
+      <Row data="SBSBBSBS" />
+      <Row data="RYRYYRYR" />
+      <Row data="RXRYYRXR" />
+   </Capture>
+</Monster>

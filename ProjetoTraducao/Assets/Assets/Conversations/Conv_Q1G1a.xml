@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Q1G1: Meet Neehi"/>
+   <Text file="English\Conversations\Conv_Q1G1a_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_GoblinMarket.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_Goblin.png" portraitindex="0" name="[Conv_Q1G1a_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="1" text="[Conv_Q1G1a_0000]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q1G1a_0001]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q1G1a_0002]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q1G1a_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q1G1a_0004]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q1G1a_0005]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q1G1a_0006]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q1G1a_0007]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q1G1a_0008]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q1G1a_0009]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q1G1a_0010]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q1G1a_0011]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="Q1G1" function="CallbackConvA" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

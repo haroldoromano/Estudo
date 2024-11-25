@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IKOP">
+   <Text  name="[ITEM_IKOP_NAME]" power="[ITEM_IKOP_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="846" rarity="0" />
+   <Graphics  icon="82" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IKOP.lua" object="IKOP"/>
+</Item>

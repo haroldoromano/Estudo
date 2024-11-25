@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q0R1">
+
+   <Text  name="[QUEST_Q0R1_NAME]" description="[QUEST_Q0R1_DESC]" group=""   file="English\Quests\Q0R1_Text.xml"/>
+   <Script  file="Assets\Quests\Q0R1.lua" object="Q0R1"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CENM" minlevel="8" maxlevel="1000" repeat="4" 
+               donequest0="Q0I5" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MHAR">
+
+   </Battle>
+
+</Quest>

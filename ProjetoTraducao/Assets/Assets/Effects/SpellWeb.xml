@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<Effect name="SpellWeb" bitmap="" type="oneshot" duration="2.0">
+
+	<Child      name="GrowSpiral"	type="effect"	time="0.0" duration="1.5" x="-10" y="-10" position="global" />
+	<Child      name="GrowSpiral"	type="effect"	time="0.2" duration="1.5" x="10" y="10" position="global" />
+	<Child      name="GrowSpiral"	type="effect"	time="0.4" duration="1.5" x="-10" y="10" position="global" />
+	<Child      name="GrowSpiral"	type="effect"	time="0.5" duration="1.5" x="0" y="0" position="global" />
+	
+	<Initialize parameter="dest_x"		value="0" />
+	<Initialize parameter="dest_y"		value="0" />
+
+</Effect>

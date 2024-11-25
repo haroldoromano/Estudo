@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Quest id="Q0Q3">
+
+   <Text  name="[QUEST_Q0Q3_NAME]" description="[QUEST_Q0Q3_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q0Q3_Text.xml"/>
+   <Script  file="Assets\Quests\Q0Q3.lua" object="Q0Q3"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CGAL" minlevel="5" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q2" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="1" />
+
+   <Battle  monster="MZOM">
+
+      <Name  tag="[QUEST_Q0Q3_QMNAME0]"  help="[QUEST_Q0Q3_QMHELP0]"  />
+      <Add  battle="2" cunning="0" morale="0" />
+      <Add  level="1" life="5" />
+   </Battle>
+
+</Quest>

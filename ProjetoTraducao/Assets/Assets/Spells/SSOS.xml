@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SSOS">
+   <Text  name="[SPELL_SSOS_NAME]" description="[SPELL_SSOS_DESC]" detail="[SPELL_SSOS_DETL]"/>
+   <Cost  earth="10" fire="10" air="10" water="10" />
+   <Learn  score="750" masks="1" keys="2" />
+   <Data  cooldown="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SSOS.lua" object="SSOS"/>
+</Spell>

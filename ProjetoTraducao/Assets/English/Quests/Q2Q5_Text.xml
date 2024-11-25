@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2Q5_ACTION1]">Meet the Gnoll Chieftain</Text>
+   <Text tag="[QUEST_Q2Q5_ACTION2]">Challenge the Gnoll Chieftain</Text>
+   <Text tag="[QUEST_Q2Q5_FAILURE]">You have failed to defeat the Gnoll Chieftain. You must try again quickly.</Text>
+   <Text tag="[QUEST_Q2Q5_KILL]">You have defeated the Gnoll Chieftain. Staf becomes the new Chieftain and rewards you with the Tooth of Sartek.</Text>
+   <Text tag="[QUEST_Q2Q5_RETURN]">Return the Tooth</Text>
+   <Text tag="[QUEST_Q2Q5_REWARD]">Tauron finally has all the teeth. Only 4 pieces of Sartek remain.</Text>
+   <Text tag="[QUEST_Q2Q5_STEP1]">You must go to Hyaan and get the Tooth of Sartek from the Gnoll Chieftain.</Text>
+   <Text tag="[QUEST_Q2Q5_STEP2]">You must defeat the Gnoll Chieftain and help Staf become the new leader.</Text>
+   <Text tag="[QUEST_Q2Q5_STEP3]">You must return the Tooth of Sartek to Tauron at the Horned Temple.</Text>
+   <Text tag="[QUEST_Q2Q5_QMNAME0]">Gnoll Chieftain</Text>
+   <Text tag="[QUEST_Q2Q5_QMHELP0]">This Gnoll Chieftain is considerably tougher than an average Gnoll.</Text>
+
+</TextLibrary>

@@ -1,0 +1,7 @@
+<Menu x="0" y="0" width="1024" height="768" timer="off" draw="off" modal="on">
+
+   <Pad	   name="pad_click"      id="666" x="0"   y="0"   width="1024"  height="768"  />
+   <String name="str_continue"            x="256" y="682" width="512"   height="40" multiline="off" justify="center" font="font_button" text="[CLICKCONT]"/> 
+   <Icon   name="icon_dlg"                x="0"   y="0"   width="1024"  height="768" graphic="img_splash"/>
+  
+</Menu>

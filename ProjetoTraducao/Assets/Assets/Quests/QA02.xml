@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Quest id="QA02">
+
+   <Text  name="[QUEST_QA02_NAME]" description="[QUEST_QA02_DESC]" group=""   file="English\Quests\QA02_Text.xml"/>
+   <Script  file="Assets\Quests\QA02.lua" object="QA02"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CHTP" minlevel="17" maxlevel="1000" repeat="1" 
+               donequest0="QA01" donequest1="Q2Q2" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NDKH" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+
+</Quest>

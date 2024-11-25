@@ -1,0 +1,7 @@
+<Menu x="0" y="0" width="1024" height="768" timer="on" draw="off" modal="on">
+
+  <String name="str_loading"             x="256" y="677" width="512"   height="40" multiline="off" justify="center" font="font_button" text="[LOADING]"/>
+  <Icon   name="icon_searching"          x="920" y="670" width="50"    height="50"  graphic="anim_timer"/>
+  <Icon   name="icon_dlg"                x="0"   y="0"   width="1024"  height="768" graphic="img_splash"/>
+
+</Menu>

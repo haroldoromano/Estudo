@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IROA">
+   <Text  name="[ITEM_IROA_NAME]" power="[ITEM_IROA_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="420" rarity="4" />
+   <Graphics  icon="32" />
+   <Restriction	type="skill" skill="air" level="5"/>
+   <Script  file="Assets\Items\IROA.lua" object="IROA"/>
+</Item>

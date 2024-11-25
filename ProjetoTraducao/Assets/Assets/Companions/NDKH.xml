@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Companion id="NDKH">
+   <Text  name="[COMP_NDKH_NAME]" description="[COMP_NDKH_DESC]" activate="[COMP_NDKH_ACTV]"  depart="[COMP_NDKH_DEPT]"  goodbye="[COMP_NDKH_GBYE]" 
+          race="[COMP_NDKH_RACE]" gender="[COMP_NDKH_GNDR]" flavor="[COMP_NDKH_FLAV]"  age="32" />
+   <Data  home="CGAL" portrait="Assets\Portraits\Portrait_NPC_Darkhunter.png" uses="0" />
+   <Script  file="Assets\Companions\NDKH.lua" object="NDKH"/>
+</Companion>

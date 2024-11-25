@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SFCA">
+   <Text  name="[SPELL_SFCA_NAME]" description="[SPELL_SFCA_DESC]" detail="[SPELL_SFCA_DETL]"/>
+   <Cost  earth="20" fire="6" air="6" water="0" />
+   <Learn  score="825" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SFCA.lua" object="SFCA"/>
+</Spell>

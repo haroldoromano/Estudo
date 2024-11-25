@@ -1,0 +1,27 @@
+<Menu x="384" y="290" width="256" height="186" timer="off" draw="off" modal="on">
+   <Assets>
+      <Button name="asset_butttiny" active="img_butttiny_act" highlight="img_butttiny_hi" pressed="img_butttiny_pres" grayed="img_butttiny_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup">Asset - Button Sound</Sound>
+   </Assets>
+   <String name="str_heading" x="0" y="10" width="256" height="25" multiline="off" justify="center" font="font_button"/>
+   <String name="str_heading2" x="0" y="15" width="256" height="20" multiline="off" justify="center" font="font_system"/>
+   <String name="str_message"  x="28" y="40" width="200" height="95" multiline="on" justify="center" vjustify="center" font="font_system"/>
+   <String name="str_message2" x="28" y="40" width="200" height="95" multiline="on" justify="center" vjustify="center" font="font_small"/>
+   
+   <TextButton name="butt_okay" id="0"  x="64" y="140" width="128" height="35" textoffsety="-2" key="27" font="font_system" text="[DONE]" graphic="asset_butttiny" sound="asset_buttsound"/>
+  
+   <GamepadButton     name="gp_okay"   id="0" x="84" y="140" width="128" height="35" buttonwidth="35" textoffsetx="39" textoffsety="2" font="font_system" text="[BACK]"  graphic_button="img_gamepad_a" sound="asset_buttsound"
+					 gp_button="a"/>
+					 
+   
+   <Icon       name="icon_dlg"               x="0"  y="0"     width="256" height="15" graphic="img_popup_0"/>
+   <Icon       name="icon_dlg"               x="0"  y="15"    width="256" height="26" graphic="img_popup_1"/>
+   <Icon       name="icon_dlg"               x="0"  y="41"    width="256" height="26" graphic="img_popup_1"/>
+   <Icon       name="icon_dlg"               x="0"  y="67"    width="256" height="26" graphic="img_popup_1"/>
+   <Icon       name="icon_dlg"               x="0"  y="93"    width="256" height="26" graphic="img_popup_1"/>
+   <Icon       name="icon_dlg"               x="0"  y="119"   width="256" height="26" graphic="img_popup_1"/>
+   <Icon       name="icon_dlg"               x="0"  y="145"   width="256" height="26" graphic="img_popup_1"/>
+   <Icon       name="icon_dlg"               x="0"  y="171"   width="256" height="26" graphic="img_popup_2"/>
+   
+   
+</Menu>

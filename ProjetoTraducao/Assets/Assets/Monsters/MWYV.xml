@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Monster id="MWYV">
+   <Text name="[MONSTER_MWYV_NAME]" description="[MONSTER_MWYV_DESC]" capture="[MONSTER_MWYV_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Wyvern.png" />
+   <Level min="13" max="16" base="13" levelto="40" />
+   <Skill earth="1" fire="3" air="11" water="7" battle="14" cunning="3" morale="1" />
+   <Resistance earth="0" fire="0" air="15" water="0" />
+   <Add earth="0.20" fire="0.20" air="1.00" water="0.70" battle="1.00" cunning="0.20" morale="0.20" life="3.00" />
+   <Data life="115" mount="1" boss="0" />
+   <Reward minxp="50" maxxp="80" mingold="30" maxgold="80" />
+   <Types type1="Monster" type2="Flying" type3="Large" type4="" />
+   <Mount speed="1" fly="1" spell="SRND"  addstat="2" stat="4" addperlevel="1" addlevel="2" />
+   <Sprite id="ZWYV"  />
+   <Item tag="ISTG"  />
+   <Spell tag="SRND" learn="0" />
+   <Spell tag="SSWP" learn="0" />
+   <Capture>
+      <Row data="-------Y" />
+      <Row data="------YR" />
+      <Row data="-----YYR" />
+      <Row data="----Y**B" />
+      <Row data="---YGGOO" />
+      <Row data="--YRROGR" />
+      <Row data="-YBB*SSB" />
+      <Row data="YBRGSGGB" />
+   </Capture>
+</Monster>

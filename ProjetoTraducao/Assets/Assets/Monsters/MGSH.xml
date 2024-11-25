@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MGSH">
+   <Text name="[MONSTER_MGSH_NAME]" description="[MONSTER_MGSH_DESC]" capture="[MONSTER_MGSH_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Catapult.png" />
+   <Level min="15" max="19" base="15" levelto="30" />
+   <Skill earth="5" fire="9" air="12" water="0" battle="6" cunning="4" morale="3" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.20" fire="0.50" air="0.20" water="0.20" battle="0.50" cunning="0.50" morale="0.20" life="3.00" />
+   <Data life="105" mount="0" />
+   <Reward minxp="60" maxxp="90" mingold="90" maxgold="150" />
+   <Types type1="Machine" type2="Orc" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZCAT"  />
+   <Spell tag="SBSG" learn="0" />
+   <Spell tag="SHGO" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="----S---" />
+      <Row data="----S---" />
+      <Row data="GRYXYYRG" />
+      <Row data="GRYRRYRG" />
+      <Row data="RYSRYSYR" />
+      <Row data="GSSYYSSG" />
+   </Capture>
+</Monster>

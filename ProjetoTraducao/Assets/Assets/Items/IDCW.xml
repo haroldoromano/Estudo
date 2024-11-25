@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IDCW">
+   <Text  name="[ITEM_IDCW_NAME]" power="[ITEM_IDCW_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="500" rarity="0" />
+   <Graphics  icon="99" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IDCW.lua" object="IDCW"/>
+</Item>

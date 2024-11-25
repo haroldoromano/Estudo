@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IALR">
+   <Text  name="[ITEM_IALR_NAME]" power="[ITEM_IALR_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="2400" rarity="2" />
+   <Graphics  icon="75" />
+   <Restriction	type="skill" skill="earth" level="20"/>
+   <Script  file="Assets\Items\IALR.lua" object="IALR"/>
+</Item>

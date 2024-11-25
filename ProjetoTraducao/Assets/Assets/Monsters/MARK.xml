@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Monster id="MARK">
+   <Text name="[MONSTER_MARK_NAME]" description="[MONSTER_MARK_DESC]" capture="[MONSTER_MARK_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Arkliche.png" />
+   <Level min="32" max="36" base="32" levelto="99" />
+   <Skill earth="42" fire="20" air="8" water="8" battle="12" cunning="20" morale="5" />
+   <Resistance earth="0" fire="25" air="0" water="0" />
+   <Add earth="1.50" fire="0.40" air="0.20" water="0.20" battle="0.50" cunning="0.50" morale="0.20" life="2.00" />
+   <Data life="160" mount="0" boss="0" />
+   <Reward minxp="100" maxxp="150" mingold="100" maxgold="135" />
+   <Types type1="Evil" type2="Undead" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZLCH"  />
+   <Item tag="ICOS"  />
+   <Item tag="IDSH"  />
+   <Item tag="IALS"  />
+   <Item tag="IALR"  />
+   <Spell tag="SDGZ" learn="0" />
+   <Spell tag="SSSW" learn="1" />
+   <Spell tag="SWTD" learn="0" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="-G----G-" />
+      <Row data="-X----X-" />
+      <Row data="-G*--*G-" />
+      <Row data="-*GSSG*-" />
+      <Row data="-G*GG*G-" />
+      <Row data="XGXGGXGX" />
+   </Capture>
+</Monster>

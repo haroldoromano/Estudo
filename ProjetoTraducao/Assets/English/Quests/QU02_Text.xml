@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QU02_ACTION]">Battle a Frost Dragon</Text>
+   <Text tag="[QUEST_QU02_COMPLEFT]">Sunspear has left the party.</Text>
+   <Text tag="[QUEST_QU02_FAILURE]">You have failed to defeat the Frost Dragon. Sunspear asks that you try again.</Text>
+   <Text tag="[QUEST_QU02_NOCOMP]">You will need to have Sunspear in your party before battling the Frost Dragon.</Text>
+   <Text tag="[QUEST_QU02_RETURN]">Return for Sunspear</Text>
+   <Text tag="[QUEST_QU02_REWARD]">Sunspear&apos;s Spirit has appeared to guide you.</Text>
+   <Text tag="[QUEST_QU02_STEP1]">You must travel to Ragnar&apos;s Coast and battle a Frost Dragon.</Text>
+   <Text tag="[QUEST_QU02_STEP2]">You must wait seven days and then return to Ragnar&apos;s Coast.</Text>
+
+</TextLibrary>

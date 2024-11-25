@@ -1,0 +1,17 @@
+<Sprite id="ZIGO" file="Assets\Sprites\Monster_IronGolem.png" hero="no" monster="yes" name="Iron Golem">
+	<Animation type="stand" directions="1">
+		<Position x="0" y="0" width="48" height="48" spacex="49" spacey="49" originx="24" originy="35" />
+		<Frame index="0" duration="0" offx="0" offy="0"/>
+	</Animation>
+	<Animation type="wait" directions="1">
+		<Position x="0" y="0" width="48" height="48" spacex="49" spacey="49" originx="24" originy="35" />
+		<Frame index="0" duration="100" offx="0" offy="0" scale="1.00"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="1.05"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="1.10"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="1.05"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="1.00"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="0.95"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="0.90"/>
+		<Frame index="0" duration="100" offx="0" offy="0" scale="0.95"/>
+	</Animation>
+</Sprite>

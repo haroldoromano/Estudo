@@ -1,0 +1,6 @@
+<StatusEffect id="EFBO">
+	<Text		name="[STATUS_FIREBOMBED_NAME]" description="[STATUS_FIREBOMBED_DESC]" />
+	<Graphics	icon="4"/>
+	<Data		duration="12" stack="4"/>
+	<Script		file="Assets\StatusEffects\FireBombed.lua" object="FireBombed"/>
+</StatusEffect>

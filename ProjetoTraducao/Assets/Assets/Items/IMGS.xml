@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IMGS">
+   <Text  name="[ITEM_IMGS_NAME]" power="[ITEM_IMGS_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="2000" rarity="0" />
+   <Graphics  icon="38" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IMGS.lua" object="IMGS"/>
+</Item>

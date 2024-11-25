@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1S3_ACTION]">Stop the Slave Caravan</Text>
+   <Text tag="[QUEST_Q1S3_FAILURE]">You have failed to stop the caravan. You must try again.</Text>
+   <Text tag="[QUEST_Q1S3_REWARD]">The Slaves have been freed, and the remaining Orcs scatter into the mountains.</Text>
+   <Text tag="[QUEST_Q1S3_QMNAME0]">Orc Champion</Text>
+   <Text tag="[QUEST_Q1S3_QMHELP0]">This huge Orc is fully kitted out in Plate Armor.</Text>
+
+</TextLibrary>

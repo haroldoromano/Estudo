@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Quest id="Q0Q4">
+
+   <Text  name="[QUEST_Q0Q4_NAME]" description="[QUEST_Q0Q4_DESC]" group="[QG_PRIM_NAME]"   file="English\Quests\Q0Q4_Text.xml"/>
+   <Script  file="Assets\Quests\Q0Q4.lua" object="Q0Q4"/>
+   <Data  abandon="no" icon="0" important="yes" />
+
+   <Available  location="CGAL" minlevel="5" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q3" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="1" />
+
+
+</Quest>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISSA">
+   <Text  name="[ITEM_ISSA_NAME]" power="[ITEM_ISSA_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="930" rarity="0" />
+   <Graphics  icon="33" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ISSA.lua" object="ISSA"/>
+</Item>

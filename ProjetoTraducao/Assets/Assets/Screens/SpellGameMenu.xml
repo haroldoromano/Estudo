@@ -1,0 +1,48 @@
+<Menu x="0" y="0" width="1024" height="768" timer="on" draw="on" modal="off">
+   <Assets>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttclose" active="img_buttclose_act" highlight="img_buttclose_hi" pressed="img_buttclose_pres" grayed="img_buttclose_gray"/>
+      <Button name="asset_buttmini" active="img_buttmini_act" highlight="img_buttmini_hi" pressed="img_buttmini_pres" grayed="img_buttmini_gray"/>
+      <Button name="asset_butthelp" active="img_butthelp_act" highlight="img_butthelp_hi" pressed="img_butthelp_pres" grayed="img_butthelp_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   <Pad		   name="pad_grid"           id="0"  x="217"  y="130" width="584"  height="584" />   
+
+   <Button     name="butt_close"         id="100" x="995" y="4"   width="20" height="20" key="0" graphic="asset_buttclose" sound="asset_buttsound"/>
+   <Button     name="butt_mini"          id="101" x="965"  y="4"   width="20" height="20" key="0" graphic="asset_buttmini" sound="asset_buttsound"/>
+   
+   <Icon       name="icon_hint"                  x="100"  y="100"   width="55" height="35" graphic="anim_hint"/>
+   <Icon       name="icon_tmsg"                  x="0"    y="0"   width="1024" height="768" graphic="img_tmsg"/>
+   <Icon       name="icon_psys"                  x="0"    y="0"   width="1024" height="768" graphic="img_psys"/>
+   <Icon       name="icon_pmsg"                  x="0"    y="0"   width="1024" height="768" graphic="img_pmsg"/>
+
+   <String     name="str_name0"		x="48"  y="148" width="133" height="20" multiline="off" justify="center" font="font_system"/>
+   <String     name="str_name0a"	x="48"  y="151" width="133" height="20" multiline="off" justify="center" font="font_small"/>
+   <Icon       name="icon_char0"    x="50"  y="175" width="128" height="128" graphic="img_portrait0"/>
+   <String     name="str_name1"		x="847" y="151" width="132" height="40" multiline="on" justify="center" font="font_system"/>
+   <String     name="str_desc1"		x="847" y="192" width="132" height="112" multiline="on" justify="center" font="font_small"/>
+   
+   <Icon       name="icon_rules"    x="50"  y="324" width="128" height="395" graphic="img_rules"/>
+
+   <String     name="str_targets"	  x="847"  y="323" width="134" height="24" multiline="off" justify="center" font="font_system" text="[SPELLGAME_TARGET]" />
+   <Icon       name="icon_target0"    x="850"  y="351" width="71" height="71" graphic="img_gem_green"/>
+   <Icon       name="icon_target1"    x="850"  y="423" width="71" height="71" graphic="img_gem_red"/>
+   <Icon       name="icon_target2"    x="850"  y="495" width="71" height="71" graphic="img_gem_yellow"/>
+   <Icon       name="icon_target3"    x="850"  y="567" width="71" height="71" graphic="img_gem_blue"/>
+   <Icon       name="icon_target4"    x="850"  y="639" width="71" height="71" graphic="img_gem_scroll"/>
+   <String     name="str_target0"	  x="925"  y="374" width="60" height="20" multiline="off" justify="center" font="font_system"/>
+   <String     name="str_target1"	  x="925"  y="446" width="60" height="20" multiline="off" justify="center" font="font_system"/>
+   <String     name="str_target2"	  x="925"  y="518" width="60" height="20" multiline="off" justify="center" font="font_system"/>
+   <String     name="str_target3"	  x="925"  y="590" width="60" height="20" multiline="off" justify="center" font="font_system"/>
+   <String     name="str_target4"	  x="925"  y="662" width="60" height="20" multiline="off" justify="center" font="font_system"/>
+   <Icon       name="icon_done0"	  x="987"  y="370" width="32" height="32" graphic="img_blank"/>
+   <Icon       name="icon_done1"      x="987"  y="442" width="32" height="32" graphic="img_blank"/>
+   <Icon       name="icon_done2"      x="987"  y="514" width="32" height="32" graphic="img_blank"/>
+   <Icon       name="icon_done3"      x="987"  y="586" width="32" height="32" graphic="img_blank"/>
+   <Icon       name="icon_done4"      x="987"  y="658" width="32" height="32" graphic="img_blank"/>
+
+   <String	   name="str_capture"			     x="256"  y="95"   width="512"  height="25" multiline="off" text="[SPELLGAME]" justify="center" font="font_button"/>
+   <String     name="str_help"				     x="0"    y="733"  width="1024" height="18" multiline="off" text="[SPELLGAME_HELP]" justify="center" font="font_small"/>
+   
+   <Icon       name="icon_grid"                  x="212"  y="45"  width="600"  height="680" graphic="img_grid"/>
+</Menu>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IFWS">
+   <Text  name="[ITEM_IFWS_NAME]" power="[ITEM_IFWS_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1200" rarity="2" />
+   <Graphics  icon="14" />
+   <Restriction	type="skill" skill="fire" level="8"/>
+   <Script  file="Assets\Items\IFWS.lua" object="IFWS"/>
+</Item>

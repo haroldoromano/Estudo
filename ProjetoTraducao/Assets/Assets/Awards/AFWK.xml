@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Award id="AFWK">
+   <Text  name="[AWD_AFWK_NAME]" description="[AWD_AFWK_DESC]" />
+   <Data  stat0="0" stat1="1" stat2="0" stat3="0" stat4="0" stat5="0" stat6="0"  />
+   <Script  file="Assets\Awards\AFWK.lua" object="AFWK"/>
+</Award>

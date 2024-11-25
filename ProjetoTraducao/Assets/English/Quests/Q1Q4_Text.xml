@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1Q4_ACTION0]">Speak with Gruulkar</Text>
+   <Text tag="[QUEST_Q1Q4_ACTION1]">Confront an Ogre Mage</Text>
+   <Text tag="[QUEST_Q1Q4_ACTION2]">Speak with Khrona</Text>
+   <Text tag="[QUEST_Q1Q4_FAILOGRE]">You failed to defeat the Ogre Mage.  You will need to try again.</Text>
+   <Text tag="[QUEST_Q1Q4_FOUGHTGUARD0]">The Guard chases you away, but it is doubtful Grullkar would talk to you again anyway.</Text>
+   <Text tag="[QUEST_Q1Q4_FOUGHTGUARD1]">You defeat the Guard, but Gruulkar will still not talk with you.</Text>
+   <Text tag="[QUEST_Q1Q4_HELP0]">You must travel to Gruuldok and talk with Gruulkar.</Text>
+   <Text tag="[QUEST_Q1Q4_HELP1]">You must search throughout Kor for another way to stop Gruulkar.</Text>
+   <Text tag="[QUEST_Q1Q4_MSGA]">A Huge Orc Champion blocks your way to Gruulkar.  It doesn&apos;t look like you&apos;ll be speaking to him any more.</Text>
+   <Text tag="[QUEST_Q1Q4_MSGB]">Perhaps the Ogres here have an idea of how to stop Gruulkar...</Text>
+   <Text tag="[QUEST_Q1Q4_REWARD]">You have failed to stop Gruulkar from going to war, but you have gathered some useful information.</Text>
+   <Text tag="[QUEST_Q1Q4_QMNAME0]">Orc Champion</Text>
+   <Text tag="[QUEST_Q1Q4_QMHELP0]">This Champion is extremely well-armored and can Headbutt just like an Orc Lord.</Text>
+
+</TextLibrary>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EKOM">
+   <Description text="Ogre Mage" />
+   <Location start="WGRK" end="CGLK" index="0" />
+   <Sprite id="ZOGM" />
+   <Script file="Assets\Encounters\EKOM.lua" object="EKOM" />
+</Encounter>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Award id="ASKU">
+   <Text  name="[AWD_ASKU_NAME]" description="[AWD_ASKU_DESC]" />
+   <Data  stat0="0" stat1="0" stat2="0" stat3="0" stat4="1" stat5="0" stat6="0"  />
+   <Script  file="Assets\Awards\ASKU.lua" object="ASKU"/>
+</Award>

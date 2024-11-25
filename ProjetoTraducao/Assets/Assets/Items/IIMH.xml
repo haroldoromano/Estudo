@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IIMH">
+   <Text  name="[ITEM_IIMH_NAME]" power="[ITEM_IIMH_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="960" rarity="5" />
+   <Graphics  icon="0" />
+   <Restriction	type="skill" skill="morale" level="5"/>
+   <Script  file="Assets\Items\IIMH.lua" object="IIMH"/>
+</Item>

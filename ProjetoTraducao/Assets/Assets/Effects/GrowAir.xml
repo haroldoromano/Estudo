@@ -1,0 +1,36 @@
+<?xml version="1.0"?> 
+<Effect name="GrowAir" bitmap="bmp_skin_battlemisc" type="oneshot" duration="1.5">
+
+	<Initialize parameter="source_x"	value="0" />
+	<Initialize parameter="source_y"	value="358" />
+	<Initialize parameter="source_w"	value="100" />
+	<Initialize parameter="source_h"	value="100" />
+	
+	<Initialize parameter="dest_x"		value="-30" />
+	<Initialize parameter="dest_y"		value="-30" />
+	<Initialize parameter="dest_w"		value="60" />
+	<Initialize parameter="dest_h"		value="60" />
+	
+	<Initialize parameter="alpha"		value="0.0" />
+	<Initialize parameter="rotation"	value="0.0" />
+	<Initialize parameter="color_r"		value="1.0" />
+	<Initialize parameter="color_g"		value="1.0" />
+	<Initialize parameter="color_b"		value="1.0" />
+
+	<Animate	parameter="alpha"		value="1.0"		time="0.2"	method="linear" />
+	<Animate	parameter="alpha"		value="1.0"		time="1.0"	method="linear" />
+	<Animate	parameter="alpha"		value="0.0"		time="1.5"	method="linear" />
+	
+	<Animate	parameter="dest_x"		value="-100"	time="0.5"	method="linear" />
+	<Animate	parameter="dest_y"		value="-100"	time="0.5"	method="linear" />
+	<Animate	parameter="dest_w"		value="200"		time="0.5"	method="linear" />
+	<Animate	parameter="dest_h"		value="200"		time="0.5"	method="linear" />
+		
+	<Animate	parameter="dest_x"		value="-150"	time="1.5"	method="linear" />
+	<Animate	parameter="dest_y"		value="-150"	time="1.5"	method="linear" />
+	<Animate	parameter="dest_w"		value="300"		time="1.5"	method="linear" />
+	<Animate	parameter="dest_h"		value="300"		time="1.5"	method="linear" />
+		
+	<Animate	parameter="rotation"	value="10"		time="1.5"	method="linear" />
+		
+</Effect>

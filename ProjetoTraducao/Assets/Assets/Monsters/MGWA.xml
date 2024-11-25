@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Monster id="MGWA">
+   <Text name="[MONSTER_MGWA_NAME]" description="[MONSTER_MGWA_DESC]" capture="[MONSTER_MGWA_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Wasp.png" />
+   <Level min="15" max="19" base="15" levelto="50" />
+   <Skill earth="1" fire="4" air="20" water="1" battle="12" cunning="1" morale="10" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.20" fire="0.30" air="1.00" water="0.20" battle="0.70" cunning="0.20" morale="0.60" life="3.00" />
+   <Data life="100" mount="0" />
+   <Reward minxp="50" maxxp="70" mingold="25" maxgold="75" />
+   <Types type1="Animal" type2="Giant" type3="Flying" type4="" />
+   <Mount speed="1" fly="1" spell=""  addstat="2" stat="2" addperlevel="1" addlevel="4" />
+   <Sprite id=""  />
+   <Item tag="ISTG"  />
+   <Spell tag="SDST" learn="0" />
+   <Spell tag="SSWM" learn="1" />
+   <Spell tag="SSWP" learn="0" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="-YYRYRR-" />
+      <Row data="-GGYGYY-" />
+      <Row data="SSRSSRSS" />
+      <Row data="YYRYYRYY" />
+      <Row data="SSGSSGSS" />
+      <Row data="YYGYYGYY" />
+   </Capture>
+</Monster>

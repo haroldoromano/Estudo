@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ILSW">
+   <Text  name="[ITEM_ILSW_NAME]" power="[ITEM_ILSW_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="110" rarity="0" />
+   <Graphics  icon="10" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ILSW.lua" object="ILSW"/>
+</Item>

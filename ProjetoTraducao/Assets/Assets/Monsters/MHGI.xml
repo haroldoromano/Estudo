@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MHGI">
+   <Text name="[MONSTER_MHGI_NAME]" description="[MONSTER_MHGI_DESC]" capture="[MONSTER_MHGI_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_HillGiant.png" />
+   <Level min="16" max="22" base="16" levelto="35" />
+   <Skill earth="10" fire="4" air="2" water="2" battle="30" cunning="0" morale="6" />
+   <Add earth="0.70" fire="0.25" air="0.20" water="0.20" battle="1.50" cunning="0.20" morale="0.30" life="3.00" />
+   <Data life="130" mount="0" />
+   <Reward minxp="60" maxxp="90" mingold="55" maxgold="100" />
+   <Types type1="Large" type2="Giant" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZHGI"  />
+   <Item tag="IGIM"  />
+   <Spell tag="STHU" learn="1" />
+   <Spell tag="SSTO" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="------S-" />
+      <Row data="----Y-S-" />
+      <Row data="--O-*-Y-" />
+      <Row data="--O-YGX-" />
+      <Row data="--G-G*G-" />
+      <Row data="-GSGGO*G" />
+      <Row data="GSOSO*OG" />
+   </Capture>
+</Monster>

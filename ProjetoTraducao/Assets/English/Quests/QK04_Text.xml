@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QK04_ACTION]">Battle the Minotaur King</Text>
+   <Text tag="[QUEST_QK04_FAILURE]">You have failed to defeat the Minotaur King. Khalkus is desperate to try again.</Text>
+   <Text tag="[QUEST_QK04_NOCOMP]">You will need Khalkus in your party to identify the machinery.</Text>
+   <Text tag="[QUEST_QK04_REWARD]">You have found the fourth piece of the Great Machine.</Text>
+   <Text tag="[QUEST_QK04_STEP1]">You must go to Arik&apos;s Arena and defeat Arik the Minotaur King.</Text>
+   <Text tag="[QUEST_QK04_QMNAME0]">Arik</Text>
+
+</TextLibrary>

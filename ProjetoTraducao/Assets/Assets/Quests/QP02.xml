@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="QP02">
+
+   <Text  name="[QUEST_QP02_NAME]" description="[QUEST_QP02_DESC]" group=""   file="English\Quests\QP02_Text.xml"/>
+   <Script  file="Assets\Quests\QP02.lua" object="QP02"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CHYA" minlevel="20" maxlevel="1000" repeat="1" 
+               donequest0="QP01" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NPAT" companion1="NKHA" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="">
+
+   </Battle>
+
+</Quest>

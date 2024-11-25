@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<Waypoints>
+
+   <Waypoint id="WELE" name="[WAYPOINT_WELE_NAME]" description="[WAYPOINT_WELE_DESC]"
+             x="1286" y="970" type="0" icon="9" visible="yes"/>
+
+   <Waypoint id="WGIL" name="[WAYPOINT_WGIL_NAME]" description="[WAYPOINT_WGIL_DESC]"
+             x="1434" y="1048" type="0" icon="9" visible="yes"/>
+
+   <Waypoint id="WSIR" name="[WAYPOINT_WSIR_NAME]" description="[WAYPOINT_WSIR_DESC]"
+             x="1543" y="949" type="0" icon="9" visible="yes"/>
+
+   <Waypoint id="WTHR" name="[WAYPOINT_WTHR_NAME]" description="[WAYPOINT_WTHR_DESC]"
+             x="1462" y="831" type="0" icon="9" visible="yes"/>
+
+   <Waypoint id="WRAR" name="[WAYPOINT_WRAR_NAME]" description="[WAYPOINT_WRAR_DESC]"
+             x="1576" y="1304" type="3" icon="17" visible="no"/>
+
+   <Waypoint id="WMAE" name="[WAYPOINT_WMAE_NAME]" description="[WAYPOINT_WMAE_DESC]"
+             x="1636" y="1237" type="0" icon="22" visible="no"/>
+
+   <Waypoint id="WAPS" name="[WAYPOINT_WAPS_NAME]" description="[WAYPOINT_WAPS_DESC]"
+             x="1532" y="1117" type="2" icon="7" visible="no"/>
+
+   <Waypoint id="WSKE" name="[WAYPOINT_WSKE_NAME]" description="[WAYPOINT_WSKE_DESC]"
+             x="1428" y="1240" type="0" icon="9" visible="no"/>
+
+   <Waypoint id="WBTH" name="[WAYPOINT_WBTH_NAME]" description="[WAYPOINT_WBTH_DESC]"
+             x="1127" y="1058" type="1" icon="6" visible="no"/>
+
+   <Waypoint id="WHPS" name="[WAYPOINT_WHPS_NAME]" description="[WAYPOINT_WHPS_DESC]"
+             x="1515" y="746" type="0" icon="9" visible="no"/>
+
+   <Waypoint id="WALF" name="[WAYPOINT_WALF_NAME]" description="[WAYPOINT_WALF_DESC]"
+             x="1342" y="728" type="1" icon="6" visible="no"/>
+
+   <Waypoint id="WRMO" name="[WAYPOINT_WRMO_NAME]" description="[WAYPOINT_WRMO_DESC]"
+             x="1772" y="889" type="1" icon="18" visible="no"/>
+
+   <Waypoint id="WWSK" name="[WAYPOINT_WWSK_NAME]" description="[WAYPOINT_WWSK_DESC]"
+             x="1871" y="753" type="1" icon="18" visible="no"/>
+
+   <Waypoint id="WBHE" name="[WAYPOINT_WBHE_NAME]" description="[WAYPOINT_WBHE_DESC]"
+             x="1867" y="849" type="1" icon="18" visible="no"/>
+
+   <Waypoint id="WSFA" name="[WAYPOINT_WSFA_NAME]" description="[WAYPOINT_WSFA_DESC]"
+             x="1925" y="971" type="1" icon="5" visible="no"/>
+
+   <Waypoint id="WGRK" name="[WAYPOINT_WGRK_NAME]" description="[WAYPOINT_WGRK_DESC]"
+             x="1899" y="1177" type="0" icon="9" visible="no"/>
+
+   <Waypoint id="WDRT" name="[WAYPOINT_WDRT_NAME]" description="[WAYPOINT_WDRT_DESC]"
+             x="1817" y="1276" type="0" icon="15" visible="no"/>
+
+   <Waypoint id="WNKR" name="[WAYPOINT_WNKR_NAME]" description="[WAYPOINT_WNKR_DESC]"
+             x="1687" y="636" type="3" icon="17" visible="no"/>
+
+   <Waypoint id="WDPS" name="[WAYPOINT_WDPS_NAME]" description="[WAYPOINT_WDPS_DESC]"
+             x="1791" y="541" type="2" icon="7" visible="no"/>
+
+   <Waypoint id="WVOK" name="[WAYPOINT_WVOK_NAME]" description="[WAYPOINT_WVOK_DESC]"
+             x="1623" y="586" type="3" icon="1" visible="no"/>
+
+   <Waypoint id="WHBG" name="[WAYPOINT_WHBG_NAME]" description="[WAYPOINT_WHBG_DESC]"
+             x="1652" y="503" type="0" icon="9" visible="no"/>
+
+   <Waypoint id="WPIK" name="[WAYPOINT_WPIK_NAME]" description="[WAYPOINT_WPIK_DESC]"
+             x="1388" y="308" type="3" icon="17" visible="no"/>
+
+   <Waypoint id="WGWK" name="[WAYPOINT_WGWK_NAME]" description="[WAYPOINT_WGWK_DESC]"
+             x="1705" y="243" type="2" icon="7" visible="no"/>
+
+   <Waypoint id="WSHD" name="[WAYPOINT_WSHD_NAME]" description="[WAYPOINT_WSHD_DESC]"
+             x="1593" y="255" type="1" icon="18" visible="no"/>
+
+   <Waypoint id="WWRT" name="[WAYPOINT_WWRT_NAME]" description="[WAYPOINT_WWRT_DESC]"
+             x="1408" y="158" type="1" icon="18" visible="no"/>
+
+   <Waypoint id="WPAR" name="[WAYPOINT_WPAR_NAME]" description="[WAYPOINT_WPAR_DESC]"
+             x="1376" y="577" type="1" icon="6" visible="no"/>
+
+   <Waypoint id="WGGP" name="[WAYPOINT_WGGP_NAME]" description="[WAYPOINT_WGGP_DESC]"
+             x="1237" y="147" type="3" icon="17" visible="no"/>
+
+   <Waypoint id="WSGK" name="[WAYPOINT_WSGK_NAME]" description="[WAYPOINT_WSGK_DESC]"
+             x="1080" y="314" type="0" icon="9" visible="no"/>
+
+   <Waypoint id="WIGK" name="[WAYPOINT_WIGK_NAME]" description="[WAYPOINT_WIGK_DESC]"
+             x="891" y="310" type="0" icon="9" visible="no"/>
+
+   <Waypoint id="WRAG" name="[WAYPOINT_WRAG_NAME]" description="[WAYPOINT_WRAG_DESC]"
+             x="650" y="528" type="3" icon="17" visible="no"/>
+
+   <Waypoint id="WETO" name="[WAYPOINT_WETO_NAME]" description="[WAYPOINT_WETO_DESC]"
+             x="1174" y="507" type="0" icon="9" visible="no"/>
+
+   <Waypoint id="WGRW" name="[WAYPOINT_WGRW_NAME]" description="[WAYPOINT_WGRW_DESC]"
+             x="1151" y="180" type="1" icon="18" visible="no"/>
+
+   <Waypoint id="WSOI" name="[WAYPOINT_WSOI_NAME]" description="[WAYPOINT_WSOI_DESC]"
+             x="1055" y="139" type="2" icon="7" visible="no"/>
+
+   <Waypoint id="WLOB" name="[WAYPOINT_WLOB_NAME]" description="[WAYPOINT_WLOB_DESC]"
+             x="864" y="225" type="3" icon="17" visible="no"/>
+
+   <Waypoint id="WTIR" name="[WAYPOINT_WTIR_NAME]" description="[WAYPOINT_WTIR_DESC]"
+             x="949" y="482" type="0" icon="9" visible="no"/>
+
+   <Waypoint id="WSMZ" name="[WAYPOINT_WSMZ_NAME]" description="[WAYPOINT_WSMZ_DESC]"
+             x="1308" y="219" type="2" icon="7" visible="no"/>
+
+   <Waypoint id="WBBR" name="[WAYPOINT_WBBR_NAME]" description="[WAYPOINT_WBBR_DESC]"
+             x="1063" y="225" type="0" icon="5" visible="no"/>
+
+   <Waypoint id="WWAS" name="[WAYPOINT_WWAS_NAME]" description="[WAYPOINT_WWAS_DESC]"
+             x="632" y="147" type="3" icon="17" visible="no"/>
+
+   <Waypoint id="WHVA" name="[WAYPOINT_WHVA_NAME]" description="[WAYPOINT_WHVA_DESC]"
+             x="620" y="259" type="2" icon="7" visible="no"/>
+
+   <Waypoint id="WBSP" name="[WAYPOINT_WBSP_NAME]" description="[WAYPOINT_WBSP_DESC]"
+             x="771" y="235" type="2" icon="7" visible="no"/>
+
+</Waypoints>

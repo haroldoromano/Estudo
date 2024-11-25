@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<City id="CHYA">
+   <Text name="[CITY_CHYA_NAME]" description="[CITY_CHYA_DESC]"/>
+   <Graphics icon="18" type="1"/>
+   <Data x="1288" y="373" level="0" visible="no" income="100" />
+   <Item tag="ITWS"/>
+   <Item tag="IWLB"/>
+   <Item tag="IGTS"/>
+   <Item tag="IGPK"/>
+   <Spell tag="SHWL"/>
+   <Spell tag="SSBD"/>
+</City>

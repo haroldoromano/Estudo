@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="QD01">
+
+   <Text  name="[QUEST_QD01_NAME]" description="[QUEST_QD01_DESC]" group=""   file="English\Quests\QD01_Text.xml"/>
+   <Script  file="Assets\Quests\QD01.lua" object="QD01"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CHTP" minlevel="19" maxlevel="1000" repeat="1" 
+               donequest0="QD00" donequest1="Q2Q1" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NDRO" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MFEL">
+
+   </Battle>
+
+</Quest>

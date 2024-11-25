@@ -1,0 +1,17 @@
+<Menu x="0" y="0" width="1024" height="768" timer="off" draw="on" modal="on">
+   <Assets>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+   </Assets>
+   
+   <TextButton        name="butt_okay" id="0" x="362" y="710" width="300" height="50" key="27" font="font_button" text="[DONE]" graphic="asset_buttwide" sound="asset_buttsound"/>
+   <GamepadButton     name="gp_okay"   id="0" x="462" y="710" width="260" height="40" buttonwidth="40" textoffsetx="44" textoffsety="3" font="font_button" text="[BACK]"  graphic_button="img_gamepad_b" sound="asset_buttsound"
+					 gp_button="b"/>
+					 
+   <Icon name="icon_credits" x="0" y="95" width="1024" height="600" graphic="img_credits"/>
+   <Icon name="icon_top" x="0" y="0" width="1024" height="95" graphic="img_border_top"/>
+   <Icon name="icon_bg"  x="0" y="95" width="1024" height="673" graphic="img_black"/>
+   
+   <Icon       name="icon_left"       x="-176"   y="0" width="176" height="768" graphic="img_sidepanel_l"/>
+   <Icon       name="icon_right"       x="1024"  y="0" width="176" height="768" graphic="img_sidepanel_r"/>
+
+</Menu>

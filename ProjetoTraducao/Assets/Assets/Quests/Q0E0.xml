@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Quest id="Q0E0">
+
+   <Text  name="[QUEST_Q0E0_NAME]" description="[QUEST_Q0E0_DESC]" group=""   file="English\Quests\Q0E0_Text.xml"/>
+   <Script  file="Assets\Quests\Q0E0.lua" object="Q0E0"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CDRA" minlevel="7" maxlevel="1000" repeat="0" 
+               donequest0="" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MCTP">
+
+      <Spell  id="SFSK" />
+   </Battle>
+
+</Quest>

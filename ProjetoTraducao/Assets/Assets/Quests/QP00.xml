@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Quest id="QP00">
+
+   <Text  name="[QUEST_QP00_NAME]" description="[QUEST_QP00_DESC]" group=""   file="English\Quests\QP00_Text.xml"/>
+   <Script  file="Assets\Quests\QP00.lua" object="QP00"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CYLA" minlevel="20" maxlevel="1000" repeat="1" 
+               donequest0="Q3Q2" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NPAT" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+
+</Quest>

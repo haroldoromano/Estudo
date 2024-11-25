@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EDOG">
+   <Description text="Ogre" />
+   <Location start="WHPS" end="CDKO" index="0" />
+   <Sprite id="ZOGR" />
+   <Script file="Assets\Encounters\EDOG.lua" object="EDOG" />
+</Encounter>

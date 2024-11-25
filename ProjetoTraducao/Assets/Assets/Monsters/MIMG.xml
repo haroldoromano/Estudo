@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Monster id="MIMG">
+   <Text name="[MONSTER_MIMG_NAME]" description="[MONSTER_MIMG_DESC]" capture="[MONSTER_MIMG_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_NPC_Guardsman.png" />
+   <Level min="21" max="25" base="21" levelto="60" />
+   <Skill earth="2" fire="2" air="12" water="4" battle="20" cunning="2" morale="20" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.10" fire="0.20" air="0.50" water="0.20" battle="1.00" cunning="0.30" morale="1.00" life="2.00" />
+   <Data life="125" mount="0" boss="0" />
+   <Reward minxp="60" maxxp="80" mingold="50" maxgold="100" />
+   <Types type1="Human" type2="Good" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="6" addperlevel="1" addlevel="1" />
+   <Sprite id=""  />
+   <Item tag="IIMH"  />
+   <Item tag="IFPA"  />
+   <Item tag="IHAL"  />
+   <Item tag="IFPB"  />
+   <Spell tag="SRFC" learn="1" />
+   <Spell tag="STHR" learn="0" />
+   <Capture>
+      <Row data="-*-*-*-*" />
+      <Row data="-Y-Y*Y-Y" />
+      <Row data="-O-OYO-O" />
+      <Row data="-Y-Y*Y-Y" />
+      <Row data="-O-OYO-O" />
+      <Row data="-O-OYO-O" />
+      <Row data="-Y-Y*Y-Y" />
+      <Row data="*Y*Y*Y*Y" />
+   </Capture>
+</Monster>

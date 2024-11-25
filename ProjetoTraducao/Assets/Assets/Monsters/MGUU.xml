@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Monster id="MGUU">
+   <Text name="[MONSTER_MGUU_NAME]" description="[MONSTER_MGUU_DESC]" capture="[MONSTER_MGUU_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_NPC_Gruulkar.png" />
+   <Level min="20" max="26" base="20" levelto="100" />
+   <Skill earth="3" fire="5" air="1" water="1" battle="16" cunning="7" morale="9" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.30" fire="0.40" air="0.20" water="0.20" battle="1.40" cunning="0.40" morale="0.70" life="2.00" />
+   <Data life="140" mount="0" boss="1" />
+   <Reward minxp="30" maxxp="60" mingold="40" maxgold="65" />
+   <Types type1="Orc" type2="" type3="Evil" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZORC"  />
+   <Item tag="IHOH"  />
+   <Item tag="IFPA"  />
+   <Item tag="IGAX"  />
+   <Item tag="IGSH"  />
+   <Spell tag="SCTH" learn="0" />
+   <Spell tag="SHBT" learn="0" />
+   <Spell tag="SENR" learn="0" />
+   <Spell tag="STHX" learn="0" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+   </Capture>
+</Monster>

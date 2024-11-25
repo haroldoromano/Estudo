@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RDCV">
+   <Text name="[RUIN_RDCV_NAME]" description="[RUIN_RDCV_DESC]"/>
+   <Graphics icon="2"/>
+   <Data x="1359" y="1189" type="2" visible="no" attach="CDRA"/>
+</Ruin>

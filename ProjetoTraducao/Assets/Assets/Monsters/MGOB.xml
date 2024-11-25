@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Monster id="MGOB">
+   <Text name="[MONSTER_MGOB_NAME]" description="[MONSTER_MGOB_DESC]" capture="[MONSTER_MGOB_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Goblin.png" />
+   <Level min="1" max="3" base="1" levelto="16" />
+   <Skill earth="3" fire="2" air="0" water="0" battle="1" cunning="2" morale="1" />
+   <Add earth="0.20" fire="0.20" air="0.20" water="0.20" battle="0.50" cunning="0.20" morale="0.20" life="3.00" />
+   <Data life="30" mount="0" />
+   <Reward minxp="15" maxxp="30" mingold="25" maxgold="45" />
+   <Types type1="Orc" type2="Evil" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZGOB"  />
+   <Spell tag="SHID" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="BY-YB-BY" />
+      <Row data="YB-BY-YB" />
+      <Row data="BY-YB-BY" />
+      <Row data="YBGBYBGR" />
+      <Row data="RYBGBYBG" />
+      <Row data="YBGBYBGR" />
+   </Capture>
+</Monster>

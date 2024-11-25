@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IROE">
+   <Text  name="[ITEM_IROE_NAME]" power="[ITEM_IROE_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="440" rarity="4" />
+   <Graphics  icon="61" />
+   <Restriction	type="skill" skill="earth" level="5"/>
+   <Script  file="Assets\Items\IROE.lua" object="IROE"/>
+</Item>

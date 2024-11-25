@@ -1,0 +1,10 @@
+<Menu x="0" y="0" width="1024" height="768" timer="on" draw="on" modal="on">
+   <Assets>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   
+   <Pad		   name="pad_screen"           id="259"  x="0"  y="0" width="1024"  height="768" />   
+   <Icon       name="icon_companions"                x="0"  y="0" width="1024" height="768" graphic="img_companions"/>
+   
+</Menu>

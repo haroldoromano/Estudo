@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IDST">
+   <Text  name="[ITEM_IDST_NAME]" power="[ITEM_IDST_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="300" rarity="4" />
+   <Graphics  icon="94" />
+   <Restriction	type="level" level="2"/>
+   <Script  file="Assets\Items\IDST.lua" object="IDST"/>
+</Item>

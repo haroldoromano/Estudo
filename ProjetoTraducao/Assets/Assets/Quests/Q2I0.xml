@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Quest id="Q2I0">
+
+   <Text  name="[QUEST_Q2I0_NAME]" description="[QUEST_Q2I0_DESC]" group=""   file="English\Quests\Q2I0_Text.xml"/>
+   <Script  file="Assets\Quests\Q2I0.lua" object="Q2I0"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CTSK" minlevel="24" maxlevel="1000" repeat="1" 
+               donequest0="" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MMIK">
+
+      <Name  tag="[QUEST_Q2I0_QMNAME0]"  help="[QUEST_Q2I0_QMHELP0]"  />
+      <Add  earth="0" fire="0" air="0" water="8" />
+      <Item  id="IDHE" />
+      <Spell  id="SFRZ" />
+   </Battle>
+
+</Quest>

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RATO">
+   <Text name="[RUIN_RATO_NAME]" description="[RUIN_RATO_DESC]"/>
+   <Graphics icon="0"/>
+   <Data x="1481" y="334" type="7" visible="no" attach="CTSK"/>
+</Ruin>

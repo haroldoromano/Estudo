@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Monster id="MKNI">
+   <Text name="[MONSTER_MKNI_NAME]" description="[MONSTER_MKNI_DESC]" capture="[MONSTER_MKNI_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Knight.png" />
+   <Level min="3" max="7" base="3" levelto="50" />
+   <Skill earth="0" fire="0" air="2" water="1" battle="4" cunning="1" morale="5" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.10" fire="0.15" air="0.25" water="0.15" battle="1.00" cunning="0.30" morale="1.00" life="3.00" />
+   <Data life="60" mount="0" boss="0" />
+   <Reward minxp="15" maxxp="30" mingold="30" maxgold="55" />
+   <Types type1="Human" type2="Good" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="6" addperlevel="1" addlevel="1" />
+   <Sprite id=""  />
+   <Item tag="ICMH"  />
+   <Item tag="ICMA"  />
+   <Item tag="ILAN"  />
+   <Spell tag="SDIV" learn="1" />
+   <Spell tag="STHR" learn="1" />
+   <Capture>
+      <Row data="---OO---" />
+      <Row data="---GG---" />
+      <Row data="---RR---" />
+      <Row data="--YGGY--" />
+      <Row data="YYO**RYY" />
+      <Row data="OO*OO*OO" />
+      <Row data="O*O**O*O" />
+      <Row data="*O*GG*O*" />
+   </Capture>
+</Monster>

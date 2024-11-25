@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Monster id="MVBT">
+   <Text name="[MONSTER_MVBT_NAME]" description="[MONSTER_MVBT_DESC]" capture="[MONSTER_MVBT_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Bat.png" />
+   <Level min="6" max="10" base="6" levelto="25" />
+   <Skill earth="0" fire="6" air="10" water="3" battle="8" cunning="1" morale="1" />
+   <Add earth="0.20" fire="0.50" air="1.00" water="0.20" battle="0.70" cunning="0.50" morale="0.20" life="3.00" />
+   <Data life="75" mount="0" />
+   <Reward minxp="30" maxxp="50" mingold="40" maxgold="80" />
+   <Types type1="Flying" type2="" type3="Animal" type4="" />
+   <Mount speed="0" fly="1" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZGBA"  />
+   <Spell tag="SSWP" learn="0" />
+   <Spell tag="SVAM" learn="1" />
+   <Capture>
+      <Row data="S------S" />
+      <Row data="S--BY--S" />
+      <Row data="Y--SS--B" />
+      <Row data="S--BY--S" />
+      <Row data="S-SBYS-S" />
+      <Row data="Y-YYBB-Y" />
+      <Row data="S-YYBB-S" />
+      <Row data="S-BBYY-S" />
+   </Capture>
+</Monster>

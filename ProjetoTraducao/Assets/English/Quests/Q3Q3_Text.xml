@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3Q3_ACTION]">Recapture the Keep</Text>
+   <Text tag="[QUEST_Q3Q3_FAILURE]">The keep is under siege. You must continue your atack.</Text>
+   <Text tag="[QUEST_Q3Q3_KILL]">You have defeated the monster</Text>
+   <Text tag="[QUEST_Q3Q3_RETURN]">Get Reward</Text>
+   <Text tag="[QUEST_Q3Q3_REWARD]">Skullguard Keep has been recaptured. You receive the Skullguard award which adds +2 to Battle.</Text>
+   <Text tag="[QUEST_Q3Q3_STEP1]">You must battle the Undead to reclaim Skullguard Keep.</Text>
+   <Text tag="[QUEST_Q3Q3_STEP2]">You must battle the Undead to reclaim Skullguard Keep.</Text>
+
+</TextLibrary>

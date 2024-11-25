@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Monster id="MSWO">
+   <Text name="[MONSTER_MSWO_NAME]" description="[MONSTER_MSWO_DESC]" capture="[MONSTER_MSWO_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Sandworm.png" />
+   <Level min="17" max="21" base="17" levelto="50" />
+   <Skill earth="20" fire="8" air="5" water="1" battle="32" cunning="2" morale="1" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="1.00" fire="0.50" air="0.30" water="0.20" battle="1.00" cunning="0.20" morale="0.20" life="3.00" />
+   <Data life="160" mount="1" boss="0" />
+   <Reward minxp="50" maxxp="75" mingold="60" maxgold="100" />
+   <Types type1="Large" type2="" type3="Monster" type4="" />
+   <Mount speed="0" fly="0" spell="SSWA"  addstat="2" stat="0" addperlevel="1" addlevel="2" />
+   <Sprite id="ZSDW"  />
+   <Item tag="ICAR"  />
+   <Spell tag="SSWA" learn="0" />
+   <Spell tag="SSHO" learn="0" />
+   <Spell tag="SHID" learn="0" />
+   <Capture>
+      <Row data="-G-YG-G-" />
+      <Row data="-GSGGSG-" />
+      <Row data="SSYSSYSS" />
+      <Row data="GGXGGXGG" />
+      <Row data="SSGSSGSS" />
+      <Row data="GYGYGYGY" />
+      <Row data="YGYGYGYG" />
+      <Row data="GYGYGYGY" />
+   </Capture>
+</Monster>

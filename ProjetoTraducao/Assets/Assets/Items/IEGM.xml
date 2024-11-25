@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IEGM">
+   <Text  name="[ITEM_IEGM_NAME]" power="[ITEM_IEGM_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="1340" rarity="0" />
+   <Graphics  icon="25" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IEGM.lua" object="IEGM"/>
+</Item>

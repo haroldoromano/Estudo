@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Monster id="MARB">
+   <Text name="[MONSTER_MARB_NAME]" description="[MONSTER_MARB_DESC]" capture="[MONSTER_MARB_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Arboleth.png" />
+   <Level min="31" max="35" base="31" levelto="99" />
+   <Skill earth="10" fire="10" air="10" water="10" battle="12" cunning="1" morale="1" />
+   <Resistance earth="10" fire="10" air="10" water="10" />
+   <Add earth="1.40" fire="0.40" air="0.40" water="0.40" battle="0.50" cunning="0.10" morale="0.20" life="3.00" />
+   <Data life="150" mount="0" boss="0" />
+   <Reward minxp="90" maxxp="130" mingold="50" maxgold="150" />
+   <Types type1="Evil" type2="Monster" type3="Large" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZGSP"  />
+   <Item tag="ICSK"  />
+   <Item tag="ITEN"  />
+   <Spell tag="SWMG" learn="0" />
+   <Spell tag="SCBO" learn="1" />
+   <Spell tag="SCMA" learn="1" />
+   <Capture>
+      <Row data="--YBGR--" />
+      <Row data="--YBGR--" />
+      <Row data="-YBGRY--" />
+      <Row data="GRYBGRY-" />
+      <Row data="GRYBGRY-" />
+      <Row data="SGRYBGR*" />
+      <Row data="*YRYBGBS" />
+      <Row data="*RYRGBGS" />
+   </Capture>
+</Monster>

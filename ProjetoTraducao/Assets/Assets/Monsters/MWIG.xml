@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Monster id="MWIG">
+   <Text name="[MONSTER_MWIG_NAME]" description="[MONSTER_MWIG_DESC]" capture="[MONSTER_MWIG_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Skeleton.png" />
+   <Level min="6" max="10" base="6" levelto="30" />
+   <Skill earth="2" fire="0" air="0" water="10" battle="4" cunning="1" morale="1" />
+   <Add earth="0.50" fire="0.00" air="0.20" water="1.00" battle="0.75" cunning="0.20" morale="0.10" life="3.00" />
+   <Data life="56" mount="0" />
+   <Reward minxp="35" maxxp="50" mingold="25" maxgold="55" />
+   <Types type1="Undead" type2="" type3="Evil" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZWHT"  />
+   <Item tag="ICMA"  />
+   <Item tag="IWBL"  />
+   <Spell tag="SSPF" learn="1" />
+   <Spell tag="SCTO" learn="1" />
+   <Capture>
+      <Row data="---RR---" />
+      <Row data="---RR---" />
+      <Row data="---GG---" />
+      <Row data="---RR---" />
+      <Row data="-G-GG-G-" />
+      <Row data="-G-GG-G-" />
+      <Row data="-SGSSGS-" />
+      <Row data="SGGSSGGS" />
+   </Capture>
+</Monster>

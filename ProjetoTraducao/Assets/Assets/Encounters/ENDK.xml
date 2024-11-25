@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ENDK">
+   <Description text="Doom Knight" />
+   <Location start="WTIR" end="CEHL" index="0" />
+   <Sprite id="ZDKN" />
+   <Script file="Assets\Encounters\ENDK.lua" object="ENDK" />
+</Encounter>

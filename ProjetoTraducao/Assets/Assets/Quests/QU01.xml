@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="QU01">
+
+   <Text  name="[QUEST_QU01_NAME]" description="[QUEST_QU01_DESC]" group=""   file="English\Quests\QU01_Text.xml"/>
+   <Script  file="Assets\Quests\QU01.lua" object="QU01"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CYLA" minlevel="25" maxlevel="1000" repeat="1" 
+               donequest0="QU00" donequest1="Q3Q4" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NSUN" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MARB">
+
+   </Battle>
+
+</Quest>

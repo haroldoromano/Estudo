@@ -1,0 +1,10 @@
+<Particle name="WhiteSparkleLite" texture="Sparkle.png" radius="10" lifetime="1600">
+	<Number max="40" release="4" interval="0.05" life=".9" total="40"/>
+	<Graphics blend="additive" size="0.5" r="0.7" g="0.7" b="0.7" a="0.5"/>
+	<Animation size="0.05" r="0.7" g="0.7" b="0.5" a="0.0" start="0.1"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.8"/>
+	<Velocity x="0.0" y="0.0" z="0.0" var="0.1"/>
+	<Gravity x="0.0" y="0.5" z="0.0"/>
+	<Forces airresistance="off" wind="off"/>
+	<Shape steps="1"/>
+</Particle>

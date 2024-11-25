@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ECEN">
+   <Description text="Centaur" />
+   <Location start="WPAR" end="WALF" index="0" />
+   <Sprite id="ZCEN" />
+   <Script file="Assets\Encounters\ECEN.lua" object="ECEN" />
+</Encounter>

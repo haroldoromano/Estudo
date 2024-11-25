@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IELP">
+   <Text  name="[ITEM_IELP_NAME]" power="[ITEM_IELP_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="1890" rarity="1" />
+   <Graphics  icon="22" />
+   <Restriction	type="skill" skill="earth" level="10"/>
+   <Script  file="Assets\Items\IELP.lua" object="IELP"/>
+</Item>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ILKS">
+   <Text  name="[ITEM_ILKS_NAME]" power="[ITEM_ILKS_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="345" rarity="4" />
+   <Graphics  icon="81" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ILKS.lua" object="ILKS"/>
+</Item>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?> 
+<Effect name="CyanStun" bitmap="bmp_skin_battlemisc" type="oneshot" duration="0.4">
+
+	<Initialize parameter="source_x"	value="202" />
+	<Initialize parameter="source_y"	value="257" />
+	<Initialize parameter="source_w"	value="100" />
+	<Initialize parameter="source_h"	value="100" />
+	
+	<Initialize parameter="dest_x"		value="-20" />
+	<Initialize parameter="dest_y"		value="-20" />
+	<Initialize parameter="dest_w"		value="40" />
+	<Initialize parameter="dest_h"		value="40" />
+	
+	<Initialize parameter="alpha"		value="0.0" />
+	<Initialize parameter="rotation"	value="0.0" />
+	<Initialize parameter="color_r"		value="0.3" />
+	<Initialize parameter="color_g"		value="0.7" />
+	<Initialize parameter="color_b"		value="0.7" />
+
+	<Animate	parameter="alpha"		value="0.4"		time="0.1"	method="linear" />
+	<Animate	parameter="alpha"		value="0.8"		time="0.3"	method="linear" />
+	<Animate	parameter="alpha"		value="0.0"		time="0.4"	method="linear" />
+
+	<Animate	parameter="dest_x"		value="-45"		time="0.4"	method="linear" />
+	<Animate	parameter="dest_y"		value="-45"		time="0.4"	method="linear" />
+	<Animate	parameter="dest_w"		value="90"		time="0.4"	method="linear" />
+	<Animate	parameter="dest_h"		value="90"		time="0.4"	method="linear" />
+		
+</Effect>

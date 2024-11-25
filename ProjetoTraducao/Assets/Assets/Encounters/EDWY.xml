@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EDWY">
+   <Description text="Wyvern" />
+   <Location start="WNKR" end="WDPS" index="0" />
+   <Sprite id="ZWYX" />
+   <Script file="Assets\Encounters\EDWY.lua" object="EDWY" />
+</Encounter>

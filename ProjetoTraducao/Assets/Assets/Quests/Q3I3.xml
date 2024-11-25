@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Quest id="Q3I3">
+
+   <Text  name="[QUEST_Q3I3_NAME]" description="[QUEST_Q3I3_DESC]" group="[QG_ICEQ_NAME]"   file="English\Quests\Q3I3_Text.xml"/>
+   <Script  file="Assets\Quests\Q3I3.lua" object="Q3I3"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CEHL" minlevel="26" maxlevel="1000" repeat="1" 
+               donequest0="Q3I2" donequest1="" donequest2="" notdonequest="Q3Q7" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MARK">
+
+   </Battle>
+   <Battle  monster="MDOO">
+
+      <Name  tag="[QUEST_Q3I3_QMNAME1]"  help="[QUEST_Q3I3_QMHELP1]"  />
+      <Add  battle="5" cunning="0" morale="0" />
+      <Add  level="0" life="10" />
+      <Item  id="IROE" />
+      <Spell  id="SCLV" />
+      <Spell  id="SBST" />
+   </Battle>
+
+</Quest>

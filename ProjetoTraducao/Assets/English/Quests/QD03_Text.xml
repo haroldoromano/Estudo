@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QD03_ACTION]">Battle the Dark Dwarves</Text>
+   <Text tag="[QUEST_QD03_DRONG]">You do not need to battle the Dark Dwarves as Drong is not here to try any of the Diamonds. You should return with Drong.</Text>
+   <Text tag="[QUEST_QD03_FAILURE]">You have failed to pry any diamonds from the Dark Dwarves. Drong is still hungry.</Text>
+   <Text tag="[QUEST_QD03_REWARD]">Drong rewards you for finding him a delicious diamond.</Text>
+   <Text tag="[QUEST_QD03_STEP1]">You must journey to the Lake of Blood to find a diamond for Drong.</Text>
+
+</TextLibrary>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QS02_BATTLE]">You have been attacked by Imperial Guards who are trying to take Princess Serephine back home.</Text>
+   <Text tag="[QUEST_QS02_CANX]">You have manage to flee from the Imperial Guards. But they will never be too far behind you.</Text>
+   <Text tag="[QUEST_QS02_FAILURE1]">You have failed to defeat the Imperial Guards. You flee, but they are close behind.</Text>
+   <Text tag="[QUEST_QS02_PROGRESS1]">Imperial Guards are searching the area looking for you. You should be cautious.</Text>
+   <Text tag="[QUEST_QS02_PROGRESS2]">You may have defeated some of the Imperial Guards, but the rest will not give up this easily. You should remain cautious.</Text>
+   <Text tag="[QUEST_QS02_REWARD]">You have been rewarded by Princess Serephine for your bravery.</Text>
+   <Text tag="[QUEST_QS02_SUCCESS1]">You have defeated most of the Imperial Guards. You must continue to be cautious, as they will not give up so easily.</Text>
+   <Text tag="[QUEST_QS02_SUCCESS2]">You have defeated the remaining Imperial Guards.</Text>
+
+</TextLibrary>

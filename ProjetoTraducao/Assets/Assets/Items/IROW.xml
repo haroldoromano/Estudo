@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IROW">
+   <Text  name="[ITEM_IROW_NAME]" power="[ITEM_IROW_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="410" rarity="4" />
+   <Graphics  icon="31" />
+   <Restriction	type="skill" skill="water" level="5"/>
+   <Script  file="Assets\Items\IROW.lua" object="IROW"/>
+</Item>

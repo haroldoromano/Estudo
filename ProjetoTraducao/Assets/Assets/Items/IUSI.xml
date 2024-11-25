@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IUSI">
+   <Text  name="[ITEM_IUSI_NAME]" power="[ITEM_IUSI_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="950" rarity="2" />
+   <Graphics  icon="59" />
+   <Restriction	type="level" level="9"/>
+   <Script  file="Assets\Items\IUSI.lua" object="IUSI"/>
+</Item>

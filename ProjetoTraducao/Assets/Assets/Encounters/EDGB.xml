@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EDGB">
+   <Description text="Giant Bat" />
+   <Location start="WSKE" end="CDRA" index="0" />
+   <Sprite id="ZGBA" />
+   <Script file="Assets\Encounters\EDGB.lua" object="EDGB" />
+</Encounter>

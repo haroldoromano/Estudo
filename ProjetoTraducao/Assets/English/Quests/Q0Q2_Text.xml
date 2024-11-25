@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0Q2_FAIL]">You have suffered a loss, but Darkhunter still needs your help.</Text>
+   <Text tag="[QUEST_Q0Q2_HELP]">Help Darkhunter</Text>
+   <Text tag="[QUEST_Q0Q2_MESSAGE]">In the distance you see Darkhunter.  He is surrounded by Orcs and looks like he could use some help.</Text>
+   <Text tag="[QUEST_Q0Q2_PROG1]">You must travel south to Gallia in search of Darkhunter.</Text>
+   <Text tag="[QUEST_Q0Q2_PROG2]">Darkhunter was tracking some Orcs near the Ruins of Artum. Try searching there.</Text>
+   <Text tag="[QUEST_Q0Q2_PROG3]">Darkhunter is surrounded by Orcs near the Ruins of Artum. He needs your help.</Text>
+   <Text tag="[QUEST_Q0Q2_REWARD]">You and Darkhunter have managed to slay the Orcs. You find a small amount of treasure on them.</Text>
+   <Text tag="[QUEST_Q0Q2_SEARCH]">Search for Darkhunter</Text>
+   <Text tag="[QUEST_Q0Q2_QMHELP0]">This Orc carries a Great Axe that can give him an extra turn if he does a lot of damage. He is also slightly stronger than a regular Orc.</Text>
+
+</TextLibrary>

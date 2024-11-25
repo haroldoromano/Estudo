@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IGOH">
+   <Text  name="[ITEM_IGOH_NAME]" power="[ITEM_IGOH_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="1760" rarity="0" />
+   <Graphics  icon="83" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IGOH.lua" object="IGOH"/>
+</Item>

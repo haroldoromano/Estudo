@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<City id="CJAK">
+   <Text name="[CITY_CJAK_NAME]" description="[CITY_CJAK_DESC]"/>
+   <Graphics icon="15" type="1"/>
+   <Data x="1885" y="213" level="0" visible="no" income="75" />
+   <Item tag="ITWH"/>
+   <Item tag="IWLM"/>
+   <Item tag="IGTS"/>
+   <Item tag="IMOA"/>
+   <Spell tag="SFRZ"/>
+   <Spell tag="SFBT"/>
+</City>

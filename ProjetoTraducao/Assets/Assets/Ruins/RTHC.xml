@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ruin id="RTHC">
+   <Text name="[RUIN_RTHC_NAME]" description="[RUIN_RTHC_DESC]"/>
+   <Graphics icon="1"/>
+   <Data x="1407" y="851" type="1" visible="no" attach="WTHR"/>
+</Ruin>

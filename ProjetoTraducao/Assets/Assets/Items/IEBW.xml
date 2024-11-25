@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IEBW">
+   <Text  name="[ITEM_IEBW_NAME]" power="[ITEM_IEBW_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1012" rarity="0" />
+   <Graphics  icon="15" />
+   <Restriction	type="level" level="8"/>
+   <Script  file="Assets\Items\IEBW.lua" object="IEBW"/>
+</Item>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SSPT">
+   <Text  name="[SPELL_SSPT_NAME]" description="[SPELL_SSPT_DESC]" detail="[SPELL_SSPT_DETL]"/>
+   <Cost  earth="7" fire="7" air="0" water="12" />
+   <Learn  score="1500" masks="1" keys="0" />
+   <Data  cooldown="1" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SSPT.lua" object="SSPT"/>
+</Spell>

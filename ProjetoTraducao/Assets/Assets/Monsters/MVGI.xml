@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Monster id="MVGI">
+   <Text name="[MONSTER_MVGI_NAME]" description="[MONSTER_MVGI_DESC]" capture="[MONSTER_MVGI_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_FireGiant.png" />
+   <Level min="23" max="29" base="23" levelto="50" />
+   <Skill earth="4" fire="14" air="2" water="2" battle="38" cunning="0" morale="7" />
+   <Resistance earth="0" fire="30" air="0" water="0" />
+   <Add earth="0.30" fire="1.00" air="0.20" water="0.20" battle="1.00" cunning="0.20" morale="0.40" life="3.00" />
+   <Data life="150" mount="0" boss="0" />
+   <Reward minxp="85" maxxp="115" mingold="80" maxgold="130" />
+   <Types type1="Giant" type2="" type3="Large" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZFIG"  />
+   <Item tag="IFLH"  />
+   <Item tag="IVBL"  />
+   <Spell tag="SSTO" learn="0" />
+   <Spell tag="SROF" learn="1" />
+   <Spell tag="SCON" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="-O------" />
+      <Row data="-R------" />
+      <Row data="-O----RR" />
+      <Row data="-O---OOX" />
+      <Row data="OROOSROS" />
+      <Row data="RRSSORRO" />
+      <Row data="RXRXRXRX" />
+   </Capture>
+</Monster>

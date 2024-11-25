@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IGIM">
+   <Text  name="[ITEM_IGIM_NAME]" power="[ITEM_IGIM_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="280" rarity="0" />
+   <Graphics  icon="88" />
+   <Restriction	type="skill" skill="battle" level="20"/>
+   <Script  file="Assets\Items\IGIM.lua" object="IGIM"/>
+</Item>

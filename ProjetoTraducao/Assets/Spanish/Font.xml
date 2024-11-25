@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Fonts numfonts="32">
+
+   <Font id="0"  tag="font_system"		    file="Assets\Fonts\System"		pointsize="24" baseline="18" lineheight="16" r="255" g="245" b="235" a="255" scale="1"/>
+   <Font id="1"  tag="font_button"		    file="Assets\Fonts\WC_Button"	pointsize="40" baseline="32" lineheight="34" r="255" g="245" b="235" a="255" scale="1" yoffset="2"/>
+   <Font id="2"  tag="font_heading"		    file="Assets\Fonts\WC_Heading"  pointsize="48" baseline="35" lineheight="0"  r="255" g="245" b="235" a="255" scale="1" yoffset="2"/>
+   <Font id="3"  tag="font_small"		    file="Assets\Fonts\Small"		pointsize="18" baseline="14" lineheight="14" r="255" g="245" b="235" a="255" scale="1"/>
+   <Font id="4"  tag="font_system_dark"	    file="Assets\Fonts\System"		pointsize="24" baseline="18" lineheight="16" r="220" g="150" b="100" a="255" scale="1"/>
+   <Font id="5"  tag="font_small_dark"	    file="Assets\Fonts\Small"		pointsize="18" baseline="14" lineheight="14" r="150" g="150" b="150" a="255" scale="1"/>
+   <Font id="6"  tag="font_xp"			    file="Assets\Fonts\System"		pointsize="24" baseline="18" lineheight="16" r="200" g="0"   b="255" a="255" scale="1"/>
+   <Font id="7"  tag="font_gold"		    file="Assets\Fonts\System"		pointsize="24" baseline="18" lineheight="16" r="255" g="150" b="0"   a="255" scale="1"/>
+   <Font id="8"  tag="font_msg_white"	    file="Assets\Fonts\WC_Message"  pointsize="40" baseline="30" lineheight="0"  r="255" g="255" b="255" a="255" scale="1"/>
+   <Font id="9"  tag="font_msg_red"		    file="Assets\Fonts\WC_Message"  pointsize="40" baseline="30" lineheight="0"  r="255" g="0"   b="0"   a="255" scale="1"/>
+   <Font id="10" tag="font_msg_orange"	    file="Assets\Fonts\WC_Message"  pointsize="40" baseline="30" lineheight="0"  r="255" g="180" b="0"   a="255" scale="1"/>
+   <Font id="11" tag="font_msg_yellow"	    file="Assets\Fonts\WC_Message"  pointsize="40" baseline="30" lineheight="0"  r="255" g="255" b="0"   a="255" scale="1"/>
+   <Font id="12" tag="font_msg_green"	    file="Assets\Fonts\WC_Message"  pointsize="40" baseline="30" lineheight="0"  r="0"   g="255" b="0"   a="255" scale="1"/>
+   <Font id="13" tag="font_msg_cyan"	    file="Assets\Fonts\WC_Message"  pointsize="40" baseline="30" lineheight="0"  r="0"   g="255" b="255" a="255" scale="1"/>
+   <Font id="14" tag="font_msg_purple"	    file="Assets\Fonts\WC_Message"  pointsize="40" baseline="30" lineheight="0"  r="255" g="0"   b="200" a="255" scale="1"/>
+   <Font id="15" tag="font_system_blue"	    file="Assets\Fonts\System"		pointsize="24" baseline="18" lineheight="16" r="0"   g="200" b="255" a="255" scale="1"/>
+   <Font id="16" tag="font_system_green"    file="Assets\Fonts\System"		pointsize="24" baseline="18" lineheight="16" r="0"   g="255" b="0"   a="255" scale="1"/>
+   <Font id="17" tag="font_system_yellow"   file="Assets\Fonts\System"		pointsize="24" baseline="18" lineheight="16" r="255" g="255" b="0"   a="255" scale="1"/>
+   <Font id="18" tag="font_system_red"	    file="Assets\Fonts\System"		pointsize="24" baseline="18" lineheight="16" r="255" g="0"   b="0"   a="255" scale="1"/>
+   <Font id="19" tag="font_small_blue"	    file="Assets\Fonts\Small"		pointsize="18" baseline="14" lineheight="14" r="100" g="100" b="240" a="255" scale="1"/>
+   <Font id="20" tag="font_system_gray"	    file="Assets\Fonts\System"		pointsize="24" baseline="18" lineheight="16" r="128" g="128" b="128" a="255" scale="1"/>
+   <Font id="21" tag="font_small_red"	    file="Assets\Fonts\Small"		pointsize="18" baseline="14" lineheight="14" r="240" g="50"  b="50"  a="255" scale="1"/>
+   <Font id="22" tag="font_button_yellow"   file="Assets\Fonts\WC_Button"	pointsize="40" baseline="32" lineheight="34" r="255" g="255" b="0"   a="255" scale="1" yoffset="2"/>
+   <Font id="23" tag="font_quest_large"	    file="Assets\Fonts\WC_Button"	pointsize="40" baseline="32" lineheight="34" r="220" g="230" b="240" a="255" scale="1" yoffset="2"/>
+   <Font id="24" tag="font_quest_medium"    file="Assets\Fonts\WC_Quest"	pointsize="18" baseline="18" lineheight="0"  r="160" g="180" b="200" a="255" scale="1"/>
+   <Font id="25" tag="font_quest_small"	    file="Assets\Fonts\System"		pointsize="24" baseline="18" lineheight="16" r="220" g="230" b="240" a="255" scale="1"/>
+   <Font id="26" tag="font_script_large"    file="Assets\Fonts\WC_ScriptBig" pointsize="48" baseline="35" lineheight="0" r="255" g="255" b="255" a="255" scale="1"/>
+   <Font id="27" tag="font_script_small"    file="Assets\Fonts\WC_ScriptSmall" pointsize="14" baseline="10" lineheight="16" r="255" g="255" b="255" a="255" scale="1"/>
+   <Font id="28" tag="font_script_medium"   file="Assets\Fonts\WC_ScriptMedium" pointsize="24" baseline="18" lineheight="0" r="255" g="255" b="255" a="255" scale="1"/>
+   <Font id="29" tag="font_script_small_hi" file="Assets\Fonts\WC_ScriptSmall" pointsize="14" baseline="10" lineheight="16" r="255" g="0"   b="0"   a="255" scale="1"/>
+   <Font id="30" tag="font_speech"			file="Assets\Fonts\WC_Speech"	pointsize="18" baseline="14" lineheight="16" r="0"   g="0"   b="0"   a="255" scale="1"/>
+   <Font id="31" tag="font_small_gray"	    file="Assets\Fonts\Small"		pointsize="18" baseline="14" lineheight="14" r="128" g="128" b="128" a="255" scale="1"/>
+   
+</Fonts>
+  

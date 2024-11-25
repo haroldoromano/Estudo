@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Monster id="MELG">
+   <Text name="[MONSTER_MELG_NAME]" description="[MONSTER_MELG_DESC]" capture="[MONSTER_MELG_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_NPC_Iceguard.png" />
+   <Level min="26" max="30" base="26" levelto="60" />
+   <Skill earth="12" fire="2" air="8" water="4" battle="25" cunning="2" morale="25" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.50" fire="0.20" air="0.40" water="0.40" battle="0.70" cunning="0.30" morale="0.70" life="2.00" />
+   <Data life="100" mount="0" boss="0" />
+   <Reward minxp="65" maxxp="90" mingold="70" maxgold="120" />
+   <Types type1="High Elf" type2="Good" type3="Wood Elf" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="6" addperlevel="1" addlevel="1" />
+   <Sprite id=""  />
+   <Item tag="IELH"  />
+   <Item tag="IWLC"  />
+   <Item tag="IELB"  />
+   <Item tag="IROE"  />
+   <Spell tag="SARC" learn="0" />
+   <Spell tag="SENT" learn="1" />
+   <Spell tag="SGEM" learn="1" />
+   <Capture>
+      <Row data="-S-SS-S-" />
+      <Row data="-Y-SS-Y-" />
+      <Row data="-Y-GG-Y-" />
+      <Row data="-G-SS-G-" />
+      <Row data="SY-GG-YS" />
+      <Row data="XG-SS-GX" />
+      <Row data="GYGYYGYG" />
+      <Row data="GYGYYGYG" />
+   </Capture>
+</Monster>

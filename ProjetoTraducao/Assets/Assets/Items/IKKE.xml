@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IKKE">
+   <Text  name="[ITEM_IKKE_NAME]" power="[ITEM_IKKE_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="1150" rarity="0" />
+   <Graphics  icon="82" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IKKE.lua" object="IKKE"/>
+</Item>

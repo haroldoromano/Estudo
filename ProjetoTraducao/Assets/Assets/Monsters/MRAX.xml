@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Monster id="MRAX">
+   <Text name="[MONSTER_MRAX_NAME]" description="[MONSTER_MRAX_DESC]" capture="[MONSTER_MRAX_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_NPC_RedAxe.png" />
+   <Level min="28" max="32" base="28" levelto="60" />
+   <Skill earth="8" fire="17" air="5" water="5" battle="40" cunning="10" morale="10" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.30" fire="0.75" air="0.20" water="0.20" battle="1.25" cunning="0.30" morale="0.50" life="3.00" />
+   <Data life="160" mount="0" boss="1" />
+   <Reward minxp="125" maxxp="275" mingold="100" maxgold="175" />
+   <Types type1="Large" type2="" type3="Minotaur" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZMIK"  />
+   <Item tag="IHOH"  />
+   <Item tag="ISCA"  />
+   <Item tag="IAOR"  />
+   <Item tag="IMSH"  />
+   <Spell tag="SCHG" learn="0" />
+   <Spell tag="SBRA" learn="0" />
+   <Spell tag="STHX" learn="0" />
+   <Spell tag="SCLV" learn="0" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+   </Capture>
+</Monster>

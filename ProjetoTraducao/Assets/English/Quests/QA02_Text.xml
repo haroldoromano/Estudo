@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QA02_ACTION]">Wait for the Meeting</Text>
+   <Text tag="[QUEST_QA02_NOCOMP]">You must have Darkhunter with you before you attend the meeting.</Text>
+   <Text tag="[QUEST_QA02_REWARD]">Darkhunter refused the offer to join the Undead.</Text>
+   <Text tag="[QUEST_QA02_STEP1]">You must travel to Sartek&apos;s Maze and wait to be contacted.</Text>
+
+</TextLibrary>

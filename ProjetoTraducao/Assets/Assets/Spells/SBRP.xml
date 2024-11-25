@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SBRP">
+   <Text  name="[SPELL_SBRP_NAME]" description="[SPELL_SBRP_DESC]" detail="[SPELL_SBRP_DETL]"/>
+   <Cost  earth="0" fire="0" air="30" water="12" />
+   <Learn  score="990" masks="0" keys="0" />
+   <Data  cooldown="3" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SBRP.lua" object="SBRP"/>
+</Spell>

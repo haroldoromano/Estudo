@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ICSA">
+   <Text  name="[ITEM_ICSA_NAME]" power="[ITEM_ICSA_POWER]"/>
+   <Data  location="head" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="1" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ICSA.lua" object="ICSA"/>
+</Item>

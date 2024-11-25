@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ITBS">
+   <Text  name="[ITEM_ITBS_NAME]" power="[ITEM_ITBS_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="1200" rarity="0" />
+   <Graphics  icon="96" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ITBS.lua" object="ITBS"/>
+</Item>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EKO1">
+   <Description text="Orc" />
+   <Location start="CDKO" end="WBHE" index="0" />
+   <Sprite id="ZORC" />
+   <Script file="Assets\Encounters\EKO1.lua" object="EKO1" />
+</Encounter>

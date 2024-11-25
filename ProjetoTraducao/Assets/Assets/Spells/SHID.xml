@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SHID">
+   <Text  name="[SPELL_SHID_NAME]" description="[SPELL_SHID_DESC]" detail="[SPELL_SHID_DETL]"/>
+   <Cost  earth="5" fire="0" air="3" water="5" />
+   <Learn  score="600" masks="1" keys="0" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SHID.lua" object="SHID"/>
+</Spell>

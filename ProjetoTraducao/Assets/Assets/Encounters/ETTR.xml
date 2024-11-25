@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ETTR">
+   <Description text="Troll" />
+   <Location start="WALF" end="WTHR" index="0" />
+   <Sprite id="ZTRO" />
+   <Script file="Assets\Encounters\ETTR.lua" object="ETTR" />
+</Encounter>

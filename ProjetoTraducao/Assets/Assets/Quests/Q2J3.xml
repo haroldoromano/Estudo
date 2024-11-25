@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Quest id="Q2J3">
+
+   <Text  name="[QUEST_Q2J3_NAME]" description="[QUEST_Q2J3_DESC]" group="[QG_JAJO_NAME]"   file="English\Quests\Q2J3_Text.xml"/>
+   <Script  file="Assets\Quests\Q2J3.lua" object="Q2J3"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CJOK" minlevel="23" maxlevel="1000" repeat="1" 
+               donequest0="Q2J2" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MFGI">
+
+      <Name  tag="[QUEST_Q2J3_QMNAME0]"   />
+      <Item  id="IJOB" />
+      <Item  id="IJAC" />
+      <Item  id="IJAH" />
+   </Battle>
+
+</Quest>

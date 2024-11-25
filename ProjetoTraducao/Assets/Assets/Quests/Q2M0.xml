@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q2M0">
+
+   <Text  name="[QUEST_Q2M0_NAME]" description="[QUEST_Q2M0_DESC]" group="[QG_MOTA_NAME]"   file="English\Quests\Q2M0_Text.xml"/>
+   <Script  file="Assets\Quests\Q2M0.lua" object="Q2M0"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CHTP" minlevel="21" maxlevel="1000" repeat="1" 
+               donequest0="Q2Q2" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MFEL">
+
+   </Battle>
+
+</Quest>

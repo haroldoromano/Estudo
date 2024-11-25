@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MFEL">
+   <Text name="[MONSTER_MFEL_NAME]" description="[MONSTER_MFEL_DESC]" capture="[MONSTER_MFEL_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_FireElemental.png" />
+   <Level min="20" max="25" base="20" levelto="50" />
+   <Skill earth="0" fire="30" air="0" water="0" battle="25" cunning="5" morale="15" />
+   <Resistance earth="0" fire="33" air="0" water="0" />
+   <Add earth="0.00" fire="1.50" air="0.00" water="0.00" battle="1.00" cunning="0.30" morale="0.60" life="2.00" />
+   <Data life="100" mount="0" boss="0" />
+   <Reward minxp="50" maxxp="90" mingold="15" maxgold="40" />
+   <Types type1="Monster" type2="Large" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZFIG"  />
+   <Spell tag="SFSP" learn="1" />
+   <Spell tag="SWOF" learn="1" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="----R---" />
+      <Row data="--R-OR--" />
+      <Row data="--S-*S--" />
+      <Row data="--*RSO--" />
+      <Row data="--SORSR-" />
+      <Row data="RRS*SSOR" />
+      <Row data="**RRSRRO" />
+   </Capture>
+</Monster>

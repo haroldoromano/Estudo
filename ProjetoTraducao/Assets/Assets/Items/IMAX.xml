@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IMAX">
+   <Text  name="[ITEM_IMAX_NAME]" power="[ITEM_IMAX_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="89" />
+   <Restriction	type="level" level="10"/>
+   <Script  file="Assets\Items\IMAX.lua" object="IMAX"/>
+</Item>

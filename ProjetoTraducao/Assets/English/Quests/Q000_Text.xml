@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+   
+   <Text tag="[QUEST_Q000_ACTION]" >Battle the Monster</Text>
+   <Text tag="[QUEST_Q000_RETURN]" >Get Reward</Text>
+   <Text tag="[QUEST_Q000_REWARD]" >You have won and you receive a reward</Text>
+   <Text tag="[QUEST_Q000_KILL]"   >You have defeated the monster</Text>
+   <Text tag="[QUEST_Q000_FAILURE]">You have failed to defeat the monster</Text>
+   <Text tag="[QUEST_Q000_STEP1]"  >You must first go to the destination and battle the monster</Text>
+   <Text tag="[QUEST_Q000_STEP2]"  >You must now return home for your reward</Text>
+   
+</TextLibrary>

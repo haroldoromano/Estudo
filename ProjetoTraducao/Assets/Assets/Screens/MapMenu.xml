@@ -1,0 +1,77 @@
+<Menu x="-102" y="0" width="1228" height="768" timer="on" draw="on" modal="on">
+   <Assets>
+      <Button name="asset_buttclose" active="img_buttclose_act" highlight="img_buttclose_hi" pressed="img_buttclose_pres" grayed="img_buttclose_gray"/>
+      <Button name="asset_buttmini" active="img_buttmini_act" highlight="img_buttmini_hi" pressed="img_buttmini_pres" grayed="img_buttmini_gray"/>
+      <Button name="asset_butthelp" active="img_butthelp_act" highlight="img_butthelp_hi" pressed="img_butthelp_pres" grayed="img_butthelp_gray"/>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttblank" active="img_blank" highlight="img_blank" pressed="img_blank" grayed="img_blank"/>
+      <Button name="asset_dropbutt" active="img_drop_act" highlight="img_drop_hi" pressed="img_drop_pres" grayed="img_drop_gray"/>
+      <Drop name="asset_drop" top="img_drop_dtop" bottom="img_drop_dbot" center="img_drop_dctr" center_hi="img_drop_dctrhi"/>
+	  <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+      <Scroll name="asset_vscroll" background="img_vsbar_bg" thumb="img_vsbar_thumb" inc_active="img_vsbar_incup" inc_pressed="img_vsbar_incdown" inc_grayed="img_vsbar_incgray" dec_active="img_vsbar_decup" dec_pressed="img_vsbar_decdown" dec_grayed="img_vsbar_decgray"/>
+      <Button name="asset_qbutt0" active="img_qbutt0_act" highlight="img_qbutt0_hi" pressed="img_qbutt0_pres" grayed="img_qbutt0_gray"/>
+      <Button name="asset_qbutt1" active="img_qbutt1_act" highlight="img_qbutt1_hi" pressed="img_qbutt1_pres" grayed="img_qbutt1_gray"/>
+      <Button name="asset_qbutt2" active="img_qbutt2_act" highlight="img_qbutt2_hi" pressed="img_qbutt2_pres" grayed="img_qbutt2_gray"/>
+      <Button name="asset_buttplus" active="img_buttplus_act" highlight="img_buttplus_hi" pressed="img_buttplus_pres" grayed="img_buttplus_gray"/>
+      <Button name="asset_buttctr" active="img_buttctr_act" highlight="img_buttctr_hi" pressed="img_buttctr_pres" grayed="img_buttctr_gray"/>
+   </Assets>
+   
+  
+    <GamepadButton   name="gp_inv"    id="30" x="105" y="85" width="62" height="28" buttonwidth="62" textoffsetx="66" textoffsety="2" font="font_button" text="[BLANK]"  graphic_button="img_gamepad_l" sound="asset_buttsound"
+					 gp_button="left_bumper"/>
+   <GamepadButton     name="gp_quests"   id="31"  x="1060" y="85" width="62" height="28"  buttonwidth="62" textoffsetx="66" textoffsety="2" font="font_button" text="[BLANK]" graphic_button="img_gamepad_r" sound="asset_buttsound"
+					 gp_button="right_bumper"/>
+  
+   <Button     name="butt_close"         id="100" x="1097" y="4"   width="20" height="20" key="0" graphic="asset_buttclose" sound="asset_buttsound"/>
+   <Button     name="butt_mini"          id="101" x="1067"  y="4"   width="20" height="20" key="0" graphic="asset_buttmini" sound="asset_buttsound"/>
+   
+   <Button     name="butt_help"          id="150" x="1074"  y="230"   width="20" height="20" key="0" graphic="asset_butthelp" sound="asset_buttsound"/>
+   <Button     name="butt_help_quest"    id="151" x="1074"  y="106"   width="20" height="20" key="0" graphic="asset_butthelp" sound="asset_buttsound"/>
+   <Button     name="butt_help_char"     id="152" x="398"  y="106"   width="20" height="20" key="0" graphic="asset_butthelp" sound="asset_buttsound"/>
+
+   <Button     name="butt_centerhero"    id="160" x="152"  y="200"   width="45" height="45" key="0" graphic="asset_buttctr" sound="asset_buttsound"/>
+
+   <TextButton name="butt_cancel"          id="1"  x="534"  y="716" width="160" height="50" key="0" font="font_button" text="[MENU]" graphic="asset_buttsmall" sound="asset_buttsound"/>
+   <GamepadButton     name="gp_cancel"   id="1"  x="122" y="710" width="100" height="32"  buttonwidth="32" textoffsetx="35" textoffsety="2" font="font_button" text="[MENU]" graphic_button="img_gamepad_start" sound="asset_buttsound"
+					 gp_button="start"/>
+  
+   <Icon       name="icon_left_border"       x="-74"   y="0" width="176" height="95" graphic="img_sidepanel_l_top"/>
+   <Icon       name="icon_right_border"       x="1126"   y="0" width="176" height="95" graphic="img_sidepanel_r_top"/>
+   <Icon       name="icon_border"                  x="102"    y="0"    width="1024"  height="95"  graphic="img_border_top"/>
+  
+   <GamepadButton     name="gp_levelup"   id="15"  x="402" y="101" width="160" height="40"  buttonwidth="40" textoffsetx="44" textoffsety="3" font="font_button" text="[LEVELUP]" graphic_button="img_gamepad_y" sound="asset_buttsound"
+					 gp_button="y"/>
+   <Button     name="butt_levelup"       id="15" x="362" y="107" width="32" height="32" key="0" graphic="asset_buttplus" sound="asset_buttsound"/>
+   <Icon       name="icon_levelup"               x="346"  y="91" width="64" height="64" graphic="anim_redglow"/>
+   
+   <Icon       name="icon_smallhero"               x="132"   y="97" width="290"  height="200" graphic="img_small_hero"/>
+   <Icon       name="icon_smallheropopup"          x="125"   y="99"  width="300"  height="125" graphic="img_mapcharpopup"/>
+   <Pad        name="pad_smallhero"        id="12" x="125"   y="99"  width="300"  height="125" />
+   
+   
+    <Button     name="butt_quest0"         id="20" x="717"  y="128"   width="20" height="20" key="0" graphic="asset_qbutt1" sound="asset_buttsound"/>
+    <Button     name="butt_quest1"         id="21" x="717"  y="150"   width="20" height="20" key="0" graphic="asset_qbutt2" sound="asset_buttsound"/>
+    <Button     name="butt_quest2"         id="22" x="717"  y="172"   width="20" height="20" key="0" graphic="asset_qbutt0" sound="asset_buttsound"/>
+    <Button     name="butt_quest3"         id="23" x="717"  y="194"   width="20" height="20" key="0" graphic="asset_qbutt0" sound="asset_buttsound"/>
+  
+   <String     name="str_name"					   x="817"  y="103"  width="270" height="20" multiline="off" justify="left" font="font_button"/>
+   <String     name="str_description"			   x="817"  y="130"  width="270" height="100" multiline="on" justify="left" font="font_small"/>
+   <Icon       name="icon_quest"                   x="708"  y="103"  width="290" height="200" graphic="img_questpic"/>
+   
+   <Pad        name="pad_map"              id="11" x="702"  y="99"  width="400"  height="125" />
+   <Icon       name="icon_darkpopup"               x="702"  y="99"  width="100"  height="125" graphic="img_darkpopup0"/>
+   <Icon       name="icon_darkpopup"               x="802"  y="99"  width="100"  height="125" graphic="img_darkpopup1"/>
+   <Icon       name="icon_darkpopup"               x="902"  y="99"  width="100"  height="125" graphic="img_darkpopup1"/>
+   <Icon       name="icon_darkpopup"               x="1002"  y="99"  width="100"  height="125" graphic="img_darkpopup2"/>
+   
+   <Pad        name="pad_map"              id="10" x="0"   y="95"  width="1228"  height="673" />
+   <Icon       name="icon_tmsg"                    x="0"    y="0"   width="1228" height="768" graphic="img_tmsg_map"/>
+   <Icon       name="icon_gpcursor"       x="480"   y="325" width="64" height="64" graphic="img_gpcursor"/>
+   <Icon       name="icon_psys"                    x="0"    y="0"   width="1228" height="768" graphic="img_psys_map"/>
+   <Icon       name="icon_map"                     x="0"   y="95"  width="1228"  height="673" graphic="img_campaign_map"/>
+
+   <Icon       name="icon_left"       x="-74"   y="0" width="176" height="768" graphic="img_sidepanel_l"/>
+   <Icon       name="icon_right"       x="1126"   y="0" width="176" height="768" graphic="img_sidepanel_r"/>
+   
+</Menu>

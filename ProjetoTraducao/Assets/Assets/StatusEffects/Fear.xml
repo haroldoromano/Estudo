@@ -1,0 +1,6 @@
+<StatusEffect id="EFEA">
+	<Text		name="[STATUS_FEAR_NAME]" description="[STATUS_FEAR_DESC]" />
+	<Graphics	icon="2"/>
+	<Data		duration="6" stack="1"/>
+	<Script		file="Assets\StatusEffects\Fear.lua" object="Fear"/>
+</StatusEffect>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Quest id="Q0I1">
+
+   <Text  name="[QUEST_Q0I1_NAME]" description="[QUEST_Q0I1_DESC]" group=""   file="English\Quests\Q0I1_Text.xml"/>
+   <Script  file="Assets\Quests\Q0I1.lua" object="Q0I1"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CBAR" minlevel="3" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q0" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MGSP">
+
+      <Name  tag="[QUEST_Q0I1_QMNAME0]"  help="[QUEST_Q0I1_QMHELP0]"  />
+      <Add  earth="4" fire="0" air="0" water="0" />
+      <Add  level="0" life="5" />
+      <Spell  id="SHWL" />
+   </Battle>
+
+</Quest>

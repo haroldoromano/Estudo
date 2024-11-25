@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1Q0_ACTION]">Battle the Orc Lord</Text>
+   <Text tag="[QUEST_Q1Q0_FAILURE]">You have failed to defeat the Orc Lord - you must try again.</Text>
+   <Text tag="[QUEST_Q1Q0_RETURN]">Report your Success</Text>
+   <Text tag="[QUEST_Q1Q0_REWARD]">The Elders of Dhun-Kor are grateful for your help. They reward you with much gold and a Dwarven Axe.</Text>
+   <Text tag="[QUEST_Q1Q0_STEP1]">You must travel to the 4 Orc villages east of Dhun-Kor and defeat their leaders.</Text>
+   <Text tag="[QUEST_Q1Q0_STEP2]">You have defeated one Orc Lord. Three more remain in the villages east of Dhun-Khor.</Text>
+   <Text tag="[QUEST_Q1Q0_STEP3]">You have defeated two Orc Lords. Two more remain in the villages east of Dhun-Kor.</Text>
+   <Text tag="[QUEST_Q1Q0_STEP4]">You have defeated three Orc Lords. Only one remains in a village east of Dhun-Khor.</Text>
+   <Text tag="[QUEST_Q1Q0_STEP5]">You must report your success to the elders of Dhun-Kor.</Text>
+
+</TextLibrary>

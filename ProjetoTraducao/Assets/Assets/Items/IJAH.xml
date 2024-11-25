@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IJAH">
+   <Text  name="[ITEM_IJAH_NAME]" power="[ITEM_IJAH_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="780" rarity="0" />
+   <Graphics  icon="88" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IJAH.lua" object="IJAH"/>
+</Item>

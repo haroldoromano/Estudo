@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QK06_ACTION]">Search for the button</Text>
+   <Text tag="[QUEST_QK06_BUTTON]">You have found the button. It is in the possession of a Dark Dwarf.</Text>
+   <Text tag="[QUEST_QK06_FAILURE]">You have failed to retrieve the button. You must keep trying.</Text>
+   <Text tag="[QUEST_QK06_NOCOMP]">You need Khalkus in your party to put the Great Machine together.</Text>
+   <Text tag="[QUEST_QK06_REWARD]">You now own the Shield of Albion (and Khalkus has the Great Machine).</Text>
+   <Text tag="[QUEST_QK06_STEP1]">You must travel to Kal-Ungar and search for the missing button.</Text>
+
+</TextLibrary>

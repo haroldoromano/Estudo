@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q0Q4_ACTION0]">Visit the Riverguard</Text>
+   <Text tag="[QUEST_Q0Q4_ACTION1]">Find Darkhunter</Text>
+   <Text tag="[QUEST_Q0Q4_ACTION2]">Release Moarg</Text>
+   <Text tag="[QUEST_Q0Q4_COMPANION]">Darkhunter joins you as a Companion.  You may view your list of Companions in your Hero&apos;s Inventory.</Text>
+   <Text tag="[QUEST_Q0Q4_END_DEMO]">The story continues in the full version of Puzzle Quest.</Text>
+   <Text tag="[QUEST_Q0Q4_END_HDR]">Demo</Text>
+   <Text tag="[QUEST_Q0Q4_MAETHELBURG]">Maethelburg is an imposing city on a hill overlooking the River Maethel.  At the very center of the city is an enormous Red Tower - the home of the Riverguard.</Text>
+   <Text tag="[QUEST_Q0Q4_PROGRESS0]">You must first travel to Maethelburg.</Text>
+   <Text tag="[QUEST_Q0Q4_PROGRESS1]">You must take Moarg to the Riverguard in Maethelburg, or set him free in Skellheim.</Text>
+   <Text tag="[QUEST_Q0Q4_PROGRESS2]">You must return to Darkhunter in Gallia.</Text>
+   <Text tag="[QUEST_Q0Q4_REWARD]">Darkhunter&apos;s business in the Borderlands is finally complete.  You may now travel north.</Text>
+   <Text tag="[QUEST_Q0Q4_SWORD]">Before he departs, Moarg gives you the sword as promised.  You have received Sir Ector&apos;s Sword.</Text>
+
+</TextLibrary>

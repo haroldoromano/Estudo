@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SCHE">
+   <Text  name="[SPELL_SCHE_NAME]" description="[SPELL_SCHE_DESC]" detail="[SPELL_SCHE_DETL]"/>
+   <Cost  earth="0" fire="3" air="3" water="3" />
+   <Learn  score="400" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SCHE.lua" object="SCHE"/>
+</Spell>

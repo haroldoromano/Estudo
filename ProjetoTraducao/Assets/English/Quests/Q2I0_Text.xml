@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2I0_ACTION]">Battle Arik the Minotaur King</Text>
+   <Text tag="[QUEST_Q2I0_FAILURE]">Arik enjoyed defeating you. He welcomes another attempt.</Text>
+   <Text tag="[QUEST_Q2I0_REWARD]">Having defeated Arik, you claim your prize: the Drowning Helm.</Text>
+   <Text tag="[QUEST_Q2I0_QMNAME0]">Arik</Text>
+   <Text tag="[QUEST_Q2I0_QMHELP0]">Arik can use the Blue Mana from his magical helm to help cast the Freeze spell.</Text>
+
+</TextLibrary>

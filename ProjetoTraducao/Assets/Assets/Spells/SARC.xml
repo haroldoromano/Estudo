@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SARC">
+   <Text  name="[SPELL_SARC_NAME]" description="[SPELL_SARC_DESC]" detail="[SPELL_SARC_DETL]"/>
+   <Cost  earth="0" fire="4" air="7" water="0" />
+   <Learn  score="750" masks="1" keys="1" />
+   <Data  cooldown="3" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SARC.lua" object="SARC"/>
+</Spell>

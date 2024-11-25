@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Monster id="MGNL">
+   <Text name="[MONSTER_MGNL_NAME]" description="[MONSTER_MGNL_DESC]" capture="[MONSTER_MGNL_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Gnoll.png" />
+   <Level min="16" max="20" base="16" levelto="50" />
+   <Skill earth="4" fire="3" air="1" water="2" battle="4" cunning="9" morale="3" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.40" fire="0.20" air="0.20" water="0.20" battle="0.50" cunning="1.00" morale="0.20" life="2.00" />
+   <Data life="80" mount="0" boss="0" />
+   <Reward minxp="30" maxxp="50" mingold="50" maxgold="70" />
+   <Types type1="Evil" type2="Monster" type3="" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZORC"  />
+   <Item tag="ILEH"  />
+   <Item tag="ILEA"  />
+   <Item tag="IGKR"  />
+   <Item tag="IGPK"  />
+   <Spell tag="SSBD" learn="1" />
+   <Spell tag="SHID" learn="0" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="---GS---" />
+      <Row data="---YY*--" />
+      <Row data="--*SX*--" />
+      <Row data="-*SYYS*-" />
+      <Row data="*GGYYGG*" />
+      <Row data="SSGSSGSS" />
+   </Capture>
+</Monster>

@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ESEG">
+   <Description text="Elven Guard" />
+   <Location start="CSIL" end="WALF" index="2" />
+   <Sprite id="ZCAV" />
+   <Script file="Assets\Encounters\ESEG.lua" object="ESEG" />
+</Encounter>

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Quest id="QS00">
+
+   <Text  name="[QUEST_QS00_NAME]" description="[QUEST_QS00_DESC]" group=""   file="English\Quests\QS00_Text.xml"/>
+   <Script  file="Assets\Quests\QS00.lua" object="QS00"/>
+   <Data  abandon="no" icon="1" important="no" />
+
+   <Available  location="CHTP" minlevel="20" maxlevel="1000" repeat="1" 
+               donequest0="Q2Q3" donequest1="Q0I5" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NSER" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MIMG">
+
+      <Add  battle="0" cunning="0" morale="2" />
+   </Battle>
+
+</Quest>

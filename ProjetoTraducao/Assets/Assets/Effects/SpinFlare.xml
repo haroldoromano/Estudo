@@ -1,0 +1,30 @@
+<?xml version="1.0"?> 
+<Effect name="SpinFlare" bitmap="bmp_skin_battlemisc" type="oneshot" duration="2.0">
+
+	<Initialize parameter="source_x"	value="0" />
+	<Initialize parameter="source_y"	value="462" />
+	<Initialize parameter="source_w"	value="200" />
+	<Initialize parameter="source_h"	value="50" />
+	
+	<Initialize parameter="dest_x"		value="-150" />
+	<Initialize parameter="dest_y"		value="-37" />
+	<Initialize parameter="dest_w"		value="300" />
+	<Initialize parameter="dest_h"		value="75" />
+	
+	<Initialize parameter="alpha"		value="0.5" />
+	<Initialize parameter="rotation"	value="0.0" />
+	<Initialize parameter="color_r"		value="1.0" />
+	<Initialize parameter="color_g"		value="1.0" />
+	<Initialize parameter="color_b"		value="1.0" />
+
+	<Animate	parameter="alpha"		value="1.0"		time="1.0"	method="linear" />
+	<Animate	parameter="alpha"		value="0.0"		time="2.0"	method="linear" />
+
+	<Animate	parameter="rotation"	value="28.0"	time="2.0"	method="linear" />
+
+	<Animate 	parameter="dest_x"		value="-250"	time="2.0"	method="linear" />
+	<Animate 	parameter="dest_y"		value="-75"		time="2.0"	method="linear" />
+	<Animate 	parameter="dest_w"		value="500"		time="2.0"	method="linear" />
+	<Animate 	parameter="dest_h"		value="150"		time="2.0"	method="linear" />
+		
+</Effect>

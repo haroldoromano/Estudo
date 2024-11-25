@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2I3_ACTION]">Battle the Minotaurs</Text>
+   <Text tag="[QUEST_Q2I3_FAILURE]">You have failed to defeat the Minotaur tribe. The havok continues across the Realms.</Text>
+   <Text tag="[QUEST_Q2I3_REWARD]">You have defeated the Minotaur tribe.  All will be quiet for a short time.</Text>
+
+</TextLibrary>

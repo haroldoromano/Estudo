@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SBNA">
+   <Text  name="[SPELL_SBNA_NAME]" description="[SPELL_SBNA_DESC]" detail="[SPELL_SBNA_DETL]"/>
+   <Cost  earth="0" fire="0" air="5" water="0" />
+   <Learn  score="500" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SBNA.lua" object="SBNA"/>
+</Spell>

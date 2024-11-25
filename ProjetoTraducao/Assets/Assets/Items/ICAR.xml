@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ICAR">
+   <Text  name="[ITEM_ICAR_NAME]" power="[ITEM_ICAR_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="69" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ICAR.lua" object="ICAR"/>
+</Item>

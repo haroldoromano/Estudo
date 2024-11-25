@@ -1,0 +1,36 @@
+<Menu x="252" y="116" width="520" height="536" timer="off" draw="off" modal="on">
+   <Assets>
+      <Button name="asset_butttiny" active="img_butttiny_act" highlight="img_butttiny_hi" pressed="img_butttiny_pres" grayed="img_butttiny_gray"/>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttplus" active="img_buttplus_act" highlight="img_buttplus_hi" pressed="img_buttplus_pres" grayed="img_buttplus_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   
+   <GamepadButton     name="gp_okay"     id="0" x="296" y="418" width="200" height="35" buttonwidth="35" textoffsetx="38" textoffsety="3" font="font_script_medium" text="[FIGHT_LOWER]"  graphic_button="img_gamepad_a" sound="asset_buttsound"
+					 gp_button="a"/>
+   <GamepadButton     name="gp_cancel"   id="1"  x="64" y="418" width="200" height="35"  buttonwidth="35" textoffsetx="38" textoffsety="3" font="font_script_medium" text="[CANCEL]" graphic_button="img_gamepad_b" sound="asset_buttsound"
+					 gp_button="b"/>
+   <GamepadButton     name="gp_avoid"     id="3" x="64"  y="380" width="200" height="35" buttonwidth="35" textoffsetx="38" textoffsety="3" font="font_script_medium" text="[AVOID]"  graphic_button="img_gamepad_x" sound="asset_buttsound"
+					 gp_button="x"/>
+   <GamepadButton     name="gp_capture"   id="2"  x="296" y="380" width="200" height="35"  buttonwidth="35" textoffsetx="38" textoffsety="3" font="font_script_medium" text="[CAPTURE]" graphic_button="img_gamepad_y" sound="asset_buttsound"
+					 gp_button="y"/>
+   
+   <Icon       name="icon_mimpics"        x="-252"   y="-116" width="1024" height="768" graphic="img_mimpics"/>
+   
+   <String    name="str_title"				   x="0"   y="60"  width="520" height="40" multiline="off" justify="center" font="font_script_large"/>
+   <String    name="str_message1"              x="100"   y="120"  width="320" height="120"  multiline="on" justify="center" vjustify="center" font="font_script_small"/>
+   <String    name="str_message2"              x="100"   y="240"  width="320" height="120"  multiline="on" justify="center" vjustify="center" font="font_script_small"/>
+   
+   <TextButton name="butt_avoid"		   id="3" x="64"   y="380" width="160" height="35" textoffsety="-2" key="13" font="font_system" text="[AVOID]" graphic="asset_butttiny" sound="asset_buttsound"/>
+   <TextButton name="butt_capture"		   id="2" x="296"  y="380" width="160" height="35" textoffsety="-2" key="13" font="font_system" text="[CAPTURE]" graphic="asset_butttiny" sound="asset_buttsound"/>
+   <TextButton name="butt_okay"			   id="0" x="296"  y="418" width="160" height="35" textoffsety="-2" key="13" font="font_system" text="[FIGHT_]" graphic="asset_butttiny" sound="asset_buttsound"/>
+   <TextButton name="butt_cancel"          id="1" x="64" y="418" width="160" height="35" textoffsety="-2" key="27" font="font_system" text="[CANCEL]" graphic="asset_butttiny" sound="asset_buttsound"/>
+   
+   
+   <Icon       name="icon_dlg"          x="-10"      y="0"    width="540" height="536" graphic="img_bigscroll"/>
+   
+   <Icon       name="icon_mist"                  x="-252"  y="-116" width="1024" height="768" graphic="img_mist"/>
+   
+   <Icon       name="icon_static"       x="-252"   y="-116" width="1024" height="768" graphic="img_backdrop_fading"/>
+</Menu>

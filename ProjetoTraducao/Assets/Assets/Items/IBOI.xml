@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IBOI">
+   <Text  name="[ITEM_IBOI_NAME]" power="[ITEM_IBOI_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="500" rarity="0" />
+   <Graphics  icon="4" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IBOI.lua" object="IBOI"/>
+</Item>

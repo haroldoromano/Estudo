@@ -1,0 +1,6 @@
+<StatusEffect id="EHOP">
+	<Text		name="[STATUS_HANDOFPOWERED_NAME]" description="[STATUS_HANDOFPOWERED_DESC]" />
+	<Graphics	icon="21"/>
+	<Data		duration="6" stack="2"/>
+	<Script		file="Assets\StatusEffects\HandOfPowered.lua" object="HandOfPowered"/>
+</StatusEffect>

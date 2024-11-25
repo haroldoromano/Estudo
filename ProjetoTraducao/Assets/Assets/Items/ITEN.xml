@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ITEN">
+   <Text  name="[ITEM_ITEN_NAME]" power="[ITEM_ITEN_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="99" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ITEN.lua" object="ITEN"/>
+</Item>

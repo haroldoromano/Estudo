@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ILAN">
+   <Text  name="[ITEM_ILAN_NAME]" power="[ITEM_ILAN_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="40" rarity="8" />
+   <Graphics  icon="13" />
+   <Restriction	type="skill" skill="morale" level="5"/>
+   <Script  file="Assets\Items\ILAN.lua" object="ILAN"/>
+</Item>

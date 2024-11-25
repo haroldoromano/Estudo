@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SLIS">
+   <Text  name="[SPELL_SLIS_NAME]" description="[SPELL_SLIS_DESC]" detail="[SPELL_SLIS_DETL]"/>
+   <Cost  earth="12" fire="0" air="18" water="12" />
+   <Learn  score="1050" masks="1" keys="1" />
+   <Data  cooldown="0" />
+   <Input  type="column" />
+   <Script  file="Assets\Spells\SLIS.lua" object="SLIS"/>
+</Spell>

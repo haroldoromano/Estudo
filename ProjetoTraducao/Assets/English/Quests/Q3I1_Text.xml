@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3I1_ACTION]">Battle the Undead</Text>
+   <Text tag="[QUEST_Q3I1_FAILURE]">You have failed to win back the mine.</Text>
+   <Text tag="[QUEST_Q3I1_KILL]">You have defeated the Undead. The mine is back in Elven hands.</Text>
+   <Text tag="[QUEST_Q3I1_RETURN]">Report victory to Queen</Text>
+   <Text tag="[QUEST_Q3I1_REWARD]">The Queen displays her gratitude in reclaiming the Ice Crystal Mine.</Text>
+   <Text tag="[QUEST_Q3I1_STEP1]">You must journey to the Ice Crystal Mine and reclaim it from the Undead.</Text>
+   <Text tag="[QUEST_Q3I1_STEP2]">You must now return to Ehlariel and report your victory to Queen Ehlanna.</Text>
+
+</TextLibrary>

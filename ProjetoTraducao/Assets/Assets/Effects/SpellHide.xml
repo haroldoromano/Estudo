@@ -1,0 +1,39 @@
+<?xml version="1.0"?> 
+<Effect name="SpellHide" bitmap="bmp_skin_battlemisc" type="oneshot" duration="2.5">
+
+	<Child      name="RingRed"			type="particle"	time="0.5" duration="1.5" x="75" y="75" position="global" />
+	
+	<Initialize parameter="source_x"	value="404" />
+	<Initialize parameter="source_y"	value="257" />
+	<Initialize parameter="source_w"	value="100" />
+	<Initialize parameter="source_h"	value="100" />
+	
+	<Initialize parameter="dest_x"		value="-25" />
+	<Initialize parameter="dest_y"		value="-25" />
+	<Initialize parameter="dest_w"		value="50" />
+	<Initialize parameter="dest_h"		value="50" />
+	
+	<Initialize parameter="alpha"		value="0.0" />
+	<Initialize parameter="rotation"	value="0.0" />
+	<Initialize parameter="color_r"		value="1.0" />
+	<Initialize parameter="color_g"		value="1.0" />
+	<Initialize parameter="color_b"		value="1.0" />
+
+	<Animate	parameter="alpha"		value="0.8"		time="0.1"	method="linear" />
+	<Animate	parameter="alpha"		value="1.0"		time="0.6"	method="linear" />
+	<Animate	parameter="alpha"		value="1.0"		time="1.5"	method="linear" />
+	<Animate	parameter="alpha"		value="0.0"		time="2.5"	method="linear" />
+	
+	<Animate	parameter="dest_x"		value="-150"	time="1.0"	method="linear" />
+	<Animate	parameter="dest_y"		value="-150"	time="1.0"	method="linear" />
+	<Animate	parameter="dest_w"		value="300"		time="1.0"	method="linear" />
+	<Animate	parameter="dest_h"		value="300"		time="1.0"	method="linear" />
+	<Animate	parameter="rotation"	value="0.6"		time="1.0"	method="linear" />
+		
+	<Animate	parameter="dest_x"		value="-200"	time="2.5"	method="linear" />
+	<Animate	parameter="dest_y"		value="-200"	time="2.5"	method="linear" />
+	<Animate	parameter="dest_w"		value="400"		time="2.5"	method="linear" />
+	<Animate	parameter="dest_h"		value="400"		time="2.5"	method="linear" />
+	<Animate	parameter="rotation"	value="8.0"		time="2.5"	method="linear" />
+		
+</Effect>

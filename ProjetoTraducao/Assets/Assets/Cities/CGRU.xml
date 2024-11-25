@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<City id="CGRU">
+   <Text name="[CITY_CGRU_NAME]" description="[CITY_CGRU_DESC]"/>
+   <Graphics icon="8" type="1"/>
+   <Data x="1930" y="1087" level="0" visible="no" income="100" />
+   <Item tag="ITWP"/>
+   <Item tag="IWLS"/>
+   <Item tag="IGTS"/>
+   <Item tag="IFMO"/>
+   <Spell tag="SCTH"/>
+   <Spell tag="SBAC"/>
+   <Spell tag="SHGO"/>
+</City>

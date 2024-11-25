@@ -1,0 +1,10 @@
+<Particle name="SmallSmoke" texture="Smoke.png" radius="1" lifetime="0">
+	<Number max="10" release="1" interval="0.15" life="1.5" />
+	<Graphics blend="alpha" size="0.1" r="0.9" g="0.9" b="0.9" a="1.0"/>
+	<Animation size="0.5" r="0.8" g="0.8" b="0.8" a="0.0" start="0.3"/>
+	<Position x="0.0" y="0.0" z="0.0" var="0.0"/>
+	<Velocity x="0.0" y="0.3" z="0.0" var="0.2"/>
+	<Gravity x="0.0" y="0.0" z="0.0"/>
+	<Forces airresistance="on" wind="on"/>
+	<Shape steps="1"/>
+</Particle>

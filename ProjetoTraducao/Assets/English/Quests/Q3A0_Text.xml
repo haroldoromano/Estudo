@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3A0_ACTION]">Battle the Medusa</Text>
+   <Text tag="[QUEST_Q3A0_FAILURE]">The Medusa almost turned you into an Ice Statue!  You must try to stop her.</Text>
+   <Text tag="[QUEST_Q3A0_REWARD]">Having defeated the Medusa, you take her treasure.</Text>
+
+</TextLibrary>

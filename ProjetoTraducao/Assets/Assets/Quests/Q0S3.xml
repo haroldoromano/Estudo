@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Quest id="Q0S3">
+
+   <Text  name="[QUEST_Q0S3_NAME]" description="[QUEST_Q0S3_DESC]" group=""   file="English\Quests\Q0S3_Text.xml"/>
+   <Script  file="Assets\Quests\Q0S3.lua" object="Q0S3"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CBAR" minlevel="11" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q0" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MORC">
+
+      <Name   help="[QUEST_Q0S3_QMHELP0]"  />
+      <Add  earth="0" fire="0" air="2" water="0" />
+      <Add  battle="4" cunning="0" morale="1" />
+      <Add  level="4" life="10" />
+      <Item  id="IMCL" />
+      <Spell  id="SSTU" />
+   </Battle>
+
+</Quest>

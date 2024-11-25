@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1D1_ACTION]">Fight the Ice Troll</Text>
+   <Text tag="[QUEST_Q1D1_FAILURE]">That Troll was tough! You will need to enter the cave again.</Text>
+   <Text tag="[QUEST_Q1D1_KILL]">You wrap the Ice Troll in cloth to take back to Drong.</Text>
+   <Text tag="[QUEST_Q1D1_RETURN]">Visit Drong</Text>
+   <Text tag="[QUEST_Q1D1_REWARD]">Drong gives you finely crafted magical staff.</Text>
+   <Text tag="[QUEST_Q1D1_STEP1]">You must travel to the Troll Hole, north of Theira in search of an Ice Troll.</Text>
+   <Text tag="[QUEST_Q1D1_STEP2]">You must return the Ice Troll to Drong&apos;s Tower.</Text>
+   <Text tag="[QUEST_Q1D1_QMNAME0]">Ice Troll</Text>
+   <Text tag="[QUEST_Q1D1_QMHELP0]">Ice Trolls live in the cold northern areas.  They can Freeze their foes.</Text>
+
+</TextLibrary>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<Monster id="MOLO">
+   <Text name="[MONSTER_MOLO_NAME]" description="[MONSTER_MOLO_DESC]" capture="[MONSTER_MOLO_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Orc.png" />
+   <Level min="16" max="21" base="16" levelto="45" />
+   <Skill earth="3" fire="3" air="1" water="1" battle="12" cunning="5" morale="8" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.30" fire="0.40" air="0.20" water="0.20" battle="1.40" cunning="0.40" morale="0.70" life="2.00" />
+   <Data life="90" mount="0" boss="0" />
+   <Reward minxp="30" maxxp="60" mingold="40" maxgold="65" />
+   <Types type1="Orc" type2="" type3="Evil" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZORC"  />
+   <Item tag="ISCH"  />
+   <Item tag="ISCA"  />
+   <Item tag="IGMA"  />
+   <Item tag="ISCB"  />
+   <Spell tag="SCTH" learn="1" />
+   <Spell tag="SHBT" learn="1" />
+   <Spell tag="SENR" learn="0" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="-*-SS-*-" />
+      <Row data="-S-SS-S-" />
+      <Row data="-G*GG*G-" />
+      <Row data="-S*GG*S-" />
+      <Row data="SSYSSYXS" />
+      <Row data="SYSYYSYS" />
+   </Capture>
+</Monster>

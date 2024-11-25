@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IBSH">
+   <Text  name="[ITEM_IBSH_NAME]" power="[ITEM_IBSH_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="43" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IBSH.lua" object="IBSH"/>
+</Item>

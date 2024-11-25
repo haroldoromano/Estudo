@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SRNC">
+   <Text  name="[SPELL_SRNC_NAME]" description="[SPELL_SRNC_DESC]" detail="[SPELL_SRNC_DETL]"/>
+   <Cost  earth="9" fire="9" air="9" water="9" />
+   <Learn  score="250" masks="1" keys="2" />
+   <Data  cooldown="5" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SRNC.lua" object="SRNC"/>
+</Spell>

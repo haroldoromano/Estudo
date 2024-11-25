@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Quest id="Q0I3">
+
+   <Text  name="[QUEST_Q0I3_NAME]" description="[QUEST_Q0I3_DESC]" group="[QG_SELE_NAME]"   file="English\Quests\Q0I3_Text.xml"/>
+   <Script  file="Assets\Quests\Q0I3.lua" object="Q0I3"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CENM" minlevel="7" maxlevel="1000" repeat="1" 
+               donequest0="Q0I2" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MMIN">
+
+      <Name  tag="[QUEST_Q0I3_QMNAME0]"  help="[QUEST_Q0I3_QMHELP0]"  />
+      <Add  battle="0" cunning="2" morale="0" />
+      <Add  level="1" life="0" />
+      <Item  id="IWHP" />
+      <Item  id="ISCH" />
+   </Battle>
+
+</Quest>

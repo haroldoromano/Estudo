@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IMCL">
+   <Text  name="[ITEM_IMCL_NAME]" power="[ITEM_IMCL_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="910" rarity="0" />
+   <Graphics  icon="96" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IMCL.lua" object="IMCL"/>
+</Item>

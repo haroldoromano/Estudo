@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Companion id="NELI">
+   <Text  name="[COMP_NELI_NAME]" description="[COMP_NELI_DESC]" activate="[COMP_NELI_ACTV]"  depart="[COMP_NELI_DEPT]"  goodbye="[COMP_NELI_GBYE]" 
+          race="[COMP_NELI_RACE]" gender="[COMP_NELI_GNDR]" flavor="[COMP_NELI_FLAV]"  age="612" />
+   <Data  home="CYLA" portrait="Assets\Portraits\Portrait_NPC_Elistara.png" uses="0" />
+   <Script  file="Assets\Companions\NELI.lua" object="NELI"/>
+</Companion>

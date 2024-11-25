@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q3Q2_ACTION]">Defend Ylarie</Text>
+   <Text tag="[QUEST_Q3Q2_FAILURE]">You are losing the battle!  You must continue fighting.</Text>
+   <Text tag="[QUEST_Q3Q2_PROGRESS1]">You must remain in Ylarie, defending against the Undead attackers.</Text>
+   <Text tag="[QUEST_Q3Q2_REWARD]">Ylarie has been saved. The High Elves reward you for your help.</Text>
+   <Text tag="[QUEST_Q3Q2_SUCCESS1]">You have defeated the first wave of attackers.</Text>
+   <Text tag="[QUEST_Q3Q2_SUCCESS2]">You have defeated the second wave of attackers.</Text>
+   <Text tag="[QUEST_Q3Q2_SUCCESS3]">You have defeated the third wave of attackers.</Text>
+
+</TextLibrary>

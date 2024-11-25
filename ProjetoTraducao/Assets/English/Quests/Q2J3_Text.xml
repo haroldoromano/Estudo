@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2J3_ACTION]">Take the Boots</Text>
+   <Text tag="[QUEST_Q2J3_FAILURE]">You have failed to defeat Jarl. You must try again.</Text>
+   <Text tag="[QUEST_Q2J3_KILL]">You have defeated Jarl. You now have the Boots.</Text>
+   <Text tag="[QUEST_Q2J3_RETURN]">Return the Boots</Text>
+   <Text tag="[QUEST_Q2J3_REWARD]">Jotun rewards you for returning his Boots.</Text>
+   <Text tag="[QUEST_Q2J3_STEP1]">You must travel to Jarl&apos;s Keep and retrieve the Boots.</Text>
+   <Text tag="[QUEST_Q2J3_STEP2]">You must return the Boots to Jotun&apos;s Keep.</Text>
+   <Text tag="[QUEST_Q2J3_QMNAME0]">Jarl</Text>
+
+</TextLibrary>

@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Monster id="MHAR">
+   <Text name="[MONSTER_MHAR_NAME]" description="[MONSTER_MHAR_DESC]" capture="[MONSTER_MHAR_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Harpy.png" />
+   <Level min="8" max="14" base="8" levelto="23" />
+   <Skill earth="0" fire="8" air="10" water="5" battle="7" cunning="5" morale="3" />
+   <Add earth="0.20" fire="0.20" air="0.20" water="0.20" battle="0.50" cunning="0.20" morale="0.20" life="3.00" />
+   <Data life="75" mount="0" />
+   <Reward minxp="40" maxxp="70" mingold="50" maxgold="90" />
+   <Types type1="Monster" type2="Evil" type3="Flying" type4="" />
+   <Mount speed="0" fly="1" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZHPY"  />
+   <Item tag="IHCL"  />
+   <Spell tag="SCHM" learn="1" />
+   <Spell tag="SSWP" learn="0" />
+   <Capture>
+      <Row data="---S----" />
+      <Row data="--YS----" />
+      <Row data="--BO----" />
+      <Row data="--YS--S-" />
+      <Row data="--OSO-OS" />
+      <Row data="YYGYRYYS" />
+      <Row data="BBGBXBBO" />
+      <Row data="YYSYGYYO" />
+   </Capture>
+</Monster>

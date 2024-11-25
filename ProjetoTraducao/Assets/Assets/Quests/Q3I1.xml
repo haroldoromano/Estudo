@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q3I1">
+
+   <Text  name="[QUEST_Q3I1_NAME]" description="[QUEST_Q3I1_DESC]" group="[QG_ICEQ_NAME]"   file="English\Quests\Q3I1_Text.xml"/>
+   <Script  file="Assets\Quests\Q3I1.lua" object="Q3I1"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CEHL" minlevel="26" maxlevel="1000" repeat="1" 
+               donequest0="Q3I0" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MLIC">
+
+   </Battle>
+
+</Quest>

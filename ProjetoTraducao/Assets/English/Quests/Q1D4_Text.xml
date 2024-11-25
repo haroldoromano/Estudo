@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1D4_ACTION]">Search for a Sea Serpent</Text>
+   <Text tag="[QUEST_Q1D4_FAILURE]">The Sea Serpent slips away beneath the waves.  You will need to keep searching.</Text>
+   <Text tag="[QUEST_Q1D4_KILL]">You have defeated the Sea Serpent. Now you just need to get it back to Drong.</Text>
+   <Text tag="[QUEST_Q1D4_RETURN]">Visit Drong</Text>
+   <Text tag="[QUEST_Q1D4_REWARD]">Drong joins you.  He will do +10 damage to any animals you fight at the beginning of a battle.</Text>
+   <Text tag="[QUEST_Q1D4_STEP1]">You must travel to Drakenburg and search for a Sea Serpent.</Text>
+   <Text tag="[QUEST_Q1D4_STEP2]">You must return the Sea Serpent to Drong in his Tower.</Text>
+
+</TextLibrary>

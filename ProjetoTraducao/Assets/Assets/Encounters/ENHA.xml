@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="ENHA">
+   <Description text="Harpy" />
+   <Location start="CEHL" end="WRAG" index="0" />
+   <Sprite id="ZHPY" />
+   <Script file="Assets\Encounters\ENHA.lua" object="ENHA" />
+</Encounter>

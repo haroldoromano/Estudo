@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EESK">
+   <Description text="Bartonia-Elenia : Skeleton" />
+   <Location start="CBAR" end="WELE" index="0" />
+   <Sprite id="ZSKE" />
+   <Script file="Assets\Encounters\EESK.lua" object="EESK" />
+</Encounter>

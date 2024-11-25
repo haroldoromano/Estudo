@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IMAR">
+   <Text  name="[ITEM_IMAR_NAME]" power="[ITEM_IMAR_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="580" rarity="3" />
+   <Graphics  icon="21" />
+   <Restriction	type="skill" skill="battle" level="4"/>
+   <Script  file="Assets\Items\IMAR.lua" object="IMAR"/>
+</Item>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="QA03">
+
+   <Text  name="[QUEST_QA03_NAME]" description="[QUEST_QA03_DESC]" group=""   file="English\Quests\QA03_Text.xml"/>
+   <Script  file="Assets\Quests\QA03.lua" object="QA03"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CYLA" minlevel="17" maxlevel="1000" repeat="1" 
+               donequest0="QA02" donequest1="Q3Q1" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NDKH" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MLIA">
+
+   </Battle>
+
+</Quest>

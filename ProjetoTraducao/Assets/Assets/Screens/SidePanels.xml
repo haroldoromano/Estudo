@@ -1,0 +1,5 @@
+<Menu x="-102" y="0" width="1228" height="768" timer="on" draw="off" modal="off">
+   <Icon       name="icon_left"       x="-74"   y="0" width="176" height="768" graphic="img_sidepanel_l"/>
+   <Icon       name="icon_right"       x="1126"   y="0" width="176" height="768" graphic="img_sidepanel_r"/>
+   
+</Menu>

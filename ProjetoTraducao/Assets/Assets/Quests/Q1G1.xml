@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Quest id="Q1G1">
+
+   <Text  name="[QUEST_Q1G1_NAME]" description="[QUEST_Q1G1_DESC]" group="[QG_GOTR_NAME]"   file="English\Quests\Q1G1_Text.xml"/>
+   <Script  file="Assets\Quests\Q1G1.lua" object="Q1G1"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CGRU" minlevel="15" maxlevel="1000" repeat="1" 
+               donequest0="Q1Q1" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MGWA">
+
+   </Battle>
+   <Battle  monster="MTRO">
+
+      <Name  tag="[QUEST_Q1G1_QMNAME1]"  help="[QUEST_Q1G1_QMHELP1]"  />
+      <Add  earth="0" fire="0" air="0" water="5" />
+      <Add  battle="2" cunning="0" morale="0" />
+      <Add  level="3" life="0" />
+      <Spell  id="SFRZ" />
+   </Battle>
+
+</Quest>

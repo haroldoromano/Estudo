@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QA04_ACTION]">Enter the Red Tower</Text>
+   <Text tag="[QUEST_QA04_NOCOMP]">You must have Darkhunter with you before entering the Red Tower.</Text>
+   <Text tag="[QUEST_QA04_REWARD]">Liandra&apos;s ashes have been returned home.</Text>
+   <Text tag="[QUEST_QA04_STEP1]">You must travel to Maethelburg and enter the Red Tower.</Text>
+
+</TextLibrary>

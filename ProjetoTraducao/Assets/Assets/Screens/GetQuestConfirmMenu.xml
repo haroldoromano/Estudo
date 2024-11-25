@@ -1,0 +1,26 @@
+<Menu x="450" y="380" width="353" height="256" timer="off" draw="off" modal="off">
+   <Assets>
+      <Button name="asset_butttiny" active="img_butttiny_act" highlight="img_butttiny_hi" pressed="img_butttiny_pres" grayed="img_butttiny_gray"/>
+      <Button name="asset_buttsmall" active="img_buttsmall_act" highlight="img_buttsmall_hi" pressed="img_buttsmall_pres" grayed="img_buttsmall_gray"/>
+      <Button name="asset_buttscroll" active="img_scrollbutt_act" highlight="img_scrollbutt_hi" pressed="img_scrollbutt_pres" grayed="img_scrollbutt_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   
+   <String     name="str_title"				    x="0"   y="36"  width="345" height="25" text="[GETQUESTS]" multiline="off" justify="center" font="font_script_medium"/>
+   <String     name="str_description"		    x="50"  y="65"  width="246" height="115" text="[GETQUESTS]" multiline="on" justify="center" font="font_script_small"/>
+   
+   <TextButton name="butt_okay"			   id="10" x="185"  y="180" width="128" height="35" textoffsety="-4" key="13" font="font_system" text="[ACCEPTQUEST]" graphic="asset_butttiny" sound="asset_buttsound"/>
+   <TextButton name="butt_cancel"          id="11" x="35" y="180" width="128" height="35" textoffsety="-4" key="27" font="font_system" text="[CANCEL]" graphic="asset_butttiny" sound="asset_buttsound"/>
+
+   <GamepadButton     name="gp_okay"     id="10" x="180" y="180" width="128" height="35" buttonwidth="35" textoffsetx="38" textoffsety="3" font="font_script_medium" text="[ACCEPTQUEST]"  graphic_button="img_gamepad_a" sound="asset_buttsound"
+					 gp_button="a"/>
+   <GamepadButton     name="gp_cancel"   id="11"  x="30" y="180" width="200" height="35"  buttonwidth="35" textoffsetx="38" textoffsety="3" font="font_script_medium" text="[CANCEL]" graphic_button="img_gamepad_b" sound="asset_buttsound"
+					 gp_button="b"/>
+   
+   <Pad		   name="pad_eventcatcher"     id="250"  x="24"    y="0"  width="293" height="32" />   
+   <Pad		   name="pad_eventcatcher"     id="251"  x="39"    y="31" width="261" height="57" />   
+   <Pad		   name="pad_eventcatcher"     id="252"  x="14"    y="88" width="311" height="128" />   
+   <Pad		   name="pad_eventcatcher"     id="253"  x="0"     y="214" width="345" height="35" />   
+   
+   <Icon       name="icon_scroll"    x="0"    y="0"   width="353" height="256" graphic="img_scroll"/>
+</Menu>

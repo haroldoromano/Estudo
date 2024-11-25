@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<Runes>
+	<Base    id="UDAG" name="[RUNE_UDAG_NAME]" description="[RUNE_UDAG_DESC]"  code="0"  guard=""		level="0"	location=""			diff_add="100"	diff_mult="1"  data="1" position="weapon"/>
+	<Base    id="USWO" name="[RUNE_USWO_NAME]" description="[RUNE_USWO_DESC]"  code="1"  guard="MWIG"	level="15"	location="WSGK"		diff_add="150"	diff_mult="1"  data="2" position="weapon"/>
+	<Base    id="UCRN" name="[RUNE_UCRN_NAME]" description="[RUNE_UCRN_DESC]"  code="2"  guard="MKNI"	level="12"	location="WSIR"		diff_add="125"	diff_mult="1"  data="3" position="head"/>
+	<Base    id="UWAR" name="[RUNE_UWAR_NAME]" description="[RUNE_UWAR_DESC]"  code="3"  guard="MOGR"	level="13"	location="WGRK"		diff_add="125"	diff_mult="1"  data="3" position="misc"/>
+	<Base    id="UCUN" name="[RUNE_UCUN_NAME]" description="[RUNE_UCUN_DESC]"  code="4"  guard="MIMP"	level="14"	location="WBTH"		diff_add="125"	diff_mult="1"  data="3" position="misc"/>
+	<Base    id="UFLI" name="[RUNE_UFLI_NAME]" description="[RUNE_UFLI_DESC]"  code="5"  guard="MHAR"	level="15"	location="WELE"		diff_add="125"	diff_mult="1"  data="3" position="body"/>
+	<Base    id="UROA" name="[RUNE_UROA_NAME]" description="[RUNE_UROA_DESC]"  code="6"  guard="MORC"	level="16"	location="WRAR"		diff_add="125"	diff_mult="1"  data="3" position="misc"/>
+	<Base    id="ULAV" name="[RUNE_ULAV_NAME]" description="[RUNE_ULAV_DESC]"  code="7"  guard="MFEL"	level="17"	location="WNKR"		diff_add="125"	diff_mult="1"  data="3" position="body"/>
+	<Base    id="UOCE" name="[RUNE_UOCE_NAME]" description="[RUNE_UOCE_DESC]"  code="8"  guard="MMED"	level="18"	location="WTIR"		diff_add="125"	diff_mult="1"  data="3" position="misc"/>
+	<Base    id="UAXE" name="[RUNE_UAXE_NAME]" description="[RUNE_UAXE_DESC]"  code="9"  guard="MMIK"	level="25"	location="WSHD"		diff_add="200"	diff_mult="1"  data="3" position="weapon"/>
+	<Base    id="USTA" name="[RUNE_USTA_NAME]" description="[RUNE_USTA_DESC]"  code="A"  guard="MOGM"	level="22"	location="WPIK"		diff_add="180"	diff_mult="1"  data="1" position="weapon"/>
+	<Base    id="UORB" name="[RUNE_UORB_NAME]" description="[RUNE_UORB_DESC]"  code="B"  guard="MLIC"	level="24"	location="WWSK"		diff_add="150"	diff_mult="1"  data="1" position="misc"/>
+	<Base    id="UMUS" name="[RUNE_UMUS_NAME]" description="[RUNE_UMUS_DESC]"  code="C"  guard="MWYV"	level="26"	location="WHBG"		diff_add="160"	diff_mult="1"  data="1" position="misc"/>
+	<Base    id="UJEW" name="[RUNE_UJEW_NAME]" description="[RUNE_UJEW_DESC]"  code="D"  guard="MGNL"	level="28"	location="WRMO"		diff_add="160"	diff_mult="1"  data="2" position="head"/>
+	<Base    id="USHI" name="[RUNE_USHI_NAME]" description="[RUNE_USHI_DESC]"  code="E"  guard="MSCO"	level="30"	location="WPAR"		diff_add="170"	diff_mult="1"  data="1" position="misc"/>
+	<Modifier id="UCRA" name="[RUNE_UCRA_NAME]" description="[RUNE_UCRA_DESC]"  code="0" guard=""		level="0"	location=""			diff_add="0"	diff_mult="1"    data_add="0"  data_mult="1" power_add="0" power_mult="1"/>
+	<Modifier id="UMAS" name="[RUNE_UMAS_NAME]" description="[RUNE_UMAS_DESC]"  code="1" guard="MWLF"	level="15"	location="WMAE"		diff_add="0"	diff_mult="1.2"  data_add="2"  data_mult="1" power_add="0" power_mult="1"/>
+	<Modifier id="UGOB" name="[RUNE_UGOB_NAME]" description="[RUNE_UGOB_DESC]"  code="2" guard="MGOB"	level="17"	location="WBHE"		diff_add="0"	diff_mult="1.4"  data_add="1"  data_mult="1" power_add="0" power_mult="1.25"/>
+	<Modifier id="UDWA" name="[RUNE_UDWA_NAME]" description="[RUNE_UDWA_DESC]"  code="3" guard="MSWO"	level="19"	location="WHPS"		diff_add="0"	diff_mult="1.6"  data_add="2"  data_mult="1" power_add="0" power_mult="1.5"/>
+	<Modifier id="UMAG" name="[RUNE_UMAG_NAME]" description="[RUNE_UMAG_DESC]"  code="4" guard="MIGO"	level="21"	location="WETO"		diff_add="0"	diff_mult="1.8"  data_add="0"  data_mult="1" power_add="0" power_mult="2"/>
+	<Modifier id="UCHA" name="[RUNE_UCHA_NAME]" description="[RUNE_UCHA_DESC]"  code="5" guard="MMIN"	level="23"	location="WSMZ"		diff_add="0"	diff_mult="2.0"  data_add="-1" data_mult="1" power_add="0" power_mult="2.5"/>
+	<Modifier id="UELV" name="[RUNE_UELV_NAME]" description="[RUNE_UELV_DESC]"  code="6" guard="MCEN"	level="25"	location="WALF"		diff_add="0"	diff_mult="2.2"  data_add="1"  data_mult="1" power_add="0" power_mult="1.75"/>
+	<Modifier id="UGIA" name="[RUNE_UGIA_NAME]" description="[RUNE_UGIA_DESC]"  code="7" guard="MVGI"	level="30"	location="WGWK"		diff_add="0"	diff_mult="2.4"  data_add="3"  data_mult="1" power_add="0" power_mult="0.5"/>
+	<Modifier id="UDRA" name="[RUNE_UDRA_NAME]" description="[RUNE_UDRA_DESC]"  code="8" guard="MDSP"	level="35"	location="WDPS"		diff_add="0"	diff_mult="2.7"  data_add="4"  data_mult="1" power_add="0" power_mult="1"/>
+	<Modifier id="UGOD" name="[RUNE_UGOD_NAME]" description="[RUNE_UGOD_DESC]"  code="9" guard="MARK"	level="40"	location="WVOK"		diff_add="50"	diff_mult="3.0"  data_add="3"  data_mult="1" power_add="0" power_mult="2"/>
+	<Power	 id="UFIR" name="[RUNE_UFIR_NAME]" description="[RUNE_UFIR_DESC]"  code="0"  guard=""		level="0"	location=""			diff_add="100"	diff_mult="1"   data="2"  text="[RUNE_UFIR_HELP]"  />
+	<Power	 id="UEAR" name="[RUNE_UEAR_NAME]" description="[RUNE_UEAR_DESC]"  code="1"  guard="MZOM"	level="14"	location="WSKE"		diff_add="100"	diff_mult="1"   data="2"  text="[RUNE_UEAR_HELP]"  />
+	<Power	 id="UAIR" name="[RUNE_UAIR_NAME]" description="[RUNE_UAIR_DESC]"  code="2"  guard="MGRI"	level="15"	location="WAPS"		diff_add="100"	diff_mult="1"   data="2"  text="[RUNE_UAIR_HELP]"  />
+	<Power	 id="UWAT" name="[RUNE_UWAT_NAME]" description="[RUNE_UWAT_DESC]"  code="3"  guard="MSSP"	level="16"	location="WBBR"		diff_add="100"	diff_mult="1"   data="2"  text="[RUNE_UWAT_HELP]"  />
+	<Power	 id="UTRO" name="[RUNE_UTRO_NAME]" description="[RUNE_UTRO_DESC]"  code="4"  guard="MTRO"	level="17"	location="WTHR"		diff_add="125"	diff_mult="1"   data="8"  text="[RUNE_UTRO_HELP]"  />
+	<Power	 id="USHE" name="[RUNE_USHE_NAME]" description="[RUNE_USHE_DESC]"  code="5"  guard="MSKT"	level="20"	location="WRAG"		diff_add="170"	diff_mult="1"   data="4"  text="[RUNE_USHE_HELP]"  />
+	<Power	 id="UCAV" name="[RUNE_UCAV_NAME]" description="[RUNE_UCAV_DESC]"  code="6"  guard="MOLO"	level="21"	location="WGGP"		diff_add="170"	diff_mult="1"   data="4"  text="[RUNE_UCAV_HELP]"  />
+	<Power	 id="UGLA" name="[RUNE_UGLA_NAME]" description="[RUNE_UGLA_DESC]"  code="7"  guard="MDDW"	level="22"	location="WIGK"		diff_add="170"	diff_mult="1"   data="4"  text="[RUNE_UGLA_HELP]"  />
+	<Power	 id="UICE" name="[RUNE_UICE_NAME]" description="[RUNE_UICE_DESC]"  code="8"  guard="MFGI"	level="23"	location="WSOI"		diff_add="170"	diff_mult="1"   data="4"  text="[RUNE_UICE_HELP]"  />
+	<Power	 id="UPOI" name="[RUNE_UPOI_NAME]" description="[RUNE_UPOI_DESC]"  code="9"  guard="MGWA"	level="25"	location="WSFA"		diff_add="200"	diff_mult="1"   data="20" text="[RUNE_UPOI_HELP]"  />
+	<Power	 id="UPLA" name="[RUNE_UPLA_NAME]" description="[RUNE_UPLA_DESC]"  code="A"  guard="MWRI"	level="26"	location="WWRT"		diff_add="180"	diff_mult="1"   data="20" text="[RUNE_UPLA_HELP]"  />
+	<Power	 id="UGRE" name="[RUNE_UGRE_NAME]" description="[RUNE_UGRE_DESC]"  code="B"  guard="MTHF"	level="27"	location="WGIL"		diff_add="120"	diff_mult="1"   data="20" text="[RUNE_UGRE_HELP]"  />
+	<Power	 id="ULIF" name="[RUNE_ULIF_NAME]" description="[RUNE_ULIF_DESC]"  code="C"  guard="MARB"	level="28"	location="WLOB"		diff_add="150"	diff_mult="1"   data="20" text="[RUNE_ULIF_HELP]"  />
+	<BaseModifier base="UDAG" modifier="UCRA" name="[RUNE_UDAG_UCRA_NAME]" 	icon="51"/>
+	<BaseModifier base="USWO" modifier="UCRA" name="[RUNE_USWO_UCRA_NAME]" 	icon="50"/>
+	<BaseModifier base="UCRN" modifier="UCRA" name="[RUNE_UCRN_UCRA_NAME]" 	icon="5"/>
+	<BaseModifier base="UWAR" modifier="UCRA" name="[RUNE_UWAR_UCRA_NAME]" 	icon="66"/>
+	<BaseModifier base="UCUN" modifier="UCRA" name="[RUNE_UCUN_UCRA_NAME]" 	icon="80"/>
+	<BaseModifier base="UFLI" modifier="UCRA" name="[RUNE_UFLI_UCRA_NAME]" 	icon="44"/>
+	<BaseModifier base="UROA" modifier="UCRA" name="[RUNE_UROA_UCRA_NAME]" 	icon="71"/>
+	<BaseModifier base="ULAV" modifier="UCRA" name="[RUNE_ULAV_UCRA_NAME]" 	icon="60"/>
+	<BaseModifier base="UOCE" modifier="UCRA" name="[RUNE_UOCE_UCRA_NAME]" 	icon="30"/>
+	<BaseModifier base="UAXE" modifier="UCRA" name="[RUNE_UAXE_UCRA_NAME]" 	icon="17"/>
+	<BaseModifier base="USTA" modifier="UCRA" name="[RUNE_USTA_UCRA_NAME]" 	icon="94"/>
+	<BaseModifier base="UORB" modifier="UCRA" name="[RUNE_UORB_UCRA_NAME]" 	icon="72"/>
+	<BaseModifier base="UMUS" modifier="UCRA" name="[RUNE_UMUS_UCRA_NAME]" 	icon="84"/>
+	<BaseModifier base="UJEW" modifier="UCRA" name="[RUNE_UJEW_UCRA_NAME]" 	icon="25"/>
+	<BaseModifier base="USHI" modifier="UCRA" name="[RUNE_USHI_UCRA_NAME]" 	icon="41"/>
+	<BaseModifier base="UDAG" modifier="UMAS" name="[RUNE_UDAG_UMAS_NAME]" 	icon="10"/>
+	<BaseModifier base="USWO" modifier="UMAS" name="[RUNE_USWO_UMAS_NAME]" 	icon="50"/>
+	<BaseModifier base="UCRN" modifier="UMAS" name="[RUNE_UCRN_UMAS_NAME]" 	icon="6"/>
+	<BaseModifier base="UWAR" modifier="UMAS" name="[RUNE_UWAR_UMAS_NAME]" 	icon="65"/>
+	<BaseModifier base="UCUN" modifier="UMAS" name="[RUNE_UCUN_UMAS_NAME]" 	icon="80"/>
+	<BaseModifier base="UFLI" modifier="UMAS" name="[RUNE_UFLI_UMAS_NAME]" 	icon="44"/>
+	<BaseModifier base="UROA" modifier="UMAS" name="[RUNE_UROA_UMAS_NAME]" 	icon="70"/>
+	<BaseModifier base="ULAV" modifier="UMAS" name="[RUNE_ULAV_UMAS_NAME]" 	icon="82"/>
+	<BaseModifier base="UOCE" modifier="UMAS" name="[RUNE_UOCE_UMAS_NAME]" 	icon="78"/>
+	<BaseModifier base="UAXE" modifier="UMAS" name="[RUNE_UAXE_UMAS_NAME]" 	icon="89"/>
+	<BaseModifier base="USTA" modifier="UMAS" name="[RUNE_USTA_UMAS_NAME]" 	icon="98"/>
+	<BaseModifier base="UORB" modifier="UMAS" name="[RUNE_UORB_UMAS_NAME]" 	icon="73"/>
+	<BaseModifier base="UMUS" modifier="UMAS" name="[RUNE_UMUS_UMAS_NAME]" 	icon="84"/>
+	<BaseModifier base="UJEW" modifier="UMAS" name="[RUNE_UJEW_UMAS_NAME]" 	icon="25"/>
+	<BaseModifier base="USHI" modifier="UMAS" name="[RUNE_USHI_UMAS_NAME]" 	icon="68"/>
+	<BaseModifier base="UDAG" modifier="UGOB" name="[RUNE_UDAG_UGOB_NAME]" 	icon="91"/>
+	<BaseModifier base="USWO" modifier="UGOB" name="[RUNE_USWO_UGOB_NAME]" 	icon="86"/>
+	<BaseModifier base="UCRN" modifier="UGOB" name="[RUNE_UCRN_UGOB_NAME]" 	icon="19"/>
+	<BaseModifier base="UWAR" modifier="UGOB" name="[RUNE_UWAR_UGOB_NAME]" 	icon="55"/>
+	<BaseModifier base="UCUN" modifier="UGOB" name="[RUNE_UCUN_UGOB_NAME]" 	icon="80"/>
+	<BaseModifier base="UFLI" modifier="UGOB" name="[RUNE_UFLI_UGOB_NAME]" 	icon="47"/>
+	<BaseModifier base="UROA" modifier="UGOB" name="[RUNE_UROA_UGOB_NAME]" 	icon="71"/>
+	<BaseModifier base="ULAV" modifier="UGOB" name="[RUNE_ULAV_UGOB_NAME]" 	icon="82"/>
+	<BaseModifier base="UOCE" modifier="UGOB" name="[RUNE_UOCE_UGOB_NAME]" 	icon="30"/>
+	<BaseModifier base="UAXE" modifier="UGOB" name="[RUNE_UAXE_UGOB_NAME]" 	icon="17"/>
+	<BaseModifier base="USTA" modifier="UGOB" name="[RUNE_USTA_UGOB_NAME]" 	icon="96"/>
+	<BaseModifier base="UORB" modifier="UGOB" name="[RUNE_UORB_UGOB_NAME]" 	icon="73"/>
+	<BaseModifier base="UMUS" modifier="UGOB" name="[RUNE_UMUS_UGOB_NAME]" 	icon="83"/>
+	<BaseModifier base="UJEW" modifier="UGOB" name="[RUNE_UJEW_UGOB_NAME]" 	icon="26"/>
+	<BaseModifier base="USHI" modifier="UGOB" name="[RUNE_USHI_UGOB_NAME]" 	icon="67"/>
+	<BaseModifier base="UDAG" modifier="UDWA" name="[RUNE_UDAG_UDWA_NAME]" 	icon="11"/>
+	<BaseModifier base="USWO" modifier="UDWA" name="[RUNE_USWO_UDWA_NAME]" 	icon="10"/>
+	<BaseModifier base="UCRN" modifier="UDWA" name="[RUNE_UCRN_UDWA_NAME]" 	icon="0"/>
+	<BaseModifier base="UWAR" modifier="UDWA" name="[RUNE_UWAR_UDWA_NAME]" 	icon="36"/>
+	<BaseModifier base="UCUN" modifier="UDWA" name="[RUNE_UCUN_UDWA_NAME]" 	icon="80"/>
+	<BaseModifier base="UFLI" modifier="UDWA" name="[RUNE_UFLI_UDWA_NAME]" 	icon="45"/>
+	<BaseModifier base="UROA" modifier="UDWA" name="[RUNE_UROA_UDWA_NAME]" 	icon="71"/>
+	<BaseModifier base="ULAV" modifier="UDWA" name="[RUNE_ULAV_UDWA_NAME]" 	icon="48"/>
+	<BaseModifier base="UOCE" modifier="UDWA" name="[RUNE_UOCE_UDWA_NAME]" 	icon="75"/>
+	<BaseModifier base="UAXE" modifier="UDWA" name="[RUNE_UAXE_UDWA_NAME]" 	icon="89"/>
+	<BaseModifier base="USTA" modifier="UDWA" name="[RUNE_USTA_UDWA_NAME]" 	icon="98"/>
+	<BaseModifier base="UORB" modifier="UDWA" name="[RUNE_UORB_UDWA_NAME]" 	icon="73"/>
+	<BaseModifier base="UMUS" modifier="UDWA" name="[RUNE_UMUS_UDWA_NAME]" 	icon="83"/>
+	<BaseModifier base="UJEW" modifier="UDWA" name="[RUNE_UJEW_UDWA_NAME]" 	icon="27"/>
+	<BaseModifier base="USHI" modifier="UDWA" name="[RUNE_USHI_UDWA_NAME]" 	icon="57"/>
+	<BaseModifier base="UDAG" modifier="UMAG" name="[RUNE_UDAG_UMAG_NAME]" 	icon="12"/>
+	<BaseModifier base="USWO" modifier="UMAG" name="[RUNE_USWO_UMAG_NAME]" 	icon="51"/>
+	<BaseModifier base="UCRN" modifier="UMAG" name="[RUNE_UCRN_UMAG_NAME]" 	icon="56"/>
+	<BaseModifier base="UWAR" modifier="UMAG" name="[RUNE_UWAR_UMAG_NAME]" 	icon="65"/>
+	<BaseModifier base="UCUN" modifier="UMAG" name="[RUNE_UCUN_UMAG_NAME]" 	icon="80"/>
+	<BaseModifier base="UFLI" modifier="UMAG" name="[RUNE_UFLI_UMAG_NAME]" 	icon="46"/>
+	<BaseModifier base="UROA" modifier="UMAG" name="[RUNE_UROA_UMAG_NAME]" 	icon="71"/>
+	<BaseModifier base="ULAV" modifier="UMAG" name="[RUNE_ULAV_UMAG_NAME]" 	icon="82"/>
+	<BaseModifier base="UOCE" modifier="UMAG" name="[RUNE_UOCE_UMAG_NAME]" 	icon="31"/>
+	<BaseModifier base="UAXE" modifier="UMAG" name="[RUNE_UAXE_UMAG_NAME]" 	icon="17"/>
+	<BaseModifier base="USTA" modifier="UMAG" name="[RUNE_USTA_UMAG_NAME]" 	icon="93"/>
+	<BaseModifier base="UORB" modifier="UMAG" name="[RUNE_UORB_UMAG_NAME]" 	icon="73"/>
+	<BaseModifier base="UMUS" modifier="UMAG" name="[RUNE_UMUS_UMAG_NAME]" 	icon="84"/>
+	<BaseModifier base="UJEW" modifier="UMAG" name="[RUNE_UJEW_UMAG_NAME]" 	icon="27"/>
+	<BaseModifier base="USHI" modifier="UMAG" name="[RUNE_USHI_UMAG_NAME]" 	icon="33"/>
+	<BaseModifier base="UDAG" modifier="UCHA" name="[RUNE_UDAG_UCHA_NAME]" 	icon="87"/>
+	<BaseModifier base="USWO" modifier="UCHA" name="[RUNE_USWO_UCHA_NAME]" 	icon="86"/>
+	<BaseModifier base="UCRN" modifier="UCHA" name="[RUNE_UCRN_UCHA_NAME]" 	icon="3"/>
+	<BaseModifier base="UWAR" modifier="UCHA" name="[RUNE_UWAR_UCHA_NAME]" 	icon="52"/>
+	<BaseModifier base="UCUN" modifier="UCHA" name="[RUNE_UCUN_UCHA_NAME]" 	icon="80"/>
+	<BaseModifier base="UFLI" modifier="UCHA" name="[RUNE_UFLI_UCHA_NAME]" 	icon="45"/>
+	<BaseModifier base="UROA" modifier="UCHA" name="[RUNE_UROA_UCHA_NAME]" 	icon="71"/>
+	<BaseModifier base="ULAV" modifier="UCHA" name="[RUNE_ULAV_UCHA_NAME]" 	icon="60"/>
+	<BaseModifier base="UOCE" modifier="UCHA" name="[RUNE_UOCE_UCHA_NAME]" 	icon="32"/>
+	<BaseModifier base="UAXE" modifier="UCHA" name="[RUNE_UAXE_UCHA_NAME]" 	icon="17"/>
+	<BaseModifier base="USTA" modifier="UCHA" name="[RUNE_USTA_UCHA_NAME]" 	icon="94"/>
+	<BaseModifier base="UORB" modifier="UCHA" name="[RUNE_UORB_UCHA_NAME]" 	icon="81"/>
+	<BaseModifier base="UMUS" modifier="UCHA" name="[RUNE_UMUS_UCHA_NAME]" 	icon="83"/>
+	<BaseModifier base="UJEW" modifier="UCHA" name="[RUNE_UJEW_UCHA_NAME]" 	icon="55"/>
+	<BaseModifier base="USHI" modifier="UCHA" name="[RUNE_USHI_UCHA_NAME]" 	icon="34"/>
+	<BaseModifier base="UDAG" modifier="UELV" name="[RUNE_UDAG_UELV_NAME]" 	icon="12"/>
+	<BaseModifier base="USWO" modifier="UELV" name="[RUNE_USWO_UELV_NAME]" 	icon="87"/>
+	<BaseModifier base="UCRN" modifier="UELV" name="[RUNE_UCRN_UELV_NAME]" 	icon="56"/>
+	<BaseModifier base="UWAR" modifier="UELV" name="[RUNE_UWAR_UELV_NAME]" 	icon="64"/>
+	<BaseModifier base="UCUN" modifier="UELV" name="[RUNE_UCUN_UELV_NAME]" 	icon="80"/>
+	<BaseModifier base="UFLI" modifier="UELV" name="[RUNE_UFLI_UELV_NAME]" 	icon="47"/>
+	<BaseModifier base="UROA" modifier="UELV" name="[RUNE_UROA_UELV_NAME]" 	icon="71"/>
+	<BaseModifier base="ULAV" modifier="UELV" name="[RUNE_ULAV_UELV_NAME]" 	icon="82"/>
+	<BaseModifier base="UOCE" modifier="UELV" name="[RUNE_UOCE_UELV_NAME]" 	icon="77"/>
+	<BaseModifier base="UAXE" modifier="UELV" name="[RUNE_UAXE_UELV_NAME]" 	icon="89"/>
+	<BaseModifier base="USTA" modifier="UELV" name="[RUNE_USTA_UELV_NAME]" 	icon="14"/>
+	<BaseModifier base="UORB" modifier="UELV" name="[RUNE_UORB_UELV_NAME]" 	icon="81"/>
+	<BaseModifier base="UMUS" modifier="UELV" name="[RUNE_UMUS_UELV_NAME]" 	icon="84"/>
+	<BaseModifier base="UJEW" modifier="UELV" name="[RUNE_UJEW_UELV_NAME]" 	icon="26"/>
+	<BaseModifier base="USHI" modifier="UELV" name="[RUNE_USHI_UELV_NAME]" 	icon="59"/>
+	<BaseModifier base="UDAG" modifier="UGIA" name="[RUNE_UDAG_UGIA_NAME]" 	icon="11"/>
+	<BaseModifier base="USWO" modifier="UGIA" name="[RUNE_USWO_UGIA_NAME]" 	icon="10"/>
+	<BaseModifier base="UCRN" modifier="UGIA" name="[RUNE_UCRN_UGIA_NAME]" 	icon="9"/>
+	<BaseModifier base="UWAR" modifier="UGIA" name="[RUNE_UWAR_UGIA_NAME]" 	icon="52"/>
+	<BaseModifier base="UCUN" modifier="UGIA" name="[RUNE_UCUN_UGIA_NAME]" 	icon="80"/>
+	<BaseModifier base="UFLI" modifier="UGIA" name="[RUNE_UFLI_UGIA_NAME]" 	icon="46"/>
+	<BaseModifier base="UROA" modifier="UGIA" name="[RUNE_UROA_UGIA_NAME]" 	icon="71"/>
+	<BaseModifier base="ULAV" modifier="UGIA" name="[RUNE_ULAV_UGIA_NAME]" 	icon="48"/>
+	<BaseModifier base="UOCE" modifier="UGIA" name="[RUNE_UOCE_UGIA_NAME]" 	icon="76"/>
+	<BaseModifier base="UAXE" modifier="UGIA" name="[RUNE_UAXE_UGIA_NAME]" 	icon="17"/>
+	<BaseModifier base="USTA" modifier="UGIA" name="[RUNE_USTA_UGIA_NAME]" 	icon="94"/>
+	<BaseModifier base="UORB" modifier="UGIA" name="[RUNE_UORB_UGIA_NAME]" 	icon="35"/>
+	<BaseModifier base="UMUS" modifier="UGIA" name="[RUNE_UMUS_UGIA_NAME]" 	icon="83"/>
+	<BaseModifier base="UJEW" modifier="UGIA" name="[RUNE_UJEW_UGIA_NAME]" 	icon="25"/>
+	<BaseModifier base="USHI" modifier="UGIA" name="[RUNE_USHI_UGIA_NAME]" 	icon="58"/>
+	<BaseModifier base="UDAG" modifier="UDRA" name="[RUNE_UDAG_UDRA_NAME]" 	icon="10"/>
+	<BaseModifier base="USWO" modifier="UDRA" name="[RUNE_USWO_UDRA_NAME]" 	icon="11"/>
+	<BaseModifier base="UCRN" modifier="UDRA" name="[RUNE_UCRN_UDRA_NAME]" 	icon="29"/>
+	<BaseModifier base="UWAR" modifier="UDRA" name="[RUNE_UWAR_UDRA_NAME]" 	icon="54"/>
+	<BaseModifier base="UCUN" modifier="UDRA" name="[RUNE_UCUN_UDRA_NAME]" 	icon="80"/>
+	<BaseModifier base="UFLI" modifier="UDRA" name="[RUNE_UFLI_UDRA_NAME]" 	icon="45"/>
+	<BaseModifier base="UROA" modifier="UDRA" name="[RUNE_UROA_UDRA_NAME]" 	icon="70"/>
+	<BaseModifier base="ULAV" modifier="UDRA" name="[RUNE_ULAV_UDRA_NAME]" 	icon="48"/>
+	<BaseModifier base="UOCE" modifier="UDRA" name="[RUNE_UOCE_UDRA_NAME]" 	icon="79"/>
+	<BaseModifier base="UAXE" modifier="UDRA" name="[RUNE_UAXE_UDRA_NAME]" 	icon="17"/>
+	<BaseModifier base="USTA" modifier="UDRA" name="[RUNE_USTA_UDRA_NAME]" 	icon="95"/>
+	<BaseModifier base="UORB" modifier="UDRA" name="[RUNE_UORB_UDRA_NAME]" 	icon="35"/>
+	<BaseModifier base="UMUS" modifier="UDRA" name="[RUNE_UMUS_UDRA_NAME]" 	icon="83"/>
+	<BaseModifier base="UJEW" modifier="UDRA" name="[RUNE_UJEW_UDRA_NAME]" 	icon="27"/>
+	<BaseModifier base="USHI" modifier="UDRA" name="[RUNE_USHI_UDRA_NAME]" 	icon="69"/>
+	<BaseModifier base="UDAG" modifier="UGOD" name="[RUNE_UDAG_UGOD_NAME]" 	icon="10"/>
+	<BaseModifier base="USWO" modifier="UGOD" name="[RUNE_USWO_UGOD_NAME]" 	icon="50"/>
+	<BaseModifier base="UCRN" modifier="UGOD" name="[RUNE_UCRN_UGOD_NAME]" 	icon="1"/>
+	<BaseModifier base="UWAR" modifier="UGOD" name="[RUNE_UWAR_UGOD_NAME]" 	icon="53"/>
+	<BaseModifier base="UCUN" modifier="UGOD" name="[RUNE_UCUN_UGOD_NAME]" 	icon="80"/>
+	<BaseModifier base="UFLI" modifier="UGOD" name="[RUNE_UFLI_UGOD_NAME]" 	icon="44"/>
+	<BaseModifier base="UROA" modifier="UGOD" name="[RUNE_UROA_UGOD_NAME]" 	icon="70"/>
+	<BaseModifier base="ULAV" modifier="UGOD" name="[RUNE_ULAV_UGOD_NAME]" 	icon="61"/>
+	<BaseModifier base="UOCE" modifier="UGOD" name="[RUNE_UOCE_UGOD_NAME]" 	icon="74"/>
+	<BaseModifier base="UAXE" modifier="UGOD" name="[RUNE_UAXE_UGOD_NAME]" 	icon="89"/>
+	<BaseModifier base="USTA" modifier="UGOD" name="[RUNE_USTA_UGOD_NAME]" 	icon="95"/>
+	<BaseModifier base="UORB" modifier="UGOD" name="[RUNE_UORB_UGOD_NAME]" 	icon="72"/>
+	<BaseModifier base="UMUS" modifier="UGOD" name="[RUNE_UMUS_UGOD_NAME]" 	icon="84"/>
+	<BaseModifier base="UJEW" modifier="UGOD" name="[RUNE_UJEW_UGOD_NAME]" 	icon="55"/>
+	<BaseModifier base="USHI" modifier="UGOD" name="[RUNE_USHI_UGOD_NAME]" 	icon="42"/>
+</Runes>

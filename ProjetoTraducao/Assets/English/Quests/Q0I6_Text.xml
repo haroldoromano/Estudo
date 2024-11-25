@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[Q0I6_ACTION0]">Train in Bartonia</Text>
+   <Text tag="[Q0I6_ACTION1]">Train in Siria</Text>
+   <Text tag="[Q0I6_ACTION2]">Train in Elenia</Text>
+   <Text tag="[Q0I6_ACTION3]">Train in Theira</Text>
+   <Text tag="[Q0I6_ACTION4]">Train in Gildor</Text>
+   <Text tag="[Q0I6_AWARD_MESG0]">You have received a new Award. You are now a Bartonian Knight, and you gain +2 Battle Skill.</Text>
+   <Text tag="[Q0I6_AWARD_MESG1]">You have received a new Award. You are now a Sirian Knight, and you gain +3 Morale Skill.</Text>
+   <Text tag="[Q0I6_AWARD_MESG2]">You have received a new Award. You are now an Elenian Knight, and you gain +2 Earth Skill.</Text>
+   <Text tag="[Q0I6_AWARD_MESG3]">You have received a new Award. You are now a Theiran Knight, and you gain +2 Fire Skill.</Text>
+   <Text tag="[Q0I6_AWARD_MESG4]">You have received a new Award. You are now a Gildine Knight, and you gain +2 Cunning Skill.</Text>
+   <Text tag="[Q0I6_DONE]">You have completed your training with excellent results. All of the Knightly Orders of Agaria offered you membership, and you have now chosen between them.</Text>
+   <Text tag="[Q0I6_FAIL]">You have failed this training exercise, but do not fear - you may try it again as often as you wish.</Text>
+   <Text tag="[Q0I6_JOIN0]">Join the Bartonians (+2 Battle)</Text>
+   <Text tag="[Q0I6_JOIN1]">Join the Sirians (+3 Morale)</Text>
+   <Text tag="[Q0I6_JOIN2]">Join the Elenians (+2 Earth)</Text>
+   <Text tag="[Q0I6_JOIN3]">Join the Theirans (+2 Fire)</Text>
+   <Text tag="[Q0I6_JOIN4]">Join the Gildines (+2 Cunning)</Text>
+   <Text tag="[Q0I6_PROGRESS0]">You have not yet completed any of the 5 training missions.</Text>
+   <Text tag="[Q0I6_PROGRESS1]">You have completed 1 of 5 training missions.</Text>
+   <Text tag="[Q0I6_PROGRESS2]">You have completed 2 of 5 training missions.</Text>
+   <Text tag="[Q0I6_PROGRESS3]">You have completed 3 of 5 training missions.</Text>
+   <Text tag="[Q0I6_PROGRESS4]">You have completed 4 of 5 training missions.</Text>
+   <Text tag="[Q0I6_PROGRESS5]">You have completed all 5 training missions. You may now travel to one of the 5 Agarian cities and join a Knightly Order.</Text>
+   <Text tag="[Q0I6_SUCCESS]">Congratulations, you have passed this phase of your training! You must now seek out the remaining Knights to train you.</Text>
+   <Text tag="[QUEST_Q0I6_QMNAME0]">Brian of Bartonia</Text>
+   <Text tag="[QUEST_Q0I6_QMHELP0]">Bartonian Knights are very well-trained. This Knight has Battle and Life Points higher than an average Knight.</Text>
+   <Text tag="[QUEST_Q0I6_QMNAME1]">Styvren of Siria</Text>
+   <Text tag="[QUEST_Q0I6_QMHELP1]">This Knight carries a Holy Lance.  The higher his Yellow Mana, the more damage he inflicts.</Text>
+   <Text tag="[QUEST_Q0I6_QMNAME2]">Edmund of Elenia</Text>
+   <Text tag="[QUEST_Q0I6_QMHELP2]">This Knight carries a Longbow that adds to his Yellow Mana when he hits.  He can also use your own Yellow Mana against you with his Archery skill.</Text>
+   <Text tag="[QUEST_Q0I6_QMNAME3]">Tharl of Theira</Text>
+   <Text tag="[QUEST_Q0I6_QMHELP3]">This Knight carries a Theiran Hammer that not only adds to damage, but turns Yellow Gems to Blue.</Text>
+   <Text tag="[QUEST_Q0I6_QMNAME4]">Godwin of Gildor</Text>
+   <Text tag="[QUEST_Q0I6_QMHELP4]">Although weaker than the other Knights, this Gildine Knight has expensive armor that protects against much damage.</Text>
+
+</TextLibrary>

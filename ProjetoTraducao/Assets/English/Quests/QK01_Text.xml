@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_QK01_ACTION]">Battle the Centaur</Text>
+   <Text tag="[QUEST_QK01_FAILURE]">You have failed to defeat the Centaur. Khalkus begs you to try again.</Text>
+   <Text tag="[QUEST_QK01_NOCOMP]">You will need Khalkus in your party to identify the machinery.</Text>
+   <Text tag="[QUEST_QK01_REWARD]">You have found the second part of the Great Machine.</Text>
+   <Text tag="[QUEST_QK01_STEP1]">You must travel to Alfland and battle a Centaur.</Text>
+
+</TextLibrary>

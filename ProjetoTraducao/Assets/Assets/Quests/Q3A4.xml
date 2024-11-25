@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="Q3A4">
+
+   <Text  name="[QUEST_Q3A4_NAME]" description="[QUEST_Q3A4_DESC]" group=""   file="English\Quests\Q3A4_Text.xml"/>
+   <Script  file="Assets\Quests\Q3A4.lua" object="Q3A4"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CEHL" minlevel="30" maxlevel="1000" repeat="1" 
+               donequest0="Q3Q5" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MARB">
+
+   </Battle>
+
+</Quest>

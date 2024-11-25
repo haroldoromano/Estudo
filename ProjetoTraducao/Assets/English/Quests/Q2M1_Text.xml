@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2M1_ACTION]">Fight the Wyvern</Text>
+   <Text tag="[QUEST_Q2M1_FAILURE]">You have failed to defeat the Wyvern. You must try again.</Text>
+   <Text tag="[QUEST_Q2M1_KILL]">You have defeated the Wyvern. You must return to Red-Axe in the city of Tusk.</Text>
+   <Text tag="[QUEST_Q2M1_RETURN]">Return to Red-Axe</Text>
+   <Text tag="[QUEST_Q2M1_REWARD]">The Trial is complete. Red-Axe is pleased with your progress.</Text>
+   <Text tag="[QUEST_Q2M1_STEP1]">You must travel to the Wyverns&apos; Roost and battle a Wyvern.</Text>
+   <Text tag="[QUEST_Q2M1_STEP2]">You must return to Red-Axe in Tusk for your reward.</Text>
+   <Text tag="[QUEST_Q2M1_QMHELP0]">This Wyvern is particularly large and has a Battle Skill higher than most.</Text>
+
+</TextLibrary>

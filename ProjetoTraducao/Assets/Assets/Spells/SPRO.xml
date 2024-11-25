@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SPRO">
+   <Text  name="[SPELL_SPRO_NAME]" description="[SPELL_SPRO_DESC]" detail="[SPELL_SPRO_DETL]"/>
+   <Cost  earth="8" fire="8" air="8" water="8" />
+   <Learn  score="400" masks="1" keys="2" />
+   <Data  cooldown="2" />
+   <Input  type="grid" />
+   <Script  file="Assets\Spells\SPRO.lua" object="SPRO"/>
+</Spell>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISCL">
+   <Text  name="[ITEM_ISCL_NAME]" power="[ITEM_ISCL_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="1450" rarity="1" />
+   <Graphics  icon="46" />
+   <Restriction	type="skill" skill="earth" level="10"/>
+   <Script  file="Assets\Items\ISCL.lua" object="ISCL"/>
+</Item>

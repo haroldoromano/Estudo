@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<City id="CJOK">
+   <Text name="[CITY_CJOK_NAME]" description="[CITY_CJOK_DESC]"/>
+   <Graphics icon="15" type="1"/>
+   <Data x="1823" y="320" level="0" visible="no" income="75" />
+   <Item tag="ITWH"/>
+   <Item tag="IWLM"/>
+   <Item tag="IGTS"/>
+   <Item tag="IFMO"/>
+   <Spell tag="SBUR"/>
+   <Spell tag="SROF"/>
+   <Spell tag="SFSK"/>
+</City>

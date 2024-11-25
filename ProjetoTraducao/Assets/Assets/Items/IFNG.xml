@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IFNG">
+   <Text  name="[ITEM_IFNG_NAME]" power="[ITEM_IFNG_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="200" rarity="0" />
+   <Graphics  icon="99" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IFNG.lua" object="IFNG"/>
+</Item>

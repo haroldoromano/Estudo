@@ -1,0 +1,4 @@
+<Menu x="0" y="0" width="1024" height="768" timer="off" draw="off" modal="on">
+   <Pad name="pad_list" id="300" x="0" y="0" width="1024" height="768"/>
+   <Icon name="icon_list" x="0" y="0" width="1024" height="768" graphic="img_campaignpopup"/>
+</Menu>

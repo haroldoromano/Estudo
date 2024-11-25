@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Monster id="MBAN">
+   <Text name="[MONSTER_MBAN_NAME]" description="[MONSTER_MBAN_DESC]" capture="[MONSTER_MBAN_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_NPC_LordBane.png" />
+   <Level min="45" max="50" base="45" levelto="99" />
+   <Skill earth="45" fire="20" air="16" water="30" battle="40" cunning="40" morale="24" />
+   <Resistance earth="0" fire="0" air="0" water="0" />
+   <Add earth="0.50" fire="0.40" air="0.40" water="0.40" battle="0.50" cunning="0.50" morale="0.40" life="2.00" />
+   <Data life="330" mount="0" boss="1" />
+   <Reward minxp="200" maxxp="250" mingold="200" maxgold="250" />
+   <Types type1="Evil" type2="Undead" type3="Large" type4="" />
+   <Mount speed="0" fly="0" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZLCH"  />
+   <Item tag="IBNC"  />
+   <Item tag="IBNK"  />
+   <Item tag="IBNS"  />
+   <Item tag="IBNX"  />
+   <Spell tag="SBNF" learn="0" />
+   <Spell tag="SBNA" learn="0" />
+   <Spell tag="SBNE" learn="0" />
+   <Spell tag="SBNW" learn="0" />
+   <Capture>
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+      <Row data="--------" />
+   </Capture>
+</Monster>

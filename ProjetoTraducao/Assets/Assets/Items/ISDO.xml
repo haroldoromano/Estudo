@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISDO">
+   <Text  name="[ITEM_ISDO_NAME]" power="[ITEM_ISDO_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="590" rarity="0" />
+   <Graphics  icon="72" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ISDO.lua" object="ISDO"/>
+</Item>

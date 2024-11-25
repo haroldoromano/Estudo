@@ -1,0 +1,28 @@
+<TextLibrary>
+   <Text tag="[PLATFORM]">PC</Text>
+   <Text tag="[CLICKCONT]">Click to Continue</Text>
+   <Text tag="[PRESSCONT]">Press to Continue</Text>
+   <Text tag="[MSG_AUTOSAVE]">Please Wait... Your hero is being autosaved</Text>
+   <Text tag="[MSG_LOAD]">Please Wait... Loading Hero</Text>
+   <Text tag="[MSG_SPLASH_CONTINUE0]">Click to Continue</Text>
+   <Text tag="[MSG_SPLASH_CONTINUE1]">Press START to Continue</Text>
+   <Text tag="[CANNOTCREATEHERO_FILE]">The hero&apos;s save file could not be created.</Text>
+   
+   <Text tag="[AUTOUPLOAD_TITLE]">Auto-Upload</Text>
+   <Text tag="[AUTOUPLOAD_WARNING]">Puzzle Quest can automatically upload your high scores to the internet. \n Would you like to enable this feature?</Text>
+   <Text tag="[AUTOUPLOAD_MSG0]">Automatic uploading of high scores has been disabled. To re-enable this feature, go to the Settings menu.</Text>
+   <Text tag="[AUTOUPLOAD_MSG1]">Automatic uploading of high scores has been enabled. To disable this feature, go to the Settings menu.</Text>
+   <Text tag="[AUTOUPLOAD]">Upload High Scores to Internet</Text>
+   
+   <Text tag="[AUTODOWNLOAD_TITLE]">Internet High Scores</Text>
+   <Text tag="[AUTODOWNLOAD_WARNING]">Puzzle Quest can download lists of high scores from the internet. These may contain offensive language. \n Would you like to enable this feature?</Text>
+   <Text tag="[AUTODOWNLOAD_MSG0]">Downloading of internet high scores has been disabled. To re-enable this feature, go to the Settings menu.</Text>
+   <Text tag="[AUTODOWNLOAD_MSG1]">Downloading of internet high scores has been enabled. To disable this feature, go to the Settings menu.</Text>
+   <Text tag="[AUTODOWNLOAD]">Download Internet High Scores</Text>
+   <Text tag="[AUTODOWNLOAD_NA]">Internet High Scores have been disabled</Text>
+   <Text tag="[PROFANITY_FILTER]">Profanity Filter</Text>
+   
+   <Text tag="[ERROR_STARTUP_DX]">Puzzle Quest requires a newer version of DirectX (9.0c or higher) to be installed.</Text>
+   <Text tag="[ERROR_STARTUP_NOFULLSCREEN]">The game cannot run in full screen mode on this desktop resolution.\nIt will now start in windowed mode.</Text>
+   <Text tag="[ERROR_STARTUP_NORES]">No desktop settings have been found with which this game can run.</Text>
+</TextLibrary>

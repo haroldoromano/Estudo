@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1E0_ACTION1]">Re-light Skullguard beacon</Text>
+   <Text tag="[QUEST_Q1E0_ACTION2]">Re-light Iceguard beacon</Text>
+   <Text tag="[QUEST_Q1E0_FAILURE1]">You have failed to re-light the Skullguard beacon</Text>
+   <Text tag="[QUEST_Q1E0_FAILURE2]">You have failed to re-light the Iceguard beacon</Text>
+   <Text tag="[QUEST_Q1E0_PROGRESS1]">You must journey to Skullguard Keep and Iceguard Keep. There you must capture Fire Elementals to re-light the beacon fires.</Text>
+   <Text tag="[QUEST_Q1E0_PROGRESS2]">You must journey to Skullguard Keep. There you must capture Fire Elementals to re-light the beacon fires.</Text>
+   <Text tag="[QUEST_Q1E0_PROGRESS3]">You must journey to Iceguard Keep. There you must capture Fire Elementals to re-light the beacon fires.</Text>
+   <Text tag="[QUEST_Q1E0_REWARD]">You have been rewarded for re-lighting both beacons.</Text>
+   <Text tag="[QUEST_Q1E0_SUCCESS1]">You have succeeded in re-lighting the Skullguard beacon.</Text>
+   <Text tag="[QUEST_Q1E0_SUCCESS2]">You have succeeded in re-lighting the Iceguard beacon.</Text>
+
+</TextLibrary>

@@ -1,0 +1,20 @@
+<Sprite id="ZKNI" file="Assets\Sprites\Hero_Knight.png" hero="yes" monster="no" name="Knight">
+	<Animation type="walk" directions="8">
+		<Position x="1" y="1" width="48" height="48" spacex="49" spacey="49" originx="23" originy="39" />
+		<Frame index="0" duration="125" offx="0" offy="0"/>
+		<Frame index="1" duration="125" offx="0" offy="0"/>
+		<Frame index="2" duration="125" offx="0" offy="0"/>
+		<Frame index="1" duration="125" offx="0" offy="0"/>
+	</Animation>
+	<Animation type="stand" directions="8">
+		<Position x="1" y="1" width="48" height="48" spacex="49" spacey="49" originx="23" originy="39" />
+		<Frame index="1" duration="0" offx="0" offy="0"/>
+	</Animation>
+	<Animation type="ride" directions="8">
+		<Position x="1" y="197" width="48" height="48" spacex="49" spacey="49" originx="23" originy="39" />
+		<Frame index="0" duration="125" offx="0" offy="0"/>
+		<Frame index="0" duration="125" offx="0" offy="-1"/>
+		<Frame index="0" duration="125" offx="0" offy="-2"/>
+		<Frame index="0" duration="125" offx="0" offy="-1"/>
+	</Animation>
+</Sprite>

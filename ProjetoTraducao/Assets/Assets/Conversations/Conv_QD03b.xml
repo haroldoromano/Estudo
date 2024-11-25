@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="QD03: Drong liked his diamonds"/>
+   <Text file="English\Conversations\Conv_QD03b_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_IcyPlains.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_NPC_Drong_Large.png" portraitindex="0" name="[Conv_QD03b_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="1" text="[Conv_QD03b_0000]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_QD03b_0001]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_QD03b_0002]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_QD03b_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_QD03b_0004]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_QD03b_0005]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_QD03b_0006]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_QD03b_0007]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_QD03b_0008]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_QD03b_0009]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_QD03b_0010]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_QD03b_0011]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_QD03b_0012]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_QD03b_0013]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_QD03b_0014]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_QD03b_0015]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="QD03" function="CallbackConvB" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

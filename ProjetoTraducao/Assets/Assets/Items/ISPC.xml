@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISPC">
+   <Text  name="[ITEM_ISPC_NAME]" power="[ITEM_ISPC_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="80" rarity="2" />
+   <Graphics  icon="90" />
+   <Restriction	type="skill" skill="battle" level="4"/>
+   <Script  file="Assets\Items\ISPC.lua" object="ISPC"/>
+</Item>

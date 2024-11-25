@@ -1,0 +1,53 @@
+<Menu x="0" y="0" width="1024" height="768" timer="on" draw="on" modal="off">
+   <Assets>
+      <Button name="asset_buttwide" active="img_buttwide_act" highlight="img_buttwide_hi" pressed="img_buttwide_pres" grayed="img_buttwide_gray"/>
+      <Button name="asset_buttclose" active="img_buttclose_act" highlight="img_buttclose_hi" pressed="img_buttclose_pres" grayed="img_buttclose_gray"/>
+      <Button name="asset_buttmini" active="img_buttmini_act" highlight="img_buttmini_hi" pressed="img_buttmini_pres" grayed="img_buttmini_gray"/>
+      <Button name="asset_butthelp" active="img_butthelp_act" highlight="img_butthelp_hi" pressed="img_butthelp_pres" grayed="img_butthelp_gray"/>
+      <Sound name="asset_buttsound" pressed="snd_buttdown" released="snd_buttup"/>
+   </Assets>
+   <Pad		   name="pad_grid"           id="0"  x="217"  y="130" width="584"  height="584" />   
+
+   <Button     name="butt_close"         id="100" x="995" y="4"   width="20" height="20" key="0" graphic="asset_buttclose" sound="asset_buttsound"/>
+   <Button     name="butt_mini"          id="101" x="965"  y="4"   width="20" height="20" key="0" graphic="asset_buttmini" sound="asset_buttsound"/>
+   
+   <Icon       name="icon_hint"                  x="100"  y="100"   width="55" height="35" graphic="anim_hint"/>
+   <Icon       name="icon_tmsg"                  x="0"    y="0"   width="1024" height="768" graphic="img_tmsg"/>
+   <Icon       name="icon_psys"                  x="0"    y="0"   width="1024" height="768" graphic="img_psys"/>
+
+   <String     name="str_name0"		x="48"  y="148" width="133" height="20" multiline="off" justify="center" font="font_system"/>
+   <String     name="str_name0a"	x="48"  y="151" width="133" height="20" multiline="off" justify="center" font="font_small"/>
+   <Icon       name="icon_char0"    x="50"  y="175" width="128" height="128" graphic="img_portrait0"/>
+   <String     name="str_name1"		x="849" y="145" width="130" height="45" multiline="on" justify="center" vjustify="center" font="font_system"/>
+   <String     name="str_desc1"		x="849" y="192" width="130" height="120" multiline="on" justify="center" font="font_small"/>
+   
+   <Icon       name="icon_rules"    x="50"  y="324" width="128" height="395" graphic="img_rules"/>
+
+   <String     name="str_targets"	  x="847"  y="323"  width="134" height="24" multiline="off" justify="center" font="font_system" text="[ITEMGAME_TARGET]" />
+   <Icon       name="icon_point0"     x="851"  y="359"  width="40" height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point1"     x="895"  y="359"  width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point2"     x="939"  y="359"  width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point3"     x="851"  y="403"  width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point4"     x="895"  y="403"  width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point5"     x="939"  y="403"  width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point6"     x="851"  y="447"  width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point7"     x="895"  y="447"  width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point8"     x="939"  y="447"  width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point9"     x="851"  y="491"  width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point10"     x="895"  y="491" width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point11"     x="939"  y="491" width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point12"     x="851"  y="535" width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point13"     x="895"  y="535" width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point14"     x="939"  y="535" width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point15"     x="851"  y="579" width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point16"     x="895"  y="579" width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point17"     x="939"  y="579" width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point18"     x="851"  y="623" width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point19"     x="895"  y="623" width="40"  height="40" graphic="img_hammanv_off"/>
+   <Icon       name="icon_point20"     x="939"  y="623" width="40"  height="40" graphic="img_hammanv_off"/>
+
+   <String	   name="str_capture"			     x="256"  y="95"   width="512"  height="25" multiline="off" text="[ITEMGAME]" justify="center" font="font_button"/>
+   <String     name="str_help"				     x="0"    y="733"  width="1024" height="18" multiline="off" text="[ITEMGAME_HELP]" justify="center" font="font_small"/>
+   
+   <Icon       name="icon_grid"                  x="212"  y="45"  width="600"  height="680" graphic="img_grid"/>
+</Menu>

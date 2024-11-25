@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Quest id="Q0I7">
+
+   <Text  name="[QUEST_Q0I7_NAME]" description="[QUEST_Q0I7_DESC]" group=""   file="English\Quests\Q0I7_Text.xml"/>
+   <Script  file="Assets\Quests\Q0I7.lua" object="Q0I7"/>
+   <Data  abandon="yes" icon="1" important="no" />
+
+   <Available  location="CBAR" minlevel="6" maxlevel="1000" repeat="1" 
+               donequest0="Q0Q0" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" demo="1" />
+
+   <Battle  monster="MVBT">
+
+      <Name   help="[QUEST_Q0I7_QMHELP0]"  />
+      <Add  level="0" life="10" />
+      <Spell  id="SHAS" />
+   </Battle>
+
+</Quest>

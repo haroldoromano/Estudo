@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Quest id="QK01">
+
+   <Text  name="[QUEST_QK01_NAME]" description="[QUEST_QK01_DESC]" group=""   file="English\Quests\QK01_Text.xml"/>
+   <Script  file="Assets\Quests\QK01.lua" object="QK01"/>
+   <Data  abandon="yes" icon="2" important="no" />
+
+   <Available  location="CSIL" minlevel="15" maxlevel="1000" repeat="1" 
+               donequest0="QK00" donequest1="" donequest2="" notdonequest="" notactivequest="" 
+               companion0="NKHA" companion1="" notcompanion="" 
+               item="" notitem="" award="" notaward="" />
+
+   <Battle  monster="MCEN">
+
+   </Battle>
+
+</Quest>

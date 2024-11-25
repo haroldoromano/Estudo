@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q2Q8_ACTION1]">Visit the Red Tower</Text>
+   <Text tag="[QUEST_Q2Q8_ACTION2]">Challenge Sir Borik</Text>
+   <Text tag="[QUEST_Q2Q8_FAILURE]">You have failed to defeat Sir Borik. You must try again.</Text>
+   <Text tag="[QUEST_Q2Q8_KILL]">You have defeated Sir Borik, and you take his helm as your prize.</Text>
+   <Text tag="[QUEST_Q2Q8_RETURN]">Return the Crest</Text>
+   <Text tag="[QUEST_Q2Q8_REWARD]">Tauron is now awaiting one final piece of his God.</Text>
+   <Text tag="[QUEST_Q2Q8_STEP1]">You must travel to Maethelburg in the Borderlands to see if you can find the Knight with the Crest.</Text>
+   <Text tag="[QUEST_Q2Q8_STEP2]">You must travel to Drakenburg and challenge Sir Borik to a duel for his helmet.</Text>
+   <Text tag="[QUEST_Q2Q8_STEP3]">You must return the Crest to Tauron at the Horned Temple.</Text>
+   <Text tag="[QUEST_Q2Q8_QMNAME0]">Sir Borik</Text>
+   <Text tag="[QUEST_Q2Q8_QMHELP0]">Sir Borik is particularly powerful.  His skills are high, he is well armored, and he has extra spells.</Text>
+
+</TextLibrary>

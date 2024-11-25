@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IEBC">
+   <Text  name="[ITEM_IEBC_NAME]" power="[ITEM_IEBC_POWER]"/>
+   <Data  location="body" />
+   <Shop  cost="1200" rarity="0" />
+   <Graphics  icon="47" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IEBC.lua" object="IEBC"/>
+</Item>

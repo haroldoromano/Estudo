@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISCB">
+   <Text  name="[ITEM_ISCB_NAME]" power="[ITEM_ISCB_POWER]"/>
+   <Data  location="misc" />
+   <Shop  cost="820" rarity="2" />
+   <Graphics  icon="70" />
+   <Restriction	type="skill" skill="battle" level="10"/>
+   <Script  file="Assets\Items\ISCB.lua" object="ISCB"/>
+</Item>

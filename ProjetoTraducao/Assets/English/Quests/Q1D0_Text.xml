@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1D0_ACTION]">Search for a Spider</Text>
+   <Text tag="[QUEST_Q1D0_FAILURE]">This spider got away. You will need to find another.</Text>
+   <Text tag="[QUEST_Q1D0_KILL]">You wrap the spider up, ready to be returned to Drong.</Text>
+   <Text tag="[QUEST_Q1D0_RETURN]">Visit Drong</Text>
+   <Text tag="[QUEST_Q1D0_REWARD]">Drong gives you a finely crafted magical helm.</Text>
+   <Text tag="[QUEST_Q1D0_STEP1]">You must travel to Dragon Valley and find a Dragon Spider.</Text>
+   <Text tag="[QUEST_Q1D0_STEP2]">You must return the Spider to Drong&apos;s Tower.</Text>
+
+</TextLibrary>

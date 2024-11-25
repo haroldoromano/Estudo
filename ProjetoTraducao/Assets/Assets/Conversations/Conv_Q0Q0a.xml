@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<Conversation>
+
+   <Description  text="Q0Q0: Won 1st battle against a thief"/>
+   <Text file="English\Conversations\Conv_Q0Q0a_Text.xml"/>
+   <Backdrop file="Assets\Conversations\Conv_CastleRoom.png"/>
+   <Character index="0" type="player"/>
+   <Character index="1" type="npc" portrait="Assets\Portraits\Portrait_NPC_SirAlbion.png" portraitindex="0" name="[Conv_Q0Q0a_NAME1]"/>
+
+   <Actions>
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0a_0000]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0a_0001]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0a_0002]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0a_0003]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0a_0004]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0a_0005]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0a_0006]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0a_0007]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0a_0008]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0a_0009]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0a_0010]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0a_0011]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0a_0012]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0a_0013]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0a_0014]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0a_0015]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0a_0016]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0a_0017]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0a_0018]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0a_0019]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0a_0020]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0a_0021]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0a_0022]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0a_0023]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0a_0024]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0a_0025]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0a_0026]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0a_0027]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0a_0028]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0a_0029]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0a_0030]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0a_0031]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0a_0032]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0a_0033]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0a_0034]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0a_0035]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0a_0036]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0a_0037]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0a_0038]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0a_0039]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0a_0040]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0a_0041]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0a_0042]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0a_0043]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0a_0044]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0a_0045]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0a_0046]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0a_0047]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0a_0048]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0a_0049]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0a_0050]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0a_0051]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0a_0052]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0a_0053]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0a_0054]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0a_0055]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="1" text="[Conv_Q0Q0a_0056]" />
+      <Action type="talk_oldmale" character="1" text="[Conv_Q0Q0a_0057]" />
+      <Action type="talk_youngfemale" character="1" text="[Conv_Q0Q0a_0058]" />
+      <Action type="talk_oldfemale" character="1" text="[Conv_Q0Q0a_0059]" />
+      <Action type="wait" />
+      <Action type="talk_youngmale" character="0" text="[Conv_Q0Q0a_0060]" />
+      <Action type="talk_oldmale" character="0" text="[Conv_Q0Q0a_0061]" />
+      <Action type="talk_youngfemale" character="0" text="[Conv_Q0Q0a_0062]" />
+      <Action type="talk_oldfemale" character="0" text="[Conv_Q0Q0a_0063]" />
+      <Action type="wait" />
+      <Action type="scriptcall" object="Q0Q0" function="CallbackGivenMessage" />
+      <Action type="end" />
+   </Actions>
+
+</Conversation>

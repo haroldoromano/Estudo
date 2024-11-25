@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="ISES">
+   <Text  name="[ITEM_ISES_NAME]" power="[ITEM_ISES_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="0" rarity="0" />
+   <Graphics  icon="85" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\ISES.lua" object="ISES"/>
+</Item>

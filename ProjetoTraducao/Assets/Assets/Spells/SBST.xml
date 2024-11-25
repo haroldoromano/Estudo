@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Spell id="SBST">
+   <Text  name="[SPELL_SBST_NAME]" description="[SPELL_SBST_DESC]" detail="[SPELL_SBST_DETL]"/>
+   <Cost  earth="8" fire="0" air="0" water="5" />
+   <Learn  score="575" masks="1" keys="2" />
+   <Input  type="none" />
+   <Script  file="Assets\Spells\SBST.lua" object="SBST"/>
+</Spell>

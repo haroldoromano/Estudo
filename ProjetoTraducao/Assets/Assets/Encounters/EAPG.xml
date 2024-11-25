@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EAPG">
+   <Description text="Griffon" />
+   <Location start="WGIL" end="WAPS" index="0" />
+   <Sprite id="ZGRX" />
+   <Script file="Assets\Encounters\EAPG.lua" object="EAPG" />
+</Encounter>

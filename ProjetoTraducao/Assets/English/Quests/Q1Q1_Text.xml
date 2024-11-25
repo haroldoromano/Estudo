@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1Q1_ACTION0]">Visit Gruulkar</Text>
+   <Text tag="[QUEST_Q1Q1_ACTION1]">Battle the Wargs</Text>
+   <Text tag="[QUEST_Q1Q1_FAILURE]">You could not defeat the Wargs, but you must try again.</Text>
+   <Text tag="[QUEST_Q1Q1_HELP0]">You must travel to Gruuldok to meet with Gruulkar.</Text>
+   <Text tag="[QUEST_Q1Q1_HELP1]">You must get Gruulkar a gift.  A Warg Pelt from the pack near the Wargstone should do the trick.</Text>
+   <Text tag="[QUEST_Q1Q1_HELP2]">You must return the Warg Pelt to Gruulkar.</Text>
+   <Text tag="[QUEST_Q1Q1_REWARD]">You now know that the Orcs taking prisoners are controlled by someone in the north.</Text>
+   <Text tag="[QUEST_Q1Q1_SUCCESS]">You have obtained a Warg pelt to take to Gruulkar as a gift.</Text>
+   <Text tag="[QUEST_Q1Q1_QMNAME0]">Warg</Text>
+   <Text tag="[QUEST_Q1Q1_QMHELP0]">This is a particularly nasty type of Wolf, called a Warg. They are huge and fast.  They can cast both Rend and Haste.</Text>
+
+</TextLibrary>

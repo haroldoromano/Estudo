@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Encounter id="EHP0">
+   <Description text="Minotaur" />
+   <Location start="CHTP" end="WPIK" index="0" />
+   <Sprite id="ZMIN" />
+   <Script file="Assets\Encounters\EHP0.lua" object="EHP0" />
+</Encounter>

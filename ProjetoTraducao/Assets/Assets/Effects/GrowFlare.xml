@@ -1,0 +1,29 @@
+<?xml version="1.0"?> 
+<Effect name="GrowFlare" bitmap="bmp_skin_battlemisc" type="oneshot" duration="2.0">
+
+	<Initialize parameter="source_x"	value="0" />
+	<Initialize parameter="source_y"	value="462" />
+	<Initialize parameter="source_w"	value="200" />
+	<Initialize parameter="source_h"	value="50" />
+	
+	<Initialize parameter="dest_x"		value="-100" />
+	<Initialize parameter="dest_y"		value="-25" />
+	<Initialize parameter="dest_w"		value="200" />
+	<Initialize parameter="dest_h"		value="50" />
+	
+	<Initialize parameter="alpha"		value="0.0" />
+	<Initialize parameter="rotation"	value="0.0" />
+	<Initialize parameter="color_r"		value="1.0" />
+	<Initialize parameter="color_g"		value="1.0" />
+	<Initialize parameter="color_b"		value="1.0" />
+
+	<Animate	parameter="alpha"		value="1.0"		time="0.2"	method="linear" />
+	<Animate	parameter="alpha"		value="1.0"		time="1.0"	method="linear" />
+	<Animate	parameter="alpha"		value="0.0"		time="2.0"	method="linear" />
+	
+	<Animate	parameter="dest_x"		value="-320"	time="0.5"	method="linear" />
+	<Animate	parameter="dest_y"		value="-80"		time="0.5"	method="linear" />
+	<Animate	parameter="dest_w"		value="640"		time="0.5"	method="linear" />
+	<Animate	parameter="dest_h"		value="160"		time="0.5"	method="linear" />
+		
+</Effect>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Spell id="SSPA">
+   <Text  name="[SPELL_SSPA_NAME]" description="[SPELL_SSPA_DESC]" detail="[SPELL_SSPA_DETL]"/>
+   <Cost  earth="6" fire="8" air="0" water="0" />
+   <Learn  score="400" masks="1" keys="2" />
+   <Data  cooldown="0" />
+   <Input  type="grid" />
+   <Script  file="Assets\Spells\SSPA.lua" object="SSPA"/>
+</Spell>

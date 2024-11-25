@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Item id="IHST">
+   <Text  name="[ITEM_IHST_NAME]" power="[ITEM_IHST_POWER]"/>
+   <Data  location="weapon" />
+   <Shop  cost="200" rarity="0" />
+   <Graphics  icon="99" />
+   <Restriction	type="none" />
+   <Script  file="Assets\Items\IHST.lua" object="IHST"/>
+</Item>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1R1_ACTION]">Search the Lair</Text>
+   <Text tag="[QUEST_Q1R1_FAILURE]">The Wyvern chases you from the lair. You will need to go in and look again.</Text>
+   <Text tag="[QUEST_Q1R1_MSGA]">You see something move in the lair, but you quickly realize it is only a Wyvern.</Text>
+   <Text tag="[QUEST_Q1R1_REWARD]">All you find is a small amount of gold.</Text>
+
+</TextLibrary>

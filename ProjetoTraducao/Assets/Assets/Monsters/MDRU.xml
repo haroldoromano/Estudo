@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Monster id="MDRU">
+   <Text name="[MONSTER_MDRU_NAME]" description="[MONSTER_MDRU_DESC]" capture="[MONSTER_MDRU_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_DragonUndead.png" />
+   <Level min="40" max="45" base="40" levelto="99" />
+   <Skill earth="15" fire="5" air="20" water="15" battle="20" cunning="12" morale="5" />
+   <Resistance earth="0" fire="0" air="20" water="0" />
+   <Add earth="0.50" fire="0.20" air="0.50" water="0.50" battle="0.50" cunning="0.40" morale="0.30" life="2.00" />
+   <Data life="175" mount="0" boss="0" />
+   <Reward minxp="125" maxxp="175" mingold="50" maxgold="150" />
+   <Types type1="Dragon" type2="Flying" type3="Large" type4="Undead" />
+   <Mount speed="0" fly="1" spell=""  addstat="1" stat="4" addperlevel="1" addlevel="1" />
+   <Sprite id="ZWYV"  />
+   <Item tag="IDSC"  />
+   <Item tag="IDCW"  />
+   <Spell tag="SBRP" learn="0" />
+   <Spell tag="SWBU" learn="0" />
+   <Spell tag="STWH" learn="0" />
+   <Spell tag="SCHA" learn="1" />
+   <Capture>
+      <Row data="YSY--YSY" />
+      <Row data="YOY--YOY" />
+      <Row data="GSS--SSG" />
+      <Row data="GOR--ROG" />
+      <Row data="YOS--SOY" />
+      <Row data="YXR--RXY" />
+      <Row data="GYRYGRYG" />
+      <Row data="YGXGYXGY" />
+   </Capture>
+</Monster>

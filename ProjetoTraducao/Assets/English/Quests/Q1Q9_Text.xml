@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<TextLibrary>
+
+   <Text tag="[QUEST_Q1Q9_ACTION]">Attack the Mechataur</Text>
+   <Text tag="[QUEST_Q1Q9_FAILURE]">You have failed to defeat the Mechataur. You must try again.</Text>
+   <Text tag="[QUEST_Q1Q9_MECHATAUR]">Standing before the Tower of the Hornburg, you see the massive mechanical figure of the Mechataur.</Text>
+   <Text tag="[QUEST_Q1Q9_REWARD]">Not only do you discover a priceless gem on the Mechataur&apos;s body, but you also discover a way down into the Realms of War.</Text>
+
+</TextLibrary>

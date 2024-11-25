@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Monster id="MDSP">
+   <Text name="[MONSTER_MDSP_NAME]" description="[MONSTER_MDSP_DESC]" capture="[MONSTER_MDSP_CAPT]" />
+   <Portrait index="0" number="1" file="Assets\Portraits\Portrait_Spider.png" />
+   <Level min="18" max="22" base="18" levelto="50" />
+   <Skill earth="6" fire="12" air="3" water="1" battle="8" cunning="7" morale="1" />
+   <Resistance earth="0" fire="15" air="0" water="0" />
+   <Add earth="0.50" fire="0.50" air="0.20" water="0.00" battle="0.50" cunning="0.40" morale="0.10" life="2.00" />
+   <Data life="100" mount="1" boss="0" />
+   <Reward minxp="50" maxxp="100" mingold="40" maxgold="90" />
+   <Types type1="Animal" type2="Large" type3="" type4="" />
+   <Mount speed="0" fly="0" spell="SBRF"  addstat="2" stat="1" addperlevel="1" addlevel="2" />
+   <Sprite id="ZGSP"  />
+   <Item tag="IDSC"  />
+   <Item tag="IFNG"  />
+   <Spell tag="SWEB" learn="0" />
+   <Spell tag="SBRF" learn="0" />
+   <Capture>
+      <Row data="---RR---" />
+      <Row data="--YRRY--" />
+      <Row data="-YSYYSY-" />
+      <Row data="-YSRRSY-" />
+      <Row data="-SYRRYS-" />
+      <Row data="-YRYYRY-" />
+      <Row data="-YYRRYY-" />
+      <Row data="RRYRRYRR" />
+   </Capture>
+</Monster>

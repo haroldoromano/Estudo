@@ -1,0 +1,6 @@
+<StatusEffect id="EENR">
+	<Text		name="[STATUS_ENRAGED_NAME]" description="[STATUS_ENRAGED_DESC]" />
+	<Graphics	icon="16"/>
+	<Data		duration="8" stack="1"/>
+	<Script		file="Assets\StatusEffects\Enraged.lua" object="Enraged"/>
+</StatusEffect>
