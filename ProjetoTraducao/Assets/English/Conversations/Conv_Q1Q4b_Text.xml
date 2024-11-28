@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1Q4b_NAME1]">Gruulkar</Text>
+<Text tag="[Conv_Q1Q4b_NAME1]">Gruulkar</Text>
 
-   <Text tag="[Conv_Q1Q4b_0000]">Ahaha! The little Human is back! What do you want?</Text>
-   <Text tag="[Conv_Q1Q4b_0001]">Ahaha! The little Human is back! What do you want?</Text>
-   <Text tag="[Conv_Q1Q4b_0002]">Ahaha! The little Human is back! What do you want?</Text>
-   <Text tag="[Conv_Q1Q4b_0003]">Ahaha! The little Human is back! What do you want?</Text>
-   <Text tag="[Conv_Q1Q4b_0004]">I wish to speak with you about the troops you are gathering.</Text>
-   <Text tag="[Conv_Q1Q4b_0005]">I wish to speak with you about the troops you are gathering.</Text>
-   <Text tag="[Conv_Q1Q4b_0006]">I wish to speak with you about the troops you are gathering.</Text>
-   <Text tag="[Conv_Q1Q4b_0007]">I wish to speak with you about the troops you are gathering.</Text>
-   <Text tag="[Conv_Q1Q4b_0008]">Perhaps you want to join us? But I don&apos;t think we have room for little Humans, eh?</Text>
-   <Text tag="[Conv_Q1Q4b_0009]">Perhaps you want to join us? But I don&apos;t think we have room for little Humans, eh?</Text>
-   <Text tag="[Conv_Q1Q4b_0010]">Perhaps you want to join us? But I don&apos;t think we have room for little Humans, eh?</Text>
-   <Text tag="[Conv_Q1Q4b_0011]">Perhaps you want to join us? But I don&apos;t think we have room for little Humans, eh?</Text>
-   <Text tag="[Conv_Q1Q4b_0012]">I don&apos;t want to join you, Gruulkar, I want to stop you. Is there really a need for war?</Text>
-   <Text tag="[Conv_Q1Q4b_0013]">I don&apos;t want to join you, Gruulkar, I want to stop you. Is there really a need for war?</Text>
-   <Text tag="[Conv_Q1Q4b_0014]">I don&apos;t want to join you, Gruulkar, I want to stop you. Is there really a need for war?</Text>
-   <Text tag="[Conv_Q1Q4b_0015]">I don&apos;t want to join you, Gruulkar, I want to stop you. Is there really a need for war?</Text>
-   <Text tag="[Conv_Q1Q4b_0016]">Ahaha! You are funny! I might ask: is there really a need for PEACE?  We are Orcs. We are born to fight. War is in our blood.</Text>
-   <Text tag="[Conv_Q1Q4b_0017]">Ahaha! You are funny! I might ask: is there really a need for PEACE?  We are Orcs. We are born to fight. War is in our blood.</Text>
-   <Text tag="[Conv_Q1Q4b_0018]">Ahaha! You are funny! I might ask: is there really a need for PEACE?  We are Orcs. We are born to fight. War is in our blood.</Text>
-   <Text tag="[Conv_Q1Q4b_0019]">Ahaha! You are funny! I might ask: is there really a need for PEACE?  We are Orcs. We are born to fight. War is in our blood.</Text>
-   <Text tag="[Conv_Q1Q4b_0020]">I&apos;m going to stop you, Gruulkar.</Text>
-   <Text tag="[Conv_Q1Q4b_0021]">I&apos;m going to stop you, Gruulkar.</Text>
-   <Text tag="[Conv_Q1Q4b_0022]">I&apos;m going to stop you, Gruulkar.</Text>
-   <Text tag="[Conv_Q1Q4b_0023]">I&apos;m going to stop you, Gruulkar.</Text>
-   <Text tag="[Conv_Q1Q4b_0024]">I have decided that because you amuse me, I will spare your life. Now leave! I do not want to see your ugly Human face here again.</Text>
-   <Text tag="[Conv_Q1Q4b_0025]">I have decided that because you amuse me, I will spare your life. Now leave! I do not want to see your ugly Human face here again.</Text>
-   <Text tag="[Conv_Q1Q4b_0026]">I have decided that because you amuse me, I will spare your life. Now leave! I do not want to see your ugly Human face here again.</Text>
-   <Text tag="[Conv_Q1Q4b_0027]">I have decided that because you amuse me, I will spare your life. Now leave! I do not want to see your ugly Human face here again.</Text>
+<Text tag="[Conv_Q1Q4b_0000]">Ahaha! O pequeno humano está de volta! O que você quer?</Text>
+<Text tag="[Conv_Q1Q4b_0001]">Ahaha! O pequeno humano está de volta! O que você quer?</Text>
+<Text tag="[Conv_Q1Q4b_0002]">Ahaha! O pequeno humano está de volta! O que você quer?</Text>
+<Text tag="[Conv_Q1Q4b_0003]">Ahaha! O pequeno humano está de volta! O que você quer?</Text>
+<Text tag="[Conv_Q1Q4b_0004]">Gostaria de falar com você sobre as tropas que você está reunindo.</Text>
+<Text tag="[Conv_Q1Q4b_0005]">Gostaria de falar com você sobre as tropas que você está reunindo.</Text>
+<Text tag="[Conv_Q1Q4b_0006]">Gostaria de falar com você sobre as tropas que você está reunindo.</Text>
+<Text tag="[Conv_Q1Q4b_0007]">Gostaria de falar com você sobre as tropas que você está reunindo.</Text>
+<Text tag="[Conv_Q1Q4b_0008]">Talvez você queira se juntar a nós? Mas acho que não temos espaço para pequenos humanos, hein?</Text>
+<Text tag="[Conv_Q1Q4b_0009]">Talvez você queira se juntar a nós? Mas eu não acho que temos espaço para pequenos humanos, hein?</Text>
+<Text tag="[Conv_Q1Q4b_0010]">Talvez você queira se juntar a nós? Mas eu não acho que temos espaço para pequenos humanos, hein?</Text>
+<Text tag="[Conv_Q1Q4b_0011]">Talvez você queira se juntar a nós? Mas eu não acho que temos espaço para pequenos humanos, hein?</Text>
+<Text tag="[Conv_Q1Q4b_0012]">Eu não quero me juntar a você, Gruulkar, eu quero pará-lo. Há realmente necessidade de guerra?</Text>
+<Text tag="[Conv_Q1Q4b_0013]">Eu não quero me juntar a você, Gruulkar, eu quero pará-lo. Há realmente necessidade de guerra?</Text>
+<Text tag="[Conv_Q1Q4b_0014]">Não quero me juntar a você, Gruulkar, quero impedi-lo. Há realmente necessidade de guerra?</Text>
+<Text tag="[Conv_Q1Q4b_0015]">Não quero me juntar a você, Gruulkar, quero impedi-lo. Há realmente necessidade de guerra?</Text>
+<Text tag="[Conv_Q1Q4b_0016]">Ahaha! Você é engraçado! Eu poderia perguntar: há realmente necessidade de PAZ? Somos Orcs. Nascemos para lutar. A guerra está em nosso sangue.</Text>
+<Text tag="[Conv_Q1Q4b_0017]">Ahaha! Você é engraçado! Eu poderia perguntar: há realmente necessidade de PAZ? Somos Orcs. Nascemos para lutar. A guerra está em nosso sangue.</Text>
+<Text tag="[Conv_Q1Q4b_0018]">Ahaha! Você é engraçado! Eu poderia perguntar: há realmente uma necessidade de PAZ? Nós somos Orcs. Nós nascemos para lutar. A guerra está em nosso sangue.</Text>
+<Text tag="[Conv_Q1Q4b_0019]">Ahaha! Você é engraçado! Eu poderia perguntar: há realmente uma necessidade de PAZ? Nós somos Orcs. Nós nascemos para lutar. A guerra está em nosso sangue.</Text>
+<Text tag="[Conv_Q1Q4b_0020]">Eu vou te impedir, Gruulkar.</Text>
+<Text tag="[Conv_Q1Q4b_0021]">Eu vou te impedir, Gruulkar.</Text>
+<Text tag="[Conv_Q1Q4b_0022]">Eu vou te impedir, Gruulkar.</Text>
+<Text tag="[Conv_Q1Q4b_0023]">Eu vou te impedir, Gruulkar.</Text>
+<Text tag="[Conv_Q1Q4b_0024]">Eu decidi que, porque você me diverte, pouparei sua vida. Agora vá embora! Não quero ver sua cara feia de humano aqui de novo.</Text>
+<Text tag="[Conv_Q1Q4b_0025]">Decidi que, porque você me diverte, pouparei sua vida. Agora vá embora! Não quero ver sua cara feia de humano aqui de novo.</Text>
+<Text tag="[Conv_Q1Q4b_0026]">Decidi que, porque você me diverte, pouparei sua vida. Agora vá embora! Não quero ver sua cara feia de humano aqui de novo.</Text>
+<Text tag="[Conv_Q1Q4b_0027]">Decidi que, porque você me diverte, pouparei sua vida. Agora vá embora! Não quero ver sua cara feia de humano aqui de novo.</Text>
 
 </TextLibrary>

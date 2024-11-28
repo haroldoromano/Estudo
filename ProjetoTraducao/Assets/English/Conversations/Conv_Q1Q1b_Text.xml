@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1Q1b_NAME1]">Orc Guard</Text>
+<Text tag="[Conv_Q1Q1b_NAME1]">Guarda Orc</Text>
 
-   <Text tag="[Conv_Q1Q1b_0000]">Go away, puny human!</Text>
-   <Text tag="[Conv_Q1Q1b_0001]">Go away, puny human!</Text>
-   <Text tag="[Conv_Q1Q1b_0002]">Go away, puny human!</Text>
-   <Text tag="[Conv_Q1Q1b_0003]">Go away, puny human!</Text>
-   <Text tag="[Conv_Q1Q1b_0004]">I want to talk to Gruulkar.</Text>
-   <Text tag="[Conv_Q1Q1b_0005]">I want to talk to Gruulkar.</Text>
-   <Text tag="[Conv_Q1Q1b_0006]">I want to talk to Gruulkar.</Text>
-   <Text tag="[Conv_Q1Q1b_0007]">I want to talk to Gruulkar.</Text>
-   <Text tag="[Conv_Q1Q1b_0008]">If you want to talk to Gruulkar - bring him nice present! Then maybe he see you.</Text>
-   <Text tag="[Conv_Q1Q1b_0009]">If you want to talk to Gruulkar - bring him nice present! Then maybe he see you.</Text>
-   <Text tag="[Conv_Q1Q1b_0010]">If you want to talk to Gruulkar - bring him nice present! Then maybe he see you.</Text>
-   <Text tag="[Conv_Q1Q1b_0011]">If you want to talk to Gruulkar - bring him nice present! Then maybe he see you.</Text>
-   <Text tag="[Conv_Q1Q1b_0012]">What exactly does one give an Orc for a present?</Text>
-   <Text tag="[Conv_Q1Q1b_0013]">What exactly does one give an Orc for a present?</Text>
-   <Text tag="[Conv_Q1Q1b_0014]">What exactly does one give an Orc for a present?</Text>
-   <Text tag="[Conv_Q1Q1b_0015]">What exactly does one give an Orc for a present?</Text>
-   <Text tag="[Conv_Q1Q1b_0016]">Wargs live near the Wargstone west of here.  Bring Gruulkar a Warg pelt!</Text>
-   <Text tag="[Conv_Q1Q1b_0017]">Wargs live near the Wargstone west of here.  Bring Gruulkar a Warg pelt!</Text>
-   <Text tag="[Conv_Q1Q1b_0018]">Wargs live near the Wargstone west of here.  Bring Gruulkar a Warg pelt!</Text>
-   <Text tag="[Conv_Q1Q1b_0019]">Wargs live near the Wargstone west of here.  Bring Gruulkar a Warg pelt!</Text>
+<Text tag="[Conv_Q1Q1b_0000]">Vá embora, humano insignificante!</Text>
+<Text tag="[Conv_Q1Q1b_0001]">Vá embora, humano insignificante!</Text>
+<Text tag="[Conv_Q1Q1b_0002]">Vá embora, humano insignificante!</Text>
+<Text tag="[Conv_Q1Q1b_0003]">Vá embora, humano insignificante!</Text>
+<Text tag="[Conv_Q1Q1b_0004]">Quero falar com Gruulkar.</Text>
+<Text tag="[Conv_Q1Q1b_0005]">Quero falar com Gruulkar.</Text>
+<Text tag="[Conv_Q1Q1b_0006]">Quero falar com Gruulkar.</Text>
+<Text tag="[Conv_Q1Q1b_0007]">Quero falar com Gruulkar.</Text>
+<Text tag="[Conv_Q1Q1b_0008]">Se quiser falar com Gruulkar, traga um presente legal! Então talvez ele te veja.</Text>
+<Text tag="[Conv_Q1Q1b_0009]">Se quiser falar com Gruulkar, traga um presente legal! Então talvez ele te veja.</Text>
+<Text tag="[Conv_Q1Q1b_0010]">Se quiser falar com Gruulkar, traga um presente legal! Então talvez ele te veja.</Text>
+<Text tag="[Conv_Q1Q1b_0011]">Se quiser falar com Gruulkar, traga um presente legal! Então talvez ele veja você.</Text>
+<Text tag="[Conv_Q1Q1b_0012]">O que exatamente se dá de presente a um Orc?</Text>
+<Text tag="[Conv_Q1Q1b_0013]">O que exatamente se dá de presente a um Orc?</Text>
+<Text tag="[Conv_Q1Q1b_0014]">O que exatamente se dá de presente a um Orc?</Text>
+<Text tag="[Conv_Q1Q1b_0015]">O que exatamente se dá de presente a um Orc?</Text>
+<Text tag="[Conv_Q1Q1b_0016]">Wargs vivem perto da Wargstone a oeste daqui. Traga uma pele de Warg para Gruulkar!</Text>
+<Text tag="[Conv_Q1Q1b_0017]">Wargs vivem perto da Wargstone a oeste daqui. Traga uma pele de Warg para Gruulkar!</Text>
+<Text tag="[Conv_Q1Q1b_0018]">Wargs vivem perto da Wargstone a oeste daqui. Traga uma pele de Warg para Gruulkar!</Text>
+<Text tag="[Conv_Q1Q1b_0019]">Wargs vivem perto da Wargstone a oeste daqui. Traga uma pele de Warg para Gruulkar!</Text>
 
 </TextLibrary>

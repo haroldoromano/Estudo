@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q2J4cc_NAME1]">Neehi</Text>
+<Text tag="[Conv_Q2J4cc_NAME1]">Neehi</Text>
 
-   <Text tag="[Conv_Q2J4cc_0000]">Welcome! Welcome! What can Neehi do you for?</Text>
-   <Text tag="[Conv_Q2J4cc_0001]">Welcome! Welcome! What can Neehi do you for?</Text>
-   <Text tag="[Conv_Q2J4cc_0002]">Welcome! Welcome! What can Neehi do you for?</Text>
-   <Text tag="[Conv_Q2J4cc_0003]">Welcome! Welcome! What can Neehi do you for?</Text>
-   <Text tag="[Conv_Q2J4cc_0004]">I need some Griffonskin Parchment. I heard you might have some.</Text>
-   <Text tag="[Conv_Q2J4cc_0005]">I need some Griffonskin Parchment. I heard you might have some.</Text>
-   <Text tag="[Conv_Q2J4cc_0006]">I need some Griffonskin Parchment. I heard you might have some.</Text>
-   <Text tag="[Conv_Q2J4cc_0007]">I need some Griffonskin Parchment. I heard you might have some.</Text>
-   <Text tag="[Conv_Q2J4cc_0008]">You come back when you have 100 Gold.  Neehi does not deal with beggars!</Text>
-   <Text tag="[Conv_Q2J4cc_0009]">You come back when you have 100 Gold.  Neehi does not deal with beggars!</Text>
-   <Text tag="[Conv_Q2J4cc_0010]">You come back when you have 100 Gold.  Neehi does not deal with beggars!</Text>
-   <Text tag="[Conv_Q2J4cc_0011]">You come back when you have 100 Gold.  Neehi does not deal with beggars!</Text>
+<Text tag="[Conv_Q2J4cc_0000]">Bem-vinda! Bem-vinda! O que Neehi pode fazer por você?</Text>
+<Text tag="[Conv_Q2J4cc_0001]">Bem-vinda! Bem-vinda! O que Neehi pode fazer por você?</Text>
+<Text tag="[Conv_Q2J4cc_0002]">Bem-vinda! Bem-vinda! O que Neehi pode fazer por você?</Text>
+<Text tag="[Conv_Q2J4cc_0003]">Bem-vinda! Bem-vinda! O que Neehi pode fazer por você?</Text>
+<Text tag="[Conv_Q2J4cc_0004]">Preciso de um pouco de Pergaminho de Pele de Grifo. Ouvi dizer que você pode ter alguns.</Text>
+<Text tag="[Conv_Q2J4cc_0005]">Preciso de um pouco de Pergaminho de Pele de Grifo. Ouvi dizer que você pode ter alguns.</Text>
+<Text tag="[Conv_Q2J4cc_0006]">Preciso de um pouco de Pergaminho de Pele de Grifo. Ouvi dizer que você pode ter alguns.</Text>
+<Text tag="[Conv_Q2J4cc_0007]">Preciso de um pouco de Pergaminho de Pele de Grifo. Ouvi dizer que você pode ter alguns.</Text>
+<Text tag="[Conv_Q2J4cc_0008]">Você volta quando tiver 100 de Ouro. Neehi não lida com mendigos!</Text>
+<Text tag="[Conv_Q2J4cc_0009]">Você volta quando tiver 100 de Ouro. Neehi não lida com mendigos!</Text>
+<Text tag="[Conv_Q2J4cc_0010]">Você volta quando tiver 100 Gold. Neehi não lida com mendigos!</Text>
+<Text tag="[Conv_Q2J4cc_0011]">Você volta quando tiver 100 Gold. Neehi não lida com mendigos!</Text>
 
 </TextLibrary>

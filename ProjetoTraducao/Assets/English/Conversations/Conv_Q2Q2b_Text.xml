@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q2Q2b_NAME1]">Tauron</Text>
+<Text tag="[Conv_Q2Q2b_NAME1]">Tauron</Text>
 
-   <Text tag="[Conv_Q2Q2b_0000]">You have the Horns of Sartek!</Text>
-   <Text tag="[Conv_Q2Q2b_0001]">You have the Horns of Sartek!</Text>
-   <Text tag="[Conv_Q2Q2b_0002]">You have the Horns of Sartek!</Text>
-   <Text tag="[Conv_Q2Q2b_0003]">You have the Horns of Sartek!</Text>
-   <Text tag="[Conv_Q2Q2b_0004]">We do.  Just how much of Sartek is missing anyway?</Text>
-   <Text tag="[Conv_Q2Q2b_0005]">We do.  Just how much of Sartek is missing anyway?</Text>
-   <Text tag="[Conv_Q2Q2b_0006]">We do.  Just how much of Sartek is missing anyway?</Text>
-   <Text tag="[Conv_Q2Q2b_0007]">We do.  Just how much of Sartek is missing anyway?</Text>
-   <Text tag="[Conv_Q2Q2b_0008]">You have found the 93rd and 94th pieces. Only seven more remain.</Text>
-   <Text tag="[Conv_Q2Q2b_0009]">You have found the 93rd and 94th pieces. Only seven more remain.</Text>
-   <Text tag="[Conv_Q2Q2b_0010]">You have found the 93rd and 94th pieces. Only seven more remain.</Text>
-   <Text tag="[Conv_Q2Q2b_0011]">You have found the 93rd and 94th pieces. Only seven more remain.</Text>
+<Text tag="[Conv_Q2Q2b_0000]">Você tem os Chifres de Sartek!</Text>
+<Text tag="[Conv_Q2Q2b_0001]">Você tem os Chifres de Sartek!</Text>
+<Text tag="[Conv_Q2Q2b_0002]">Você tem os Chifres de Sartek!</Text>
+<Text tag="[Conv_Q2Q2b_0003]">Você tem os Chifres de Sartek!</Text>
+<Text tag="[Conv_Q2Q2b_0004]">Temos. Afinal, quanto de Sartek está faltando?</Text>
+<Text tag="[Conv_Q2Q2b_0005]">Temos. Afinal, quanto de Sartek está faltando?</Text>
+<Text tag="[Conv_Q2Q2b_0006]">Sim. Afinal, quanto de Sartek está faltando?</Text>
+<Text tag="[Conv_Q2Q2b_0007]">Sim. Afinal, quanto de Sartek está faltando?</Text>
+<Text tag="[Conv_Q2Q2b_0008]">Você encontrou as peças 93 e 94. Restam apenas mais sete.</Text>
+<Text tag="[Conv_Q2Q2b_0009]">Você encontrou as peças 93 e 94. Restam apenas mais sete.</Text>
+<Text tag="[Conv_Q2Q2b_0010]">Você encontrou as peças 93 e 94. Restam apenas mais sete.</Text>
+<Text tag="[Conv_Q2Q2b_0011]">Você encontrou as 93ª e 94ª peças. Restam apenas mais sete.</Text>
 
 </TextLibrary>

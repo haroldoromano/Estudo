@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1Q7a_NAME1]">Khrona</Text>
+<Text tag="[Conv_Q1Q7a_NAME1]">Khrona</Text>
 
-   <Text tag="[Conv_Q1Q7a_0000]">It is time for me to head north and look for this Mechataur. Gruulkar says it lives in the Hornburg. Do you know where that is?</Text>
-   <Text tag="[Conv_Q1Q7a_0001]">It is time for me to head north and look for this Mechataur. Gruulkar says it lives in the Hornburg. Do you know where that is?</Text>
-   <Text tag="[Conv_Q1Q7a_0002]">It is time for me to head north and look for this Mechataur. Gruulkar says it lives in the Hornburg. Do you know where that is?</Text>
-   <Text tag="[Conv_Q1Q7a_0003]">It is time for me to head north and look for this Mechataur. Gruulkar says it lives in the Hornburg. Do you know where that is?</Text>
-   <Text tag="[Conv_Q1Q7a_0004]">Yes. It is in the mountains north of here bordering the Realms of War, but the paths through there are difficult and dangerous. Even Khalkus would have trouble finding a trail.</Text>
-   <Text tag="[Conv_Q1Q7a_0005]">Yes. It is in the mountains north of here bordering the Realms of War, but the paths through there are difficult and dangerous. Even Khalkus would have trouble finding a trail.</Text>
-   <Text tag="[Conv_Q1Q7a_0006]">Yes. It is in the mountains north of here bordering the Realms of War, but the paths through there are difficult and dangerous. Even Khalkus would have trouble finding a trail.</Text>
-   <Text tag="[Conv_Q1Q7a_0007]">Yes. It is in the mountains north of here bordering the Realms of War, but the paths through there are difficult and dangerous. Even Khalkus would have trouble finding a trail.</Text>
-   <Text tag="[Conv_Q1Q7a_0008]">I&apos;ll find a way. Thank you for your hospitality, Khrona.</Text>
-   <Text tag="[Conv_Q1Q7a_0009]">I&apos;ll find a way. Thank you for your hospitality, Khrona.</Text>
-   <Text tag="[Conv_Q1Q7a_0010]">I&apos;ll find a way. Thank you for your hospitality, Khrona.</Text>
-   <Text tag="[Conv_Q1Q7a_0011]">I&apos;ll find a way. Thank you for your hospitality, Khrona.</Text>
-   <Text tag="[Conv_Q1Q7a_0012]">It is we who should thank you. Even so, there is one more favor I would ask of you - it is not out of your way.</Text>
-   <Text tag="[Conv_Q1Q7a_0013]">It is we who should thank you. Even so, there is one more favor I would ask of you - it is not out of your way.</Text>
-   <Text tag="[Conv_Q1Q7a_0014]">It is we who should thank you. Even so, there is one more favor I would ask of you - it is not out of your way.</Text>
-   <Text tag="[Conv_Q1Q7a_0015]">It is we who should thank you. Even so, there is one more favor I would ask of you - it is not out of your way.</Text>
-   <Text tag="[Conv_Q1Q7a_0016]">Very well.</Text>
-   <Text tag="[Conv_Q1Q7a_0017]">Very well.</Text>
-   <Text tag="[Conv_Q1Q7a_0018]">Very well.</Text>
-   <Text tag="[Conv_Q1Q7a_0019]">Very well.</Text>
-   <Text tag="[Conv_Q1Q7a_0020]">The miners in Northern Kor have captured a Dragon. As you are passing through, could you help them... ahh... dispose of it?</Text>
-   <Text tag="[Conv_Q1Q7a_0021]">The miners in Northern Kor have captured a Dragon. As you are passing through, could you help them... ahh... dispose of it?</Text>
-   <Text tag="[Conv_Q1Q7a_0022]">The miners in Northern Kor have captured a Dragon. As you are passing through, could you help them... ahh... dispose of it?</Text>
-   <Text tag="[Conv_Q1Q7a_0023]">The miners in Northern Kor have captured a Dragon. As you are passing through, could you help them... ahh... dispose of it?</Text>
-   <Text tag="[Conv_Q1Q7a_0024]">I&apos;d be glad to help.</Text>
-   <Text tag="[Conv_Q1Q7a_0025]">I&apos;d be glad to help.</Text>
-   <Text tag="[Conv_Q1Q7a_0026]">I&apos;d be glad to help.</Text>
-   <Text tag="[Conv_Q1Q7a_0027]">I&apos;d be glad to help.</Text>
+<Text tag="[Conv_Q1Q7a_0000]">É hora de eu ir para o norte e procurar por este Mechataur. Gruulkar diz que ele mora em Hornburg. Você sabe onde é?</Text>
+<Text tag="[Conv_Q1Q7a_0001]">É hora de eu ir para o norte e procurar por este Mechataur. Gruulkar diz que ele mora em Hornburg. Você sabe onde é?</Text>
+<Text tag="[Conv_Q1Q7a_0002]">É hora de eu ir para o norte e procurar por este Mechataur. Gruulkar diz que ele mora em Hornburg. Você sabe onde fica isso?</Text>
+<Text tag="[Conv_Q1Q7a_0003]">É hora de eu ir para o norte e procurar por esse Mechataur. Gruulkar diz que ele vive em Hornburg. Você sabe onde fica isso?</Text>
+<Text tag="[Conv_Q1Q7a_0004]">Sim. Fica nas montanhas ao norte daqui, na fronteira com os Reinos da Guerra, mas os caminhos por lá são difíceis e perigosos. Até Khalkus teria dificuldade em encontrar uma trilha.</Text>
+<Text tag="[Conv_Q1Q7a_0005]">Sim. Fica nas montanhas ao norte daqui, na fronteira com os Reinos da Guerra, mas os caminhos por lá são difíceis e perigosos. Até Khalkus teria dificuldade em encontrar uma trilha.</Text>
+<Text tag="[Conv_Q1Q7a_0006]">Sim. Fica nas montanhas ao norte daqui, na fronteira com os Reinos da Guerra, mas os caminhos por lá são difíceis e perigosos. Até Khalkus teria dificuldade em encontrar uma trilha.</Text>
+<Text tag="[Conv_Q1Q7a_0007]">Sim. Fica nas montanhas ao norte daqui, na fronteira com os Reinos da Guerra, mas os caminhos por lá são difíceis e perigosos. Até Khalkus teria dificuldade em encontrar uma trilha.</Text>
+<Text tag="[Conv_Q1Q7a_0008]">Eu encontrarei um jeito. Obrigado pela sua hospitalidade, Khrona.</Text>
+<Text tag="[Conv_Q1Q7a_0009]">Eu encontrarei um jeito. Obrigado pela sua hospitalidade, Khrona.</Text>
+<Text tag="[Conv_Q1Q7a_0010]">Eu encontrarei um jeito. Obrigado pela sua hospitalidade, Khrona.</Text>
+<Text tag="[Conv_Q1Q7a_0011]">Eu encontrarei um jeito. Obrigado pela sua hospitalidade, Khrona.</Text>
+<Text tag="[Conv_Q1Q7a_0012]">Somos nós que devemos agradecer. Mesmo assim, há mais um favor que eu gostaria de pedir a você - não está fora do seu caminho.</Text>
+<Text tag="[Conv_Q1Q7a_0013]">Somos nós que devemos agradecer a você. Mesmo assim, há mais um favor que eu gostaria de pedir a você - não está fora do seu caminho.</Text>
+<Text tag="[Conv_Q1Q7a_0014]">Somos nós que devemos agradecer a você. Mesmo assim, há mais um favor que eu gostaria de pedir a você - não está fora do seu caminho.</Text>
+<Text tag="[Conv_Q1Q7a_0015]">Somos nós que devemos agradecer a você. Mesmo assim, há mais um favor que eu gostaria de pedir a você - não está fora do seu caminho.</Text>
+<Text tag="[Conv_Q1Q7a_0016]">Muito bem.</Text>
+<Text tag="[Conv_Q1Q7a_0017]">Muito bem.</Text>
+<Text tag="[Conv_Q1Q7a_0018]">Muito bem.</Text>
+<Text tag="[Conv_Q1Q7a_0019]">Muito bem.</Text>
+<Text tag="[Conv_Q1Q7a_0020]">Os mineiros em Kor do Norte capturaram um Dragão. Enquanto você está passando, você poderia ajudá-los... ahh... a se livrar dele?</Text>
+<Text tag="[Conv_Q1Q7a_0021]">Os mineradores em Northern Kor capturaram um Dragão. Enquanto você está passando, você poderia ajudá-los... ahh... a se livrar dele?</Text>
+<Text tag="[Conv_Q1Q7a_0022]">Os mineradores em Northern Kor capturaram um Dragão. Enquanto você está passando, você poderia ajudá-los... ahh... a se livrar dele?</Text>
+<Text tag="[Conv_Q1Q7a_0023]">Os mineradores em Northern Kor capturaram um Dragão. Como você está passando, você poderia ajudá-los... ahh... a se livrar disso?</Text>
+<Text tag="[Conv_Q1Q7a_0024]">Eu ficaria feliz em ajudar.</Text>
+<Text tag="[Conv_Q1Q7a_0025]">Eu ficaria feliz em ajudar.</Text>
+<Text tag="[Conv_Q1Q7a_0026]">Eu ficaria feliz em ajudar.</Text>
+<Text tag="[Conv_Q1Q7a_0027]">Eu ficaria feliz em ajudar.</Text>
 
 </TextLibrary>

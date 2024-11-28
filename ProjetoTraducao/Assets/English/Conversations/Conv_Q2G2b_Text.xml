@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q2G2b_NAME1]">Patch</Text>
+<Text tag="[Conv_Q2G2b_NAME1]">Patch</Text>
 
-   <Text tag="[Conv_Q2G2b_0000]">Okay.  Unless you&apos;ve remembered any more Assassins, I think you&apos;re free to go.</Text>
-   <Text tag="[Conv_Q2G2b_0001]">Okay.  Unless you&apos;ve remembered any more Assassins, I think you&apos;re free to go.</Text>
-   <Text tag="[Conv_Q2G2b_0002]">Okay.  Unless you&apos;ve remembered any more Assassins, I think you&apos;re free to go.</Text>
-   <Text tag="[Conv_Q2G2b_0003]">Okay.  Unless you&apos;ve remembered any more Assassins, I think you&apos;re free to go.</Text>
-   <Text tag="[Conv_Q2G2b_0004]">Friend! FRIEND! You have saved me! I will join you!</Text>
-   <Text tag="[Conv_Q2G2b_0005]">Friend! FRIEND! You have saved me! I will join you!</Text>
-   <Text tag="[Conv_Q2G2b_0006]">Friend! FRIEND! You have saved me! I will join you!</Text>
-   <Text tag="[Conv_Q2G2b_0007]">Friend! FRIEND! You have saved me! I will join you!</Text>
-   <Text tag="[Conv_Q2G2b_0008]">Umm, Patch, I&apos;m not sure you really want to join us...</Text>
-   <Text tag="[Conv_Q2G2b_0009]">Umm, Patch, I&apos;m not sure you really want to join us...</Text>
-   <Text tag="[Conv_Q2G2b_0010]">Umm, Patch, I&apos;m not sure you really want to join us...</Text>
-   <Text tag="[Conv_Q2G2b_0011]">Umm, Patch, I&apos;m not sure you really want to join us...</Text>
-   <Text tag="[Conv_Q2G2b_0012]">Very good at hiding.  Hiding and jumping. Jumping and stabbing. I can help you!</Text>
-   <Text tag="[Conv_Q2G2b_0013]">Very good at hiding.  Hiding and jumping. Jumping and stabbing. I can help you!</Text>
-   <Text tag="[Conv_Q2G2b_0014]">Very good at hiding.  Hiding and jumping. Jumping and stabbing. I can help you!</Text>
-   <Text tag="[Conv_Q2G2b_0015]">Very good at hiding.  Hiding and jumping. Jumping and stabbing. I can help you!</Text>
-   <Text tag="[Conv_Q2G2b_0016]">I know I&apos;m going to regret this... but okay, Patch. Come on.</Text>
-   <Text tag="[Conv_Q2G2b_0017]">I know I&apos;m going to regret this... but okay, Patch. Come on.</Text>
-   <Text tag="[Conv_Q2G2b_0018]">I know I&apos;m going to regret this... but okay, Patch. Come on.</Text>
-   <Text tag="[Conv_Q2G2b_0019]">I know I&apos;m going to regret this... but okay, Patch. Come on.</Text>
+<Text tag="[Conv_Q2G2b_0000]">Ok. A menos que você tenha se lembrado de mais algum Assassino, acho que você está livre para ir.</Text>
+<Text tag="[Conv_Q2G2b_0001]">Ok. A menos que você tenha se lembrado de mais algum Assassino, acho que você está livre para ir.</Text>
+<Text tag="[Conv_Q2G2b_0002]">Ok. A menos que você tenha se lembrado de mais algum Assassino, acho que você está livre para ir.</Text>
+<Text tag="[Conv_Q2G2b_0003]">Ok. A menos que você tenha se lembrado de mais algum Assassino, acho que você está livre para ir.</Text>
+<Text tag="[Conv_Q2G2b_0004]">Amigo! AMIGO! Você me salvou! Eu me juntarei a você!</Text>
+<Text tag="[Conv_Q2G2b_0005]">Amigo! AMIGO! Você me salvou! Eu me juntarei a você!</Text>
+<Text tag="[Conv_Q2G2b_0006]">Amigo! AMIGO! Você me salvou! Eu me juntarei a você!</Text>
+<Text tag="[Conv_Q2G2b_0007]">Amigo! AMIGO! Você me salvou! Eu vou me juntar a você!</Text>
+<Text tag="[Conv_Q2G2b_0008]">Umm, Patch, não tenho certeza se você realmente quer se juntar a nós...</Text>
+<Text tag="[Conv_Q2G2b_0009]">Umm, Patch, não tenho certeza se você realmente quer se juntar a nós...</Text>
+<Text tag="[Conv_Q2G2b_0010]">Umm, Patch, não tenho certeza se você realmente quer se juntar a nós...</Text>
+<Text tag="[Conv_Q2G2b_0011]">Umm, Patch, não tenho certeza se você realmente quer se juntar a nós...</Text>
+<Text tag="[Conv_Q2G2b_0012]">Muito bom em se esconder. Se esconder e pular. Pular e esfaquear. Eu posso te ajudar!</Text>
+<Text tag="[Conv_Q2G2b_0013]">Muito bom em se esconder. Esconder e pular. Pular e esfaquear. Eu posso te ajudar!</Text>
+<Text tag="[Conv_Q2G2b_0014]">Muito bom em se esconder. Esconder e pular. Pular e esfaquear. Eu posso te ajudar!</Text>
+<Text tag="[Conv_Q2G2b_0015]">Muito bom em se esconder. Esconder e pular. Pular e esfaquear. Eu posso te ajudar!</Text>
+<Text tag="[Conv_Q2G2b_0016]">Eu sei que vou me arrepender disso... mas tudo bem, Patch. Vamos lá.</Text>
+<Text tag="[Conv_Q2G2b_0017]">Eu sei que vou me arrepender disso... mas tudo bem, Patch. Vamos lá.</Text>
+<Text tag="[Conv_Q2G2b_0018]">Eu sei que vou me arrepender disso... mas tudo bem, Patch. Vamos lá.</Text>
+<Text tag="[Conv_Q2G2b_0019]">Eu sei que vou me arrepender disso... mas tudo bem, Patch. Vamos lá.</Text>
 
 </TextLibrary>

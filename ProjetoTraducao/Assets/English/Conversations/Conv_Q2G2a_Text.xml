@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q2G2a_NAME1]">Patch</Text>
+<Text tag="[Conv_Q2G2a_NAME1]">Patch</Text>
 
-   <Text tag="[Conv_Q2G2a_0000]">So this Assassin, Patch, you&apos;re sure he&apos;s the last one?</Text>
-   <Text tag="[Conv_Q2G2a_0001]">So this Assassin, Patch, you&apos;re sure he&apos;s the last one?</Text>
-   <Text tag="[Conv_Q2G2a_0002]">So this Assassin, Patch, you&apos;re sure he&apos;s the last one?</Text>
-   <Text tag="[Conv_Q2G2a_0003]">So this Assassin, Patch, you&apos;re sure he&apos;s the last one?</Text>
-   <Text tag="[Conv_Q2G2a_0004]">Yes, different!  Wears grey. Very silent. Very Fast. Long knife in the dark...</Text>
-   <Text tag="[Conv_Q2G2a_0005]">Yes, different!  Wears grey. Very silent. Very Fast. Long knife in the dark...</Text>
-   <Text tag="[Conv_Q2G2a_0006]">Yes, different!  Wears grey. Very silent. Very Fast. Long knife in the dark...</Text>
-   <Text tag="[Conv_Q2G2a_0007]">Yes, different!  Wears grey. Very silent. Very Fast. Long knife in the dark...</Text>
-   <Text tag="[Conv_Q2G2a_0008]">Stay here - I&apos;ll see what I can do.</Text>
-   <Text tag="[Conv_Q2G2a_0009]">Stay here - I&apos;ll see what I can do.</Text>
-   <Text tag="[Conv_Q2G2a_0010]">Stay here - I&apos;ll see what I can do.</Text>
-   <Text tag="[Conv_Q2G2a_0011]">Stay here - I&apos;ll see what I can do.</Text>
+<Text tag="[Conv_Q2G2a_0000]">Então esse Assassino, Patch, você tem certeza que ele é o último?</Text>
+<Text tag="[Conv_Q2G2a_0001]">Então esse Assassino, Patch, você tem certeza que ele é o último?</Text>
+<Text tag="[Conv_Q2G2a_0002]">Então esse Assassino, Patch, você tem certeza que ele é o último?</Text>
+<Text tag="[Conv_Q2G2a_0003]">Então esse Assassino, Patch, você tem certeza que ele é o último?</Text>
+<Text tag="[Conv_Q2G2a_0004]">Sim, diferente! Veste cinza. Muito silencioso. Muito rápido. Faca longa no escuro...</Text>
+<Text tag="[Conv_Q2G2a_0005]">Sim, diferente! Veste cinza. Muito silencioso. Muito rápido. Faca longa no escuro...</Text>
+<Text tag="[Conv_Q2G2a_0006]">Sim, diferente! Veste cinza. Muito silencioso. Muito rápido. Faca longa no escuro...</Text>
+<Text tag="[Conv_Q2G2a_0007]">Sim, diferente! Veste cinza. Muito silencioso. Muito rápido. Faca longa no escuro...</Text>
+<Text tag="[Conv_Q2G2a_0008]">Fique aqui - verei o que posso fazer.</Text>
+<Text tag="[Conv_Q2G2a_0009]">Fique aqui - verei o que posso fazer.</Text>
+<Text tag="[Conv_Q2G2a_0010]">Fique aqui - verei o que posso fazer.</Text>
+<Text tag="[Conv_Q2G2a_0011]">Fique aqui - verei o que posso fazer.</Text>
 
 </TextLibrary>

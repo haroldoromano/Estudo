@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1Q8a_NAME1]">Flicker</Text>
+<Text tag="[Conv_Q1Q8a_NAME1]">Flicker</Text>
 
-   <Text tag="[Conv_Q1Q8a_0000]">We need to find a way to wake up Kelthurax.</Text>
-   <Text tag="[Conv_Q1Q8a_0001]">We need to find a way to wake up Kelthurax.</Text>
-   <Text tag="[Conv_Q1Q8a_0002]">We need to find a way to wake up Kelthurax.</Text>
-   <Text tag="[Conv_Q1Q8a_0003]">We need to find a way to wake up Kelthurax.</Text>
-   <Text tag="[Conv_Q1Q8a_0004]">Is that safe? I&apos;ve heard all sorts of stories about Kelthurax...none of them good.</Text>
-   <Text tag="[Conv_Q1Q8a_0005]">Is that safe? I&apos;ve heard all sorts of stories about Kelthurax...none of them good.</Text>
-   <Text tag="[Conv_Q1Q8a_0006]">Is that safe? I&apos;ve heard all sorts of stories about Kelthurax...none of them good.</Text>
-   <Text tag="[Conv_Q1Q8a_0007]">Is that safe? I&apos;ve heard all sorts of stories about Kelthurax...none of them good.</Text>
-   <Text tag="[Conv_Q1Q8a_0008]">Oh yes - it&apos;s perfectly safe. I&apos;m here, and in case you haven&apos;t noticed I AM a Dragon.</Text>
-   <Text tag="[Conv_Q1Q8a_0009]">Oh yes - it&apos;s perfectly safe. I&apos;m here, and in case you haven&apos;t noticed I AM a Dragon.</Text>
-   <Text tag="[Conv_Q1Q8a_0010]">Oh yes - it&apos;s perfectly safe. I&apos;m here, and in case you haven&apos;t noticed I AM a Dragon.</Text>
-   <Text tag="[Conv_Q1Q8a_0011]">Oh yes - it&apos;s perfectly safe. I&apos;m here, and in case you haven&apos;t noticed I AM a Dragon.</Text>
-   <Text tag="[Conv_Q1Q8a_0012]">Have you ever spoken with Kelthurax before?</Text>
-   <Text tag="[Conv_Q1Q8a_0013]">Have you ever spoken with Kelthurax before?</Text>
-   <Text tag="[Conv_Q1Q8a_0014]">Have you ever spoken with Kelthurax before?</Text>
-   <Text tag="[Conv_Q1Q8a_0015]">Have you ever spoken with Kelthurax before?</Text>
-   <Text tag="[Conv_Q1Q8a_0016]">Of COURSE I have!</Text>
-   <Text tag="[Conv_Q1Q8a_0017]">Of COURSE I have!</Text>
-   <Text tag="[Conv_Q1Q8a_0018]">Of COURSE I have!</Text>
-   <Text tag="[Conv_Q1Q8a_0019]">Of COURSE I have!</Text>
-   <Text tag="[Conv_Q1Q8a_0020]">Really?</Text>
-   <Text tag="[Conv_Q1Q8a_0021]">Really?</Text>
-   <Text tag="[Conv_Q1Q8a_0022]">Really?</Text>
-   <Text tag="[Conv_Q1Q8a_0023]">Really?</Text>
-   <Text tag="[Conv_Q1Q8a_0024]">Yes!  Now let&apos;s try and wake him up.</Text>
-   <Text tag="[Conv_Q1Q8a_0025]">Yes!  Now let&apos;s try and wake him up.</Text>
-   <Text tag="[Conv_Q1Q8a_0026]">Yes!  Now let&apos;s try and wake him up.</Text>
-   <Text tag="[Conv_Q1Q8a_0027]">Yes!  Now let&apos;s try and wake him up.</Text>
+<Text tag="[Conv_Q1Q8a_0000]">Precisamos encontrar uma maneira de acordar Kelthurax.</Text>
+<Text tag="[Conv_Q1Q8a_0001]">Precisamos encontrar uma maneira de acordar Kelthurax.</Text>
+<Text tag="[Conv_Q1Q8a_0002]">Precisamos encontrar uma maneira de acordar Kelthurax.</Text>
+<Text tag="[Conv_Q1Q8a_0003]">Precisamos encontrar uma maneira de acordar Kelthurax.</Text>
+<Text tag="[Conv_Q1Q8a_0004]">Isso é seguro? Ouvi todo tipo de história sobre Kelthurax... nenhuma delas boa.</Text>
+<Text tag="[Conv_Q1Q8a_0005]">Isso é seguro? Ouvi todo tipo de história sobre Kelthurax... nenhuma delas boa.</Text>
+<Text tag="[Conv_Q1Q8a_0006]">Isso é seguro? Ouvi todo tipo de história sobre Kelthurax... nenhuma delas boa.</Text>
+<Text tag="[Conv_Q1Q8a_0007]">Isso é seguro? Ouvi todo tipo de história sobre Kelthurax... nenhuma delas boa.</Text>
+<Text tag="[Conv_Q1Q8a_0008]">Ah sim - é perfeitamente seguro. Estou aqui, e caso você não tenha notado, EU SOU um dragão.</Text>
+<Text tag="[Conv_Q1Q8a_0009]">Ah sim - é perfeitamente seguro. Estou aqui, e caso você não tenha notado, EU SOU um dragão.</Text>
+<Text tag="[Conv_Q1Q8a_0010]">Ah sim - é perfeitamente seguro. Estou aqui, e caso você não tenha notado, EU SOU um dragão.</Text>
+<Text tag="[Conv_Q1Q8a_0011]">Ah sim - é perfeitamente seguro. Estou aqui, e caso você não tenha notado, EU SOU um Dragão.</Text>
+<Text tag="[Conv_Q1Q8a_0012]">Você já falou com Kelthurax antes?</Text>
+<Text tag="[Conv_Q1Q8a_0013]">Você já falou com Kelthurax antes?</Text>
+<Text tag="[Conv_Q1Q8a_0014]">Você já falou com Kelthurax antes?</Text>
+<Text tag="[Conv_Q1Q8a_0015]">Você já falou com Kelthurax antes?</Text>
+<Text tag="[Conv_Q1Q8a_0016]">É CLARO que sim!</Text>
+<Text tag="[Conv_Q1Q8a_0017]">É CLARO que sim!</Text>
+<Text tag="[Conv_Q1Q8a_0018]">É CLARO que sim!</Text>
+<Text tag="[Conv_Q1Q8a_0019]">É CLARO que sim!</Text>
+<Text tag="[Conv_Q1Q8a_0020]">Sério?</Text>
+<Text tag="[Conv_Q1Q8a_0021]">Sério?</Text>
+<Text tag="[Conv_Q1Q8a_0022]">Sério?</Text>
+<Text tag="[Conv_Q1Q8a_0023]">Sério?</Text>
+<Text tag="[Conv_Q1Q8a_0024]">Sim! Agora vamos tentar acordá-lo.</Text>
+<Text tag="[Conv_Q1Q8a_0025]">Sim! Agora vamos tentar acordá-lo.</Text>
+<Text tag="[Conv_Q1Q8a_0026]">Sim! Agora vamos tentar acordá-lo.</Text>
+<Text tag="[Conv_Q1Q8a_0027]">Sim! Agora vamos tentar acordá-lo.</Text>
 
 </TextLibrary>

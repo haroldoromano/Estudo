@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q2M3a_NAME1]">Red-Axe</Text>
+<Text tag="[Conv_Q2M3a_NAME1]">Red-Axe</Text>
 
-   <Text tag="[Conv_Q2M3a_0000]">Your third lesson is the Trial of the Scorpion.</Text>
-   <Text tag="[Conv_Q2M3a_0001]">Your third lesson is the Trial of the Scorpion.</Text>
-   <Text tag="[Conv_Q2M3a_0002]">Your third lesson is the Trial of the Scorpion.</Text>
-   <Text tag="[Conv_Q2M3a_0003]">Your third lesson is the Trial of the Scorpion.</Text>
-   <Text tag="[Conv_Q2M3a_0004]">I am ready.</Text>
-   <Text tag="[Conv_Q2M3a_0005]">I am ready.</Text>
-   <Text tag="[Conv_Q2M3a_0006]">I am ready.</Text>
-   <Text tag="[Conv_Q2M3a_0007]">I am ready.</Text>
-   <Text tag="[Conv_Q2M3a_0008]">No smart words?  You are finally learning.  You must travel to Kor once again, where you will find a cave filled with Giant Scorpions.  You must fight one and observe its technique.</Text>
-   <Text tag="[Conv_Q2M3a_0009]">No smart words?  You are finally learning.  You must travel to Kor once again, where you will find a cave filled with Giant Scorpions.  You must fight one and observe its technique.</Text>
-   <Text tag="[Conv_Q2M3a_0010]">No smart words?  You are finally learning.  You must travel to Kor once again, where you will find a cave filled with Giant Scorpions.  You must fight one and observe its technique.</Text>
-   <Text tag="[Conv_Q2M3a_0011]">No smart words?  You are finally learning.  You must travel to Kor once again, where you will find a cave filled with Giant Scorpions.  You must fight one and observe its technique.</Text>
-   <Text tag="[Conv_Q2M3a_0012]">A Scorpion has technique?</Text>
-   <Text tag="[Conv_Q2M3a_0013]">A Scorpion has technique?</Text>
-   <Text tag="[Conv_Q2M3a_0014]">A Scorpion has technique?</Text>
-   <Text tag="[Conv_Q2M3a_0015]">A Scorpion has technique?</Text>
-   <Text tag="[Conv_Q2M3a_0016]">Indeed! It possesses two different weapons, claws and a tail-stinger. One is made for slashing and one is made for piercing.</Text>
-   <Text tag="[Conv_Q2M3a_0017]">Indeed! It possesses two different weapons, claws and a tail-stinger. One is made for slashing and one is made for piercing.</Text>
-   <Text tag="[Conv_Q2M3a_0018]">Indeed! It possesses two different weapons, claws and a tail-stinger. One is made for slashing and one is made for piercing.</Text>
-   <Text tag="[Conv_Q2M3a_0019]">Indeed! It possesses two different weapons, claws and a tail-stinger. One is made for slashing and one is made for piercing.</Text>
-   <Text tag="[Conv_Q2M3a_0020]">I think I see where this is leading...</Text>
-   <Text tag="[Conv_Q2M3a_0021]">I think I see where this is leading...</Text>
-   <Text tag="[Conv_Q2M3a_0022]">I think I see where this is leading...</Text>
-   <Text tag="[Conv_Q2M3a_0023]">I think I see where this is leading...</Text>
-   <Text tag="[Conv_Q2M3a_0024]">You should. The Axe is a slashing weapon, like a Scorpion&apos;s claw. Your people favor the Lance which is a piercing weapon. Watch how the Scorpion fights, and it will show you the differences between an Axe and a Lance. Return to me when you are done.</Text>
-   <Text tag="[Conv_Q2M3a_0025]">You should. The Axe is a slashing weapon, like a Scorpion&apos;s claw. Your people favor the Lance which is a piercing weapon. Watch how the Scorpion fights, and it will show you the differences between an Axe and a Lance. Return to me when you are done.</Text>
-   <Text tag="[Conv_Q2M3a_0026]">You should. The Axe is a slashing weapon, like a Scorpion&apos;s claw. Your people favor the Lance which is a piercing weapon. Watch how the Scorpion fights, and it will show you the differences between an Axe and a Lance. Return to me when you are done.</Text>
-   <Text tag="[Conv_Q2M3a_0027]">You should. The Axe is a slashing weapon, like a Scorpion&apos;s claw. Your people favor the Lance which is a piercing weapon. Watch how the Scorpion fights, and it will show you the differences between an Axe and a Lance. Return to me when you are done.</Text>
+<Text tag="[Conv_Q2M3a_0000]">Sua terceira lição é o Julgamento do Escorpião.</Text>
+<Text tag="[Conv_Q2M3a_0001]">Sua terceira lição é o Julgamento do Escorpião.</Text>
+<Text tag="[Conv_Q2M3a_0002]">Sua terceira lição é o Julgamento do Escorpião.</Text>
+<Text tag="[Conv_Q2M3a_0003]">Sua terceira lição é o Julgamento do Escorpião.</Text>
+<Text tag="[Conv_Q2M3a_0004]">Estou pronto.</Text>
+<Text tag="[Conv_Q2M3a_0005]">Estou pronto.</Text>
+<Text tag="[Conv_Q2M3a_0006]">Estou pronto.</Text>
+<Text tag="[Conv_Q2M3a_0007]">Estou pronto.</Text>
+<Text tag="[Conv_Q2M3a_0008]">Nenhuma palavra inteligente? Você está finalmente aprendendo. Você deve viajar para Kor mais uma vez, onde encontrará uma caverna cheia de Escorpiões Gigantes. Você deve lutar contra um e observar sua técnica.</Text>
+<Text tag="[Conv_Q2M3a_0009]">Nenhuma palavra inteligente? Você está finalmente aprendendo. Você deve viajar para Kor mais uma vez, onde encontrará uma caverna cheia de Escorpiões Gigantes. Você deve lutar contra um e observar sua técnica.</Text>
+<Text tag="[Conv_Q2M3a_0010]">Nenhuma palavra inteligente? Você está finalmente aprendendo. Você deve viajar para Kor mais uma vez, onde encontrará uma caverna cheia de Escorpiões Gigantes. Você deve lutar contra um e observar sua técnica.</Text>
+<Text tag="[Conv_Q2M3a_0011]">Sem palavras inteligentes? Você finalmente está aprendendo. Você deve viajar para Kor mais uma vez, onde encontrará uma caverna cheia de Escorpiões Gigantes. Você deve lutar contra um e observar sua técnica.</Text>
+<Text tag="[Conv_Q2M3a_0012]">Um Escorpião tem técnica?</Text>
+<Text tag="[Conv_Q2M3a_0013]">Um Escorpião tem técnica?</Text>
+<Text tag="[Conv_Q2M3a_0014]">Um Escorpião tem técnica?</Text>
+<Text tag="[Conv_Q2M3a_0015]">Um Escorpião tem técnica?</Text>
+<Text tag="[Conv_Q2M3a_0016]">De fato! Ele possui duas armas diferentes, garras e um ferrão na cauda. Uma é feita para cortar e a outra para perfurar.</Text>
+<Text tag="[Conv_Q2M3a_0017]">De fato! Ele possui duas armas diferentes, garras e um ferrão na cauda. Uma é feita para cortar e a outra para perfurar.</Text>
+<Text tag="[Conv_Q2M3a_0018]">De fato! Ele possui duas armas diferentes, garras e um ferrão na cauda. Uma é feita para cortar e a outra para perfurar.</Text>
+<Text tag="[Conv_Q2M3a_0019]">De fato! Ele possui duas armas diferentes, garras e um ferrão na cauda. Um é feito para cortar e o outro é feito para perfurar.</Text>
+<Text tag="[Conv_Q2M3a_0020]">Acho que entendi aonde isso vai dar...</Text>
+<Text tag="[Conv_Q2M3a_0021]">Acho que entendi aonde isso vai dar...</Text>
+<Text tag="[Conv_Q2M3a_0022]">Acho que entendi aonde isso vai dar...</Text>
+<Text tag="[Conv_Q2M3a_0023]">Acho que entendi aonde isso vai dar...</Text>
+<Text tag="[Conv_Q2M3a_0024]">Você deveria. O machado é uma arma cortante, como a garra de um escorpião. Seu povo prefere a lança, que é uma arma perfurante. Observe como o escorpião luta, e isso mostrará as diferenças entre um machado e uma lança. Volte para mim quando terminar.</Text>
+<Text tag="[Conv_Q2M3a_0025]">Você deveria. O machado é uma arma cortante, como a garra de um escorpião. Seu povo prefere a lança, que é uma arma perfurante. Observe como o escorpião luta, e isso mostrará as diferenças entre um machado e uma lança. Volte para mim quando terminar.</Text>
+<Text tag="[Conv_Q2M3a_0026]">Você deveria. O machado é uma arma cortante, como a garra de um escorpião. Seu povo prefere a lança, que é uma arma perfurante. Observe como o escorpião luta, e isso mostrará as diferenças entre um machado e uma lança. Volte para mim quando terminar.</Text>
+<Text tag="[Conv_Q2M3a_0027]">Você deveria. O machado é uma arma cortante, como a garra de um escorpião. Seu povo prefere a Lança, que é uma arma perfurante. Observe como o Escorpião luta, e isso mostrará as diferenças entre um Machado e uma Lança. Volte para mim quando terminar.</Text>
 
 </TextLibrary>

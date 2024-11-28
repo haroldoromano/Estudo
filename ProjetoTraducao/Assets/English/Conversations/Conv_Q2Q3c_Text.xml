@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q2Q3c_NAME1]">Queen Titania</Text>
+<Text tag="[Conv_Q2Q3c_NAME1]">Rainha Titânia</Text>
 
-   <Text tag="[Conv_Q2Q3c_0000]">I am glad you are well, young Agarian. What business brings you to Silvermyr?</Text>
-   <Text tag="[Conv_Q2Q3c_0001]">I am glad you are well, young Agarian. What business brings you to Silvermyr?</Text>
-   <Text tag="[Conv_Q2Q3c_0002]">I am glad you are well, young Agarian. What business brings you to Silvermyr?</Text>
-   <Text tag="[Conv_Q2Q3c_0003]">I am glad you are well, young Agarian. What business brings you to Silvermyr?</Text>
-   <Text tag="[Conv_Q2Q3c_0004]">I have a favor to ask, your Majesty. I need the Eye at the top of your Tree of Seeing. I hesitate to ask, but it is of vital importance to my people.</Text>
-   <Text tag="[Conv_Q2Q3c_0005]">I have a favor to ask, your Majesty. I need the Eye at the top of your Tree of Seeing. I hesitate to ask, but it is of vital importance to my people.</Text>
-   <Text tag="[Conv_Q2Q3c_0006]">I have a favor to ask, your Majesty. I need the Eye at the top of your Tree of Seeing. I hesitate to ask, but it is of vital importance to my people.</Text>
-   <Text tag="[Conv_Q2Q3c_0007]">I have a favor to ask, your Majesty. I need the Eye at the top of your Tree of Seeing. I hesitate to ask, but it is of vital importance to my people.</Text>
-   <Text tag="[Conv_Q2Q3c_0008]">The Eye? I am sorry, young Knight, but the security of our forest depends on the Eye. I cannot give it to you.</Text>
-   <Text tag="[Conv_Q2Q3c_0009]">The Eye? I am sorry, young Knight, but the security of our forest depends on the Eye. I cannot give it to you.</Text>
-   <Text tag="[Conv_Q2Q3c_0010]">The Eye? I am sorry, young Knight, but the security of our forest depends on the Eye. I cannot give it to you.</Text>
-   <Text tag="[Conv_Q2Q3c_0011]">The Eye? I am sorry, young Knight, but the security of our forest depends on the Eye. I cannot give it to you.</Text>
-   <Text tag="[Conv_Q2Q3c_0012]">Would you be willing to sell it, your Majesty? I have money... or I could provide you with my services...</Text>
-   <Text tag="[Conv_Q2Q3c_0013]">Would you be willing to sell it, your Majesty? I have money... or I could provide you with my services...</Text>
-   <Text tag="[Conv_Q2Q3c_0014]">Would you be willing to sell it, your Majesty? I have money... or I could provide you with my services...</Text>
-   <Text tag="[Conv_Q2Q3c_0015]">Would you be willing to sell it, your Majesty? I have money... or I could provide you with my services...</Text>
-   <Text tag="[Conv_Q2Q3c_0016]">The Eye is not for sale. I am sorry.</Text>
-   <Text tag="[Conv_Q2Q3c_0017]">The Eye is not for sale. I am sorry.</Text>
-   <Text tag="[Conv_Q2Q3c_0018]">The Eye is not for sale. I am sorry.</Text>
-   <Text tag="[Conv_Q2Q3c_0019]">The Eye is not for sale. I am sorry.</Text>
+<Text tag="[Conv_Q2Q3c_0000]">Estou feliz que você esteja bem, jovem Agarian. O que te traz a Silvermyr?</Text>
+<Text tag="[Conv_Q2Q3c_0001]">Estou feliz que você esteja bem, jovem Agarian. O que te traz a Silvermyr?</Text>
+<Text tag="[Conv_Q2Q3c_0002]">Estou feliz que você esteja bem, jovem Agarian. O que te traz a Silvermyr?</Text>
+<Text tag="[Conv_Q2Q3c_0003]">Estou feliz que você esteja bem, jovem Agarian. Que negócio o traz a Silvermyr?</Text>
+<Text tag="[Conv_Q2Q3c_0004]">Tenho um favor a pedir, Majestade. Preciso do Olho no topo da sua Árvore da Visão. Hesito em pedir, mas é de vital importância para meu povo.</Text>
+<Text tag="[Conv_Q2Q3c_0005]">Tenho um favor a pedir, Majestade. Preciso do Olho no topo da sua Árvore da Visão. Hesito em pedir, mas é de vital importância para meu povo.</Text>
+<Text tag="[Conv_Q2Q3c_0006]">Tenho um favor a pedir, Majestade. Preciso do Olho no topo da sua Árvore da Visão. Hesito em pedir, mas é de vital importância para meu povo.</Text>
+<Text tag="[Conv_Q2Q3c_0007]">Tenho um favor a pedir, Majestade. Preciso do Olho no topo da sua Árvore da Visão. Hesito em perguntar, mas é de vital importância para o meu povo.</Text>
+<Text tag="[Conv_Q2Q3c_0008]">O Olho? Sinto muito, jovem Cavaleiro, mas a segurança da nossa floresta depende do Olho. Não posso dá-lo a você.</Text>
+<Text tag="[Conv_Q2Q3c_0009]">O Olho? Sinto muito, jovem Cavaleiro, mas a segurança da nossa floresta depende do Olho. Não posso dá-lo a você.</Text>
+<Text tag="[Conv_Q2Q3c_0010]">O Olho? Sinto muito, jovem Cavaleiro, mas a segurança da nossa floresta depende do Olho. Não posso dá-lo a você.</Text>
+<Text tag="[Conv_Q2Q3c_0011]">O Olho? Sinto muito, jovem Cavaleiro, mas a segurança da nossa floresta depende do Olho. Não posso dá-lo a você.</Text>
+<Text tag="[Conv_Q2Q3c_0012]">Você estaria disposto a vendê-lo, Majestade? Eu tenho dinheiro... ou eu poderia lhe fornecer meus serviços...</Text>
+<Text tag="[Conv_Q2Q3c_0013]">Você estaria disposto a vendê-lo, Majestade? Eu tenho dinheiro... ou eu poderia lhe fornecer meus serviços...</Text>
+<Text tag="[Conv_Q2Q3c_0014]">Você estaria disposto a vendê-lo, Majestade? Eu tenho dinheiro... ou eu poderia lhe fornecer meus serviços...</Text>
+<Text tag="[Conv_Q2Q3c_0015]">Você estaria disposto a vendê-lo, Majestade? Eu tenho dinheiro... ou eu poderia lhe fornecer meus serviços...</Text>
+<Text tag="[Conv_Q2Q3c_0016]">O Olho não está à venda. Sinto muito.</Text>
+<Text tag="[Conv_Q2Q3c_0017]">O Olho não está à venda. Sinto muito.</Text>
+<Text tag="[Conv_Q2Q3c_0018]">O Olho não está à venda. Sinto muito.</Text>
+<Text tag="[Conv_Q2Q3c_0019]">O Olho não está à venda. Sinto muito.</Text>
 
 </TextLibrary>

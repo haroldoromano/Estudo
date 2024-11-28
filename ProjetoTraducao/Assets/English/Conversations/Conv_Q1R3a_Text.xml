@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1R3a_NAME1]">Flicker</Text>
+<Text tag="[Conv_Q1R3a_NAME1]">Flicker</Text>
 
-   <Text tag="[Conv_Q1R3a_0000]">We MUST keep searching.</Text>
-   <Text tag="[Conv_Q1R3a_0001]">We MUST keep searching.</Text>
-   <Text tag="[Conv_Q1R3a_0002]">We MUST keep searching.</Text>
-   <Text tag="[Conv_Q1R3a_0003]">We MUST keep searching.</Text>
-   <Text tag="[Conv_Q1R3a_0004]">Flicker, it&apos;s useless. There&apos;s nothing here.</Text>
-   <Text tag="[Conv_Q1R3a_0005]">Flicker, it&apos;s useless. There&apos;s nothing here.</Text>
-   <Text tag="[Conv_Q1R3a_0006]">Flicker, it&apos;s useless. There&apos;s nothing here.</Text>
-   <Text tag="[Conv_Q1R3a_0007]">Flicker, it&apos;s useless. There&apos;s nothing here.</Text>
-   <Text tag="[Conv_Q1R3a_0008]">Dragons don&apos;t just disappear you know. You can&apos;t just hide them under a rock. There must be a clue here somewhere.</Text>
-   <Text tag="[Conv_Q1R3a_0009]">Dragons don&apos;t just disappear you know. You can&apos;t just hide them under a rock. There must be a clue here somewhere.</Text>
-   <Text tag="[Conv_Q1R3a_0010]">Dragons don&apos;t just disappear you know. You can&apos;t just hide them under a rock. There must be a clue here somewhere.</Text>
-   <Text tag="[Conv_Q1R3a_0011]">Dragons don&apos;t just disappear you know. You can&apos;t just hide them under a rock. There must be a clue here somewhere.</Text>
-   <Text tag="[Conv_Q1R3a_0012]">One more quick look and that&apos;s it. I&apos;ll meet you back here.</Text>
-   <Text tag="[Conv_Q1R3a_0013]">One more quick look and that&apos;s it. I&apos;ll meet you back here.</Text>
-   <Text tag="[Conv_Q1R3a_0014]">One more quick look and that&apos;s it. I&apos;ll meet you back here.</Text>
-   <Text tag="[Conv_Q1R3a_0015]">One more quick look and that&apos;s it. I&apos;ll meet you back here.</Text>
+<Text tag="[Conv_Q1R3a_0000]">DEVEMOS continuar procurando.</Text>
+<Text tag="[Conv_Q1R3a_0001]">DEVEMOS continuar procurando.</Text>
+<Text tag="[Conv_Q1R3a_0002]">DEVEMOS continuar procurando.</Text>
+<Text tag="[Conv_Q1R3a_0003]">DEVEMOS continuar procurando.</Text>
+<Text tag="[Conv_Q1R3a_0004]">Flicker, é inútil. Não tem nada aqui.</Text>
+<Text tag="[Conv_Q1R3a_0005]">Flicker, é inútil. Não tem nada aqui.</Text>
+<Text tag="[Conv_Q1R3a_0006]">Flicker, é inútil. Não tem nada aqui.</Text>
+<Text tag="[Conv_Q1R3a_0007]">Flicker, é inútil. Não tem nada aqui.</Text>
+<Text tag="[Conv_Q1R3a_0008]">Dragões não desaparecem assim, sabia? Não dá para escondê-los debaixo de uma pedra. Deve ter uma pista aqui em algum lugar.</Text>
+<Text tag="[Conv_Q1R3a_0009]">Dragões não desaparecem assim, sabia? Você não pode simplesmente escondê-los sob uma pedra. Deve haver uma pista aqui em algum lugar.</Text>
+<Text tag="[Conv_Q1R3a_0010]">Dragões não desaparecem assim, sabia? Você não pode simplesmente escondê-los sob uma pedra. Deve haver uma pista aqui em algum lugar.</Text>
+<Text tag="[Conv_Q1R3a_0011]">Dragões não desaparecem assim, sabia? Você não pode simplesmente escondê-los sob uma pedra. Deve haver uma pista aqui em algum lugar.</Text>
+<Text tag="[Conv_Q1R3a_0012]">Mais uma olhada rápida e pronto. Te encontro aqui de volta.</Text>
+<Text tag="[Conv_Q1R3a_0013]">Mais uma olhada rápida e pronto. Eu te encontro aqui de novo.</Text>
+<Text tag="[Conv_Q1R3a_0014]">Mais uma olhada rápida e pronto. Eu te encontro aqui de novo.</Text>
+<Text tag="[Conv_Q1R3a_0015]">Mais uma olhada rápida e pronto. Eu te encontro aqui de novo.</Text>
 
 </TextLibrary>

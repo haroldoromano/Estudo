@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1Q7c_NAME1]">Flicker</Text>
+<Text tag="[Conv_Q1Q7c_NAME1]">Flicker</Text>
 
-   <Text tag="[Conv_Q1Q7c_0000]">Apart from that Dragon Spider this place is deserted. Are you sure there were Dragons here?</Text>
-   <Text tag="[Conv_Q1Q7c_0001]">Apart from that Dragon Spider this place is deserted. Are you sure there were Dragons here?</Text>
-   <Text tag="[Conv_Q1Q7c_0002]">Apart from that Dragon Spider this place is deserted. Are you sure there were Dragons here?</Text>
-   <Text tag="[Conv_Q1Q7c_0003]">Apart from that Dragon Spider this place is deserted. Are you sure there were Dragons here?</Text>
-   <Text tag="[Conv_Q1Q7c_0004]">Hey! It&apos;s the DRAGONrealm. What do you think lives here? Rabbits?</Text>
-   <Text tag="[Conv_Q1Q7c_0005]">Hey! It&apos;s the DRAGONrealm. What do you think lives here? Rabbits?</Text>
-   <Text tag="[Conv_Q1Q7c_0006]">Hey! It&apos;s the DRAGONrealm. What do you think lives here? Rabbits?</Text>
-   <Text tag="[Conv_Q1Q7c_0007]">Hey! It&apos;s the DRAGONrealm. What do you think lives here? Rabbits?</Text>
-   <Text tag="[Conv_Q1Q7c_0008]">Well why is it that you&apos;re the only one left?</Text>
-   <Text tag="[Conv_Q1Q7c_0009]">Well why is it that you&apos;re the only one left?</Text>
-   <Text tag="[Conv_Q1Q7c_0010]">Well why is it that you&apos;re the only one left?</Text>
-   <Text tag="[Conv_Q1Q7c_0011]">Well why is it that you&apos;re the only one left?</Text>
-   <Text tag="[Conv_Q1Q7c_0012]">That&apos;s what we&apos;re trying to find out. We should keep looking!</Text>
-   <Text tag="[Conv_Q1Q7c_0013]">That&apos;s what we&apos;re trying to find out. We should keep looking!</Text>
-   <Text tag="[Conv_Q1Q7c_0014]">That&apos;s what we&apos;re trying to find out. We should keep looking!</Text>
-   <Text tag="[Conv_Q1Q7c_0015]">That&apos;s what we&apos;re trying to find out. We should keep looking!</Text>
+<Text tag="[Conv_Q1Q7c_0000]">Além daquela Aranha Dragão, este lugar é deserto. Você tem certeza de que havia Dragões aqui?</Text>
+<Text tag="[Conv_Q1Q7c_0001]">Além daquela Aranha Dragão, este lugar é deserto. Você tem certeza de que havia Dragões aqui?</Text>
+<Text tag="[Conv_Q1Q7c_0002]">Além daquela Aranha Dragão, este lugar é deserto. Você tem certeza de que havia Dragões aqui?</Text>
+<Text tag="[Conv_Q1Q7c_0003]">Além daquela Aranha Dragão, este lugar é deserto. Você tem certeza de que havia dragões aqui?</Text>
+<Text tag="[Conv_Q1Q7c_0004]">Ei! É o DRAGONrealm. O que você acha que mora aqui? Coelhos?</Text>
+<Text tag="[Conv_Q1Q7c_0005]">Ei! É o DRAGONrealm. O que você acha que mora aqui? Coelhos?</Text>
+<Text tag="[Conv_Q1Q7c_0006]">Ei! É o DRAGONrealm. O que você acha que mora aqui? Coelhos?</Text>
+<Text tag="[Conv_Q1Q7c_0007]">Ei! É o DRAGONrealm. O que você acha que mora aqui? Coelhos?</Text>
+<Text tag="[Conv_Q1Q7c_0008]">Bem, por que você é o único que sobrou?</Text>
+<Text tag="[Conv_Q1Q7c_0009]">Bem, por que você é o único que sobrou?</Text>
+<Text tag="[Conv_Q1Q7c_0010]">Bem, por que você é o único que sobrou?</Text>
+<Text tag="[Conv_Q1Q7c_0011]">Bem, por que você é o único que sobrou?</Text>
+<Text tag="[Conv_Q1Q7c_0012]">É isso que estamos tentando descobrir. Devemos continuar procurando!</Text>
+<Text tag="[Conv_Q1Q7c_0013]">É isso que estamos tentando descobrir. Devemos continuar procurando!</Text>
+<Text tag="[Conv_Q1Q7c_0014]">É isso que estamos tentando descobrir. Devemos continuar procurando!</Text>
+<Text tag="[Conv_Q1Q7c_0015]">É isso que estamos tentando descobrir. Devemos continuar procurando!</Text>
 
 </TextLibrary>

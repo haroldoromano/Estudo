@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q2J1a_NAME1]">Jotun</Text>
+<Text tag="[Conv_Q2J1a_NAME1]">Jotun</Text>
 
-   <Text tag="[Conv_Q2J1a_0000]">You are the one who stole the Hammer!</Text>
-   <Text tag="[Conv_Q2J1a_0001]">You are the one who stole the Hammer!</Text>
-   <Text tag="[Conv_Q2J1a_0002]">You are the one who stole the Hammer!</Text>
-   <Text tag="[Conv_Q2J1a_0003]">You are the one who stole the Hammer!</Text>
-   <Text tag="[Conv_Q2J1a_0004]">It belonged to Jarl.  I was just returning it.</Text>
-   <Text tag="[Conv_Q2J1a_0005]">It belonged to Jarl.  I was just returning it.</Text>
-   <Text tag="[Conv_Q2J1a_0006]">It belonged to Jarl.  I was just returning it.</Text>
-   <Text tag="[Conv_Q2J1a_0007]">It belonged to Jarl.  I was just returning it.</Text>
-   <Text tag="[Conv_Q2J1a_0008]">Belonged to Jarl? I took that Hammer because Jarl stole my Helm. I demand you bring me my Helm! Now!</Text>
-   <Text tag="[Conv_Q2J1a_0009]">Belonged to Jarl? I took that Hammer because Jarl stole my Helm. I demand you bring me my Helm! Now!</Text>
-   <Text tag="[Conv_Q2J1a_0010]">Belonged to Jarl? I took that Hammer because Jarl stole my Helm. I demand you bring me my Helm! Now!</Text>
-   <Text tag="[Conv_Q2J1a_0011]">Belonged to Jarl? I took that Hammer because Jarl stole my Helm. I demand you bring me my Helm! Now!</Text>
-   <Text tag="[Conv_Q2J1a_0012]">Well, that seems fair, I guess...</Text>
-   <Text tag="[Conv_Q2J1a_0013]">Well, that seems fair, I guess...</Text>
-   <Text tag="[Conv_Q2J1a_0014]">Well, that seems fair, I guess...</Text>
-   <Text tag="[Conv_Q2J1a_0015]">Well, that seems fair, I guess...</Text>
+<Text tag="[Conv_Q2J1a_0000]">Você é quem roubou o Martelo!</Text>
+<Text tag="[Conv_Q2J1a_0001]">Você é quem roubou o Martelo!</Text>
+<Text tag="[Conv_Q2J1a_0002]">Você é quem roubou o Martelo!</Text>
+<Text tag="[Conv_Q2J1a_0003]">Você é quem roubou o Martelo!</Text>
+<Text tag="[Conv_Q2J1a_0004]">Ele pertencia ao Jarl. Eu estava apenas devolvendo.</Text>
+<Text tag="[Conv_Q2J1a_0005]">Pertencia ao Jarl. Eu estava apenas devolvendo.</Text>
+<Text tag="[Conv_Q2J1a_0006]">Pertencia ao Jarl. Eu estava apenas devolvendo.</Text>
+<Text tag="[Conv_Q2J1a_0007]">Pertencia ao Jarl. Eu estava apenas devolvendo.</Text>
+<Text tag="[Conv_Q2J1a_0008]">Pertencia ao Jarl? Eu peguei aquele Martelo porque Jarl roubou meu Elmo. Eu exijo que você me traga meu Elmo! Agora!</Text>
+<Text tag="[Conv_Q2J1a_0009]">Pertencia ao Jarl? Eu peguei aquele Martelo porque Jarl roubou meu Elmo. Eu exijo que você me traga meu Elmo! Agora!</Text>
+<Text tag="[Conv_Q2J1a_0010]">Pertencia ao Jarl? Peguei aquele Martelo porque o Jarl roubou meu Elmo. Exijo que você me traga meu Elmo! Agora!</Text>
+<Text tag="[Conv_Q2J1a_0011]">Pertencia ao Jarl? Peguei aquele Martelo porque o Jarl roubou meu Elmo. Exijo que você me traga meu Elmo! Agora!</Text>
+<Text tag="[Conv_Q2J1a_0012]">Bem, isso parece justo, eu acho...</Text>
+<Text tag="[Conv_Q2J1a_0013]">Bem, isso parece justo, eu acho...</Text>
+<Text tag="[Conv_Q2J1a_0014]">Bem, isso parece justo, eu acho...</Text>
+<Text tag="[Conv_Q2J1a_0015]">Bem, isso parece justo, eu acho...</Text>
 
 </TextLibrary>

@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q2Q0c_NAME1]">Tauron Flamebite</Text>
+<Text tag="[Conv_Q2Q0c_NAME1]">Tauron Flamebite</Text>
 
-   <Text tag="[Conv_Q2Q0c_0000]">Hrmph!  You fight well for an outsider.</Text>
-   <Text tag="[Conv_Q2Q0c_0001]">Hrmph!  You fight well for an outsider.</Text>
-   <Text tag="[Conv_Q2Q0c_0002]">Hrmph!  You fight well for an outsider.</Text>
-   <Text tag="[Conv_Q2Q0c_0003]">Hrmph!  You fight well for an outsider.</Text>
-   <Text tag="[Conv_Q2Q0c_0004]">Gee, thanks. Now, can I enter the Temple and talk with you?</Text>
-   <Text tag="[Conv_Q2Q0c_0005]">Gee, thanks. Now, can I enter the Temple and talk with you?</Text>
-   <Text tag="[Conv_Q2Q0c_0006]">Gee, thanks. Now, can I enter the Temple and talk with you?</Text>
-   <Text tag="[Conv_Q2Q0c_0007]">Gee, thanks. Now, can I enter the Temple and talk with you?</Text>
-   <Text tag="[Conv_Q2Q0c_0008]">Enter the Temple? No! You are unclean - I have told you this. You must first be purified if you wish to enter our Temple.</Text>
-   <Text tag="[Conv_Q2Q0c_0009]">Enter the Temple? No! You are unclean - I have told you this. You must first be purified if you wish to enter our Temple.</Text>
-   <Text tag="[Conv_Q2Q0c_0010]">Enter the Temple? No! You are unclean - I have told you this. You must first be purified if you wish to enter our Temple.</Text>
-   <Text tag="[Conv_Q2Q0c_0011]">Enter the Temple? No! You are unclean - I have told you this. You must first be purified if you wish to enter our Temple.</Text>
+<Text tag="[Conv_Q2Q0c_0000]">Hrmph! Você luta bem para um forasteiro.</Text>
+<Text tag="[Conv_Q2Q0c_0001]">Hrmph! Você luta bem para um forasteiro.</Text>
+<Text tag="[Conv_Q2Q0c_0002]">Hrmph! Você luta bem para um forasteiro.</Text>
+<Text tag="[Conv_Q2Q0c_0003]">Hrmph! Você luta bem para um forasteiro.</Text>
+<Text tag="[Conv_Q2Q0c_0004]">Nossa, valeu. Agora, posso entrar no Templo e falar com você?</Text>
+<Text tag="[Conv_Q2Q0c_0005]">Nossa, obrigado. Agora, posso entrar no Templo e falar com você?</Text>
+<Text tag="[Conv_Q2Q0c_0006]">Nossa, obrigado. Agora, posso entrar no Templo e falar com você?</Text>
+<Text tag="[Conv_Q2Q0c_0007]">Nossa, obrigado. Agora, posso entrar no Templo e falar com você?</Text>
+<Text tag="[Conv_Q2Q0c_0008]">Entrar no Templo? Não! Você é impuro - eu já disse isso. Você deve primeiro ser purificado se quiser entrar em nosso Templo.</Text>
+<Text tag="[Conv_Q2Q0c_0009]">Entrar no Templo? Não! Você é impuro - eu já disse isso. Você deve primeiro ser purificado se quiser entrar em nosso Templo.</Text>
+<Text tag="[Conv_Q2Q0c_0010]">Entrar no Templo? Não! Você é impuro - eu já lhe disse isso. Você deve primeiro ser purificado se quiser entrar em nosso Templo.</Text>
+<Text tag="[Conv_Q2Q0c_0011]">Entrar no Templo? Não! Você é impuro - eu já lhe disse isso. Você deve primeiro ser purificado se quiser entrar em nosso Templo.</Text>
 
 </TextLibrary>

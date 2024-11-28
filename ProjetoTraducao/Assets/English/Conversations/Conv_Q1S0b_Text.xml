@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1S0b_NAME1]">Khalkus</Text>
+<Text tag="[Conv_Q1S0b_NAME1]">Khalkus</Text>
 
-   <Text tag="[Conv_Q1S0b_0000]">Ach, lad, ye canna keep the key.  &apos;Tis the property o&apos; my good friend Thallis! I&apos;ll ne&apos;er be able to face him again if we canna bring poor Thallis back his key, and we&apos;ve been pals for so...</Text>
-   <Text tag="[Conv_Q1S0b_0001]">Ach, lad, ye canna keep the key.  &apos;Tis the property o&apos; my good friend Thallis! I&apos;ll ne&apos;er be able to face him again if we canna bring poor Thallis back his key, and we&apos;ve been pals for so...</Text>
-   <Text tag="[Conv_Q1S0b_0002]">Ach, lass, ye canna keep the key.  &apos;Tis the property o&apos; my good friend Thallis! I&apos;ll ne&apos;er be able to face him again if we canna bring poor Thallis back his key, and we&apos;ve been pals for so...</Text>
-   <Text tag="[Conv_Q1S0b_0003]">Ach, lass, ye canna keep the key.  &apos;Tis the property o&apos; my good friend Thallis! I&apos;ll ne&apos;er be able to face him again if we canna bring poor Thallis back his key, and we&apos;ve been pals for so...</Text>
-   <Text tag="[Conv_Q1S0b_0004]">But Khalkus, it&apos;s only a key!</Text>
-   <Text tag="[Conv_Q1S0b_0005]">But Khalkus, it&apos;s only a key!</Text>
-   <Text tag="[Conv_Q1S0b_0006]">But Khalkus, it&apos;s only a key!</Text>
-   <Text tag="[Conv_Q1S0b_0007]">But Khalkus, it&apos;s only a key!</Text>
-   <Text tag="[Conv_Q1S0b_0008]">No, no, no, no, no!  &apos;Tis a precious family heirloom.  We Dwarves put great value on the things that we pass down to our children. Why these leather pants belonged to me great uncle Mungo, who...</Text>
-   <Text tag="[Conv_Q1S0b_0009]">No, no, no, no, no!  &apos;Tis a precious family heirloom.  We Dwarves put great value on the things that we pass down to our children. Why these leather pants belonged to me great uncle Mungo, who...</Text>
-   <Text tag="[Conv_Q1S0b_0010]">No, no, no, no, no!  &apos;Tis a precious family heirloom.  We Dwarves put great value on the things that we pass down to our children. Why these leather pants belonged to me great uncle Mungo, who...</Text>
-   <Text tag="[Conv_Q1S0b_0011]">No, no, no, no, no!  &apos;Tis a precious family heirloom.  We Dwarves put great value on the things that we pass down to our children. Why these leather pants belonged to me great uncle Mungo, who...</Text>
-   <Text tag="[Conv_Q1S0b_0012]">Enough, Khalkus, I don&apos;t want to look at your pants!</Text>
-   <Text tag="[Conv_Q1S0b_0013]">Enough, Khalkus, I don&apos;t want to look at your pants!</Text>
-   <Text tag="[Conv_Q1S0b_0014]">Enough, Khalkus, I don&apos;t want to look at your pants!</Text>
-   <Text tag="[Conv_Q1S0b_0015]">Enough, Khalkus, I don&apos;t want to look at your pants!</Text>
+<Text tag="[Conv_Q1S0b_0000]">Ah, rapaz, você não pode ficar com a chave. &apos;É propriedade do meu bom amigo Thallis! Eu nunca mais poderei enfrentá-lo se não pudermos trazer a chave do pobre Thallis de volta, e nós somos amigos há tanto...</Text>
+<Text tag="[Conv_Q1S0b_0001]">Ah, rapaz, você não pode ficar com a chave. &apos;É propriedade do meu bom amigo Thallis! Nunca mais poderei enfrentá-lo se não trouxermos a chave do pobre Thallis, e somos amigos há tanto...</Text>
+<Text tag="[Conv_Q1S0b_0002]">Ah, moça, você não pode ficar com a chave. &apos;É propriedade do meu bom amigo Thallis! Nunca mais poderei enfrentá-lo se não trouxermos a chave do pobre Thallis, e somos amigos há tanto...</Text>
+<Text tag="[Conv_Q1S0b_0003]">Ah, moça, você não pode ficar com a chave. &apos;É propriedade do meu bom amigo Thallis! Eu nunca mais poderei enfrentá-lo se não pudermos trazer a chave do pobre Thallis de volta, e somos amigos há tanto...</Text>
+<Text tag="[Conv_Q1S0b_0004]">Mas Khalkus, é só uma chave!</Text>
+<Text tag="[Conv_Q1S0b_0005]">Mas Khalkus, é só uma chave!</Text>
+<Text tag="[Conv_Q1S0b_0006]">Mas Khalkus, é só uma chave!</Text>
+<Text tag="[Conv_Q1S0b_0007]">Mas Khalkus, é só uma chave!</Text>
+<Text tag="[Conv_Q1S0b_0008]">Não, não, não, não, não! &apos;Esta é uma preciosa herança de família. Nós, anões, damos grande valor às coisas que passamos para nossos filhos. Por que essas calças de couro pertenceram a mim, tio-avô Mungo, que...</Text>
+<Text tag="[Conv_Q1S0b_0009]">Não, não, não, não, não! &apos;Esta é uma preciosa herança de família. Nós, anões, damos grande valor às coisas que passamos para nossos filhos. Por que essas calças de couro pertenceram a mim, tio-avô Mungo, que...</Text>
+<Text tag="[Conv_Q1S0b_0010]">Não, não, não, não, não! &apos;Esta é uma preciosa herança de família. Nós, anões, damos grande valor às coisas que passamos para nossos filhos. Por que essas calças de couro pertenceram a mim, tio-avô Mungo, que...</Text>
+<Text tag="[Conv_Q1S0b_0011]">Não, não, não, não, não! &apos;É uma preciosa herança de família. Nós, anões, damos grande valor às coisas que passamos para nossos filhos. Por que essas calças de couro pertenceram ao meu tio-avô Mungo, que...</Text>
+<Text tag="[Conv_Q1S0b_0012]">Chega, Khalkus, não quero olhar para suas calças!</Text>
+<Text tag="[Conv_Q1S0b_0013]">Chega, Khalkus, não quero olhar para suas calças!</Text>
+<Text tag="[Conv_Q1S0b_0014]">Chega, Khalkus, não quero olhar para suas calças!</Text>
+<Text tag="[Conv_Q1S0b_0015]">Chega, Khalkus, não quero olhar para suas calças!</Text>
 
 </TextLibrary>
