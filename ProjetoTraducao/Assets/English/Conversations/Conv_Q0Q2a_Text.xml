@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q0Q2a_NAME1]">Queen Gwendholyn</Text>
+<Text tag="[Conv_Q0Q2a_NAME1]">Rainha Gwendholyn</Text>
 
-   <Text tag="[Conv_Q0Q2a_0000]">What can I do for you, your Majesty? More undead creatures to be slain?</Text>
-   <Text tag="[Conv_Q0Q2a_0001]">What can I do for you, your Majesty? More undead creatures to be slain?</Text>
-   <Text tag="[Conv_Q0Q2a_0002]">What can I do for you, your Majesty? More undead creatures to be slain?</Text>
-   <Text tag="[Conv_Q0Q2a_0003]">What can I do for you, your Majesty? More undead creatures to be slain?</Text>
-   <Text tag="[Conv_Q0Q2a_0004]">If it were only that simple... Their numbers grow daily, and I fear we cannot hold them off forever.</Text>
-   <Text tag="[Conv_Q0Q2a_0005]">If it were only that simple... Their numbers grow daily, and I fear we cannot hold them off forever.</Text>
-   <Text tag="[Conv_Q0Q2a_0006]">If it were only that simple... Their numbers grow daily, and I fear we cannot hold them off forever.</Text>
-   <Text tag="[Conv_Q0Q2a_0007]">If it were only that simple... Their numbers grow daily, and I fear we cannot hold them off forever.</Text>
-   <Text tag="[Conv_Q0Q2a_0008]">Then now is the time to stand and fight!</Text>
-   <Text tag="[Conv_Q0Q2a_0009]">Then now is the time to stand and fight!</Text>
-   <Text tag="[Conv_Q0Q2a_0010]">Then now is the time to stand and fight!</Text>
-   <Text tag="[Conv_Q0Q2a_0011]">Then now is the time to stand and fight!</Text>
-   <Text tag="[Conv_Q0Q2a_0012]">Indeed... but we need help. There is a warrior who lives to the south, beyond the mountains in Gallia. His name is Syrus Darkhunter. He knows much about these creatures; he has fought them all his life. If you could persuade him to travel to Bartonia, perhaps he could help us.</Text>
-   <Text tag="[Conv_Q0Q2a_0013]">Indeed... but we need help. There is a warrior who lives to the south, beyond the mountains in Gallia. His name is Syrus Darkhunter. He knows much about these creatures; he has fought them all his life. If you could persuade him to travel to Bartonia, perhaps he could help us.</Text>
-   <Text tag="[Conv_Q0Q2a_0014]">Indeed... but we need help. There is a warrior who lives to the south, beyond the mountains in Gallia. His name is Syrus Darkhunter. He knows much about these creatures; he has fought them all his life. If you could persuade him to travel to Bartonia, perhaps he could help us.</Text>
-   <Text tag="[Conv_Q0Q2a_0015]">Indeed... but we need help. There is a warrior who lives to the south, beyond the mountains in Gallia. His name is Syrus Darkhunter. He knows much about these creatures; he has fought them all his life. If you could persuade him to travel to Bartonia, perhaps he could help us.</Text>
-   <Text tag="[Conv_Q0Q2a_0016]">I will leave for Gallia tonight!</Text>
-   <Text tag="[Conv_Q0Q2a_0017]">I will leave for Gallia tonight!</Text>
-   <Text tag="[Conv_Q0Q2a_0018]">I will leave for Gallia tonight!</Text>
-   <Text tag="[Conv_Q0Q2a_0019]">I will leave for Gallia tonight!</Text>
+<Text tag="[Conv_Q0Q2a_0000]">O que posso fazer por você, Majestade? Mais criaturas mortas-vivas para serem mortas?</Text>
+<Text tag="[Conv_Q0Q2a_0001]">O que posso fazer por você, Majestade? Mais criaturas mortas-vivas para serem mortas?</Text>
+<Text tag="[Conv_Q0Q2a_0002]">O que posso fazer por você, Majestade? Mais criaturas mortas-vivas para serem mortas?</Text>
+<Text tag="[Conv_Q0Q2a_0003]">O que posso fazer por você, Majestade? Mais criaturas mortas-vivas para serem mortas?</Text>
+<Text tag="[Conv_Q0Q2a_0004]">Se fosse tão simples assim... Seus números crescem diariamente, e temo que não possamos detê-los para sempre.</Text>
+<Text tag="[Conv_Q0Q2a_0005]">Se fosse tão simples assim... Seus números crescem diariamente, e temo que não possamos detê-los para sempre.</Text>
+<Text tag="[Conv_Q0Q2a_0006]">Se fosse tão simples assim... Seus números crescem diariamente, e temo que não possamos detê-los para sempre.</Text>
+<Text tag="[Conv_Q0Q2a_0007]">Se fosse tão simples assim... Seus números crescem diariamente, e temo que não possamos detê-los para sempre.</Text>
+<Text tag="[Conv_Q0Q2a_0008]">Então agora é a hora de ficar e lutar!</Text>
+<Text tag="[Conv_Q0Q2a_0009]">Então agora é a hora de ficar e lutar!</Text>
+<Text tag="[Conv_Q0Q2a_0010]">Então agora é a hora de ficar e lutar!</Text>
+<Text tag="[Conv_Q0Q2a_0011]">Então agora é a hora de ficar e lutar!</Text>
+<Text tag="[Conv_Q0Q2a_0012]">De fato... mas precisamos de ajuda. Há um guerreiro que vive ao sul, além das montanhas na Gália. Seu nome é Syrus Darkhunter. Ele sabe muito sobre essas criaturas; ele lutou contra elas a vida toda. Se você pudesse persuadi-lo a viajar para Bartonia, talvez ele pudesse nos ajudar.</Text>
+<Text tag="[Conv_Q0Q2a_0013]">De fato... mas precisamos de ajuda. Há um guerreiro que vive ao sul, além das montanhas na Gália. O nome dele é Syrus Darkhunter. Ele sabe muito sobre essas criaturas; ele lutou contra elas a vida toda. Se você pudesse persuadi-lo a viajar para Bartonia, talvez ele pudesse nos ajudar.</Text>
+<Text tag="[Conv_Q0Q2a_0014]">De fato... mas precisamos de ajuda. Há um guerreiro que vive ao sul, além das montanhas na Gália. O nome dele é Syrus Darkhunter. Ele sabe muito sobre essas criaturas; ele lutou contra elas a vida toda. Se você pudesse persuadi-lo a viajar para Bartonia, talvez ele pudesse nos ajudar.</Text>
+<Text tag="[Conv_Q0Q2a_0015]">De fato... mas precisamos de ajuda. Há um guerreiro que vive ao sul, além das montanhas na Gália. O nome dele é Syrus Darkhunter. Ele sabe muito sobre essas criaturas; ele lutou contra elas a vida toda. Se você pudesse persuadi-lo a viajar para Bartonia, talvez ele pudesse nos ajudar.</Text>
+<Text tag="[Conv_Q0Q2a_0016]">Eu partirei para a Gália hoje à noite!</Text>
+<Text tag="[Conv_Q0Q2a_0017]">Eu partirei para a Gália hoje à noite!</Text>
+<Text tag="[Conv_Q0Q2a_0018]">Eu partirei para a Gália hoje à noite!</Text>
+<Text tag="[Conv_Q0Q2a_0019]">Eu partirei para a Gália hoje à noite!</Text>
 
 </TextLibrary>

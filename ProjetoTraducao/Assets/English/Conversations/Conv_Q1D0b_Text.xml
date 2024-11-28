@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1D0b_NAME1]">Drong</Text>
+<Text tag="[Conv_Q1D0b_NAME1]">Drong</Text>
 
-   <Text tag="[Conv_Q1D0b_0000]">You bring Dragon Spider for Drong?</Text>
-   <Text tag="[Conv_Q1D0b_0001]">You bring Dragon Spider for Drong?</Text>
-   <Text tag="[Conv_Q1D0b_0002]">You bring Dragon Spider for Drong?</Text>
-   <Text tag="[Conv_Q1D0b_0003]">You bring Dragon Spider for Drong?</Text>
-   <Text tag="[Conv_Q1D0b_0004]">I do. Did. Have... whatever...</Text>
-   <Text tag="[Conv_Q1D0b_0005]">I do. Did. Have... whatever...</Text>
-   <Text tag="[Conv_Q1D0b_0006]">I do. Did. Have... whatever...</Text>
-   <Text tag="[Conv_Q1D0b_0007]">I do. Did. Have... whatever...</Text>
-   <Text tag="[Conv_Q1D0b_0008]">Yum yum yum.  Drong see you in Gluk later maybe.</Text>
-   <Text tag="[Conv_Q1D0b_0009]">Yum yum yum.  Drong see you in Gluk later maybe.</Text>
-   <Text tag="[Conv_Q1D0b_0010]">Yum yum yum.  Drong see you in Gluk later maybe.</Text>
-   <Text tag="[Conv_Q1D0b_0011]">Yum yum yum.  Drong see you in Gluk later maybe.</Text>
+<Text tag="[Conv_Q1D0b_0000]">Você trouxe Aranha Dragão para Drong?</Text>
+<Text tag="[Conv_Q1D0b_0001]">Você trouxe Aranha Dragão para Drong?</Text>
+<Text tag="[Conv_Q1D0b_0002]">Você trouxe Aranha Dragão para Drong?</Text>
+<Text tag="[Conv_Q1D0b_0003]">Você trouxe Aranha Dragão para Drong?</Text>
+<Text tag="[Conv_Q1D0b_0004]">Eu tenho. Tive. Tenho... tanto faz...</Text>
+<Text tag="[Conv_Q1D0b_0005]">Eu tenho. Tive. Tenho... tanto faz...</Text>
+<Text tag="[Conv_Q1D0b_0006]">Eu tenho. Tive. Tenho... tanto faz...</Text>
+<Text tag="[Conv_Q1D0b_0007]">Eu tenho. Tive. Tenho... tanto faz...</Text>
+<Text tag="[Conv_Q1D0b_0008]">Que delícia, delícia, delícia. Vejo você em Gluk mais tarde, talvez.</Text>
+<Text tag="[Conv_Q1D0b_0009]">Que delícia, delícia, delícia. Vejo você em Gluk mais tarde, talvez.</Text>
+<Text tag="[Conv_Q1D0b_0010]">Que delícia, delícia, delícia. Vejo você em Gluk mais tarde, talvez.</Text>
+<Text tag="[Conv_Q1D0b_0011]">Que delícia, delícia, delícia. Drong te vejo em Gluk mais tarde, talvez.</Text>
 
 </TextLibrary>

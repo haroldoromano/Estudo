@@ -61,3 +61,103 @@
    <Text tag="[Conv_Q0Q6b_0055]">Yes you did. Now, I am in the mood to hunt some Undead. Shall we go?</Text>
 
 </TextLibrary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0"?>
+<TextLibrary>
+
+<Text tag="[Conv_Q0Q6b_NAME1]">Darkhunter</Text>
+
+<Text tag="[Conv_Q0Q6b_0000]">O que exatamente é essa criatura que estamos caçando?</Text>
+<Text tag="[Conv_Q0Q6b_0001]">O que exatamente é essa criatura que estamos caçando?</Text>
+<Text tag="[Conv_Q0Q6b_0002]">O que exatamente é essa criatura que estamos caçando?</Text>
+<Text tag="[Conv_Q0Q6b_0003]">O que exatamente é essa criatura que estamos caçando?</Text>
+<Text tag="[Conv_Q0Q6b_0004]">Os liches estão entre os servos mais poderosos de Lord Bane. Se nada mais, a presença da criatura aqui prova que a mão de Bane está por trás desses eventos. Só há uma estrada para Silvermyr, sem dúvida encontraremos o Liche esperando por nós lá.</Text>
+<Text tag="[Conv_Q0Q6b_0005]">Os Liches estão entre os servos mais poderosos de Lord Bane. Se nada mais, a presença da criatura aqui prova que a mão de Bane está por trás desses eventos. Só há uma estrada para Silvermyr, sem dúvida encontraremos o Liche esperando por nós lá.</Text>
+<Text tag="[Conv_Q0Q6b_0006]">Os Liches estão entre os servos mais poderosos de Lord Bane. Se nada mais, a presença da criatura aqui prova que a mão de Bane está por trás desses eventos. Só há uma estrada para Silvermyr, sem dúvida encontraremos o Liche esperando por nós lá.</Text>
+<Text tag="[Conv_Q0Q6b_0007]">Os Liches estão entre os servos mais poderosos de Lord Bane. Se nada mais, a presença da criatura aqui prova que a mão de Bane está por trás desses eventos. Há apenas uma estrada para Silvermyr, sem dúvida encontraremos o Liche esperando por nós lá.</Text>
+<Text tag="[Conv_Q0Q6b_0008]">Parece perigoso.</Text>
+<Text tag="[Conv_Q0Q6b_0009]">Parece perigoso.</Text>
+<Text tag="[Conv_Q0Q6b_0010]">Parece perigoso.</Text>
+<Text tag="[Conv_Q0Q6b_0011]">Parece perigoso.</Text>
+<Text tag="[Conv_Q0Q6b_0012]">É. Aqui, pegue este Amuleto Lichebane. Se você usá-lo, cada golpe que você desferir causará dano extra ao Liche. Dê para a Rainha quando chegar a Silvermyr - foi ela quem me deu há muitos anos.</Text>
+<Text tag="[Conv_Q0Q6b_0013]">É. Aqui, pegue este Amuleto Lichebane. Se você usá-lo, cada golpe que der causará dano extra ao Liche. Dê para a Rainha quando chegar a Silvermyr - foi ela quem me deu há muitos anos.</Text>
+<Text tag="[Conv_Q0Q6b_0014]">É. Aqui, pegue este Amuleto Lichebane. Se você usá-lo, cada golpe que der causará dano extra ao Liche. Dê para a Rainha quando chegar a Silvermyr - foi ela quem me deu há muitos anos.</Text>
+<Text tag="[Conv_Q0Q6b_0015]">É. Aqui, pegue este Amuleto Lichebane. Se você usá-lo, cada golpe que der causará dano extra ao Liche. Dê para a Rainha quando chegar a Silvermyr - foi ela quem me deu há muitos anos.</Text>
+<Text tag="[Conv_Q0Q6b_0016]">Você já esteve em Silvermyr antes?</Text>
+<Text tag="[Conv_Q0Q6b_0017]">Você já esteve em Silvermyr antes?</Text>
+<Text tag="[Conv_Q0Q6b_0018]">Você já esteve em Silvermyr antes?</Text>
+<Text tag="[Conv_Q0Q6b_0019]">Você já esteve em Silvermyr antes?</Text>
+<Text tag="[Conv_Q0Q6b_0020]">Meu pai era de Silvermyr, embora eu não seja mais bem-vindo lá.</Text>
+<Text tag="[Conv_Q0Q6b_0021]">Meu pai era de Silvermyr, embora eu não seja mais bem-vindo lá.</Text>
+<Text tag="[Conv_Q0Q6b_0022]">Meu pai era de Silvermyr, embora eu não seja mais bem-vindo lá.</Text>
+<Text tag="[Conv_Q0Q6b_0023]">Meu pai era de Silvermyr, embora eu não seja mais bem-vindo lá.</Text>
+<Text tag="[Conv_Q0Q6b_0024]">Você parece ter muitos inimigos, Darkhunter. Qual é o problema em Silvermyr?</Text>
+<Text tag="[Conv_Q0Q6b_0025]">Você parece ter muitos inimigos, Darkhunter. Qual é o problema em Silvermyr?</Text>
+<Text tag="[Conv_Q0Q6b_0026]">Você parece ter muitos inimigos, Darkhunter. Qual é o problema em Silvermyr?</Text>
+<Text tag="[Conv_Q0Q6b_0027]">Você parece ter muitos inimigos, Darkhunter. Qual é o problema em Silvermyr?</Text>
+<Text tag="[Conv_Q0Q6b_0028]">Olhe para mim... pareço humano ou élfico para você?</Text>
+<Text tag="[Conv_Q0Q6b_0029]">Olhe para mim... pareço humano ou élfico para você?</Text>
+<Text tag="[Conv_Q0Q6b_0030]">Olhe para mim... pareço humano ou élfico para você?</Text>
+<Text tag="[Conv_Q0Q6b_0031]">Olhe para mim... pareço humano ou élfico para você?</Text>
+<Text tag="[Conv_Q0Q6b_0032]">Um pouco dos dois, eu acho.</Text>
+<Text tag="[Conv_Q0Q6b_0033]">Um pouco dos dois, eu acho.</Text>
+<Text tag="[Conv_Q0Q6b_0034]">Um pouco dos dois, eu acho.</Text>
+<Text tag="[Conv_Q0Q6b_0035]">Um pouco dos dois, eu acho.</Text>
+<Text tag="[Conv_Q0Q6b_0036]">Exatamente. Meu pai era um elfo, minha mãe era humana. Os elfos da floresta de Silvermyr me chamam de mestiço. A rainha Titânia foi uma das poucas que foi gentil comigo; ela me deu este amuleto como proteção quando deixei esta floresta pela última vez. Agora ela tem mais necessidade dele do que eu.</Text>
+<Text tag="[Conv_Q0Q6b_0037]">Exatamente. Meu pai era um elfo, minha mãe era humana. Os elfos da floresta de Silvermyr me chamam de mestiço. A rainha Titânia foi uma das poucas que foi gentil comigo; ela me deu este amuleto como proteção quando deixei esta floresta pela última vez. Agora ela tem mais necessidade dele do que eu.</Text>
+<Text tag="[Conv_Q0Q6b_0038]">Exatamente. Meu pai era um elfo, minha mãe era humana. Os elfos da floresta de Silvermyr me chamam de mestiço. A Rainha Titânia foi uma das poucas que foi gentil comigo; ela me deu esse amuleto como proteção quando deixei essa floresta pela última vez. Agora ela precisa mais dele do que eu.</Text>
+<Text tag="[Conv_Q0Q6b_0039]">Exatamente. Meu pai era um elfo, minha mãe era humana. Os elfos da floresta de Silvermyr me chamam de mestiça. A Rainha Titânia foi uma das poucas que foi gentil comigo; ela me deu esse amuleto como proteção quando deixei essa floresta pela última vez. Agora ela precisa mais dele do que eu.</Text>
+<Text tag="[Conv_Q0Q6b_0040]">Entendo. Mas e Maethelburg? Por que você não pode viajar para lá?</Text>
+<Text tag="[Conv_Q0Q6b_0041]">Entendo. Mas e Maethelburg? Por que você não pode viajar para lá?</Text>
+<Text tag="[Conv_Q0Q6b_0042]">Entendo. Mas e Maethelburg? Por que você não pode viajar para lá?</Text>
+<Text tag="[Conv_Q0Q6b_0043]">Entendo. Mas e Maethelburg? Por que você não pode viajar para lá?</Text>
+<Text tag="[Conv_Q0Q6b_0044]">Isso foi algo completamente diferente - um assunto privado. Você faz muitas perguntas.</Text>
+<Text tag="[Conv_Q0Q6b_0045]">Isso foi algo completamente diferente - um assunto privado. Você faz muitas perguntas.</Text>
+<Text tag="[Conv_Q0Q6b_0046]">Isso foi algo completamente diferente - um assunto privado. Você faz perguntas demais.</Text>
+<Text tag="[Conv_Q0Q6b_0047]">Isso foi algo completamente diferente - um assunto privado. Você faz perguntas demais.</Text>
+<Text tag="[Conv_Q0Q6b_0048]">Desculpe. Não queria bisbilhotar.</Text>
+<Text tag="[Conv_Q0Q6b_0049]">Desculpe. Não queria bisbilhotar.</Text>
+<Text tag="[Conv_Q0Q6b_0050]">Desculpe. Não queria bisbilhotar.</Text>
+<Text tag="[Conv_Q0Q6b_0051]">Desculpe. Não queria bisbilhotar.</Text>
+<Text tag="[Conv_Q0Q6b_0052]">Sim, você fez. Agora, estou com vontade de caçar alguns mortos-vivos. Vamos?</Text>
+<Text tag="[Conv_Q0Q6b_0053]">Sim, você foi. Agora, estou com vontade de caçar alguns mortos-vivos. Vamos?</Text>
+<Text tag="[Conv_Q0Q6b_0054]">Sim, você foi. Agora, estou com vontade de caçar alguns mortos-vivos. Vamos?</Text>
+<Text tag="[Conv_Q0Q6b_0055]">Sim, você foi. Agora, estou com vontade de caçar alguns mortos-vivos. Vamos?</Text>
+
+</TextLibrary>

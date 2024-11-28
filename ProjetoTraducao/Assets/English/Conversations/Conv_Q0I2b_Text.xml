@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q0I2b_NAME1]">Imperial Guard</Text>
+<Text tag="[Conv_Q0I2b_NAME1]">Guarda Imperial</Text>
 
-   <Text tag="[Conv_Q0I2b_0000]">State your business!</Text>
-   <Text tag="[Conv_Q0I2b_0001]">State your business!</Text>
-   <Text tag="[Conv_Q0I2b_0002]">State your business!</Text>
-   <Text tag="[Conv_Q0I2b_0003]">State your business!</Text>
-   <Text tag="[Conv_Q0I2b_0004]">I am an emissary from the Queen of Bartonia. I have a message for the Emperor.</Text>
-   <Text tag="[Conv_Q0I2b_0005]">I am an emissary from the Queen of Bartonia. I have a message for the Emperor.</Text>
-   <Text tag="[Conv_Q0I2b_0006]">I am an emissary from the Queen of Bartonia. I have a message for the Emperor.</Text>
-   <Text tag="[Conv_Q0I2b_0007]">I am an emissary from the Queen of Bartonia. I have a message for the Emperor.</Text>
-   <Text tag="[Conv_Q0I2b_0008]">A message, eh? Well , the Emperor does not meet with commoners. Leave at once.</Text>
-   <Text tag="[Conv_Q0I2b_0009]">A message, eh? Well , the Emperor does not meet with commoners. Leave at once.</Text>
-   <Text tag="[Conv_Q0I2b_0010]">A message, eh? Well , the Emperor does not meet with commoners. Leave at once.</Text>
-   <Text tag="[Conv_Q0I2b_0011]">A message, eh? Well , the Emperor does not meet with commoners. Leave at once.</Text>
-   <Text tag="[Conv_Q0I2b_0012]">Look, I am a personal emissary of the Queen. I was sent here to...</Text>
-   <Text tag="[Conv_Q0I2b_0013]">Look, I am a personal emissary of the Queen. I was sent here to...</Text>
-   <Text tag="[Conv_Q0I2b_0014]">Look, I am a personal emissary of the Queen. I was sent here to...</Text>
-   <Text tag="[Conv_Q0I2b_0015]">Look, I am a personal emissary of the Queen. I was sent here to...</Text>
-   <Text tag="[Conv_Q0I2b_0016]">I don&apos;t care why you were sent here.You&apos;ll end up rotting in a cell if you don&apos;t leave. Now...go!!!</Text>
-   <Text tag="[Conv_Q0I2b_0017]">I don&apos;t care why you were sent here.You&apos;ll end up rotting in a cell if you don&apos;t leave. Now...go!!!</Text>
-   <Text tag="[Conv_Q0I2b_0018]">I don&apos;t care why you were sent here.You&apos;ll end up rotting in a cell if you don&apos;t leave. Now...go!!!</Text>
-   <Text tag="[Conv_Q0I2b_0019]">I don&apos;t care why you were sent here.You&apos;ll end up rotting in a cell if you don&apos;t leave. Now...go!!!</Text>
+<Text tag="[Conv_Q0I2b_0000]">Diga o que pensa!</Text>
+<Text tag="[Conv_Q0I2b_0001]">Diga o que pensa!</Text>
+<Text tag="[Conv_Q0I2b_0002]">Diga o que pensa!</Text>
+<Text tag="[Conv_Q0I2b_0003]">Diga o que pensa!</Text>
+<Text tag="[Conv_Q0I2b_0004]">Sou um emissário da Rainha de Bartonia. Tenho uma mensagem para o Imperador.</Text>
+<Text tag="[Conv_Q0I2b_0005]">Sou um emissário da Rainha de Bartonia. Tenho uma mensagem para o Imperador.</Text>
+<Text tag="[Conv_Q0I2b_0006]">Sou um emissário da Rainha de Bartonia. Tenho uma mensagem para o Imperador.</Text>
+<Text tag="[Conv_Q0I2b_0007]">Sou um emissário da Rainha de Bartonia. Tenho uma mensagem para o Imperador.</Text>
+<Text tag="[Conv_Q0I2b_0008]">Uma mensagem, hein? Bem, o Imperador não se encontra com plebeus. Saia imediatamente.</Text>
+<Text tag="[Conv_Q0I2b_0009]">Uma mensagem, hein? Bem, o Imperador não se encontra com plebeus. Saia imediatamente.</Text>
+<Text tag="[Conv_Q0I2b_0010]">Uma mensagem, hein? Bem, o Imperador não se encontra com plebeus. Saia imediatamente.</Text>
+<Text tag="[Conv_Q0I2b_0011]">Uma mensagem, hein? Bem, o Imperador não se encontra com plebeus. Saia imediatamente.</Text>
+<Text tag="[Conv_Q0I2b_0012]">Olha, eu sou um emissário pessoal da Rainha. Fui enviado aqui para...</Text>
+<Text tag="[Conv_Q0I2b_0013]">Olha, eu sou um emissário pessoal da Rainha. Fui enviado aqui para...</Text>
+<Text tag="[Conv_Q0I2b_0014]">Olha, eu sou um emissário pessoal da Rainha. Fui enviado aqui para...</Text>
+<Text tag="[Conv_Q0I2b_0015]">Olha, eu sou um emissário pessoal da Rainha. Fui enviado aqui para...</Text>
+<Text tag="[Conv_Q0I2b_0016]">Não me importa por que você foi enviado aqui. Você vai acabar apodrecendo em uma cela se não sair. Agora... vá!!!</Text>
+<Text tag="[Conv_Q0I2b_0017]">Não me importa por que você foi enviado aqui. Você vai acabar apodrecendo em uma cela se não sair. Agora... vá!!!</Text>
+<Text tag="[Conv_Q0I2b_0018]">Não me importa por que você foi enviado aqui. Você vai acabar apodrecendo em uma cela se não sair. Agora... vá!!!</Text>
+<Text tag="[Conv_Q0I2b_0019]">Não me importa por que você foi enviado aqui. Você vai acabar apodrecendo em uma cela se não for embora. Agora... vá!!!</Text>
 
 </TextLibrary>

@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1D1a_NAME1]">Drong</Text>
+<Text tag="[Conv_Q1D1a_NAME1]">Drong</Text>
 
-   <Text tag="[Conv_Q1D1a_0000]">Mmm... Dragon spider was yummy.  Drong thinks that a Troll would be nice though.</Text>
-   <Text tag="[Conv_Q1D1a_0001]">Mmm... Dragon spider was yummy.  Drong thinks that a Troll would be nice though.</Text>
-   <Text tag="[Conv_Q1D1a_0002]">Mmm... Dragon spider was yummy.  Drong thinks that a Troll would be nice though.</Text>
-   <Text tag="[Conv_Q1D1a_0003]">Mmm... Dragon spider was yummy.  Drong thinks that a Troll would be nice though.</Text>
-   <Text tag="[Conv_Q1D1a_0004]">A Troll?  But they&apos;re everywhere. Surely you&apos;ve eaten Troll before?</Text>
-   <Text tag="[Conv_Q1D1a_0005]">A Troll?  But they&apos;re everywhere. Surely you&apos;ve eaten Troll before?</Text>
-   <Text tag="[Conv_Q1D1a_0006]">A Troll?  But they&apos;re everywhere. Surely you&apos;ve eaten Troll before?</Text>
-   <Text tag="[Conv_Q1D1a_0007]">A Troll?  But they&apos;re everywhere. Surely you&apos;ve eaten Troll before?</Text>
-   <Text tag="[Conv_Q1D1a_0008]">Regular Troll, yes. But Drong talk to Goblin Merchant named Neehi, and he tell Drong about rare Ice Troll.</Text>
-   <Text tag="[Conv_Q1D1a_0009]">Regular Troll, yes. But Drong talk to Goblin Merchant named Neehi, and he tell Drong about rare Ice Troll.</Text>
-   <Text tag="[Conv_Q1D1a_0010]">Regular Troll, yes. But Drong talk to Goblin Merchant named Neehi, and he tell Drong about rare Ice Troll.</Text>
-   <Text tag="[Conv_Q1D1a_0011]">Regular Troll, yes. But Drong talk to Goblin Merchant named Neehi, and he tell Drong about rare Ice Troll.</Text>
-   <Text tag="[Conv_Q1D1a_0012]">An Ice Troll?</Text>
-   <Text tag="[Conv_Q1D1a_0013]">An Ice Troll?</Text>
-   <Text tag="[Conv_Q1D1a_0014]">An Ice Troll?</Text>
-   <Text tag="[Conv_Q1D1a_0015]">An Ice Troll?</Text>
-   <Text tag="[Conv_Q1D1a_0016]">Mmmm... lives up north near Theira.  You get one for Drong to eat and Drong give you magic stick.</Text>
-   <Text tag="[Conv_Q1D1a_0017]">Mmmm... lives up north near Theira.  You get one for Drong to eat and Drong give you magic stick.</Text>
-   <Text tag="[Conv_Q1D1a_0018]">Mmmm... lives up north near Theira.  You get one for Drong to eat and Drong give you magic stick.</Text>
-   <Text tag="[Conv_Q1D1a_0019]">Mmmm... lives up north near Theira.  You get one for Drong to eat and Drong give you magic stick.</Text>
-   <Text tag="[Conv_Q1D1a_0020]">A magic stick, huh? Well, I&apos;ll get right onto it.</Text>
-   <Text tag="[Conv_Q1D1a_0021]">A magic stick, huh? Well, I&apos;ll get right onto it.</Text>
-   <Text tag="[Conv_Q1D1a_0022]">A magic stick, huh? Well, I&apos;ll get right onto it.</Text>
-   <Text tag="[Conv_Q1D1a_0023]">A magic stick, huh? Well, I&apos;ll get right onto it.</Text>
+<Text tag="[Conv_Q1D1a_0000]">Mmm... Aranha dragão era gostosa. Drong acha que um Troll seria legal.</Text>
+<Text tag="[Conv_Q1D1a_0001]">Mmm... Aranha dragão era gostosa. Drong acha que um Troll seria legal.</Text>
+<Text tag="[Conv_Q1D1a_0002]">Mmm... Aranha dragão era gostosa. Drong acha que um Troll seria legal.</Text>
+<Text tag="[Conv_Q1D1a_0003]">Mmm... Aranha dragão era gostosa. Drong acha que um Troll seria legal.</Text>
+<Text tag="[Conv_Q1D1a_0004]">Um Troll? Mas eles estão em todo lugar. Certamente você já comeu Troll antes?</Text>
+<Text tag="[Conv_Q1D1a_0005]">Um Troll? Mas eles estão em todo lugar. Certamente você já comeu Troll antes?</Text>
+<Text tag="[Conv_Q1D1a_0006]">Um Troll? Mas eles estão em todo lugar. Certamente você já comeu Troll antes?</Text>
+<Text tag="[Conv_Q1D1a_0007]">Um Troll? Mas eles estão em todo lugar. Certamente você já comeu Troll antes?</Text>
+<Text tag="[Conv_Q1D1a_0008]">Troll normal, sim. Mas Drong fala com o Goblin Merchant chamado Neehi, e ele conta a Drong sobre o raro Ice Troll.</Text>
+<Text tag="[Conv_Q1D1a_0009]">Troll normal, sim. Mas Drong fala com o Goblin Merchant chamado Neehi, e ele conta a Drong sobre o raro Ice Troll.</Text>
+<Text tag="[Conv_Q1D1a_0010]">Troll normal, sim. Mas Drong fala com o Goblin Merchant chamado Neehi, e ele conta a Drong sobre o raro Ice Troll.</Text>
+<Text tag="[Conv_Q1D1a_0011]">Troll normal, sim. Mas Drong fala com o Goblin Merchant chamado Neehi, e ele conta a Drong sobre o raro Ice Troll.</Text>
+<Text tag="[Conv_Q1D1a_0012]">Um Ice Troll?</Text>
+<Text tag="[Conv_Q1D1a_0013]">Um Ice Troll?</Text>
+<Text tag="[Conv_Q1D1a_0014]">Um Ice Troll?</Text>
+<Text tag="[Conv_Q1D1a_0015]">Um Ice Troll?</Text>
+<Text tag="[Conv_Q1D1a_0016]">Mmmm... mora no norte perto de Theira. Você pega um para Drong comer e Drong te dá um bastão mágico.</Text>
+<Text tag="[Conv_Q1D1a_0017]">Mmmm... mora no norte perto de Theira. Você pega um para Drong comer e Drong te dá um bastão mágico.</Text>
+<Text tag="[Conv_Q1D1a_0018]">Mmmm... mora no norte perto de Theira. Você pega um para Drong comer e Drong te dá um bastão mágico.</Text>
+<Text tag="[Conv_Q1D1a_0019]">Mmmm... mora no norte perto de Theira. Você pega um para Drong comer e Drong te dá um bastão mágico.</Text>
+<Text tag="[Conv_Q1D1a_0020]">Um bastão mágico, hein? Bem, eu vou direto ao assunto.</Text>
+<Text tag="[Conv_Q1D1a_0021]">Um bastão mágico, hein? Bem, eu vou direto ao assunto.</Text>
+<Text tag="[Conv_Q1D1a_0022]">Um bastão mágico, hein? Bem, vou direto ao assunto.</Text>
+<Text tag="[Conv_Q1D1a_0023]">Uma varinha mágica, hein? Bem, vou direto ao assunto.</Text>
 
 </TextLibrary>

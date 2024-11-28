@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q0Q2b_NAME1]">Guardsman</Text>
+<Text tag="[Conv_Q0Q2b_NAME1]">Guarda</Text>
 
-   <Text tag="[Conv_Q0Q2b_0000]">I&apos;m looking for a man named Syrus Darkhunter. Does he live around here?</Text>
-   <Text tag="[Conv_Q0Q2b_0001]">I&apos;m looking for a man named Syrus Darkhunter. Does he live around here?</Text>
-   <Text tag="[Conv_Q0Q2b_0002]">I&apos;m looking for a man named Syrus Darkhunter. Does he live around here?</Text>
-   <Text tag="[Conv_Q0Q2b_0003]">I&apos;m looking for a man named Syrus Darkhunter. Does he live around here?</Text>
-   <Text tag="[Conv_Q0Q2b_0004]">Darkhunter, eh? You won&apos;t find him here. He seldom enters the city.</Text>
-   <Text tag="[Conv_Q0Q2b_0005]">Darkhunter, eh? You won&apos;t find him here. He seldom enters the city.</Text>
-   <Text tag="[Conv_Q0Q2b_0006]">Darkhunter, eh? You won&apos;t find him here. He seldom enters the city.</Text>
-   <Text tag="[Conv_Q0Q2b_0007]">Darkhunter, eh? You won&apos;t find him here. He seldom enters the city.</Text>
-   <Text tag="[Conv_Q0Q2b_0008]">Do you know where I can find him?</Text>
-   <Text tag="[Conv_Q0Q2b_0009]">Do you know where I can find him?</Text>
-   <Text tag="[Conv_Q0Q2b_0010]">Do you know where I can find him?</Text>
-   <Text tag="[Conv_Q0Q2b_0011]">Do you know where I can find him?</Text>
-   <Text tag="[Conv_Q0Q2b_0012]">He&apos;s difficult to find unless he WANTS to be found.  I heard a rumor that he was tracking some creatures down near the Ruins of Artum.  You might try there.</Text>
-   <Text tag="[Conv_Q0Q2b_0013]">He&apos;s difficult to find unless he WANTS to be found.  I heard a rumor that he was tracking some creatures down near the Ruins of Artum.  You might try there.</Text>
-   <Text tag="[Conv_Q0Q2b_0014]">He&apos;s difficult to find unless he WANTS to be found.  I heard a rumor that he was tracking some creatures down near the Ruins of Artum.  You might try there.</Text>
-   <Text tag="[Conv_Q0Q2b_0015]">He&apos;s difficult to find unless he WANTS to be found.  I heard a rumor that he was tracking some creatures down near the Ruins of Artum.  You might try there.</Text>
-   <Text tag="[Conv_Q0Q2b_0016]">Thanks.</Text>
-   <Text tag="[Conv_Q0Q2b_0017]">Thanks.</Text>
-   <Text tag="[Conv_Q0Q2b_0018]">Thanks.</Text>
-   <Text tag="[Conv_Q0Q2b_0019]">Thanks.</Text>
+<Text tag="[Conv_Q0Q2b_0000]">Estou procurando um homem chamado Syrus Darkhunter. Ele mora por aqui?</Text>
+<Text tag="[Conv_Q0Q2b_0001]">Estou procurando um homem chamado Syrus Darkhunter. Ele mora por aqui?</Text>
+<Text tag="[Conv_Q0Q2b_0002]">Estou procurando um homem chamado Syrus Darkhunter. Ele mora por aqui?</Text>
+<Text tag="[Conv_Q0Q2b_0003]">Estou procurando um homem chamado Syrus Darkhunter. Ele mora por aqui?</Text>
+<Text tag="[Conv_Q0Q2b_0004]">Darkhunter, hein? Você não vai encontrá-lo aqui. Ele raramente entra na cidade.</Text>
+<Text tag="[Conv_Q0Q2b_0005]">Darkhunter, hein? Você não vai encontrá-lo aqui. Ele raramente entra na cidade.</Text>
+<Text tag="[Conv_Q0Q2b_0006]">Darkhunter, hein? Você não vai encontrá-lo aqui. Ele raramente entra na cidade.</Text>
+<Text tag="[Conv_Q0Q2b_0007]">Darkhunter, hein? Você não vai encontrá-lo aqui. Ele raramente entra na cidade.</Text>
+<Text tag="[Conv_Q0Q2b_0008]">Você sabe onde posso encontrá-lo?</Text>
+<Text tag="[Conv_Q0Q2b_0009]">Você sabe onde posso encontrá-lo?</Text>
+<Text tag="[Conv_Q0Q2b_0010]">Você sabe onde posso encontrá-lo?</Text>
+<Text tag="[Conv_Q0Q2b_0011]">Você sabe onde posso encontrá-lo?</Text>
+<Text tag="[Conv_Q0Q2b_0012]">Ele é difícil de encontrar, a menos que ele QUEIRA ser encontrado. Ouvi um boato de que ele estava rastreando algumas criaturas perto das Ruínas de Artum. Você pode tentar lá.</Text>
+<Text tag="[Conv_Q0Q2b_0013]">Ele é difícil de encontrar, a menos que ele QUEIRA ser encontrado. Ouvi um boato de que ele estava rastreando algumas criaturas perto das Ruínas de Artum. Você pode tentar lá.</Text>
+<Text tag="[Conv_Q0Q2b_0014]">Ele é difícil de encontrar, a menos que ele QUEIRA ser encontrado. Ouvi um boato de que ele estava rastreando algumas criaturas perto das Ruínas de Artum. Você pode tentar lá.</Text>
+<Text tag="[Conv_Q0Q2b_0015]">Ele é difícil de encontrar, a menos que ele QUEIRA ser encontrado. Ouvi um boato de que ele estava rastreando algumas criaturas perto das Ruínas de Artum. Você pode tentar lá.</Text>
+<Text tag="[Conv_Q0Q2b_0016]">Obrigado.</Text>
+<Text tag="[Conv_Q0Q2b_0017]">Obrigado.</Text>
+<Text tag="[Conv_Q0Q2b_0018]">Obrigado.</Text>
+<Text tag="[Conv_Q0Q2b_0019]">Obrigado.</Text>
 
 </TextLibrary>

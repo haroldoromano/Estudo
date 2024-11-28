@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1G3b_NAME1]">Neehi</Text>
+<Text tag="[Conv_Q1G3b_NAME1]">Neehi</Text>
 
-   <Text tag="[Conv_Q1G3b_0000]">Aha!  You bring me the axe!  You are brave AND honest!</Text>
-   <Text tag="[Conv_Q1G3b_0001]">Aha!  You bring me the axe!  You are brave AND honest!</Text>
-   <Text tag="[Conv_Q1G3b_0002]">Aha!  You bring me the axe!  You are brave AND honest!</Text>
-   <Text tag="[Conv_Q1G3b_0003]">Aha!  You bring me the axe!  You are brave AND honest!</Text>
-   <Text tag="[Conv_Q1G3b_0004]">I try.</Text>
-   <Text tag="[Conv_Q1G3b_0005]">I try.</Text>
-   <Text tag="[Conv_Q1G3b_0006]">I try.</Text>
-   <Text tag="[Conv_Q1G3b_0007]">I try.</Text>
-   <Text tag="[Conv_Q1G3b_0008]">Thank you, thank you.  This will fetch a fine price on Marketday.  Neehi has decided you are worthy of the title Master Merchant for going places where Neehi cannot!</Text>
-   <Text tag="[Conv_Q1G3b_0009]">Thank you, thank you.  This will fetch a fine price on Marketday.  Neehi has decided you are worthy of the title Master Merchant for going places where Neehi cannot!</Text>
-   <Text tag="[Conv_Q1G3b_0010]">Thank you, thank you.  This will fetch a fine price on Marketday.  Neehi has decided you are worthy of the title Master Merchant for going places where Neehi cannot!</Text>
-   <Text tag="[Conv_Q1G3b_0011]">Thank you, thank you.  This will fetch a fine price on Marketday.  Neehi has decided you are worthy of the title Master Merchant for going places where Neehi cannot!</Text>
+<Text tag="[Conv_Q1G3b_0000]">Aha! Você me traz o machado! Você é corajosa E honesta!</Text>
+<Text tag="[Conv_Q1G3b_0001]">Aha! Você me traz o machado! Você é corajosa E honesta!</Text>
+<Text tag="[Conv_Q1G3b_0002]">Aha! Você me traz o machado! Você é corajosa E honesta!</Text>
+<Text tag="[Conv_Q1G3b_0003]">Aha! Você me traz o machado! Você é corajoso E honesto!</Text>
+<Text tag="[Conv_Q1G3b_0004]">Eu tento.</Text>
+<Text tag="[Conv_Q1G3b_0005]">Eu tento.</Text>
+<Text tag="[Conv_Q1G3b_0006]">Eu tento.</Text>
+<Text tag="[Conv_Q1G3b_0007]">Eu tento.</Text>
+<Text tag="[Conv_Q1G3b_0008]">Obrigado, obrigado. Isso renderá um ótimo preço no Marketday. Neehi decidiu que você é digno do título de Mestre Comerciante por ir a lugares onde Neehi não pode!</Text>
+<Text tag="[Conv_Q1G3b_0009]">Obrigado, obrigado. Isso renderá um ótimo preço no Marketday. Neehi decidiu que você é digno do título de Mestre Mercador por ir a lugares onde Neehi não pode!</Text>
+<Text tag="[Conv_Q1G3b_0010]">Obrigado, obrigado. Isso renderá um ótimo preço no Marketday. Neehi decidiu que você é digno do título de Mestre Mercador por ir a lugares onde Neehi não pode!</Text>
+<Text tag="[Conv_Q1G3b_0011]">Obrigado, obrigado. Isso renderá um ótimo preço no Marketday. Neehi decidiu que você é digno do título de Mestre Mercador por ir a lugares onde Neehi não pode!</Text>
 
 </TextLibrary>

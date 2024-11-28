@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1G1a_NAME1]">Neehi</Text>
+<Text tag="[Conv_Q1G1a_NAME1]">Neehi</Text>
 
-   <Text tag="[Conv_Q1G1a_0000]">Hello hello! You apply to Neehi for work, yes yes?</Text>
-   <Text tag="[Conv_Q1G1a_0001]">Hello hello! You apply to Neehi for work, yes yes?</Text>
-   <Text tag="[Conv_Q1G1a_0002]">Hello hello! You apply to Neehi for work, yes yes?</Text>
-   <Text tag="[Conv_Q1G1a_0003]">Hello hello! You apply to Neehi for work, yes yes?</Text>
-   <Text tag="[Conv_Q1G1a_0004]">You need some spell components?</Text>
-   <Text tag="[Conv_Q1G1a_0005]">You need some spell components?</Text>
-   <Text tag="[Conv_Q1G1a_0006]">You need some spell components?</Text>
-   <Text tag="[Conv_Q1G1a_0007]">You need some spell components?</Text>
-   <Text tag="[Conv_Q1G1a_0008]">Yes yes. Wasp wings from the Wasp Hive and Ice Troll Hair from Theira. Neehi will pay you well!</Text>
-   <Text tag="[Conv_Q1G1a_0009]">Yes yes. Wasp wings from the Wasp Hive and Ice Troll Hair from Theira. Neehi will pay you well!</Text>
-   <Text tag="[Conv_Q1G1a_0010]">Yes yes. Wasp wings from the Wasp Hive and Ice Troll Hair from Theira. Neehi will pay you well!</Text>
-   <Text tag="[Conv_Q1G1a_0011]">Yes yes. Wasp wings from the Wasp Hive and Ice Troll Hair from Theira. Neehi will pay you well!</Text>
+<Text tag="[Conv_Q1G1a_0000]">Olá, olá! Você se candidatou a Neehi para trabalhar, sim sim?</Text>
+<Text tag="[Conv_Q1G1a_0001]">Olá, olá! Você se candidatou a Neehi para trabalhar, sim sim?</Text>
+<Text tag="[Conv_Q1G1a_0002]">Olá, olá! Você se candidatou a Neehi para trabalhar, sim sim?</Text>
+<Text tag="[Conv_Q1G1a_0003]">Olá, olá! Você se candidatou a Neehi para trabalhar, sim sim?</Text>
+<Text tag="[Conv_Q1G1a_0004]">Você precisa de alguns componentes de magia?</Text>
+<Text tag="[Conv_Q1G1a_0005]">Você precisa de alguns componentes de magia?</Text>
+<Text tag="[Conv_Q1G1a_0006]">Você precisa de alguns componentes de magia?</Text>
+<Text tag="[Conv_Q1G1a_0007]">Você precisa de alguns componentes de magia?</Text>
+<Text tag="[Conv_Q1G1a_0008]">Sim sim. Asas de vespa da Wasp Hive e Pelo de Troll de Gelo de Theira. Neehi vai te pagar bem!</Text>
+<Text tag="[Conv_Q1G1a_0009]">Sim sim. Asas de vespa da Wasp Hive e Pelo de Troll de Gelo de Theira. Neehi vai pagar bem a você!</Text>
+<Text tag="[Conv_Q1G1a_0010]">Sim sim. Asas de vespa da Colmeia de Vespas e Pelo de Troll de Gelo de Theira. Neehi vai pagar bem a você!</Text>
+<Text tag="[Conv_Q1G1a_0011]">Sim sim. Asas de vespa da Colmeia de Vespas e Pelo de Troll de Gelo de Theira. Neehi vai pagar bem a você!</Text>
 
 </TextLibrary>

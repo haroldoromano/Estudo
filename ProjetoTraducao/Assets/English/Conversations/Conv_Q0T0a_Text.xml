@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q0T0a_NAME1]">Queen Gwendholyn</Text>
+<Text tag="[Conv_Q0T0a_NAME1]">Rainha Gwendholyn</Text>
 
-   <Text tag="[Conv_Q0T0a_0000]">Your Majesty, I need to request a leave of absence.</Text>
-   <Text tag="[Conv_Q0T0a_0001]">Your Majesty, I need to request a leave of absence.</Text>
-   <Text tag="[Conv_Q0T0a_0002]">Your Majesty, I need to request a leave of absence.</Text>
-   <Text tag="[Conv_Q0T0a_0003]">Your Majesty, I need to request a leave of absence.</Text>
-   <Text tag="[Conv_Q0T0a_0004]">Your studies are progressing well.  What is so urgent?</Text>
-   <Text tag="[Conv_Q0T0a_0005]">Your studies are progressing well.  What is so urgent?</Text>
-   <Text tag="[Conv_Q0T0a_0006]">Your studies are progressing well.  What is so urgent?</Text>
-   <Text tag="[Conv_Q0T0a_0007]">Your studies are progressing well.  What is so urgent?</Text>
-   <Text tag="[Conv_Q0T0a_0008]">My father, Sir Albion, has requested my presence in Siria.</Text>
-   <Text tag="[Conv_Q0T0a_0009]">My father, Sir Albion, has requested my presence in Siria.</Text>
-   <Text tag="[Conv_Q0T0a_0010]">My father, Sir Albion, has requested my presence in Siria.</Text>
-   <Text tag="[Conv_Q0T0a_0011]">My father, Sir Albion, has requested my presence in Siria.</Text>
-   <Text tag="[Conv_Q0T0a_0012]">Your father is a good man. He would not make such a request unless it was important. Your request is granted.</Text>
-   <Text tag="[Conv_Q0T0a_0013]">Your father is a good man. He would not make such a request unless it was important. Your request is granted.</Text>
-   <Text tag="[Conv_Q0T0a_0014]">Your father is a good man. He would not make such a request unless it was important. Your request is granted.</Text>
-   <Text tag="[Conv_Q0T0a_0015]">Your father is a good man. He would not make such a request unless it was important. Your request is granted.</Text>
-   <Text tag="[Conv_Q0T0a_0016]">Thank you, Your Majesty.</Text>
-   <Text tag="[Conv_Q0T0a_0017]">Thank you, Your Majesty.</Text>
-   <Text tag="[Conv_Q0T0a_0018]">Thank you, Your Majesty.</Text>
-   <Text tag="[Conv_Q0T0a_0019]">Thank you, Your Majesty.</Text>
-   <Text tag="[Conv_Q0T0a_0020]">Send your father my regards. And hurry back, you still have much to learn.</Text>
-   <Text tag="[Conv_Q0T0a_0021]">Send your father my regards. And hurry back, you still have much to learn.</Text>
-   <Text tag="[Conv_Q0T0a_0022]">Send your father my regards. And hurry back, you still have much to learn.</Text>
-   <Text tag="[Conv_Q0T0a_0023]">Send your father my regards. And hurry back, you still have much to learn.</Text>
-   <Text tag="[Conv_Q0T0a_0024]">I will, my Queen. Thank you.</Text>
-   <Text tag="[Conv_Q0T0a_0025]">I will, my Queen. Thank you.</Text>
-   <Text tag="[Conv_Q0T0a_0026]">I will, my Queen. Thank you.</Text>
-   <Text tag="[Conv_Q0T0a_0027]">I will, my Queen. Thank you.</Text>
+<Text tag="[Conv_Q0T0a_0000]">Vossa Majestade, preciso solicitar uma licença.</Text>
+<Text tag="[Conv_Q0T0a_0001]">Vossa Majestade, preciso solicitar uma licença.</Text>
+<Text tag="[Conv_Q0T0a_0002]">Vossa Majestade, preciso solicitar uma licença.</Text>
+<Text tag="[Conv_Q0T0a_0003]">Vossa Majestade, preciso solicitar uma licença.</Text>
+<Text tag="[Conv_Q0T0a_0004]">Seus estudos estão progredindo bem. O que é tão urgente?</Text>
+<Text tag="[Conv_Q0T0a_0005]">Seus estudos estão progredindo bem. O que é tão urgente?</Text>
+<Text tag="[Conv_Q0T0a_0006]">Seus estudos estão progredindo bem. O que é tão urgente?</Text>
+<Text tag="[Conv_Q0T0a_0007]">Seus estudos estão progredindo bem. O que é tão urgente?</Text>
+<Text tag="[Conv_Q0T0a_0008]">Meu pai, Sir Albion, solicitou minha presença em Siria.</Text>
+<Text tag="[Conv_Q0T0a_0009]">Meu pai, Sir Albion, solicitou minha presença em Siria.</Text>
+<Text tag="[Conv_Q0T0a_0010]">Meu pai, Sir Albion, solicitou minha presença em Siria.</Text>
+<Text tag="[Conv_Q0T0a_0011]">Meu pai, Sir Albion, solicitou minha presença em Siria.</Text>
+<Text tag="[Conv_Q0T0a_0012]">Seu pai é um bom homem. Ele não faria tal solicitação a menos que fosse importante. Sua solicitação foi atendida.</Text>
+<Text tag="[Conv_Q0T0a_0013]">Seu pai é um bom homem. Ele não faria tal pedido a menos que fosse importante. Seu pedido foi concedido.</Text>
+<Text tag="[Conv_Q0T0a_0014]">Seu pai é um bom homem. Ele não faria tal pedido a menos que fosse importante. Seu pedido foi concedido.</Text>
+<Text tag="[Conv_Q0T0a_0015]">Seu pai é um bom homem. Ele não faria tal pedido a menos que fosse importante. Seu pedido foi atendido.</Text>
+<Text tag="[Conv_Q0T0a_0016]">Obrigado, Majestade.</Text>
+<Text tag="[Conv_Q0T0a_0017]">Obrigado, Majestade.</Text>
+<Text tag="[Conv_Q0T0a_0018]">Obrigado, Majestade.</Text>
+<Text tag="[Conv_Q0T0a_0019]">Obrigado, Majestade.</Text>
+<Text tag="[Conv_Q0T0a_0020]">Envie meus cumprimentos ao seu pai. E volte logo, você ainda tem muito a aprender.</Text>
+<Text tag="[Conv_Q0T0a_0021]">Envie meus cumprimentos ao seu pai. E volte logo, você ainda tem muito a aprender.</Text>
+<Text tag="[Conv_Q0T0a_0022]">Mande lembranças minhas ao seu pai. E volte logo, você ainda tem muito a aprender.</Text>
+<Text tag="[Conv_Q0T0a_0023]">Mande lembranças minhas ao seu pai. E volte logo, você ainda tem muito a aprender.</Text>
+<Text tag="[Conv_Q0T0a_0024]">Eu vou, minha Rainha. Obrigada.</Text>
+<Text tag="[Conv_Q0T0a_0025]">Eu vou, minha Rainha. Obrigada.</Text>
+<Text tag="[Conv_Q0T0a_0026]">Eu vou, minha Rainha. Obrigada.</Text>
+<Text tag="[Conv_Q0T0a_0027]">Eu vou, minha Rainha. Obrigada.</Text>
 
 </TextLibrary>

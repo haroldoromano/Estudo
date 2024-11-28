@@ -1,22 +1,21 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-
-   <Text tag="[Conv_Q0I4e_0000]">Well, here we are Princess. Utrarg is waiting.</Text>
-   <Text tag="[Conv_Q0I4e_0001]">Well, here we are Princess. Utrarg is waiting.</Text>
-   <Text tag="[Conv_Q0I4e_0002]">Well, here we are Princess. Utrarg is waiting.</Text>
-   <Text tag="[Conv_Q0I4e_0003]">Well, here we are Princess. Utrarg is waiting.</Text>
-   <Text tag="[Conv_Q0I4e_0004]">Don&apos;t you have a shred of mercy? How could you do this?</Text>
-   <Text tag="[Conv_Q0I4e_0005]">Don&apos;t you have a shred of mercy? How could you do this?</Text>
-   <Text tag="[Conv_Q0I4e_0006]">Don&apos;t you have a shred of mercy? How could you do this?</Text>
-   <Text tag="[Conv_Q0I4e_0007]">Don&apos;t you have a shred of mercy? How could you do this?</Text>
-   <Text tag="[Conv_Q0I4e_0008]">You need to realize that there is more at stake here than your feelings, Highness. I&apos;m sorry.</Text>
-   <Text tag="[Conv_Q0I4e_0009]">You need to realize that there is more at stake here than your feelings, Highness. I&apos;m sorry.</Text>
-   <Text tag="[Conv_Q0I4e_0010]">You need to realize that there is more at stake here than your feelings, Highness. I&apos;m sorry.</Text>
-   <Text tag="[Conv_Q0I4e_0011]">You need to realize that there is more at stake here than your feelings, Highness. I&apos;m sorry.</Text>
-   <Text tag="[Conv_Q0I4e_0012]">Get out of my sight! I never want to lay eyes on you again!</Text>
-   <Text tag="[Conv_Q0I4e_0013]">Get out of my sight! I never want to lay eyes on you again!</Text>
-   <Text tag="[Conv_Q0I4e_0014]">Get out of my sight! I never want to lay eyes on you again!</Text>
-   <Text tag="[Conv_Q0I4e_0015]">Get out of my sight! I never want to lay eyes on you again!</Text>
+<Text tag="[Conv_Q0I4e_0000]">Bem, aqui estamos, Princesa. Utrarg está esperando.</Text>
+<Text tag="[Conv_Q0I4e_0001]">Bem, aqui estamos, Princesa. Utrarg está esperando.</Text>
+<Text tag="[Conv_Q0I4e_0002]">Bem, aqui estamos, Princesa. Utrarg está esperando.</Text>
+<Text tag="[Conv_Q0I4e_0003]">Bem, aqui estamos, Princesa. Utrarg está esperando.</Text>
+<Text tag="[Conv_Q0I4e_0004]">Você não tem um pingo de misericórdia? Como você pôde fazer isso?</Text>
+<Text tag="[Conv_Q0I4e_0005]">Você não tem um pingo de misericórdia? Como você pôde fazer isso?</Text>
+<Text tag="[Conv_Q0I4e_0006]">Você não tem um pingo de misericórdia? Como você pôde fazer isso?</Text>
+<Text tag="[Conv_Q0I4e_0007]">Você não tem um pingo de misericórdia? Como você pôde fazer isso?</Text>
+<Text tag="[Conv_Q0I4e_0008]">Você precisa perceber que há mais em jogo aqui do que seus sentimentos, Alteza. Sinto muito.</Text>
+<Text tag="[Conv_Q0I4e_0009]">Você precisa perceber que há mais em jogo aqui do que seus sentimentos, Alteza. Sinto muito.</Text>
+<Text tag="[Conv_Q0I4e_0010]">Você precisa perceber que há mais em jogo aqui do que seus sentimentos, Alteza. Sinto muito.</Text>
+<Text tag="[Conv_Q0I4e_0011]">Você precisa perceber que há mais em jogo aqui do que seus sentimentos, Alteza. Sinto muito.</Text>
+<Text tag="[Conv_Q0I4e_0012]">Saia da minha vista! Eu nunca mais quero ver você!</Text>
+<Text tag="[Conv_Q0I4e_0013]">Saia da minha vista! Eu nunca mais quero ver você!</Text>
+<Text tag="[Conv_Q0I4e_0014]">Saia da minha vista! Nunca mais quero ver você de novo!</Text>
+<Text tag="[Conv_Q0I4e_0015]">Saia da minha vista! Nunca mais quero ver você de novo!</Text>
 
 </TextLibrary>

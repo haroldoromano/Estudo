@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q0Q8b_NAME1]">Queen Gwendholyn</Text>
+<Text tag="[Conv_Q0Q8b_NAME1]">Rainha Gwendholyn</Text>
 
-   <Text tag="[Conv_Q0Q8b_0000]">Your Majesty, we managed to slay the leader of the creatures who have been invading Agaria.</Text>
-   <Text tag="[Conv_Q0Q8b_0001]">Your Majesty, we managed to slay the leader of the creatures who have been invading Agaria.</Text>
-   <Text tag="[Conv_Q0Q8b_0002]">Your Majesty, we managed to slay the leader of the creatures who have been invading Agaria.</Text>
-   <Text tag="[Conv_Q0Q8b_0003]">Your Majesty, we managed to slay the leader of the creatures who have been invading Agaria.</Text>
-   <Text tag="[Conv_Q0Q8b_0004]">Slain him? You make it sound so easy...</Text>
-   <Text tag="[Conv_Q0Q8b_0005]">Slain him? You make it sound so easy...</Text>
-   <Text tag="[Conv_Q0Q8b_0006]">Slain him? You make it sound so easy...</Text>
-   <Text tag="[Conv_Q0Q8b_0007]">Slain him? You make it sound so easy...</Text>
-   <Text tag="[Conv_Q0Q8b_0008]">It was far from easy, your Majesty. But he&apos;s gone, dead at the gates of Dhun-Kor. I think I&apos;ve bought us some breathing room.</Text>
-   <Text tag="[Conv_Q0Q8b_0009]">It was far from easy, your Majesty. But he&apos;s gone, dead at the gates of Dhun-Kor. I think I&apos;ve bought us some breathing room.</Text>
-   <Text tag="[Conv_Q0Q8b_0010]">It was far from easy, your Majesty. But he&apos;s gone, dead at the gates of Dhun-Kor. I think I&apos;ve bought us some breathing room.</Text>
-   <Text tag="[Conv_Q0Q8b_0011]">It was far from easy, your Majesty. But he&apos;s gone, dead at the gates of Dhun-Kor. I think I&apos;ve bought us some breathing room.</Text>
-   <Text tag="[Conv_Q0Q8b_0012]">What do you mean?</Text>
-   <Text tag="[Conv_Q0Q8b_0013]">What do you mean?</Text>
-   <Text tag="[Conv_Q0Q8b_0014]">What do you mean?</Text>
-   <Text tag="[Conv_Q0Q8b_0015]">What do you mean?</Text>
-   <Text tag="[Conv_Q0Q8b_0016]">Khalkus believes that this Ogre, Dugog, was merely a lieutenant for some higher power, and that sooner or later the Ogre will be replaced.</Text>
-   <Text tag="[Conv_Q0Q8b_0017]">Khalkus believes that this Ogre, Dugog, was merely a lieutenant for some higher power, and that sooner or later the Ogre will be replaced.</Text>
-   <Text tag="[Conv_Q0Q8b_0018]">Khalkus believes that this Ogre, Dugog, was merely a lieutenant for some higher power, and that sooner or later the Ogre will be replaced.</Text>
-   <Text tag="[Conv_Q0Q8b_0019]">Khalkus believes that this Ogre, Dugog, was merely a lieutenant for some higher power, and that sooner or later the Ogre will be replaced.</Text>
-   <Text tag="[Conv_Q0Q8b_0020]">In that case, you must travel back to Dhun-Kor and search for clues about where this Dugog came from, and who he worked for.</Text>
-   <Text tag="[Conv_Q0Q8b_0021]">In that case, you must travel back to Dhun-Kor and search for clues about where this Dugog came from, and who he worked for.</Text>
-   <Text tag="[Conv_Q0Q8b_0022]">In that case, you must travel back to Dhun-Kor and search for clues about where this Dugog came from, and who he worked for.</Text>
-   <Text tag="[Conv_Q0Q8b_0023]">In that case, you must travel back to Dhun-Kor and search for clues about where this Dugog came from, and who he worked for.</Text>
-   <Text tag="[Conv_Q0Q8b_0024]">Yes, your Majesty. We&apos;ll leave tonight.</Text>
-   <Text tag="[Conv_Q0Q8b_0025]">Yes, your Majesty. We&apos;ll leave tonight.</Text>
-   <Text tag="[Conv_Q0Q8b_0026]">Yes, your Majesty. We&apos;ll leave tonight.</Text>
-   <Text tag="[Conv_Q0Q8b_0027]">Yes, your Majesty. We&apos;ll leave tonight.</Text>
+<Text tag="[Conv_Q0Q8b_0000]">Vossa Majestade, conseguimos matar o líder das criaturas que estavam invadindo Agaria.</Text>
+<Text tag="[Conv_Q0Q8b_0001]">Vossa Majestade, conseguimos matar o líder das criaturas que estavam invadindo Agaria.</Text>
+<Text tag="[Conv_Q0Q8b_0002]">Vossa Majestade, conseguimos matar o líder das criaturas que estavam invadindo Agaria.</Text>
+<Text tag="[Conv_Q0Q8b_0003]">Vossa Majestade, conseguimos matar o líder das criaturas que estavam invadindo Agaria.</Text>
+<Text tag="[Conv_Q0Q8b_0004]">Matá-lo? Você faz parecer tão fácil...</Text>
+<Text tag="[Conv_Q0Q8b_0005]">Matá-lo? Você faz parecer tão fácil...</Text>
+<Text tag="[Conv_Q0Q8b_0006]">Matá-lo? Você faz parecer tão fácil...</Text>
+<Text tag="[Conv_Q0Q8b_0007]">Matá-lo? Você faz parecer tão fácil...</Text>
+<Text tag="[Conv_Q0Q8b_0008]">Não foi nada fácil, Majestade. Mas ele se foi, morto nos portões de Dhun-Kor. Acho que nos dei um tempo para respirar.</Text>
+<Text tag="[Conv_Q0Q8b_0009]">Não foi nada fácil, Majestade. Mas ele se foi, morto nos portões de Dhun-Kor. Acho que nos dei um tempo para respirar.</Text>
+<Text tag="[Conv_Q0Q8b_0010]">Não foi nada fácil, Majestade. Mas ele se foi, morto nos portões de Dhun-Kor. Acho que nos dei um tempo para respirar.</Text>
+<Text tag="[Conv_Q0Q8b_0011]">Não foi nada fácil, Majestade. Mas ele se foi, morto nos portões de Dhun-Kor. Acho que consegui um pouco de espaço para respirar.</Text>
+<Text tag="[Conv_Q0Q8b_0012]">O que você quer dizer?</Text>
+<Text tag="[Conv_Q0Q8b_0013]">O que você quer dizer?</Text>
+<Text tag="[Conv_Q0Q8b_0014]">O que você quer dizer?</Text>
+<Text tag="[Conv_Q0Q8b_0015]">O que você quer dizer?</Text>
+<Text tag="[Conv_Q0Q8b_0016]">Khalkus acredita que esse Ogro, Dugog, era apenas um tenente de algum poder superior, e que mais cedo ou mais tarde o Ogro será substituído.</Text>
+<Text tag="[Conv_Q0Q8b_0017]">Khalkus acredita que esse Ogro, Dugog, era apenas um tenente de algum poder superior, e que mais cedo ou mais tarde o Ogro será substituído.</Text>
+<Text tag="[Conv_Q0Q8b_0018]">Khalkus acredita que este Ogro, Dugog, era apenas um tenente de algum poder superior, e que mais cedo ou mais tarde o Ogro será substituído.</Text>
+<Text tag="[Conv_Q0Q8b_0019]">Khalkus acredita que este Ogro, Dugog, era apenas um tenente de algum poder superior, e que mais cedo ou mais tarde o Ogro será substituído.</Text>
+<Text tag="[Conv_Q0Q8b_0020]">Nesse caso, você deve viajar de volta para Dhun-Kor e procurar por pistas sobre de onde esse Dugog veio, e para quem ele trabalhou.</Text>
+<Text tag="[Conv_Q0Q8b_0021]">Nesse caso, você deve viajar de volta para Dhun-Kor e procurar por pistas sobre de onde esse Dugog veio, e para quem ele trabalhava.</Text>
+<Text tag="[Conv_Q0Q8b_0022]">Nesse caso, você deve viajar de volta para Dhun-Kor e procurar por pistas sobre de onde esse Dugog veio, e para quem ele trabalhava.</Text>
+<Text tag="[Conv_Q0Q8b_0023]">Nesse caso, você deve viajar de volta para Dhun-Kor e procurar por pistas sobre de onde esse Dugog veio, e para quem ele trabalhava.</Text>
+<Text tag="[Conv_Q0Q8b_0024]">Sim, Majestade. Nós partiremos hoje à noite.</Text>
+<Text tag="[Conv_Q0Q8b_0025]">Sim, Majestade. Nós partiremos hoje à noite.</Text>
+<Text tag="[Conv_Q0Q8b_0026]">Sim, Majestade. Nós partiremos hoje à noite.</Text>
+<Text tag="[Conv_Q0Q8b_0027]">Sim, Vossa Majestade. Nós partiremos hoje à noite.</Text>
 
 </TextLibrary>

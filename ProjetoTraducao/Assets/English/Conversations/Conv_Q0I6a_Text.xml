@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q0I6a_NAME1]">Brian of Bartonia</Text>
+<Text tag="[Conv_Q0I6a_NAME1]">Brian de Bartonia</Text>
 
-   <Text tag="[Conv_Q0I6a_0000]">You fought well for a novice. You show much promise in the art of war.</Text>
-   <Text tag="[Conv_Q0I6a_0001]">You fought well for a novice. You show much promise in the art of war.</Text>
-   <Text tag="[Conv_Q0I6a_0002]">You fought well for a novice. You show much promise in the art of war.</Text>
-   <Text tag="[Conv_Q0I6a_0003]">You fought well for a novice. You show much promise in the art of war.</Text>
-   <Text tag="[Conv_Q0I6a_0004]">Thank you, Sir. I try my best.</Text>
-   <Text tag="[Conv_Q0I6a_0005]">Thank you, Sir. I try my best.</Text>
-   <Text tag="[Conv_Q0I6a_0006]">Thank you, Sir. I try my best.</Text>
-   <Text tag="[Conv_Q0I6a_0007]">Thank you, Sir. I try my best.</Text>
-   <Text tag="[Conv_Q0I6a_0008]">When your training is complete, I hope you will return to join the Bartonian Order.</Text>
-   <Text tag="[Conv_Q0I6a_0009]">When your training is complete, I hope you will return to join the Bartonian Order.</Text>
-   <Text tag="[Conv_Q0I6a_0010]">When your training is complete, I hope you will return to join the Bartonian Order.</Text>
-   <Text tag="[Conv_Q0I6a_0011]">When your training is complete, I hope you will return to join the Bartonian Order.</Text>
-   <Text tag="[Conv_Q0I6a_0012]">What more can you tell me about the Bartonian Order?</Text>
-   <Text tag="[Conv_Q0I6a_0013]">What more can you tell me about the Bartonian Order?</Text>
-   <Text tag="[Conv_Q0I6a_0014]">What more can you tell me about the Bartonian Order?</Text>
-   <Text tag="[Conv_Q0I6a_0015]">What more can you tell me about the Bartonian Order?</Text>
-   <Text tag="[Conv_Q0I6a_0016]">We are the largest order of Knights in Agaria. Our warriors are the finest because we hold regular tourneys to test our skill. We are also the most strict of the orders. Chivalry is our way of life, and we tolerate no deviance from this path.</Text>
-   <Text tag="[Conv_Q0I6a_0017]">We are the largest order of Knights in Agaria. Our warriors are the finest because we hold regular tourneys to test our skill. We are also the most strict of the orders. Chivalry is our way of life, and we tolerate no deviance from this path.</Text>
-   <Text tag="[Conv_Q0I6a_0018]">We are the largest order of Knights in Agaria. Our warriors are the finest because we hold regular tourneys to test our skill. We are also the most strict of the orders. Chivalry is our way of life, and we tolerate no deviance from this path.</Text>
-   <Text tag="[Conv_Q0I6a_0019]">We are the largest order of Knights in Agaria. Our warriors are the finest because we hold regular tourneys to test our skill. We are also the most strict of the orders. Chivalry is our way of life, and we tolerate no deviance from this path.</Text>
-   <Text tag="[Conv_Q0I6a_0020]">Thank you. When my training is done, you may see me again!</Text>
-   <Text tag="[Conv_Q0I6a_0021]">Thank you. When my training is done, you may see me again!</Text>
-   <Text tag="[Conv_Q0I6a_0022]">Thank you. When my training is done, you may see me again!</Text>
-   <Text tag="[Conv_Q0I6a_0023]">Thank you. When my training is done, you may see me again!</Text>
+<Text tag="[Conv_Q0I6a_0000]">Você lutou bem para um novato. Você mostra muita promessa na arte da guerra.</Text>
+<Text tag="[Conv_Q0I6a_0001]">Você lutou bem para um novato. Você mostra muita promessa na arte da guerra.</Text>
+<Text tag="[Conv_Q0I6a_0002]">Você lutou bem para um novato. Você mostra muita promessa na arte da guerra.</Text>
+<Text tag="[Conv_Q0I6a_0003]">Você lutou bem para um novato. Você mostra muita promessa na arte da guerra.</Text>
+<Text tag="[Conv_Q0I6a_0004]">Obrigado, senhor. Eu tento o meu melhor.</Text>
+<Text tag="[Conv_Q0I6a_0005]">Obrigado, senhor. Eu tento o meu melhor.</Text>
+<Text tag="[Conv_Q0I6a_0006]">Obrigado, senhor. Eu tento o meu melhor.</Text>
+<Text tag="[Conv_Q0I6a_0007]">Obrigado, senhor. Eu tento o meu melhor.</Text>
+<Text tag="[Conv_Q0I6a_0008]">Quando seu treinamento estiver completo, espero que você retorne para se juntar à Ordem Bartoniana.</Text>
+<Text tag="[Conv_Q0I6a_0009]">Quando seu treinamento estiver completo, espero que você retorne para se juntar à Ordem Bartoniana.</Text>
+<Text tag="[Conv_Q0I6a_0010]">Quando seu treinamento estiver completo, espero que você retorne para se juntar à Ordem Bartoniana.</Text>
+<Text tag="[Conv_Q0I6a_0011]">Quando seu treinamento estiver completo, espero que você retorne para se juntar à Ordem Bartoniana.</Text>
+<Text tag="[Conv_Q0I6a_0012]">O que mais você pode me dizer sobre a Ordem Bartoniana?</Text>
+<Text tag="[Conv_Q0I6a_0013]">O que mais você pode me dizer me sobre a Ordem Bartoniana?</Text>
+<Text tag="[Conv_Q0I6a_0014]">O que mais você pode me dizer sobre a Ordem Bartoniana?</Text>
+<Text tag="[Conv_Q0I6a_0015]">O que mais você pode me dizer sobre a Ordem Bartoniana?</Text>
+<Text tag="[Conv_Q0I6a_0016]">Somos a maior ordem de Cavaleiros em Agaria. Nossos guerreiros são os melhores porque realizamos torneios regulares para testar nossas habilidades. Também somos os mais rigorosos das ordens. A cavalaria é nosso modo de vida e não toleramos desvios desse caminho.</Text>
+<Text tag="[Conv_Q0I6a_0017]">Somos a maior ordem de Cavaleiros em Agaria. Nossos guerreiros são os melhores porque realizamos torneios regulares para testar nossas habilidades. Também somos os mais rigorosos das ordens. Cavalheirismo é o nosso modo de vida, e não toleramos desvios deste caminho.</Text>
+<Text tag="[Conv_Q0I6a_0018]">Somos a maior ordem de Cavaleiros em Agaria. Nossos guerreiros são os melhores porque realizamos torneios regulares para testar nossa habilidade. Também somos a mais rigorosa das ordens. Cavalheirismo é o nosso modo de vida, e não toleramos desvios deste caminho.</Text>
+<Text tag="[Conv_Q0I6a_0019]">Somos a maior ordem de Cavaleiros em Agaria. Nossos guerreiros são os melhores porque realizamos torneios regulares para testar nossa habilidade. Também somos a mais rigorosa das ordens. Cavalheirismo é o nosso modo de vida, e não toleramos desvios deste caminho.</Text>
+<Text tag="[Conv_Q0I6a_0020]">Obrigado. Quando meu treinamento terminar, você poderá me ver novamente!</Text>
+<Text tag="[Conv_Q0I6a_0021]">Obrigado. Quando meu treinamento terminar, você poderá me ver novamente!</Text>
+<Text tag="[Conv_Q0I6a_0022]">Obrigado. Quando meu treinamento terminar, você poderá me ver novamente!</Text>
+<Text tag="[Conv_Q0I6a_0023]">Obrigado. Quando meu treinamento terminar, você poderá me ver novamente!</Text>
 
 </TextLibrary>

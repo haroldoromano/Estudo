@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q1D3a_NAME1]">Drong</Text>
+<Text tag="[Conv_Q1D3a_NAME1]">Drong</Text>
 
-   <Text tag="[Conv_Q1D3a_0000]">Drong have special request for you.  Drong want to eat an Ogre.</Text>
-   <Text tag="[Conv_Q1D3a_0001]">Drong have special request for you.  Drong want to eat an Ogre.</Text>
-   <Text tag="[Conv_Q1D3a_0002]">Drong have special request for you.  Drong want to eat an Ogre.</Text>
-   <Text tag="[Conv_Q1D3a_0003]">Drong have special request for you.  Drong want to eat an Ogre.</Text>
-   <Text tag="[Conv_Q1D3a_0004]">An Ogre? But you ARE an Ogre! That... that&apos;s just sick!</Text>
-   <Text tag="[Conv_Q1D3a_0005]">An Ogre? But you ARE an Ogre! That... that&apos;s just sick!</Text>
-   <Text tag="[Conv_Q1D3a_0006]">An Ogre? But you ARE an Ogre! That... that&apos;s just sick!</Text>
-   <Text tag="[Conv_Q1D3a_0007]">An Ogre? But you ARE an Ogre! That... that&apos;s just sick!</Text>
-   <Text tag="[Conv_Q1D3a_0008]">Please! Please! Drong pay you VERY well.</Text>
-   <Text tag="[Conv_Q1D3a_0009]">Please! Please! Drong pay you VERY well.</Text>
-   <Text tag="[Conv_Q1D3a_0010]">Please! Please! Drong pay you VERY well.</Text>
-   <Text tag="[Conv_Q1D3a_0011]">Please! Please! Drong pay you VERY well.</Text>
-   <Text tag="[Conv_Q1D3a_0012]">I don&apos;t know...</Text>
-   <Text tag="[Conv_Q1D3a_0013]">I don&apos;t know...</Text>
-   <Text tag="[Conv_Q1D3a_0014]">I don&apos;t know...</Text>
-   <Text tag="[Conv_Q1D3a_0015]">I don&apos;t know...</Text>
-   <Text tag="[Conv_Q1D3a_0016]">Drong even give you his favorite magic hanky.</Text>
-   <Text tag="[Conv_Q1D3a_0017]">Drong even give you his favorite magic hanky.</Text>
-   <Text tag="[Conv_Q1D3a_0018]">Drong even give you his favorite magic hanky.</Text>
-   <Text tag="[Conv_Q1D3a_0019]">Drong even give you his favorite magic hanky.</Text>
-   <Text tag="[Conv_Q1D3a_0020]">I really shouldn&apos;t be doing this... but, fine. I&apos;ll go to Gork and find you an Ogre to eat.</Text>
-   <Text tag="[Conv_Q1D3a_0021]">I really shouldn&apos;t be doing this... but, fine. I&apos;ll go to Gork and find you an Ogre to eat.</Text>
-   <Text tag="[Conv_Q1D3a_0022]">I really shouldn&apos;t be doing this... but, fine. I&apos;ll go to Gork and find you an Ogre to eat.</Text>
-   <Text tag="[Conv_Q1D3a_0023]">I really shouldn&apos;t be doing this... but, fine. I&apos;ll go to Gork and find you an Ogre to eat.</Text>
+<Text tag="[Conv_Q1D3a_0000]">Drong tem um pedido especial para você. Drong quer comer um Ogro.</Text>
+<Text tag="[Conv_Q1D3a_0001]">Drong tem um pedido especial para você. Drong quer comer um Ogro.</Text>
+<Text tag="[Conv_Q1D3a_0002]">Drong tem um pedido especial para você. Drong quer comer um Ogro.</Text>
+<Text tag="[Conv_Q1D3a_0003]">Drong tem um pedido especial para você. Drong quer comer um Ogro.</Text>
+<Text tag="[Conv_Q1D3a_0004]">Um Ogro? Mas você É um Ogro! Isso... isso é doentio!</Text>
+<Text tag="[Conv_Q1D3a_0005]">Um Ogro? Mas você É um Ogro! Isso... isso é doentio!</Text>
+<Text tag="[Conv_Q1D3a_0006]">Um Ogro? Mas você É um Ogro! Isso... isso é doentio!</Text>
+<Text tag="[Conv_Q1D3a_0007]">Um Ogro? Mas você É um Ogro! Isso... isso é doentio!</Text>
+<Text tag="[Conv_Q1D3a_0008]">Por favor! Por favor! Drong te paga MUITO bem.</Text>
+<Text tag="[Conv_Q1D3a_0009]">Por favor! Por favor! Drong paga MUITO bem para você.</Text>
+<Text tag="[Conv_Q1D3a_0010]">Por favor! Por favor! Drong paga MUITO bem para você.</Text>
+<Text tag="[Conv_Q1D3a_0011]">Por favor! Por favor! Drong paga MUITO bem para você.</Text>
+<Text tag="[Conv_Q1D3a_0012]">Não sei...</Text>
+<Text tag="[Conv_Q1D3a_0013]">Não sei...</Text>
+<Text tag="[Conv_Q1D3a_0014]">Não sei...</Text>
+<Text tag="[Conv_Q1D3a_0015]">Não sei...</Text>
+<Text tag="[Conv_Q1D3a_0016]">Drong até te dá seu lenço mágico favorito.</Text>
+<Text tag="[Conv_Q1D3a_0017]">Drong até te dá seu lenço mágico favorito.</Text>
+<Text tag="[Conv_Q1D3a_0018]">Drong até te dá você é o lenço mágico favorito dele.</Text>
+<Text tag="[Conv_Q1D3a_0019]">Drong até te deu o lenço mágico favorito dele.</Text>
+<Text tag="[Conv_Q1D3a_0020]">Eu realmente não deveria estar fazendo isso... mas, tudo bem. Eu vou até Gork e encontro um Ogro para você comer.</Text>
+<Text tag="[Conv_Q1D3a_0021]">Eu realmente não deveria estar fazendo isso... mas, tudo bem. Eu vou até Gork e encontro um Ogro para você comer.</Text>
+<Text tag="[Conv_Q1D3a_0022]">Eu realmente não deveria estar fazendo isso... mas, tudo bem. Eu vou até Gork e encontro um Ogro para você comer.</Text>
+<Text tag="[Conv_Q1D3a_0023]">Eu realmente não deveria estar fazendo isso... mas, tudo bem. Eu vou até Gork e encontro um Ogro para você comer.</Text>
 
 </TextLibrary>

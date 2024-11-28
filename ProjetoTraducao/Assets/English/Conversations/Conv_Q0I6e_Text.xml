@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q0I6e_NAME1]">Godwin of Gildor</Text>
+<Text tag="[Conv_Q0I6e_NAME1]">Godwin de Gildor</Text>
 
-   <Text tag="[Conv_Q0I6e_0000]">Very good! Very good indeed! We at the Gildine Order are impressed.</Text>
-   <Text tag="[Conv_Q0I6e_0001]">Very good! Very good indeed! We at the Gildine Order are impressed.</Text>
-   <Text tag="[Conv_Q0I6e_0002]">Very good! Very good indeed! We at the Gildine Order are impressed.</Text>
-   <Text tag="[Conv_Q0I6e_0003]">Very good! Very good indeed! We at the Gildine Order are impressed.</Text>
-   <Text tag="[Conv_Q0I6e_0004]">Thank you, Sir. I&apos;m glad to hear it.</Text>
-   <Text tag="[Conv_Q0I6e_0005]">Thank you, Sir. I&apos;m glad to hear it.</Text>
-   <Text tag="[Conv_Q0I6e_0006]">Thank you, Sir. I&apos;m glad to hear it.</Text>
-   <Text tag="[Conv_Q0I6e_0007]">Thank you, Sir. I&apos;m glad to hear it.</Text>
-   <Text tag="[Conv_Q0I6e_0008]">There might be an opportunity for you within our Order - when you&apos;re done with your training, of course.</Text>
-   <Text tag="[Conv_Q0I6e_0009]">There might be an opportunity for you within our Order - when you&apos;re done with your training, of course.</Text>
-   <Text tag="[Conv_Q0I6e_0010]">There might be an opportunity for you within our Order - when you&apos;re done with your training, of course.</Text>
-   <Text tag="[Conv_Q0I6e_0011]">There might be an opportunity for you within our Order - when you&apos;re done with your training, of course.</Text>
-   <Text tag="[Conv_Q0I6e_0012]">I would like to know more about your order.</Text>
-   <Text tag="[Conv_Q0I6e_0013]">I would like to know more about your order.</Text>
-   <Text tag="[Conv_Q0I6e_0014]">I would like to know more about your order.</Text>
-   <Text tag="[Conv_Q0I6e_0015]">I would like to know more about your order.</Text>
-   <Text tag="[Conv_Q0I6e_0016]">We are the most powerful of the Agarian Orders, young Knight, but our power lies not in force of arms. Our power lies in wealth and the control of gold. If you join us, you will come to know true power.</Text>
-   <Text tag="[Conv_Q0I6e_0017]">We are the most powerful of the Agarian Orders, young Knight, but our power lies not in force of arms. Our power lies in wealth and the control of gold. If you join us, you will come to know true power.</Text>
-   <Text tag="[Conv_Q0I6e_0018]">We are the most powerful of the Agarian Orders, young Knight, but our power lies not in force of arms. Our power lies in wealth and the control of gold. If you join us, you will come to know true power.</Text>
-   <Text tag="[Conv_Q0I6e_0019]">We are the most powerful of the Agarian Orders, young Knight, but our power lies not in force of arms. Our power lies in wealth and the control of gold. If you join us, you will come to know true power.</Text>
-   <Text tag="[Conv_Q0I6e_0020]">Thank you for the information. I may well return.</Text>
-   <Text tag="[Conv_Q0I6e_0021]">Thank you for the information. I may well return.</Text>
-   <Text tag="[Conv_Q0I6e_0022]">Thank you for the information. I may well return.</Text>
-   <Text tag="[Conv_Q0I6e_0023]">Thank you for the information. I may well return.</Text>
+<Text tag="[Conv_Q0I6e_0000]">Muito bom! Muito bom mesmo! Nós da Ordem Gildina estamos impressionados.</Text>
+<Text tag="[Conv_Q0I6e_0001]">Muito bom! Muito bom mesmo! Nós da Ordem Gildina estamos impressionados.</Text>
+<Text tag="[Conv_Q0I6e_0002]">Muito bom! Muito bom mesmo! Nós da Ordem Gildina estamos impressionados.</Text>
+<Text tag="[Conv_Q0I6e_0003]">Muito bom! Muito bom mesmo! Nós da Ordem Gildina estamos impressionados.</Text>
+<Text tag="[Conv_Q0I6e_0004]">Obrigado, senhor. Fico feliz em ouvir isso.</Text>
+<Text tag="[Conv_Q0I6e_0005]">Obrigado, senhor. Fico feliz em ouvir isso.</Text>
+<Text tag="[Conv_Q0I6e_0006]">Obrigado, senhor. Fico feliz em ouvir isso.</Text>
+<Text tag="[Conv_Q0I6e_0007]">Obrigado, senhor. Fico feliz em ouvir isso.</Text>
+<Text tag="[Conv_Q0I6e_0008]">Pode haver uma oportunidade para você em nossa Ordem - quando terminar seu treinamento, é claro.</Text>
+<Text tag="[Conv_Q0I6e_0009]">Pode haver uma oportunidade para você em nossa Ordem - quando terminar seu treinamento, é claro.</Text>
+<Text tag="[Conv_Q0I6e_0010]">Pode haver uma oportunidade para você em nossa Ordem - quando terminar seu treinamento, é claro.</Text>
+<Text tag="[Conv_Q0I6e_0011]">Pode haver uma oportunidade para você em nossa Ordem - quando terminar seu treinamento, é claro.</Text>
+<Text tag="[Conv_Q0I6e_0012]">Gostaria de saber mais sobre sua ordem.</Text>
+<Text tag="[Conv_Q0I6e_0013]">Gostaria de saber mais sobre sua ordem.</Text>
+<Text tag="[Conv_Q0I6e_0014]">Gostaria de saber mais sobre sua ordem.</Text>
+<Text tag="[Conv_Q0I6e_0015]">Gostaria de saber mais sobre sua ordem.</Text>
+<Text tag="[Conv_Q0I6e_0016]">Somos a mais poderosa das Ordens Agarianas, jovem Cavaleiro, mas nosso poder não está na força das armas. Nosso poder está na riqueza e no controle do ouro. Se você se juntar a nós, conhecerá o verdadeiro poder.</Text>
+<Text tag="[Conv_Q0I6e_0017]">Somos a mais poderosa das Ordens Agarianas, jovem Cavaleiro, mas nosso poder não está na força das armas. Nosso poder está na riqueza e no controle do ouro. Se você se juntar a nós, você conhecerá o verdadeiro poder.</Text>
+<Text tag="[Conv_Q0I6e_0018]">Somos os mais poderosos das Ordens Agarianas, jovem Cavaleiro, mas nosso poder não está na força das armas. Nosso poder está na riqueza e no controle do ouro. Se você se juntar a nós, você conhecerá o verdadeiro poder.</Text>
+<Text tag="[Conv_Q0I6e_0019]">Somos os mais poderosos das Ordens Agarianas, jovem Cavaleiro, mas nosso poder não está na força das armas. Nosso poder está na riqueza e no controle do ouro. Se você se juntar a nós, você conhecerá o verdadeiro poder.</Text>
+<Text tag="[Conv_Q0I6e_0020]">Obrigado pela informação. Posso muito bem retornar.</Text>
+<Text tag="[Conv_Q0I6e_0021]">Obrigado pela informação. Eu posso muito bem retornar.</Text>
+<Text tag="[Conv_Q0I6e_0022]">Obrigado pela informação. Eu posso muito bem retornar.</Text>
+<Text tag="[Conv_Q0I6e_0023]">Obrigado pela informação. Eu posso muito bem retornar.</Text>
 
 </TextLibrary>
