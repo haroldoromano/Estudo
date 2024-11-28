@@ -12,6 +12,7 @@
 |07/08/2022|15/08/2022|057|04:05:03|
 |21/08/2022|28/08/2022|055|02:36:52|
 |28/08/2022|03/09/2022|051|04:56:37|
+|03/09/2022|16/09/2022|140|10:34:32|
 
 ### Clarisse
 |Arquivo                        |Início|Fim  |
@@ -55,8 +56,8 @@
 |Clarisse_2022_08_04_12_58_54_334|07:15|10:20|
 |Clarisse_2022_08_23_08_28_08_479|04:45|03:15|
 |Clarisse_2022_08_24_16_34_47_105|03:10|04:30|
-||||
-||||
+|Clarisse_2022_09_09_12_00_13_453|00:35|01:54|
+|Clarisse_2022_09_10_10_23_06_733|07:10|09:35|
 ||||
 ||||
 ||||
@@ -87,7 +88,7 @@
 |Arquivo                       |Início|Fim  |Descrição|
 |:-------------------------------:|:---:|:---:|:-------:|
 |Confissão_2022_05_04_19_57_46_220|02:18|02:30|Teresinha confessando que José comprou a máquina de lavar da Graziela|
-|Confissão_2022_05_05_17_29_33_281|00:20|7:17|Graziela vendeu carro branco(?) e Palio|
+|Confissão_2022_05_05_17_29_33_281|00:20|07:17|Graziela vendeu carro branco(?) e Palio|
 |Confissão_2022_05_10_09_09_49_745|00:44|04:57|Teresinha falando das contas que paga para Graziela|
 |Confissão_2022_05_21_17_41_44_663|00:09|00:43|Teresinha pede para Graziela economizar, mas ela disse que não vai, ela quer viver|
 |Confissão_2022_05_24_09_42_16_777|07:45|12:30|Teresinha paga OAB e Teresinha fala para Graziela arrumar um emprego ou estudar para concurso, Graziela diz que não|
@@ -99,7 +100,7 @@
 |Confissão_2022_08_24_08_42_37_867|00:47|01:50|Graziela falando para Teresinha que vai comprar a máquina de solda com o cartão do José|
 |Confissão_2022_08_28_20_42_41_706|00:00|03:42|Graziela confessando que foi o Ricardi que atropelou o motociclista na rodovia|
 |Confissão_2022_08_28_21_46_46_434|00:00|03:47|Graziela confessando que assumiu a culpa no lugar do Ricardi.|
-|||||
+|Confissão_2022_08_29_21_41_31_245|00:00|18:00|Teresinha mentindo para Sônia que foi a Graziela que atropelou o motociclista na rodovia|
 |||||
 |||||
 |||||
