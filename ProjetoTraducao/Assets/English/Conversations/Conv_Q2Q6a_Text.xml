@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q2Q6a_NAME1]">Sunspear</Text>
+<Text tag="[Conv_Q2Q6a_NAME1]">Lança Solar</Text>
 
-   <Text tag="[Conv_Q2Q6a_0000]">Gather your things.  We have a long journey ahead of us.</Text>
-   <Text tag="[Conv_Q2Q6a_0001]">Gather your things.  We have a long journey ahead of us.</Text>
-   <Text tag="[Conv_Q2Q6a_0002]">Gather your things.  We have a long journey ahead of us.</Text>
-   <Text tag="[Conv_Q2Q6a_0003]">Gather your things.  We have a long journey ahead of us.</Text>
-   <Text tag="[Conv_Q2Q6a_0004]">Why? Where are we going now?</Text>
-   <Text tag="[Conv_Q2Q6a_0005]">Why? Where are we going now?</Text>
-   <Text tag="[Conv_Q2Q6a_0006]">Why? Where are we going now?</Text>
-   <Text tag="[Conv_Q2Q6a_0007]">Why? Where are we going now?</Text>
-   <Text tag="[Conv_Q2Q6a_0008]">We go in search of the Spine of Sartek. An Ogre Mage has it at the far southern end of Kor. He has made it into a banner.</Text>
-   <Text tag="[Conv_Q2Q6a_0009]">We go in search of the Spine of Sartek. An Ogre Mage has it at the far southern end of Kor. He has made it into a banner.</Text>
-   <Text tag="[Conv_Q2Q6a_0010]">We go in search of the Spine of Sartek. An Ogre Mage has it at the far southern end of Kor. He has made it into a banner.</Text>
-   <Text tag="[Conv_Q2Q6a_0011]">We go in search of the Spine of Sartek. An Ogre Mage has it at the far southern end of Kor. He has made it into a banner.</Text>
-   <Text tag="[Conv_Q2Q6a_0012]">An Ogre Mage? I have dealt with them before. This should be easy.</Text>
-   <Text tag="[Conv_Q2Q6a_0013]">An Ogre Mage? I have dealt with them before. This should be easy.</Text>
-   <Text tag="[Conv_Q2Q6a_0014]">An Ogre Mage? I have dealt with them before. This should be easy.</Text>
-   <Text tag="[Conv_Q2Q6a_0015]">An Ogre Mage? I have dealt with them before. This should be easy.</Text>
-   <Text tag="[Conv_Q2Q6a_0016]">You should strive to know your opponent before you speak of victory. The banner this creature wields makes him a formidable enemy.</Text>
-   <Text tag="[Conv_Q2Q6a_0017]">You should strive to know your opponent before you speak of victory. The banner this creature wields makes him a formidable enemy.</Text>
-   <Text tag="[Conv_Q2Q6a_0018]">You should strive to know your opponent before you speak of victory. The banner this creature wields makes him a formidable enemy.</Text>
-   <Text tag="[Conv_Q2Q6a_0019]">You should strive to know your opponent before you speak of victory. The banner this creature wields makes him a formidable enemy.</Text>
+<Text tag="[Conv_Q2Q6a_0000]">Reúna suas coisas. Temos uma longa jornada pela frente.</Text>
+<Text tag="[Conv_Q2Q6a_0001]">Reúna suas coisas. Temos uma longa jornada pela frente.</Text>
+<Text tag="[Conv_Q2Q6a_0002]">Reúna suas coisas. Temos uma longa jornada pela frente.</Text>
+<Text tag="[Conv_Q2Q6a_0003]">Reúna suas coisas. Temos uma longa jornada pela frente.</Text>
+<Text tag="[Conv_Q2Q6a_0004]">Por quê? Para onde estamos indo agora?</Text>
+<Text tag="[Conv_Q2Q6a_0005]">Por quê? Para onde estamos indo agora?</Text>
+<Text tag="[Conv_Q2Q6a_0006]">Por quê? Para onde estamos indo agora?</Text>
+<Text tag="[Conv_Q2Q6a_0007]">Por quê? Para onde estamos indo agora?</Text>
+<Text tag="[Conv_Q2Q6a_0008]">Vamos em busca da Espinha de Sartek. Um Ogro Mago a tem no extremo sul de Kor. Ele a transformou em um estandarte.</Text>
+<Text tag="[Conv_Q2Q6a_0009]">Vamos em busca da Espinha de Sartek. Um Ogro Mago a tem no extremo sul de Kor. Ele transformou isso em um estandarte.</Text>
+<Text tag="[Conv_Q2Q6a_0010]">Vamos em busca da Espinha de Sartek. Um Ogro Mago a tem no extremo sul de Kor. Ele a transformou em um estandarte.</Text>
+<Text tag="[Conv_Q2Q6a_0011]">Vamos em busca da Espinha de Sartek. Um Ogro Mago a tem no extremo sul de Kor. Ele a transformou em um estandarte.</Text>
+<Text tag="[Conv_Q2Q6a_0012]">Um Ogro Mago? Já lidei com eles antes. Isso deve ser fácil.</Text>
+<Text tag="[Conv_Q2Q6a_0013]">Um Ogro Mago? Já lidei com eles antes. Isso deve ser fácil.</Text>
+<Text tag="[Conv_Q2Q6a_0014]">Um Ogro Mago? Já lidei com eles antes. Isso deve ser fácil.</Text>
+<Text tag="[Conv_Q2Q6a_0015]">Um Ogro Mago? Já lidei com eles antes. Isso deve ser fácil.</Text>
+<Text tag="[Conv_Q2Q6a_0016]">Você deve se esforçar para conhecer seu oponente antes de falar sobre vitória. O estandarte que essa criatura empunha faz dele um inimigo formidável.</Text>
+<Text tag="[Conv_Q2Q6a_0017]">Você deve se esforçar para conhecer seu oponente antes de falar sobre vitória. O estandarte que essa criatura empunha faz dele um inimigo formidável.</Text>
+<Text tag="[Conv_Q2Q6a_0018]">Você deve se esforçar para conhecer seu oponente antes de falar sobre vitória. O estandarte que esta criatura empunha faz dele um inimigo formidável.</Text>
+<Text tag="[Conv_Q2Q6a_0019]">Você deve se esforçar para conhecer seu oponente antes de falar de vitória. O estandarte que esta criatura empunha faz dele um inimigo formidável.</Text>
 
 </TextLibrary>

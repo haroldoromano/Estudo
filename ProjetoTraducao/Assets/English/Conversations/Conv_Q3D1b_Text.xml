@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3D1b_NAME1]">Lord Bane</Text>
+<Text tag="[Conv_Q3D1b_NAME1]">Lord Bane</Text>
 
-   <Text tag="[Conv_Q3D1b_0000]">Bane!  I should have guessed you were behind this Dragon&apos;s disappearance.  Tell me where she is!</Text>
-   <Text tag="[Conv_Q3D1b_0001]">Bane!  I should have guessed you were behind this Dragon&apos;s disappearance.  Tell me where she is!</Text>
-   <Text tag="[Conv_Q3D1b_0002]">Bane!  I should have guessed you were behind this Dragon&apos;s disappearance.  Tell me where she is!</Text>
-   <Text tag="[Conv_Q3D1b_0003]">Bane!  I should have guessed you were behind this Dragon&apos;s disappearance.  Tell me where she is!</Text>
-   <Text tag="[Conv_Q3D1b_0004]">I will do better than TELL you, mortal.  I will SHOW you.</Text>
-   <Text tag="[Conv_Q3D1b_0005]">I will do better than TELL you, mortal.  I will SHOW you.</Text>
-   <Text tag="[Conv_Q3D1b_0006]">I will do better than TELL you, mortal.  I will SHOW you.</Text>
-   <Text tag="[Conv_Q3D1b_0007]">I will do better than TELL you, mortal.  I will SHOW you.</Text>
-   <Text tag="[Conv_Q3D1b_0008]">What do you mean?</Text>
-   <Text tag="[Conv_Q3D1b_0009]">What do you mean?</Text>
-   <Text tag="[Conv_Q3D1b_0010]">What do you mean?</Text>
-   <Text tag="[Conv_Q3D1b_0011]">What do you mean?</Text>
-   <Text tag="[Conv_Q3D1b_0012]">I can turn any creature into an Undead beast. A Dragon is no exception. Here - meet Crystal... though I doubt she even remembers that name any longer...</Text>
-   <Text tag="[Conv_Q3D1b_0013]">I can turn any creature into an Undead beast. A Dragon is no exception. Here - meet Crystal... though I doubt she even remembers that name any longer...</Text>
-   <Text tag="[Conv_Q3D1b_0014]">I can turn any creature into an Undead beast. A Dragon is no exception. Here - meet Crystal... though I doubt she even remembers that name any longer...</Text>
-   <Text tag="[Conv_Q3D1b_0015]">I can turn any creature into an Undead beast. A Dragon is no exception. Here - meet Crystal... though I doubt she even remembers that name any longer...</Text>
+<Text tag="[Conv_Q3D1b_0000]">Bane! Eu deveria ter imaginado que você estava por trás do desaparecimento deste Dragão. Diga-me onde ela está!</Text>
+<Text tag="[Conv_Q3D1b_0001]">Bane! Eu deveria ter imaginado que você estava por trás do desaparecimento deste Dragão. Diga-me onde ela está!</Text>
+<Text tag="[Conv_Q3D1b_0002]">Bane! Eu deveria ter imaginado que você estava por trás do desaparecimento deste Dragão. Diga-me onde ela está!</Text>
+<Text tag="[Conv_Q3D1b_0003]">Bane! Eu deveria ter imaginado que você estava por trás do desaparecimento deste Dragão. Diga-me onde ela está!</Text>
+<Text tag="[Conv_Q3D1b_0004]">Eu farei melhor do que DIZER a você, mortal. Eu vou MOSTRAR a você.</Text>
+<Text tag="[Conv_Q3D1b_0005]">Eu farei melhor do que DIZER a você, mortal. Eu vou MOSTRAR a você.</Text>
+<Text tag="[Conv_Q3D1b_0006]">Eu farei melhor do que DIZER a você, mortal. Eu vou MOSTRAR a você.</Text>
+<Text tag="[Conv_Q3D1b_0007]">Eu farei melhor do que DIZER a você, mortal. Eu vou MOSTRAR para você.</Text>
+<Text tag="[Conv_Q3D1b_0008]">O que você quer dizer?</Text>
+<Text tag="[Conv_Q3D1b_0009]">O que você quer dizer?</Text>
+<Text tag="[Conv_Q3D1b_0010]">O que você quer dizer?</Text>
+<Text tag="[Conv_Q3D1b_0011]">O que você quer dizer?</Text>
+<Text tag="[Conv_Q3D1b_0012]">Eu posso transformar qualquer criatura em uma besta morta-viva. Um dragão não é exceção. Aqui - conheça Crystal... embora eu duvide que ela ainda se lembre desse nome...</Text>
+<Text tag="[Conv_Q3D1b_0013]">Eu posso transformar qualquer criatura em uma besta morta-viva. Um dragão não é exceção. Aqui - conheça Crystal... embora eu duvide que ela ainda se lembre desse nome...</Text>
+<Text tag="[Conv_Q3D1b_0014]">Eu posso transformar qualquer criatura em uma besta morta-viva. Um dragão não é exceção. Aqui - conheça Crystal... embora eu duvide que ela ainda se lembre desse nome...</Text>
+<Text tag="[Conv_Q3D1b_0015]">Eu posso transformar qualquer criatura em uma besta morta-viva. Um dragão não é exceção. Aqui - conheça Crystal... embora eu duvide que ela ainda se lembre desse nome...</Text>
 
 </TextLibrary>

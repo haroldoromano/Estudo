@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q2Q9a_NAME1]">Sunspear</Text>
+<Text tag="[Conv_Q2Q9a_NAME1]">Lança Solar</Text>
 
-   <Text tag="[Conv_Q2Q9a_0000]">Destiny is almost upon us, my young friend.  We require only one final piece before Lord Sartek returns. We must reclaim his skull.</Text>
-   <Text tag="[Conv_Q2Q9a_0001]">Destiny is almost upon us, my young friend.  We require only one final piece before Lord Sartek returns. We must reclaim his skull.</Text>
-   <Text tag="[Conv_Q2Q9a_0002]">Destiny is almost upon us, my young friend.  We require only one final piece before Lord Sartek returns. We must reclaim his skull.</Text>
-   <Text tag="[Conv_Q2Q9a_0003]">Destiny is almost upon us, my young friend.  We require only one final piece before Lord Sartek returns. We must reclaim his skull.</Text>
-   <Text tag="[Conv_Q2Q9a_0004]">Where do we find it?</Text>
-   <Text tag="[Conv_Q2Q9a_0005]">Where do we find it?</Text>
-   <Text tag="[Conv_Q2Q9a_0006]">Where do we find it?</Text>
-   <Text tag="[Conv_Q2Q9a_0007]">Where do we find it?</Text>
-   <Text tag="[Conv_Q2Q9a_0008]">Minogoth himself protects it in the Horned Citadel of Ohtar.  Lord Bane has sent one of his greatest generals to ensure that his old foe, Sartek, does not return.</Text>
-   <Text tag="[Conv_Q2Q9a_0009]">Minogoth himself protects it in the Horned Citadel of Ohtar.  Lord Bane has sent one of his greatest generals to ensure that his old foe, Sartek, does not return.</Text>
-   <Text tag="[Conv_Q2Q9a_0010]">Minogoth himself protects it in the Horned Citadel of Ohtar.  Lord Bane has sent one of his greatest generals to ensure that his old foe, Sartek, does not return.</Text>
-   <Text tag="[Conv_Q2Q9a_0011]">Minogoth himself protects it in the Horned Citadel of Ohtar.  Lord Bane has sent one of his greatest generals to ensure that his old foe, Sartek, does not return.</Text>
-   <Text tag="[Conv_Q2Q9a_0012]">Then we must defeat Minogoth. I&apos;ll do whatever it takes to save my people.</Text>
-   <Text tag="[Conv_Q2Q9a_0013]">Then we must defeat Minogoth. I&apos;ll do whatever it takes to save my people.</Text>
-   <Text tag="[Conv_Q2Q9a_0014]">Then we must defeat Minogoth. I&apos;ll do whatever it takes to save my people.</Text>
-   <Text tag="[Conv_Q2Q9a_0015]">Then we must defeat Minogoth. I&apos;ll do whatever it takes to save my people.</Text>
-   <Text tag="[Conv_Q2Q9a_0016]">Even if you defeat him, Minogoth will rise again, stronger than before. It has been this way as long as his master, Lord Bane, controls him. All you need do is battle him long enough to let us take the skull. After Sartek is made whole and leads us again, he will sweep Minogoth and his minions from our lands.</Text>
-   <Text tag="[Conv_Q2Q9a_0017]">Even if you defeat him, Minogoth will rise again, stronger than before. It has been this way as long as his master, Lord Bane, controls him. All you need do is battle him long enough to let us take the skull. After Sartek is made whole and leads us again, he will sweep Minogoth and his minions from our lands.</Text>
-   <Text tag="[Conv_Q2Q9a_0018]">Even if you defeat him, Minogoth will rise again, stronger than before. It has been this way as long as his master, Lord Bane, controls him. All you need do is battle him long enough to let us take the skull. After Sartek is made whole and leads us again, he will sweep Minogoth and his minions from our lands.</Text>
-   <Text tag="[Conv_Q2Q9a_0019]">Even if you defeat him, Minogoth will rise again, stronger than before. It has been this way as long as his master, Lord Bane, controls him. All you need do is battle him long enough to let us take the skull. After Sartek is made whole and leads us again, he will sweep Minogoth and his minions from our lands.</Text>
+<Text tag="[Conv_Q2Q9a_0000]">O destino está quase sobre nós, meu jovem amigo. Precisamos apenas de uma peça final antes que Lorde Sartek retorne. Precisamos recuperar seu crânio.</Text>
+<Text tag="[Conv_Q2Q9a_0001]">O destino está quase sobre nós, meu jovem amigo. Precisamos apenas de uma peça final antes que Lorde Sartek retorne. Precisamos recuperar seu crânio.</Text>
+<Text tag="[Conv_Q2Q9a_0002]">O destino está quase sobre nós, meu jovem amigo. Precisamos apenas de uma peça final antes que Lorde Sartek retorne. Precisamos recuperar seu crânio.</Text>
+<Text tag="[Conv_Q2Q9a_0003]">O destino está quase sobre nós, meu jovem amigo. Precisamos apenas de uma última peça antes que Lorde Sartek retorne. Precisamos recuperar seu crânio.</Text>
+<Text tag="[Conv_Q2Q9a_0004]">Onde o encontramos?</Text>
+<Text tag="[Conv_Q2Q9a_0005]">Onde o encontramos?</Text>
+<Text tag="[Conv_Q2Q9a_0006]">Onde o encontramos?</Text>
+<Text tag="[Conv_Q2Q9a_0007]">Onde o encontramos?</Text>
+<Text tag="[Conv_Q2Q9a_0008]">O próprio Minogoth o protege na Cidadela Chifruda de Ohtar. Lord Bane enviou um de seus maiores generais para garantir que seu antigo inimigo, Sartek, não retorne.</Text>
+<Text tag="[Conv_Q2Q9a_0009]">O próprio Minogoth o protege na Cidadela Chifruda de Ohtar. Lord Bane enviou um de seus maiores generais para garantir que seu antigo inimigo, Sartek, não retorne.</Text>
+<Text tag="[Conv_Q2Q9a_0010]">O próprio Minogoth o protege na Cidadela Chifruda de Ohtar. Lord Bane enviou um de seus maiores generais para garantir que seu antigo inimigo, Sartek, não retorne.</Text>
+<Text tag="[Conv_Q2Q9a_0011]">O próprio Minogoth o protege na Cidadela Chifruda de Ohtar. Lord Bane enviou um de seus maiores generais para garantir que seu antigo inimigo, Sartek, não retorne.</Text>
+<Text tag="[Conv_Q2Q9a_0012]">Então devemos derrotar Minogoth. Farei o que for preciso para salvar meu povo.</Text>
+<Text tag="[Conv_Q2Q9a_0013]">Então devemos derrotar Minogoth. Farei o que for preciso para salvar meu povo.</Text>
+<Text tag="[Conv_Q2Q9a_0014]">Então devemos derrotar Minogoth. Farei o que for preciso para salvar meu povo.</Text>
+<Text tag="[Conv_Q2Q9a_0015]">Então devemos derrotar Minogoth. Eu farei o que for preciso para salvar meu povo.</Text>
+<Text tag="[Conv_Q2Q9a_0016]">Mesmo se você derrotá-lo, Minogoth se levantará novamente, mais forte do que antes. Tem sido assim desde que seu mestre, Lord Bane, o controla. Tudo o que você precisa fazer é batalhar com ele o tempo suficiente para nos deixar pegar o crânio. Depois que Sartek estiver curado e nos liderar novamente, ele varrerá Minogoth e seus asseclas de nossas terras.</Text>
+<Text tag="[Conv_Q2Q9a_0017]">Mesmo se você derrotá-lo, Minogoth se levantará novamente, mais forte do que antes. Tem sido assim desde que seu mestre, Lord Bane, o controla. Tudo o que você precisa fazer é batalhar com ele o tempo suficiente para nos deixar pegar o crânio. Depois que Sartek for curado e nos liderar novamente, ele varrerá Minogoth e seus asseclas de nossas terras.</Text>
+<Text tag="[Conv_Q2Q9a_0018]">Mesmo se você derrotá-lo, Minogoth se levantará novamente, mais forte do que antes. Tem sido assim desde que seu mestre, Lord Bane, o controla. Tudo o que você precisa fazer é batalhar com ele o tempo suficiente para nos deixar pegar o crânio. Depois que Sartek for curado e nos liderar novamente, ele varrerá Minogoth e seus asseclas de nossas terras.</Text>
+<Text tag="[Conv_Q2Q9a_0019]">Mesmo se você derrotá-lo, Minogoth se levantará novamente, mais forte do que antes. Tem sido assim desde que seu mestre, Lord Bane, o controla. Tudo o que você precisa fazer é batalhar com ele o tempo suficiente para nos deixar pegar o crânio. Depois que Sartek for curado e nos liderar novamente, ele varrerá Minogoth e seus asseclas de nossas terras.</Text>
 
 </TextLibrary>
