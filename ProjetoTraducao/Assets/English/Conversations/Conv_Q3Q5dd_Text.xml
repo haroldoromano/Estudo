@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q5dd_NAME1]">Lord Rathe</Text>
+<Text tag="[Conv_Q3Q5dd_NAME1]">Lord Rathe</Text>
 
-   <Text tag="[Conv_Q3Q5dd_0000]">My master wishes me to give you a message. Stand before his Citadel and use the Sword that Lord Moarg gave you. Do this BEFORE you enter the Citadel. Go where the Sword points you, and you will learn the true nature of power.</Text>
-   <Text tag="[Conv_Q3Q5dd_0001]">My master wishes me to give you a message. Stand before his Citadel and use the Sword that Lord Moarg gave you. Do this BEFORE you enter the Citadel. Go where the Sword points you, and you will learn the true nature of power.</Text>
-   <Text tag="[Conv_Q3Q5dd_0002]">My master wishes me to give you a message. Stand before his Citadel and use the Sword that Lord Moarg gave you. Do this BEFORE you enter the Citadel. Go where the Sword points you, and you will learn the true nature of power.</Text>
-   <Text tag="[Conv_Q3Q5dd_0003]">My master wishes me to give you a message. Stand before his Citadel and use the Sword that Lord Moarg gave you. Do this BEFORE you enter the Citadel. Go where the Sword points you, and you will learn the true nature of power.</Text>
-   <Text tag="[Conv_Q3Q5dd_0004]">Right now, that sword is pointing straight at your heart!</Text>
-   <Text tag="[Conv_Q3Q5dd_0005]">Right now, that sword is pointing straight at your heart!</Text>
-   <Text tag="[Conv_Q3Q5dd_0006]">Right now, that sword is pointing straight at your heart!</Text>
-   <Text tag="[Conv_Q3Q5dd_0007]">Right now, that sword is pointing straight at your heart!</Text>
+<Text tag="[Conv_Q3Q5dd_0000]">Meu mestre deseja que eu lhe dê uma mensagem. Fique diante de sua Cidadela e use a Espada que Lorde Moarg lhe deu. Faça isso ANTES de entrar na Cidadela. Vá para onde a Espada apontar e você aprenderá a verdadeira natureza do poder.</Text>
+<Text tag="[Conv_Q3Q5dd_0001]">Meu mestre deseja que eu lhe dê uma mensagem. Fique diante de sua Cidadela e use a Espada que Lorde Moarg lhe deu. Faça isso ANTES de entrar na Cidadela. Vá para onde a Espada apontar e você aprenderá a verdadeira natureza do poder.</Text>
+<Text tag="[Conv_Q3Q5dd_0002]">Meu mestre deseja que eu lhe dê uma mensagem. Fique diante de sua Cidadela e use a Espada que Lorde Moarg lhe deu. Faça isso ANTES de entrar na Cidadela. Vá para onde a Espada apontar e você aprenderá a verdadeira natureza do poder.</Text>
+<Text tag="[Conv_Q3Q5dd_0003]">Meu mestre deseja que eu lhe dê uma mensagem. Fique diante de sua Cidadela e use a Espada que Lorde Moarg lhe deu. Faça isso ANTES de entrar na Cidadela. Vá para onde a Espada apontar, e você aprenderá a verdadeira natureza do poder.</Text>
+<Text tag="[Conv_Q3Q5dd_0004]">Agora mesmo, essa espada está apontando direto para o seu coração!</Text>
+<Text tag="[Conv_Q3Q5dd_0005]">Agora mesmo, essa espada está apontando direto para o seu coração!</Text>
+<Text tag="[Conv_Q3Q5dd_0006]">Agora mesmo, essa espada está apontando direto para o seu coração!</Text>
+<Text tag="[Conv_Q3Q5dd_0007]">Agora mesmo, essa espada está apontando direto para o seu coração!</Text>
 
 </TextLibrary>

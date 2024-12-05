@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q5ff_NAME1]">Lord Bane</Text>
+<Text tag="[Conv_Q3Q5ff_NAME1]">Lord Bane</Text>
 
-   <Text tag="[Conv_Q3Q5ff_0000]">So here you are at last. You have traveled a long way, mortal. You are very, very persistent.</Text>
-   <Text tag="[Conv_Q3Q5ff_0001]">So here you are at last. You have traveled a long way, mortal. You are very, very persistent.</Text>
-   <Text tag="[Conv_Q3Q5ff_0002]">So here you are at last. You have traveled a long way, mortal. You are very, very persistent.</Text>
-   <Text tag="[Conv_Q3Q5ff_0003]">So here you are at last. You have traveled a long way, mortal. You are very, very persistent.</Text>
-   <Text tag="[Conv_Q3Q5ff_0004]">This is where you probably expect me to give you the chance to withdraw your forces. But I&apos;ll pass. I think we all know how that conversation would go.</Text>
-   <Text tag="[Conv_Q3Q5ff_0005]">This is where you probably expect me to give you the chance to withdraw your forces. But I&apos;ll pass. I think we all know how that conversation would go.</Text>
-   <Text tag="[Conv_Q3Q5ff_0006]">This is where you probably expect me to give you the chance to withdraw your forces. But I&apos;ll pass. I think we all know how that conversation would go.</Text>
-   <Text tag="[Conv_Q3Q5ff_0007]">This is where you probably expect me to give you the chance to withdraw your forces. But I&apos;ll pass. I think we all know how that conversation would go.</Text>
-   <Text tag="[Conv_Q3Q5ff_0008]">YOU would offer ME a chance to surrender? How about if I make YOU an offer instead?</Text>
-   <Text tag="[Conv_Q3Q5ff_0009]">YOU would offer ME a chance to surrender? How about if I make YOU an offer instead?</Text>
-   <Text tag="[Conv_Q3Q5ff_0010]">YOU would offer ME a chance to surrender? How about if I make YOU an offer instead?</Text>
-   <Text tag="[Conv_Q3Q5ff_0011]">YOU would offer ME a chance to surrender? How about if I make YOU an offer instead?</Text>
-   <Text tag="[Conv_Q3Q5ff_0012]">What are you talking about?</Text>
-   <Text tag="[Conv_Q3Q5ff_0013]">What are you talking about?</Text>
-   <Text tag="[Conv_Q3Q5ff_0014]">What are you talking about?</Text>
-   <Text tag="[Conv_Q3Q5ff_0015]">What are you talking about?</Text>
-   <Text tag="[Conv_Q3Q5ff_0016]">Follow your sword, mortal. Follow the sword you were given by my servant Lord Moarg and see where it leads you. I think you will be... pleasantly surprised.</Text>
-   <Text tag="[Conv_Q3Q5ff_0017]">Follow your sword, mortal. Follow the sword you were given by my servant Lord Moarg and see where it leads you. I think you will be... pleasantly surprised.</Text>
-   <Text tag="[Conv_Q3Q5ff_0018]">Follow your sword, mortal. Follow the sword you were given by my servant Lord Moarg and see where it leads you. I think you will be... pleasantly surprised.</Text>
-   <Text tag="[Conv_Q3Q5ff_0019]">Follow your sword, mortal. Follow the sword you were given by my servant Lord Moarg and see where it leads you. I think you will be... pleasantly surprised.</Text>
+<Text tag="[Conv_Q3Q5ff_0000]">Então aqui está você finalmente. Você viajou muito, mortal. Você é muito, muito persistente.</Text>
+<Text tag="[Conv_Q3Q5ff_0001]">Então aqui está você finalmente. Você viajou muito, mortal. Você é muito, muito persistente.</Text>
+<Text tag="[Conv_Q3Q5ff_0002]">Então aqui está você finalmente. Você viajou muito, mortal. Você é muito, muito persistente.</Text>
+<Text tag="[Conv_Q3Q5ff_0003]">Então aqui está você finalmente. Você viajou muito, mortal. Você é muito, muito persistente.</Text>
+<Text tag="[Conv_Q3Q5ff_0004]">É aqui que você provavelmente espera que eu lhe dê a chance de retirar suas forças. Mas eu vou passar. Acho que todos nós sabemos como essa conversa seria.</Text>
+<Text tag="[Conv_Q3Q5ff_0005]">É aqui que você provavelmente espera que eu lhe dê a chance de retirar suas forças. Mas eu vou passar. Acho que todos nós sabemos como essa conversa seria.</Text>
+<Text tag="[Conv_Q3Q5ff_0006]">É aqui que você provavelmente espera que eu lhe dê a chance de retirar suas forças. Mas eu vou passar. Acho que todos nós sabemos como essa conversa seria.</Text>
+<Text tag="[Conv_Q3Q5ff_0007]">É aqui que você provavelmente espera que eu lhe dê a chance de retirar suas forças. Mas eu vou passar. Acho que todos nós sabemos como essa conversa seria.</Text>
+<Text tag="[Conv_Q3Q5ff_0008]">VOCÊ ME ofereceria uma chance de me render? Que tal se eu fizesse uma oferta a VOCÊ?</Text>
+<Text tag="[Conv_Q3Q5ff_0009]">VOCÊ ME ofereceria uma chance de me render? Que tal se eu fizesse uma oferta a VOCÊ?</Text>
+<Text tag="[Conv_Q3Q5ff_0010]">VOCÊ ME ofereceria uma chance de me render? Que tal se eu fizesse uma oferta a VOCÊ?</Text>
+<Text tag="[Conv_Q3Q5ff_0011]">VOCÊ ME ofereceria uma chance de me render? Que tal se eu fizer uma oferta a VOCÊ?</Text>
+<Text tag="[Conv_Q3Q5ff_0012]">Do que você está falando?</Text>
+<Text tag="[Conv_Q3Q5ff_0013]">Do que você está falando?</Text>
+<Text tag="[Conv_Q3Q5ff_0014]">Do que você está falando?</Text>
+<Text tag="[Conv_Q3Q5ff_0015]">Do que você está falando?</Text>
+<Text tag="[Conv_Q3Q5ff_0016]">Siga sua espada, mortal. Siga a espada que você recebeu do meu servo Lorde Moarg e veja aonde ela o levará. Acho que você ficará... agradavelmente surpreso.</Text>
+<Text tag="[Conv_Q3Q5ff_0017]">Siga sua espada, mortal. Siga a espada que você recebeu do meu servo Lorde Moarg e veja aonde ela o levará. Acho que você ficará... agradavelmente surpreso.</Text>
+<Text tag="[Conv_Q3Q5ff_0018]">Siga sua espada, mortal. Siga a espada que você recebeu do meu servo Lorde Moarg e veja aonde ela o levará. Acho que você ficará... agradavelmente surpreso.</Text>
+<Text tag="[Conv_Q3Q5ff_0019]">Siga sua espada, mortal. Siga a espada que você recebeu do meu servo Lorde Moarg e veja aonde ela o levará. Acho que você ficará... agradavelmente surpreso.</Text>
 
 </TextLibrary>

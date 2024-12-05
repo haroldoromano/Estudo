@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3W0b_NAME1]">Winter</Text>
+<Text tag="[Conv_Q3W0b_NAME1]">Inverno</Text>
 
-   <Text tag="[Conv_Q3W0b_0000]">Thank you, two-legs.  So few of your kind take the time to stop and talk with us.</Text>
-   <Text tag="[Conv_Q3W0b_0001]">Thank you, two-legs.  So few of your kind take the time to stop and talk with us.</Text>
-   <Text tag="[Conv_Q3W0b_0002]">Thank you, two-legs.  So few of your kind take the time to stop and talk with us.</Text>
-   <Text tag="[Conv_Q3W0b_0003]">Thank you, two-legs.  So few of your kind take the time to stop and talk with us.</Text>
-   <Text tag="[Conv_Q3W0b_0004]">You&apos;re welcome, Winter.</Text>
-   <Text tag="[Conv_Q3W0b_0005]">You&apos;re welcome, Winter.</Text>
-   <Text tag="[Conv_Q3W0b_0006]">You&apos;re welcome, Winter.</Text>
-   <Text tag="[Conv_Q3W0b_0007]">You&apos;re welcome, Winter.</Text>
-   <Text tag="[Conv_Q3W0b_0008]">I still smell more of these creatures on the north wind. I think they will return.</Text>
-   <Text tag="[Conv_Q3W0b_0009]">I still smell more of these creatures on the north wind. I think they will return.</Text>
-   <Text tag="[Conv_Q3W0b_0010]">I still smell more of these creatures on the north wind. I think they will return.</Text>
-   <Text tag="[Conv_Q3W0b_0011]">I still smell more of these creatures on the north wind. I think they will return.</Text>
-   <Text tag="[Conv_Q3W0b_0012]">Don&apos;t worry. I&apos;ll come up with something...</Text>
-   <Text tag="[Conv_Q3W0b_0013]">Don&apos;t worry. I&apos;ll come up with something...</Text>
-   <Text tag="[Conv_Q3W0b_0014]">Don&apos;t worry. I&apos;ll come up with something...</Text>
-   <Text tag="[Conv_Q3W0b_0015]">Don&apos;t worry. I&apos;ll come up with something...</Text>
+<Text tag="[Conv_Q3W0b_0000]">Obrigado, duas-pernas. Tão poucos de sua espécie param e conversam conosco.</Text>
+<Text tag="[Conv_Q3W0b_0001]">Obrigado, duas-pernas. Tão poucos de sua espécie param e conversam conosco.</Text>
+<Text tag="[Conv_Q3W0b_0002]">Obrigado, duas-pernas. Tão poucos de sua espécie param e conversam conosco.</Text>
+<Text tag="[Conv_Q3W0b_0003]">Obrigado, duas-pernas. Tão poucos de sua espécie param para conversar conosco.</Text>
+<Text tag="[Conv_Q3W0b_0004]">De nada, Winter.</Text>
+<Text tag="[Conv_Q3W0b_0005]">De nada, Winter.</Text>
+<Text tag="[Conv_Q3W0b_0006]">De nada, Winter.</Text>
+<Text tag="[Conv_Q3W0b_0007]">De nada, Winter.</Text>
+<Text tag="[Conv_Q3W0b_0008]">Ainda sinto o cheiro dessas criaturas no vento norte. Acho que elas vão voltar.</Text>
+<Text tag="[Conv_Q3W0b_0009]">Ainda sinto o cheiro dessas criaturas no vento norte. Acho que eles vão voltar.</Text>
+<Text tag="[Conv_Q3W0b_0010]">Ainda sinto o cheiro dessas criaturas no vento norte. Acho que eles vão voltar.</Text>
+<Text tag="[Conv_Q3W0b_0011]">Ainda sinto o cheiro dessas criaturas no vento norte. Acho que eles vão voltar.</Text>
+<Text tag="[Conv_Q3W0b_0012]">Não se preocupe. Vou pensar em algo...</Text>
+<Text tag="[Conv_Q3W0b_0013]">Não se preocupe. Vou pensar em algo...</Text>
+<Text tag="[Conv_Q3W0b_0014]">Não se preocupe. Eu vou inventar alguma coisa...</Text>
+<Text tag="[Conv_Q3W0b_0015]">Não se preocupe. Eu vou inventar alguma coisa...</Text>
 
 </TextLibrary>

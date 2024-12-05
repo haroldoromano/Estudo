@@ -1,31 +1,26 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q7c_NAME1]">Lord Bane</Text>
+<Text tag="[Conv_Q3Q7c_NAME1]">Lord Bane</Text>
 
-   <Text tag="[Conv_Q3Q7c_0000]">It&apos;s over, Bane. You&apos;re through.</Text>
-   <Text tag="[Conv_Q3Q7c_0001]">It&apos;s over, Bane. You&apos;re through.</Text>
-   <Text tag="[Conv_Q3Q7c_0002]">It&apos;s over, Bane. You&apos;re through.</Text>
-   <Text tag="[Conv_Q3Q7c_0003]">It&apos;s over, Bane. You&apos;re through.</Text>
-   <Text tag="[Conv_Q3Q7c_0004]">So you say.  But in a hundred years, I will rise up again, and I will visit such destruction upon you and your heirs that history will forget you ever existed.</Text>
-   <Text tag="[Conv_Q3Q7c_0005]">So you say.  But in a hundred years, I will rise up again, and I will visit such destruction upon you and your heirs that history will forget you ever existed.</Text>
-   <Text tag="[Conv_Q3Q7c_0006]">So you say.  But in a hundred years, I will rise up again, and I will visit such destruction upon you and your heirs that history will forget you ever existed.</Text>
-   <Text tag="[Conv_Q3Q7c_0007]">So you say.  But in a hundred years, I will rise up again, and I will visit such destruction upon you and your heirs that history will forget you ever existed.</Text>
-   <Text tag="[Conv_Q3Q7c_0008]">Not this time.</Text>
-   <Text tag="[Conv_Q3Q7c_0009]">Not this time.</Text>
-   <Text tag="[Conv_Q3Q7c_0010]">Not this time.</Text>
-   <Text tag="[Conv_Q3Q7c_0011]">Not this time.</Text>
-   <Text tag="[Conv_Q3Q7c_0012]">What do you mean, &apos;not this time&apos;?</Text>
-   <Text tag="[Conv_Q3Q7c_0013]">What do you mean, &apos;not this time&apos;?</Text>
-   <Text tag="[Conv_Q3Q7c_0014]">What do you mean, &apos;not this time&apos;?</Text>
-   <Text tag="[Conv_Q3Q7c_0015]">What do you mean, &apos;not this time&apos;?</Text>
-   <Text tag="[Conv_Q3Q7c_0016]">Lord Sartek, the God of the Minotaurs is on his way here even as we speak. He has a score to settle with you - something about being carved up into 101 pieces, I believe. I think he plans to give you a chance to experience the pain of that for yourself.</Text>
-   <Text tag="[Conv_Q3Q7c_0017]">Lord Sartek, the God of the Minotaurs is on his way here even as we speak. He has a score to settle with you - something about being carved up into 101 pieces, I believe. I think he plans to give you a chance to experience the pain of that for yourself.</Text>
-   <Text tag="[Conv_Q3Q7c_0018]">Lord Sartek, the God of the Minotaurs is on his way here even as we speak. He has a score to settle with you - something about being carved up into 101 pieces, I believe. I think he plans to give you a chance to experience the pain of that for yourself.</Text>
-   <Text tag="[Conv_Q3Q7c_0019]">Lord Sartek, the God of the Minotaurs is on his way here even as we speak. He has a score to settle with you - something about being carved up into 101 pieces, I believe. I think he plans to give you a chance to experience the pain of that for yourself.</Text>
-   <Text tag="[Conv_Q3Q7c_0020]">No. You cannot do that! Noooooooooooo............</Text>
-   <Text tag="[Conv_Q3Q7c_0021]">No. You cannot do that! Noooooooooooo............</Text>
-   <Text tag="[Conv_Q3Q7c_0022]">No. You cannot do that! Noooooooooooo............</Text>
-   <Text tag="[Conv_Q3Q7c_0023]">No. You cannot do that! Noooooooooooo............</Text>
-
-</TextLibrary>
+<Text tag="[Conv_Q3Q7c_0000]">Acabou, Bane. Você está acabado.</Text>
+<Text tag="[Conv_Q3Q7c_0001]">Acabou, Bane. Você está acabado.</Text>
+<Text tag="[Conv_Q3Q7c_0002]">Acabou, Bane. Você está acabado.</Text>
+<Text tag="[Conv_Q3Q7c_0003]">Acabou, Bane. Você está acabado.</Text>
+<Text tag="[Conv_Q3Q7c_0004]">É o que você diz. Mas em cem anos, eu me levantarei novamente, e eu visitarei tal destruição sobre você e seus herdeiros que a história esquecerá que você existiu.</Text>
+<Text tag="[Conv_Q3Q7c_0005]">Assim você diz. Mas em cem anos, eu me levantarei novamente, e eu visitarei tal destruição sobre você e seus herdeiros que a história esquecerá que você existiu.</Text>
+<Text tag="[Conv_Q3Q7c_0006]">Assim você diz. Mas em cem anos, eu me levantarei novamente, e eu visitarei tal destruição sobre você e seus herdeiros que a história esquecerá que você existiu.</Text>
+<Text tag="[Conv_Q3Q7c_0007]">Assim você diz. Mas em cem anos, eu me levantarei novamente, e eu trarei tamanha destruição sobre você e seus herdeiros que a história esquecerá que você existiu.</Text>
+<Text tag="[Conv_Q3Q7c_0008]">Não dessa vez.</Text>
+<Text tag="[Conv_Q3Q7c_0009]">Não dessa vez.</Text>
+<Text tag="[Conv_Q3Q7c_0010]">Não dessa vez.</Text>
+<Text tag="[Conv_Q3Q7c_0011]">Não dessa vez.</Text>
+<Text tag="[Conv_Q3Q7c_0012]">O que você quer dizer com "não dessa vez"?</Text>
+<Text tag="[Conv_Q3Q7c_0013]">O que você quer dizer com "não dessa vez"?</Text>
+<Text tag="[Conv_Q3Q7c_0014]">O que você quer dizer com "não dessa vez"?</Text>
+<Text tag="[Conv_Q3Q7c_0015]">O que você quer dizer com "não dessa vez"?</Text>
+<Text tag="[Conv_Q3Q7c_0016]">Lorde Sartek, o Deus dos Minotauros está a caminho para cá enquanto falamos. Ele tem uma conta a acertar com você - algo sobre ser cortado em 101 pedaços, eu acredito. Acho que ele planeja dar a você uma chance de experimentar a dor disso por si mesmo.</Text>
+<Text tag="[Conv_Q3Q7c_0017]">Lorde Sartek, o Deus dos Minotauros está a caminho para cá enquanto falamos. Ele tem uma conta a acertar com você - algo sobre ser cortado em 101 pedaços, eu acredito. Acho que ele planeja dar a você uma chance de experimentar a dor disso por si mesmo.</Text>
+<Text tag="[Conv_Q3Q7c_0018]">Lorde Sartek, o Deus dos Minotauros está a caminho enquanto falamos. Ele tem uma conta a acertar com você - algo sobre ser cortado em 101 pedaços, eu acredito. Acho que ele planeja dar a você uma chance de experimentar a dor disso por si mesmo.</Text>
+<Text tag="[Conv_Q3Q7c_0019]">Lorde Sartek, o Deus dos Minotauros está a caminho enquanto falamos. Ele tem uma conta a acertar com você - algo sobre ser cortado em 101 pedaços, eu acredito. Acho que ele planeja dar a você uma chance de experimentar a dor disso por si mesmo.</Text>
+<Text tag="[Conv_Q3Q7c_0020]">Não. Você não pode fazer isso! Nã ...

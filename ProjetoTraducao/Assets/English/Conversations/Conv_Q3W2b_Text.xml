@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3W2b_NAME1]">Queen Ehlanna</Text>
+<Text tag="[Conv_Q3W2b_NAME1]">Rainha Ehlanna</Text>
 
-   <Text tag="[Conv_Q3W2b_0000]">Your Majesty, I have a request.</Text>
-   <Text tag="[Conv_Q3W2b_0001]">Your Majesty, I have a request.</Text>
-   <Text tag="[Conv_Q3W2b_0002]">Your Majesty, I have a request.</Text>
-   <Text tag="[Conv_Q3W2b_0003]">Your Majesty, I have a request.</Text>
-   <Text tag="[Conv_Q3W2b_0004]">Of course.  We are happy to oblige.</Text>
-   <Text tag="[Conv_Q3W2b_0005]">Of course.  We are happy to oblige.</Text>
-   <Text tag="[Conv_Q3W2b_0006]">Of course.  We are happy to oblige.</Text>
-   <Text tag="[Conv_Q3W2b_0007]">Of course.  We are happy to oblige.</Text>
-   <Text tag="[Conv_Q3W2b_0008]">I have befriended one of the Winter Wolves who lives on the Tundra. Lord Bane&apos;s Undead are constantly raiding his homeland. It would serve your kingdom well if we could protect the wolves - it would stop them traveling south and crossing paths with your people. Is there any way you could help?</Text>
-   <Text tag="[Conv_Q3W2b_0009]">I have befriended one of the Winter Wolves who lives on the Tundra. Lord Bane&apos;s Undead are constantly raiding his homeland. It would serve your kingdom well if we could protect the wolves - it would stop them traveling south and crossing paths with your people. Is there any way you could help?</Text>
-   <Text tag="[Conv_Q3W2b_0010]">I have befriended one of the Winter Wolves who lives on the Tundra. Lord Bane&apos;s Undead are constantly raiding his homeland. It would serve your kingdom well if we could protect the wolves - it would stop them traveling south and crossing paths with your people. Is there any way you could help?</Text>
-   <Text tag="[Conv_Q3W2b_0011]">I have befriended one of the Winter Wolves who lives on the Tundra. Lord Bane&apos;s Undead are constantly raiding his homeland. It would serve your kingdom well if we could protect the wolves - it would stop them traveling south and crossing paths with your people. Is there any way you could help?</Text>
-   <Text tag="[Conv_Q3W2b_0012]">We can spare no warriors. We are outnumbered ten to one already!</Text>
-   <Text tag="[Conv_Q3W2b_0013]">We can spare no warriors. We are outnumbered ten to one already!</Text>
-   <Text tag="[Conv_Q3W2b_0014]">We can spare no warriors. We are outnumbered ten to one already!</Text>
-   <Text tag="[Conv_Q3W2b_0015]">We can spare no warriors. We are outnumbered ten to one already!</Text>
-   <Text tag="[Conv_Q3W2b_0016]">I was thinking more along the lines of a spell. Like one of the spells you use to protect the Citadel here.</Text>
-   <Text tag="[Conv_Q3W2b_0017]">I was thinking more along the lines of a spell. Like one of the spells you use to protect the Citadel here.</Text>
-   <Text tag="[Conv_Q3W2b_0018]">I was thinking more along the lines of a spell. Like one of the spells you use to protect the Citadel here.</Text>
-   <Text tag="[Conv_Q3W2b_0019]">I was thinking more along the lines of a spell. Like one of the spells you use to protect the Citadel here.</Text>
-   <Text tag="[Conv_Q3W2b_0020]">We will place our blessing upon a stone. Deliver it to the wolves. It will not stop the Undead forever, but its presence will cause them a small measure of pain - enough to keep them at bay for a time.</Text>
-   <Text tag="[Conv_Q3W2b_0021]">We will place our blessing upon a stone. Deliver it to the wolves. It will not stop the Undead forever, but its presence will cause them a small measure of pain - enough to keep them at bay for a time.</Text>
-   <Text tag="[Conv_Q3W2b_0022]">We will place our blessing upon a stone. Deliver it to the wolves. It will not stop the Undead forever, but its presence will cause them a small measure of pain - enough to keep them at bay for a time.</Text>
-   <Text tag="[Conv_Q3W2b_0023]">We will place our blessing upon a stone. Deliver it to the wolves. It will not stop the Undead forever, but its presence will cause them a small measure of pain - enough to keep them at bay for a time.</Text>
-   <Text tag="[Conv_Q3W2b_0024]">Thank you, your Majesty.</Text>
-   <Text tag="[Conv_Q3W2b_0025]">Thank you, your Majesty.</Text>
-   <Text tag="[Conv_Q3W2b_0026]">Thank you, your Majesty.</Text>
-   <Text tag="[Conv_Q3W2b_0027]">Thank you, your Majesty.</Text>
+<Text tag="[Conv_Q3W2b_0000]">Vossa Majestade, tenho um pedido.</Text>
+<Text tag="[Conv_Q3W2b_0001]">Vossa Majestade, tenho um pedido.</Text>
+<Text tag="[Conv_Q3W2b_0002]">Vossa Majestade, tenho um pedido.</Text>
+<Text tag="[Conv_Q3W2b_0003]">Vossa Majestade, tenho um pedido.</Text>
+<Text tag="[Conv_Q3W2b_0004]">Claro. Ficaremos felizes em ajudar.</Text>
+<Text tag="[Conv_Q3W2b_0005]">Claro. Ficaremos felizes em ajudar.</Text>
+<Text tag="[Conv_Q3W2b_0006]">Claro. Ficaremos felizes em ajudar.</Text>
+<Text tag="[Conv_Q3W2b_0007]">Claro. Ficaremos felizes em ajudar.</Text>
+<Text tag="[Conv_Q3W2b_0008]">Fiz amizade com um dos Lobos do Inverno que vive na Tundra. Os Mortos-Vivos do Lorde Bane estão constantemente atacando sua terra natal. Seria bom para o seu reino se pudéssemos proteger os lobos - isso os impediria de viajar para o sul e cruzar o caminho do seu povo. Existe alguma maneira de você ajudar?</Text>
+<Text tag="[Conv_Q3W2b_0009]">Fiz amizade com um dos Lobos do Inverno que vive na Tundra. Os Mortos-Vivos de Lorde Bane estão constantemente atacando sua terra natal. Seria bom para o seu reino se pudéssemos proteger os lobos - isso os impediria de viajar para o sul e cruzar o caminho com seu povo. Existe alguma maneira de você ajudar?</Text>
+<Text tag="[Conv_Q3W2b_0010]">Fiz amizade com um dos Lobos do Inverno que vive na Tundra. Os Mortos-Vivos de Lorde Bane estão constantemente atacando sua terra natal. Seria bom para o seu reino se pudéssemos proteger os lobos - isso os impediria de viajar para o sul e cruzar o caminho com seu povo. Existe alguma maneira de você ajudar?</Text>
+<Text tag="[Conv_Q3W2b_0011]">Fiz amizade com um dos Lobos do Inverno que vive na Tundra. Os Mortos-Vivos de Lorde Bane estão constantemente atacando sua terra natal. Seria bom para o seu reino se pudéssemos proteger os lobos - isso os impediria de viajar para o sul e cruzar o caminho do seu povo. Existe alguma maneira de você ajudar?</Text>
+<Text tag="[Conv_Q3W2b_0012]">Não podemos poupar guerreiros. Já estamos em desvantagem numérica de dez para um!</Text>
+<Text tag="[Conv_Q3W2b_0013]">Não podemos poupar guerreiros. Já estamos em desvantagem numérica de dez para um!</Text>
+<Text tag="[Conv_Q3W2b_0014]">Não podemos poupar guerreiros. Já estamos em desvantagem numérica de dez para um!</Text>
+<Text tag="[Conv_Q3W2b_0015]">Não podemos poupar guerreiros. Já estamos em desvantagem numérica de dez para um!</Text>
+<Text tag="[Conv_Q3W2b_0016]">Eu estava pensando mais em termos de um feitiço. Como um dos feitiços que você usa para proteger a Cidadela aqui.</Text>
+<Text tag="[Conv_Q3W2b_0017]">Eu estava pensando mais em termos de um feitiço. Como um dos feitiços que você usa para proteger a Cidadela aqui.</Text>
+<Text tag="[Conv_Q3W2b_0018]">Eu estava pensando mais em termos de um feitiço. Como um dos feitiços que você usa para proteger a Cidadela aqui.</Text>
+<Text tag="[Conv_Q3W2b_0019]">Eu estava pensando mais em termos de um feitiço. Como um dos feitiços que você usa para proteger a Cidadela aqui.</Text>
+<Text tag="[Conv_Q3W2b_0020]">Colocaremos nossa bênção sobre uma pedra. Entregue-a aos lobos. Ela não deterá os mortos-vivos para sempre, mas sua presença causará a eles uma pequena medida de dor - o suficiente para mantê-los afastados por um tempo.</Text>
+<Text tag="[Conv_Q3W2b_0021]">Colocaremos nossa bênção sobre uma pedra. Entregue-a aos lobos. Ela não deterá os mortos-vivos para sempre, mas sua presença causará a eles uma pequena medida de dor - o suficiente para mantê-los afastados por um tempo.</Text>
+<Text tag="[Conv_Q3W2b_0022]">Colocaremos nossa bênção sobre uma pedra. Entregue-a aos lobos. Não deterá os mortos-vivos para sempre, mas sua presença lhes causará uma pequena medida de dor - o suficiente para mantê-los afastados por um tempo.</Text>
+<Text tag="[Conv_Q3W2b_0023]">Colocaremos nossa bênção sobre uma pedra. Entregue-a aos lobos. Não deterá os mortos-vivos para sempre, mas sua presença lhes causará uma pequena medida de dor - o suficiente para mantê-los afastados por um tempo.</Text>
+<Text tag="[Conv_Q3W2b_0024]">Obrigado, Majestade.</Text>
+<Text tag="[Conv_Q3W2b_0025]">Obrigado, Majestade.</Text>
+<Text tag="[Conv_Q3W2b_0026]">Obrigado, Majestade.</Text>
+<Text tag="[Conv_Q3W2b_0027]">Obrigado, Majestade.</Text>
 
 </TextLibrary>

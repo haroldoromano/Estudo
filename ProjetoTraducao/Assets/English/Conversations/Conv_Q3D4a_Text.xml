@@ -1,35 +1,36 @@
+</TextLibrary>
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3D4a_NAME1]">Flicker</Text>
+<Text tag="[Conv_Q3D4a_NAME1]">Flicker</Text>
 
-   <Text tag="[Conv_Q3D4a_0000]">I have found my mother!</Text>
-   <Text tag="[Conv_Q3D4a_0001]">I have found my mother!</Text>
-   <Text tag="[Conv_Q3D4a_0002]">I have found my mother!</Text>
-   <Text tag="[Conv_Q3D4a_0003]">I have found my mother!</Text>
-   <Text tag="[Conv_Q3D4a_0004]">Where is she?</Text>
-   <Text tag="[Conv_Q3D4a_0005]">Where is she?</Text>
-   <Text tag="[Conv_Q3D4a_0006]">Where is she?</Text>
-   <Text tag="[Conv_Q3D4a_0007]">Where is she?</Text>
-   <Text tag="[Conv_Q3D4a_0008]">I was flying over the Realms of Death and I happened upon a Dark Dwarven citadel in the mountains.</Text>
-   <Text tag="[Conv_Q3D4a_0009]">I was flying over the Realms of Death and I happened upon a Dark Dwarven citadel in the mountains.</Text>
-   <Text tag="[Conv_Q3D4a_0010]">I was flying over the Realms of Death and I happened upon a Dark Dwarven citadel in the mountains.</Text>
-   <Text tag="[Conv_Q3D4a_0011]">I was flying over the Realms of Death and I happened upon a Dark Dwarven citadel in the mountains.</Text>
-   <Text tag="[Conv_Q3D4a_0012]">Kal-Ungar. I&apos;ve heard the Elves mention it. They believe Lord Bane is getting some type of machinery from them.</Text>
-   <Text tag="[Conv_Q3D4a_0013]">Kal-Ungar. I&apos;ve heard the Elves mention it. They believe Lord Bane is getting some type of machinery from them.</Text>
-   <Text tag="[Conv_Q3D4a_0014]">Kal-Ungar. I&apos;ve heard the Elves mention it. They believe Lord Bane is getting some type of machinery from them.</Text>
-   <Text tag="[Conv_Q3D4a_0015]">Kal-Ungar. I&apos;ve heard the Elves mention it. They believe Lord Bane is getting some type of machinery from them.</Text>
-   <Text tag="[Conv_Q3D4a_0016]">I saw my mother there. Bane must have sold her to the Dark Dwarves. They were using her to haul rocks and ore out of a mine.</Text>
-   <Text tag="[Conv_Q3D4a_0017]">I saw my mother there. Bane must have sold her to the Dark Dwarves. They were using her to haul rocks and ore out of a mine.</Text>
-   <Text tag="[Conv_Q3D4a_0018]">I saw my mother there. Bane must have sold her to the Dark Dwarves. They were using her to haul rocks and ore out of a mine.</Text>
-   <Text tag="[Conv_Q3D4a_0019]">I saw my mother there. Bane must have sold her to the Dark Dwarves. They were using her to haul rocks and ore out of a mine.</Text>
-   <Text tag="[Conv_Q3D4a_0020]">You did the right thing coming back here, Flicker. We&apos;ll go and get her back immediately.</Text>
-   <Text tag="[Conv_Q3D4a_0021]">You did the right thing coming back here, Flicker. We&apos;ll go and get her back immediately.</Text>
-   <Text tag="[Conv_Q3D4a_0022]">You did the right thing coming back here, Flicker. We&apos;ll go and get her back immediately.</Text>
-   <Text tag="[Conv_Q3D4a_0023]">You did the right thing coming back here, Flicker. We&apos;ll go and get her back immediately.</Text>
-   <Text tag="[Conv_Q3D4a_0024]">Of course I did the right thing. Do I look stupid to you? She may be my mother, but I&apos;m no match for two dozen Dark Dwarves - well, not without some help anyway.</Text>
-   <Text tag="[Conv_Q3D4a_0025]">Of course I did the right thing. Do I look stupid to you? She may be my mother, but I&apos;m no match for two dozen Dark Dwarves - well, not without some help anyway.</Text>
-   <Text tag="[Conv_Q3D4a_0026]">Of course I did the right thing. Do I look stupid to you? She may be my mother, but I&apos;m no match for two dozen Dark Dwarves - well, not without some help anyway.</Text>
-   <Text tag="[Conv_Q3D4a_0027]">Of course I did the right thing. Do I look stupid to you? She may be my mother, but I&apos;m no match for two dozen Dark Dwarves - well, not without some help anyway.</Text>
+<Text tag="[Conv_Q3D4a_0000]">Eu encontrei minha mãe!</Text>
+<Text tag="[Conv_Q3D4a_0001]">Eu encontrei minha mãe!</Text>
+<Text tag="[Conv_Q3D4a_0002]">Eu encontrei minha mãe!</Text>
+<Text tag="[Conv_Q3D4a_0003]">Eu encontrei minha mãe!</Text>
+<Text tag="[Conv_Q3D4a_0004]">Onde ela está?</Text>
+<Text tag="[Conv_Q3D4a_0005]">Onde ela está?</Text>
+<Text tag="[Conv_Q3D4a_0006]">Onde ela está?</Text>
+<Text tag="[Conv_Q3D4a_0007]">Onde ela está?</Text>
+<Text tag="[Conv_Q3D4a_0008]">Eu estava voando sobre os Reinos da Morte e me deparei com uma cidadela dos Anões Negros nas montanhas.</Text>
+<Text tag="[Conv_Q3D4a_0009]">Eu estava voando sobre os Reinos da Morte e me deparei com uma cidadela dos Anões Negros nas montanhas.</Text>
+<Text tag="[Conv_Q3D4a_0010]">Eu estava voando sobre os Reinos da Morte e me deparei com uma cidadela dos Anões Negros nas montanhas.</Text>
+<Text tag="[Conv_Q3D4a_0011]">Eu estava voando sobre os Reinos da Morte e me deparei com uma cidadela dos Anões Negros nas montanhas.</Text>
+<Text tag="[Conv_Q3D4a_0012]">Kal-Ungar. Ouvi os Elfos mencionarem isso. Eles acreditam que Lord Bane está recebendo algum tipo de maquinário deles.</Text>
+<Text tag="[Conv_Q3D4a_0013]">Kal-Ungar. Ouvi os Elfos mencionarem isso. Eles acreditam que Lord Bane está recebendo algum tipo de maquinário deles.</Text>
+<Text tag="[Conv_Q3D4a_0014]">Kal-Ungar. Ouvi os Elfos mencionarem isso. Eles acreditam que Lord Bane está recebendo algum tipo de maquinário deles.</Text>
+<Text tag="[Conv_Q3D4a_0015]">Kal-Ungar. Ouvi os Elfos mencionarem isso. Eles acreditam que Lord Bane está recebendo algum tipo de maquinário deles.</Text>
+<Text tag="[Conv_Q3D4a_0016]">Eu vi minha mãe lá. Bane deve tê-la vendido para os Anões Negros. Eles a estavam usando para transportar pedras e minério de uma mina.</Text>
+<Text tag="[Conv_Q3D4a_0017]">Eu vi minha mãe lá. Bane deve tê-la vendido para os Anões Negros. Eles a estavam usando para transportar pedras e minério de uma mina.</Text>
+<Text tag="[Conv_Q3D4a_0018]">Eu vi minha mãe lá. Bane deve tê-la vendido para os Anões Negros. Eles a estavam usando para transportar pedras e minério de uma mina.</Text>
+<Text tag="[Conv_Q3D4a_0019]">Eu vi minha mãe lá. Bane deve tê-la vendido para os Anões Negros. Eles a estavam usando para transportar pedras e minério de uma mina.</Text>
+<Text tag="[Conv_Q3D4a_0020]">Você fez a coisa certa voltando aqui, Flicker. Nós iremos buscá-la de volta imediatamente.</Text>
+<Text tag="[Conv_Q3D4a_0021]">Você fez a coisa certa voltando aqui, Flicker. Nós iremos buscá-la de volta imediatamente.</Text>
+<Text tag="[Conv_Q3D4a_0022]">Você fez a coisa certa voltando aqui, Flicker. Nós iremos buscá-la de volta imediatamente.</Text>
+<Text tag="[Conv_Q3D4a_0023]">Você fez a coisa certa voltando aqui, Flicker. Nós iremos buscá-la de volta imediatamente.</Text>
+<Text tag="[Conv_Q3D4a_0024]">Claro que fiz a coisa certa. Pareço idiota para você? Ela pode ser minha mãe, mas não sou páreo para duas dúzias de Anões Negros - bem, não sem alguma ajuda, pelo menos.</Text>
+<Text tag="[Conv_Q3D4a_0025]">Claro que fiz a coisa certa. Pareço idiota para você? Ela pode ser minha mãe, mas não sou páreo para duas dúzias de Anões Negros - bem, não sem alguma ajuda, pelo menos.</Text>
+<Text tag="[Conv_Q3D4a_0026]">Claro que fiz a coisa certa. Pareço idiota para você? Ela pode ser minha mãe, mas não sou páreo para duas dúzias de Anões Negros - bem, não sem alguma ajuda, pelo menos.</Text>
+<Text tag="[Conv_Q3D4a_0027]">Claro que fiz a coisa certa. Pareço idiota para você? Ela pode ser minha mãe, mas não sou páreo para duas dúzias de Anões Negros - bem, não sem alguma ajuda, pelo menos.</Text>
 
 </TextLibrary>

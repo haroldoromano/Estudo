@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q5c_NAME1]">Lord Morthas</Text>
+<Text tag="[Conv_Q3Q5c_NAME1]">Lord Morthas</Text>
 
-   <Text tag="[Conv_Q3Q5c_0000]">You are but a candle in the wind, mortal. You may burn brightly for a short time, but soon you will be snuffed out.</Text>
-   <Text tag="[Conv_Q3Q5c_0001]">You are but a candle in the wind, mortal. You may burn brightly for a short time, but soon you will be snuffed out.</Text>
-   <Text tag="[Conv_Q3Q5c_0002]">You are but a candle in the wind, mortal. You may burn brightly for a short time, but soon you will be snuffed out.</Text>
-   <Text tag="[Conv_Q3Q5c_0003]">You are but a candle in the wind, mortal. You may burn brightly for a short time, but soon you will be snuffed out.</Text>
-   <Text tag="[Conv_Q3Q5c_0004]">Let&apos;s just see who gets snuffed out first!</Text>
-   <Text tag="[Conv_Q3Q5c_0005]">Let&apos;s just see who gets snuffed out first!</Text>
-   <Text tag="[Conv_Q3Q5c_0006]">Let&apos;s just see who gets snuffed out first!</Text>
-   <Text tag="[Conv_Q3Q5c_0007]">Let&apos;s just see who gets snuffed out first!</Text>
+<Text tag="[Conv_Q3Q5c_0000]">Você é apenas uma vela ao vento, mortal. Você pode queimar intensamente por um curto período de tempo, mas logo será apagado.</Text>
+<Text tag="[Conv_Q3Q5c_0001]">Você é apenas uma vela ao vento, mortal. Você pode queimar intensamente por um curto período de tempo, mas logo será apagado.</Text>
+<Text tag="[Conv_Q3Q5c_0002]">Você é apenas uma vela ao vento, mortal. Você pode queimar intensamente por um curto período de tempo, mas logo será apagado.</Text>
+<Text tag="[Conv_Q3Q5c_0003]">Você é apenas uma vela ao vento, mortal. Você pode queimar intensamente por um curto período, mas logo será apagado.</Text>
+<Text tag="[Conv_Q3Q5c_0004]">Vamos ver quem é apagado primeiro!</Text>
+<Text tag="[Conv_Q3Q5c_0005]">Vamos ver quem é apagado primeiro!</Text>
+<Text tag="[Conv_Q3Q5c_0006]">Vamos ver quem é apagado primeiro!</Text>
+<Text tag="[Conv_Q3Q5c_0007]">Vamos ver quem é apagado primeiro!</Text>
 
 </TextLibrary>

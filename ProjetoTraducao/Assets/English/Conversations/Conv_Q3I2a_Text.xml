@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3I2a_NAME1]">Queen Ehlanna</Text>
+<Text tag="[Conv_Q3I2a_NAME1]">Rainha Ehlanna</Text>
 
-   <Text tag="[Conv_Q3I2a_0000]">We know that your time is precious, but Lord Bane&apos;s minions captured a group of Iceguard on patrol. Is there any way you can seek them out and save them?</Text>
-   <Text tag="[Conv_Q3I2a_0001]">We know that your time is precious, but Lord Bane&apos;s minions captured a group of Iceguard on patrol. Is there any way you can seek them out and save them?</Text>
-   <Text tag="[Conv_Q3I2a_0002]">We know that your time is precious, but Lord Bane&apos;s minions captured a group of Iceguard on patrol. Is there any way you can seek them out and save them?</Text>
-   <Text tag="[Conv_Q3I2a_0003]">We know that your time is precious, but Lord Bane&apos;s minions captured a group of Iceguard on patrol. Is there any way you can seek them out and save them?</Text>
-   <Text tag="[Conv_Q3I2a_0004]">My people were also being taken into slavery by Lord Bane. He is using them to create this army of mindless ghouls and zombies.</Text>
-   <Text tag="[Conv_Q3I2a_0005]">My people were also being taken into slavery by Lord Bane. He is using them to create this army of mindless ghouls and zombies.</Text>
-   <Text tag="[Conv_Q3I2a_0006]">My people were also being taken into slavery by Lord Bane. He is using them to create this army of mindless ghouls and zombies.</Text>
-   <Text tag="[Conv_Q3I2a_0007]">My people were also being taken into slavery by Lord Bane. He is using them to create this army of mindless ghouls and zombies.</Text>
-   <Text tag="[Conv_Q3I2a_0008]">Then you must bring them back to us before it is too late.</Text>
-   <Text tag="[Conv_Q3I2a_0009]">Then you must bring them back to us before it is too late.</Text>
-   <Text tag="[Conv_Q3I2a_0010]">Then you must bring them back to us before it is too late.</Text>
-   <Text tag="[Conv_Q3I2a_0011]">Then you must bring them back to us before it is too late.</Text>
-   <Text tag="[Conv_Q3I2a_0012]">I&apos;ll leave right away.</Text>
-   <Text tag="[Conv_Q3I2a_0013]">I&apos;ll leave right away.</Text>
-   <Text tag="[Conv_Q3I2a_0014]">I&apos;ll leave right away.</Text>
-   <Text tag="[Conv_Q3I2a_0015]">I&apos;ll leave right away.</Text>
+<Text tag="[Conv_Q3I2a_0000]">Sabemos que seu tempo é precioso, mas os lacaios de Lord Bane capturaram um grupo de Iceguard em patrulha. Existe alguma maneira de você procurá-los e salvá-los?</Text>
+<Text tag="[Conv_Q3I2a_0001]">Sabemos que seu tempo é precioso, mas os lacaios de Lord Bane capturaram um grupo de Iceguard em patrulha. Existe alguma maneira de você procurá-los e salvá-los?</Text>
+<Text tag="[Conv_Q3I2a_0002]">Sabemos que seu tempo é precioso, mas os lacaios de Lord Bane capturaram um grupo de Iceguard em patrulha. Existe alguma maneira de procurá-los e salvá-los?</Text>
+<Text tag="[Conv_Q3I2a_0003]">Sabemos que seu tempo é precioso, mas os lacaios de Lord Bane capturaram um grupo de Iceguard em patrulha. Existe alguma maneira de procurá-los e salvá-los?</Text>
+<Text tag="[Conv_Q3I2a_0004]">Meu povo também estava sendo levado à escravidão por Lord Bane. Ele os está usando para criar este exército de ghouls e zumbis irracionais.</Text>
+<Text tag="[Conv_Q3I2a_0005]">Meu povo também estava sendo levado à escravidão por Lord Bane. Ele os está usando para criar este exército de ghouls e zumbis irracionais.</Text>
+<Text tag="[Conv_Q3I2a_0006]">Meu povo também estava sendo levado à escravidão por Lord Bane. Ele os está usando para criar esse exército de ghouls e zumbis irracionais.</Text>
+<Text tag="[Conv_Q3I2a_0007]">Meu povo também estava sendo levado à escravidão por Lord Bane. Ele está usando-os para criar este exército de ghouls e zumbis irracionais.</Text>
+<Text tag="[Conv_Q3I2a_0008]">Então você deve trazê-los de volta para nós antes que seja tarde demais.</Text>
+<Text tag="[Conv_Q3I2a_0009]">Então você deve trazê-los de volta para nós antes que seja tarde demais.</Text>
+<Text tag="[Conv_Q3I2a_0010]">Então você deve trazê-los de volta para nós antes que seja tarde demais.</Text>
+<Text tag="[Conv_Q3I2a_0011]">Então você deve trazê-los de volta para nós antes que seja tarde demais.</Text>
+<Text tag="[Conv_Q3I2a_0012]">Eu vou embora imediatamente.</Text>
+<Text tag="[Conv_Q3I2a_0013]">Eu vou embora imediatamente. fora.</Text>
+<Text tag="[Conv_Q3I2a_0014]">Eu vou embora agora mesmo.</Text>
+<Text tag="[Conv_Q3I2a_0015]">Eu vou embora agora mesmo.</Text>
 
 </TextLibrary>

@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3I2b_NAME1]">Queen Ehlanna</Text>
+<Text tag="[Conv_Q3I2b_NAME1]">Rainha Ehlanna</Text>
 
-   <Text tag="[Conv_Q3I2b_0000]">Your Majesty, I rescued some of the captives, but I couldn&apos;t save them all.</Text>
-   <Text tag="[Conv_Q3I2b_0001]">Your Majesty, I rescued some of the captives, but I couldn&apos;t save them all.</Text>
-   <Text tag="[Conv_Q3I2b_0002]">Your Majesty, I rescued some of the captives, but I couldn&apos;t save them all.</Text>
-   <Text tag="[Conv_Q3I2b_0003]">Your Majesty, I rescued some of the captives, but I couldn&apos;t save them all.</Text>
-   <Text tag="[Conv_Q3I2b_0004]">May we ask what happened?</Text>
-   <Text tag="[Conv_Q3I2b_0005]">May we ask what happened?</Text>
-   <Text tag="[Conv_Q3I2b_0006]">May we ask what happened?</Text>
-   <Text tag="[Conv_Q3I2b_0007]">May we ask what happened?</Text>
-   <Text tag="[Conv_Q3I2b_0008]">During the battle some of the Undead escaped, taking whatever captives they could. The prisoners had been mistreated. I would have been risking the lives of the ones I DID save if I had left them to chase after the others.</Text>
-   <Text tag="[Conv_Q3I2b_0009]">During the battle some of the Undead escaped, taking whatever captives they could. The prisoners had been mistreated. I would have been risking the lives of the ones I DID save if I had left them to chase after the others.</Text>
-   <Text tag="[Conv_Q3I2b_0010]">During the battle some of the Undead escaped, taking whatever captives they could. The prisoners had been mistreated. I would have been risking the lives of the ones I DID save if I had left them to chase after the others.</Text>
-   <Text tag="[Conv_Q3I2b_0011]">During the battle some of the Undead escaped, taking whatever captives they could. The prisoners had been mistreated. I would have been risking the lives of the ones I DID save if I had left them to chase after the others.</Text>
-   <Text tag="[Conv_Q3I2b_0012]">You have our thanks. We know you did all that was possible.</Text>
-   <Text tag="[Conv_Q3I2b_0013]">You have our thanks. We know you did all that was possible.</Text>
-   <Text tag="[Conv_Q3I2b_0014]">You have our thanks. We know you did all that was possible.</Text>
-   <Text tag="[Conv_Q3I2b_0015]">You have our thanks. We know you did all that was possible.</Text>
+<Text tag="[Conv_Q3I2b_0000]">Vossa Majestade, resgatei alguns dos cativos, mas não consegui salvar todos.</Text>
+<Text tag="[Conv_Q3I2b_0001]">Vossa Majestade, resgatei alguns dos cativos, mas não consegui salvar todos.</Text>
+<Text tag="[Conv_Q3I2b_0002]">Vossa Majestade, resgatei alguns dos cativos, mas não consegui salvar todos.</Text>
+<Text tag="[Conv_Q3I2b_0003]">Vossa Majestade, resgatei alguns dos cativos, mas não consegui salvar todos. não conseguiu salvar todos eles.</Text>
+<Text tag="[Conv_Q3I2b_0004]">Podemos perguntar o que aconteceu?</Text>
+<Text tag="[Conv_Q3I2b_0005]">Podemos perguntar o que aconteceu?</Text>
+<Text tag="[Conv_Q3I2b_0006]">Podemos perguntar o que aconteceu?</Text>
+<Text tag="[Conv_Q3I2b_0007]">Podemos perguntar o que aconteceu?</Text>
+<Text tag="[Conv_Q3I2b_0008]">Durante a batalha, alguns mortos-vivos escaparam, levando todos os prisioneiros que puderam. Os prisioneiros foram maltratados. Eu estaria arriscando as vidas daqueles que EU SALVEI se eu os tivesse deixado para perseguir os outros.</Text>
+<Text tag="[Conv_Q3I2b_0009]">Durante a batalha, alguns dos mortos-vivos escaparam, levando todos os cativos que puderam. Os prisioneiros foram maltratados. Eu estaria arriscando as vidas daqueles que EU SALVEI se eu os tivesse deixado para perseguir os outros.</Text>
+<Text tag="[Conv_Q3I2b_0010]">Durante a batalha, alguns dos mortos-vivos escaparam, levando todos os cativos que puderam. Os prisioneiros foram maltratados. Eu estaria arriscando as vidas daqueles que EU SALVEI se eu os tivesse deixado para perseguir os outros.</Text>
+<Text tag="[Conv_Q3I2b_0011]">Durante a batalha, alguns dos mortos-vivos escaparam, levando todos os cativos que puderam. Os prisioneiros foram maltratados. Eu estaria arriscando as vidas daqueles que eu SALVEI se os tivesse deixado para perseguir os outros.</Text>
+<Text tag="[Conv_Q3I2b_0012]">Você tem nossos agradecimentos. Sabemos que você fez tudo o que era possível.</Text>
+<Text tag="[Conv_Q3I2b_0013]">Você tem nossos agradecimentos. Sabemos que você fez tudo o que era possível.</Text>
+<Text tag="[Conv_Q3I2b_0014]">Você tem nossos agradecimentos. Sabemos que você fez tudo o que era possível.</Text>
+<Text tag="[Conv_Q3I2b_0015]">Você tem nossos agradecimentos. Sabemos que você fez tudo o que era possível.</Text>
 
 </TextLibrary>

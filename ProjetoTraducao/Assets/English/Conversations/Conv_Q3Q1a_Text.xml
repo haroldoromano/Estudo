@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q1a_NAME1]">Tauron</Text>
+<Text tag="[Conv_Q3Q1a_NAME1]">Tauron</Text>
 
-   <Text tag="[Conv_Q3Q1a_0000]">To reach the Northern Tundra, the land of the High Elves, you must travel to the coast then turn north and head for the ruins of Ylarie. After that, I can be of no help.</Text>
-   <Text tag="[Conv_Q3Q1a_0001]">To reach the Northern Tundra, the land of the High Elves, you must travel to the coast then turn north and head for the ruins of Ylarie. After that, I can be of no help.</Text>
-   <Text tag="[Conv_Q3Q1a_0002]">To reach the Northern Tundra, the land of the High Elves, you must travel to the coast then turn north and head for the ruins of Ylarie. After that, I can be of no help.</Text>
-   <Text tag="[Conv_Q3Q1a_0003]">To reach the Northern Tundra, the land of the High Elves, you must travel to the coast then turn north and head for the ruins of Ylarie. After that, I can be of no help.</Text>
-   <Text tag="[Conv_Q3Q1a_0004]">Thank you, Tauron. I&apos;ll see you when I return.</Text>
-   <Text tag="[Conv_Q3Q1a_0005]">Thank you, Tauron. I&apos;ll see you when I return.</Text>
-   <Text tag="[Conv_Q3Q1a_0006]">Thank you, Tauron. I&apos;ll see you when I return.</Text>
-   <Text tag="[Conv_Q3Q1a_0007]">Thank you, Tauron. I&apos;ll see you when I return.</Text>
-   <Text tag="[Conv_Q3Q1a_0008]">I hope so, young Firewalker.</Text>
-   <Text tag="[Conv_Q3Q1a_0009]">I hope so, young Firewalker.</Text>
-   <Text tag="[Conv_Q3Q1a_0010]">I hope so, young Firewalker.</Text>
-   <Text tag="[Conv_Q3Q1a_0011]">I hope so, young Firewalker.</Text>
+<Text tag="[Conv_Q3Q1a_0000]">Para chegar à Tundra do Norte, a terra dos Altos Elfos, você deve viajar até a costa, virar para o norte e seguir para as ruínas de Ylarie. Depois disso, não poderei ajudar.</Text>
+<Text tag="[Conv_Q3Q1a_0001]">Para chegar à Tundra do Norte, a terra dos Altos Elfos, você deve viajar até a costa, virar para o norte e seguir para as ruínas de Ylarie. Depois disso, não poderei ajudar.</Text>
+<Text tag="[Conv_Q3Q1a_0002]">Para chegar à Tundra do Norte, a terra dos Altos Elfos, você deve viajar até a costa, virar para o norte e seguir para as ruínas de Ylarie. Depois disso, não poderei ajudar em nada.</Text>
+<Text tag="[Conv_Q3Q1a_0003]">Para chegar à Tundra do Norte, a terra dos Altos Elfos, você deve viajar até a costa, virar para o norte e seguir para as ruínas de Ylarie. Depois disso, não poderei ajudar em nada.</Text>
+<Text tag="[Conv_Q3Q1a_0004]">Obrigado, Tauron. Vejo você quando retornar.</Text>
+<Text tag="[Conv_Q3Q1a_0005]">Obrigado, Tauron. Vejo você quando retornar.</Text>
+<Text tag="[Conv_Q3Q1a_0006]">Obrigado, Tauron. Vejo você quando retornar.</Text>
+<Text tag="[Conv_Q3Q1a_0007]">Obrigado, Tauron. Vejo você quando retornar.</Text>
+<Text tag="[Conv_Q3Q1a_0008]">Espero que sim, jovem Firewalker.</Text>
+<Text tag="[Conv_Q3Q1a_0009]">Espero que sim, jovem Firewalker.</Text>
+<Text tag="[Conv_Q3Q1a_0010]">Espero que sim, jovem Firewalker.</Text>
+<Text tag="[Conv_Q3Q1a_0011]">Espero que sim, jovem Firewalker.</Text>
 
 </TextLibrary>

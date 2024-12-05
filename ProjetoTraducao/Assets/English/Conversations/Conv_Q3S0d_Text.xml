@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3S0d_NAME1]">Flicker</Text>
+<Text tag="[Conv_Q3S0d_NAME1]">Flicker</Text>
 
-   <Text tag="[Conv_Q3S0d_0000]">There&apos;s still time to turn back you know.</Text>
-   <Text tag="[Conv_Q3S0d_0001]">There&apos;s still time to turn back you know.</Text>
-   <Text tag="[Conv_Q3S0d_0002]">There&apos;s still time to turn back you know.</Text>
-   <Text tag="[Conv_Q3S0d_0003]">There&apos;s still time to turn back you know.</Text>
-   <Text tag="[Conv_Q3S0d_0004]">There&apos;s something here Flicker. Can&apos;t you feel the power as we get closer?</Text>
-   <Text tag="[Conv_Q3S0d_0005]">There&apos;s something here Flicker. Can&apos;t you feel the power as we get closer?</Text>
-   <Text tag="[Conv_Q3S0d_0006]">There&apos;s something here Flicker. Can&apos;t you feel the power as we get closer?</Text>
-   <Text tag="[Conv_Q3S0d_0007]">There&apos;s something here Flicker. Can&apos;t you feel the power as we get closer?</Text>
-   <Text tag="[Conv_Q3S0d_0008]">I won&apos;t be getting any closer. Come back - I&apos;ll even fly you! Let&apos;s fight Bane as a team.</Text>
-   <Text tag="[Conv_Q3S0d_0009]">I won&apos;t be getting any closer. Come back - I&apos;ll even fly you! Let&apos;s fight Bane as a team.</Text>
-   <Text tag="[Conv_Q3S0d_0010]">I won&apos;t be getting any closer. Come back - I&apos;ll even fly you! Let&apos;s fight Bane as a team.</Text>
-   <Text tag="[Conv_Q3S0d_0011]">I won&apos;t be getting any closer. Come back - I&apos;ll even fly you! Let&apos;s fight Bane as a team.</Text>
+<Text tag="[Conv_Q3S0d_0000]">Ainda dá tempo de voltar atrás, você sabe.</Text>
+<Text tag="[Conv_Q3S0d_0001]">Ainda dá tempo de voltar atrás, você sabe.</Text>
+<Text tag="[Conv_Q3S0d_0002]">Ainda dá tempo de voltar atrás, você sabe.</Text>
+<Text tag="[Conv_Q3S0d_0003]">Ainda dá tempo de voltar atrás, você sabe.</Text>
+<Text tag="[Conv_Q3S0d_0004]">Tem alguma coisa aqui, Flicker. Você não consegue sentir o poder conforme nos aproximamos?</Text>
+<Text tag="[Conv_Q3S0d_0005]">Tem algo aqui, Flicker. Você não consegue sentir o poder conforme nos aproximamos?</Text>
+<Text tag="[Conv_Q3S0d_0006]">Tem algo aqui, Flicker. Você não consegue sentir o poder conforme nos aproximamos?</Text>
+<Text tag="[Conv_Q3S0d_0007]">Tem algo aqui, Flicker. Você não consegue sentir o poder conforme nos aproximamos?</Text>
+<Text tag="[Conv_Q3S0d_0008]">Eu não vou chegar mais perto. Volte - eu até te levo voando! Vamos lutar contra Bane como um time.</Text>
+<Text tag="[Conv_Q3S0d_0009]">Não vou chegar mais perto. Volte - eu até voarei com você! Vamos lutar contra Bane como um time.</Text>
+<Text tag="[Conv_Q3S0d_0010]">Não vou chegar mais perto. Volte - eu até voarei com você! Vamos lutar contra Bane como um time.</Text>
+<Text tag="[Conv_Q3S0d_0011]">Não vou chegar mais perto. Volte - eu até voarei com você! Vamos lutar contra Bane como um time.</Text>
 
 </TextLibrary>

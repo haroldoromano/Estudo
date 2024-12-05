@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3I1a_NAME1]">Queen Ehlanna</Text>
+<Text tag="[Conv_Q3I1a_NAME1]">Rainha Ehlanna</Text>
 
-   <Text tag="[Conv_Q3I1a_0000]">We have a quest for you. We would send our Iceguard out to deal with this but they are all employed in the defense of Iceguard Keep.</Text>
-   <Text tag="[Conv_Q3I1a_0001]">We have a quest for you. We would send our Iceguard out to deal with this but they are all employed in the defense of Iceguard Keep.</Text>
-   <Text tag="[Conv_Q3I1a_0002]">We have a quest for you. We would send our Iceguard out to deal with this but they are all employed in the defense of Iceguard Keep.</Text>
-   <Text tag="[Conv_Q3I1a_0003]">We have a quest for you. We would send our Iceguard out to deal with this but they are all employed in the defense of Iceguard Keep.</Text>
-   <Text tag="[Conv_Q3I1a_0004]">Just tell me what you need, your Majesty.</Text>
-   <Text tag="[Conv_Q3I1a_0005]">Just tell me what you need, your Majesty.</Text>
-   <Text tag="[Conv_Q3I1a_0006]">Just tell me what you need, your Majesty.</Text>
-   <Text tag="[Conv_Q3I1a_0007]">Just tell me what you need, your Majesty.</Text>
-   <Text tag="[Conv_Q3I1a_0008]">In the mountains to the north we have a mine. The Undead have captured it. It is not a vital strategic location and our generals are loath to commit troops there. We worry, however, that the Undead have some foul use for all the precious metal they are taking.</Text>
-   <Text tag="[Conv_Q3I1a_0009]">In the mountains to the north we have a mine. The Undead have captured it. It is not a vital strategic location and our generals are loath to commit troops there. We worry, however, that the Undead have some foul use for all the precious metal they are taking.</Text>
-   <Text tag="[Conv_Q3I1a_0010]">In the mountains to the north we have a mine. The Undead have captured it. It is not a vital strategic location and our generals are loath to commit troops there. We worry, however, that the Undead have some foul use for all the precious metal they are taking.</Text>
-   <Text tag="[Conv_Q3I1a_0011]">In the mountains to the north we have a mine. The Undead have captured it. It is not a vital strategic location and our generals are loath to commit troops there. We worry, however, that the Undead have some foul use for all the precious metal they are taking.</Text>
-   <Text tag="[Conv_Q3I1a_0012]">They were taking metal from my people too. We think they are using it to forge weapons for their army. I&apos;ll put a stop to it for you.</Text>
-   <Text tag="[Conv_Q3I1a_0013]">They were taking metal from my people too. We think they are using it to forge weapons for their army. I&apos;ll put a stop to it for you.</Text>
-   <Text tag="[Conv_Q3I1a_0014]">They were taking metal from my people too. We think they are using it to forge weapons for their army. I&apos;ll put a stop to it for you.</Text>
-   <Text tag="[Conv_Q3I1a_0015]">They were taking metal from my people too. We think they are using it to forge weapons for their army. I&apos;ll put a stop to it for you.</Text>
-   <Text tag="[Conv_Q3I1a_0016]">We are grateful for your help.</Text>
-   <Text tag="[Conv_Q3I1a_0017]">We are grateful for your help.</Text>
-   <Text tag="[Conv_Q3I1a_0018]">We are grateful for your help.</Text>
-   <Text tag="[Conv_Q3I1a_0019]">We are grateful for your help.</Text>
+<Text tag="[Conv_Q3I1a_0000]">Temos uma missão para você. Nós enviaríamos nossos Guardas do Gelo para lidar com isso, mas eles estão todos empregados na defesa da Fortaleza dos Guardas do Gelo.</Text>
+<Text tag="[Conv_Q3I1a_0001]">Temos uma missão para você. Nós enviaríamos nossos Guardas do Gelo para lidar com isso, mas eles estão todos empregados na defesa da Fortaleza dos Guardas do Gelo.</Text>
+<Text tag="[Conv_Q3I1a_0002]">Temos uma missão para você. Nós enviaríamos nossos Guardas do Gelo para lidar com isso, mas eles estão todos empregados na defesa da Fortaleza dos Guardas do Gelo.</Text>
+<Text tag="[Conv_Q3I1a_0003]">Temos uma missão para você. Nós enviaríamos nossos Iceguard para lidar com isso, mas eles estão todos empregados na defesa de Iceguard Keep.</Text>
+<Text tag="[Conv_Q3I1a_0004]">Só me diga o que você precisa, Majestade.</Text>
+<Text tag="[Conv_Q3I1a_0005]">Só me diga o que você precisa, Majestade.</Text>
+<Text tag="[Conv_Q3I1a_0006]">Só me diga o que você precisa, Majestade.</Text>
+<Text tag="[Conv_Q3I1a_0007]">Só me diga o que você precisa, Majestade.</Text>
+<Text tag="[Conv_Q3I1a_0008]">Nas montanhas ao norte, temos uma mina. Os mortos-vivos a capturaram. Não é um local estratégico vital e nossos generais estão relutantes em comprometer tropas lá. Preocupamo-nos, no entanto, que os mortos-vivos tenham algum uso imundo para todo o metal precioso que estão a tomar.</Text>
+<Text tag="[Conv_Q3I1a_0009]">Nas montanhas ao norte temos uma mina. Os mortos-vivos capturaram-na. Não é uma localização estratégica vital e os nossos generais estão relutantes em comprometer tropas lá. Preocupamo-nos, no entanto, que os mortos-vivos tenham algum uso imundo para todo o metal precioso que estão a tomar.</Text>
+<Text tag="[Conv_Q3I1a_0010]">Nas montanhas ao norte temos uma mina. Os mortos-vivos capturaram-na. Não é uma localização estratégica vital e os nossos generais estão relutantes em comprometer tropas lá. Preocupamo-nos, no entanto, que os mortos-vivos tenham algum uso imundo para todo o metal precioso que estão a tomar.</Text>
+<Text tag="[Conv_Q3I1a_0011]">Nas montanhas ao norte temos uma mina. Os mortos-vivos capturaram-na. Não é um local estratégico vital e nossos generais estão relutantes em comprometer tropas lá. Preocupamo-nos, no entanto, que os mortos-vivos tenham algum uso sujo para todo o metal precioso que estão tomando.</Text>
+<Text tag="[Conv_Q3I1a_0012]">Eles estavam tomando metal do meu povo também. Achamos que eles estão usando para forjar armas para seu exército. Eu vou acabar com isso para você.</Text>
+<Text tag="[Conv_Q3I1a_0013]">Eles estavam tomando metal do meu povo também. Achamos que eles estão usando para forjar armas para seu exército. Eu vou acabar com isso para você.</Text>
+<Text tag="[Conv_Q3I1a_0014]">Eles estavam tomando metal do meu povo também. Achamos que eles estão usando para forjar armas para seu exército. Eu vou acabar com isso para você.</Text>
+<Text tag="[Conv_Q3I1a_0015]">Eles estavam tirando metal do meu povo também. Achamos que eles estão usando para forjar armas para o exército deles. Eu vou acabar com isso para você.</Text>
+<Text tag="[Conv_Q3I1a_0016]">Somos gratos pela sua ajuda.</Text>
+<Text tag="[Conv_Q3I1a_0017]">Somos gratos pela sua ajuda.</Text>
+<Text tag="[Conv_Q3I1a_0018]">Somos gratos pela sua ajuda.</Text>
+<Text tag="[Conv_Q3I1a_0019]">Somos gratos pela sua ajuda.</Text>
 
 </TextLibrary>

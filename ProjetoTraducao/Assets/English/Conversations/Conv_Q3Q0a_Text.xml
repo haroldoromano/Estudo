@@ -1,27 +1,27 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q0a_NAME1]">Tauron</Text>
+<Text tag="[Conv_Q3Q0a_NAME1]">Tauron</Text>
 
-   <Text tag="[Conv_Q3Q0a_0000]">Farewell, young Firewalker.  It is time you moved on.  Your destiny awaits.</Text>
-   <Text tag="[Conv_Q3Q0a_0001]">Farewell, young Firewalker.  It is time you moved on.  Your destiny awaits.</Text>
-   <Text tag="[Conv_Q3Q0a_0002]">Farewell, young Firewalker.  It is time you moved on.  Your destiny awaits.</Text>
-   <Text tag="[Conv_Q3Q0a_0003]">Farewell, young Firewalker.  It is time you moved on.  Your destiny awaits.</Text>
-   <Text tag="[Conv_Q3Q0a_0004]">Thank you, Tauron. I&apos;ll tell my people about this land and about the Firewalkers. We&apos;ve judged Minotaurs quite harshly in the past.</Text>
-   <Text tag="[Conv_Q3Q0a_0005]">Thank you, Tauron. I&apos;ll tell my people about this land and about the Firewalkers. We&apos;ve judged Minotaurs quite harshly in the past.</Text>
-   <Text tag="[Conv_Q3Q0a_0006]">Thank you, Tauron. I&apos;ll tell my people about this land and about the Firewalkers. We&apos;ve judged Minotaurs quite harshly in the past.</Text>
-   <Text tag="[Conv_Q3Q0a_0007]">Thank you, Tauron. I&apos;ll tell my people about this land and about the Firewalkers. We&apos;ve judged Minotaurs quite harshly in the past.</Text>
-   <Text tag="[Conv_Q3Q0a_0008]">We are a varied race, just as the Humans are. All Minotaurs are not slavers, nor are we all Firewalkers. The truth lies somewhere in between, as truth often does.</Text>
-   <Text tag="[Conv_Q3Q0a_0009]">We are a varied race, just as the Humans are. All Minotaurs are not slavers, nor are we all Firewalkers. The truth lies somewhere in between, as truth often does.</Text>
-   <Text tag="[Conv_Q3Q0a_0010]">We are a varied race, just as the Humans are. All Minotaurs are not slavers, nor are we all Firewalkers. The truth lies somewhere in between, as truth often does.</Text>
-   <Text tag="[Conv_Q3Q0a_0011]">We are a varied race, just as the Humans are. All Minotaurs are not slavers, nor are we all Firewalkers. The truth lies somewhere in between, as truth often does.</Text>
-   <Text tag="[Conv_Q3Q0a_0012]">I have one more request. It is clear to me now that Lord Bane is behind this entire scheme. Can you show me the way to his Citadel in the Realms of Death?</Text>
-   <Text tag="[Conv_Q3Q0a_0013]">I have one more request. It is clear to me now that Lord Bane is behind this entire scheme. Can you show me the way to his Citadel in the Realms of Death?</Text>
-   <Text tag="[Conv_Q3Q0a_0014]">I have one more request. It is clear to me now that Lord Bane is behind this entire scheme. Can you show me the way to his Citadel in the Realms of Death?</Text>
-   <Text tag="[Conv_Q3Q0a_0015]">I have one more request. It is clear to me now that Lord Bane is behind this entire scheme. Can you show me the way to his Citadel in the Realms of Death?</Text>
-   <Text tag="[Conv_Q3Q0a_0016]">Indeed. I have marked it upon your map already. Take care, young Firewalker. The Realms of Death are a dangerous place.</Text>
-   <Text tag="[Conv_Q3Q0a_0017]">Indeed. I have marked it upon your map already. Take care, young Firewalker. The Realms of Death are a dangerous place.</Text>
-   <Text tag="[Conv_Q3Q0a_0018]">Indeed. I have marked it upon your map already. Take care, young Firewalker. The Realms of Death are a dangerous place.</Text>
-   <Text tag="[Conv_Q3Q0a_0019]">Indeed. I have marked it upon your map already. Take care, young Firewalker. The Realms of Death are a dangerous place.</Text>
+<Text tag="[Conv_Q3Q0a_0000]">Adeus, jovem Firewalker. É hora de você seguir em frente. Seu destino o aguarda.</Text>
+<Text tag="[Conv_Q3Q0a_0001]">Adeus, jovem Firewalker. É hora de você seguir em frente. Seu destino o aguarda.</Text>
+<Text tag="[Conv_Q3Q0a_0002]">Adeus, jovem Firewalker. É hora de você seguir em frente. Seu destino o aguarda.</Text>
+<Text tag="[Conv_Q3Q0a_0003]">Adeus, jovem Firewalker. É hora de você seguir em frente. Seu destino aguarda.</Text>
+<Text tag="[Conv_Q3Q0a_0004]">Obrigado, Tauron. Contarei ao meu povo sobre esta terra e sobre os Firewalkers. Nós julgamos os Minotauros com bastante severidade no passado.</Text>
+<Text tag="[Conv_Q3Q0a_0005]">Obrigado, Tauron. Contarei ao meu povo sobre esta terra e sobre os Firewalkers. Nós julgamos os Minotauros com bastante severidade no passado.</Text>
+<Text tag="[Conv_Q3Q0a_0006]">Obrigado, Tauron. Contarei ao meu povo sobre esta terra e sobre os Firewalkers. Nós julgamos os Minotauros com bastante severidade no passado.</Text>
+<Text tag="[Conv_Q3Q0a_0007]">Obrigado, Tauron. Contarei ao meu povo sobre esta terra e sobre os Andarilhos do Fogo. Já julgamos os Minotauros com bastante severidade no passado.</Text>
+<Text tag="[Conv_Q3Q0a_0008]">Somos uma raça variada, assim como os Humanos. Nem todos os Minotauros são escravagistas, nem somos todos Andarilhos do Fogo. A verdade está em algum lugar no meio, como a verdade costuma estar.</Text>
+<Text tag="[Conv_Q3Q0a_0009]">Somos uma raça variada, assim como os Humanos. Nem todos os Minotauros são escravagistas, nem somos todos Andarilhos do Fogo. A verdade está em algum lugar no meio, como a verdade costuma estar.</Text>
+<Text tag="[Conv_Q3Q0a_0010]">Somos uma raça variada, assim como os Humanos. Nem todos os Minotauros são escravagistas, nem somos todos Andarilhos do Fogo. A verdade está em algum lugar no meio, como a verdade geralmente acontece.</Text>
+<Text tag="[Conv_Q3Q0a_0011]">Somos uma raça variada, assim como os humanos. Nem todos os Minotauros são escravagistas, nem somos todos Andarilhos de Fogo. A verdade está em algum lugar no meio, como a verdade geralmente acontece.</Text>
+<Text tag="[Conv_Q3Q0a_0012]">Tenho mais um pedido. Está claro para mim agora que Lorde Bane está por trás de todo esse esquema. Você pode me mostrar o caminho para sua Cidadela nos Reinos da Morte?</Text>
+<Text tag="[Conv_Q3Q0a_0013]">Tenho mais um pedido. Está claro para mim agora que Lorde Bane está por trás de todo esse esquema. Você pode me mostrar o caminho para sua Cidadela nos Reinos da Morte?</Text>
+<Text tag="[Conv_Q3Q0a_0014]">Tenho mais um pedido. Está claro para mim agora que Lord Bane está por trás de todo esse esquema. Você pode me mostrar o caminho para sua Cidadela nos Reinos da Morte?</Text>
+<Text tag="[Conv_Q3Q0a_0015]">Tenho mais um pedido. Está claro para mim agora que Lord Bane está por trás de todo esse esquema. Você pode me mostrar o caminho para sua Cidadela nos Reinos da Morte?</Text>
+<Text tag="[Conv_Q3Q0a_0016]">De fato. Já marquei no seu mapa. Tome cuidado, jovem Firewalker. Os Reinos da Morte são um lugar perigoso.</Text>
+<Text tag="[Conv_Q3Q0a_0017]">De fato. Já marquei no seu mapa. Tome cuidado, jovem Firewalker. Os Reinos da Morte são um lugar perigoso.</Text>
+<Text tag="[Conv_Q3Q0a_0018]">De fato. Já marquei no seu mapa. Tome cuidado, jovem Firewalker. Os Reinos da Morte são um lugar perigoso.</Text>
+<Text tag="[Conv_Q3Q0a_0019]">De fato. Já marquei no seu mapa. Tome cuidado, jovem Firewalker. Os Reinos da Morte são um lugar perigoso.</Text>
 
 </TextLibrary>

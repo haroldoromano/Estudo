@@ -1,40 +1,41 @@
+</TextLibrary>
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3D3b_NAME0]">Flicker</Text>
-   <Text tag="[Conv_Q3D3b_NAME1]">Elistara</Text>
+<Text tag="[Conv_Q3D3b_NAME0]">Flicker</Text>
+<Text tag="[Conv_Q3D3b_NAME1]">Elistara</Text>
 
-   <Text tag="[Conv_Q3D3b_0000]">We did it! My people are free! Well most of them...</Text>
-   <Text tag="[Conv_Q3D3b_0001]">We did it! My people are free! Well most of them...</Text>
-   <Text tag="[Conv_Q3D3b_0002]">We did it! My people are free! Well most of them...</Text>
-   <Text tag="[Conv_Q3D3b_0003]">We did it! My people are free! Well most of them...</Text>
-   <Text tag="[Conv_Q3D3b_0004]">Are your parents here, Flicker?</Text>
-   <Text tag="[Conv_Q3D3b_0005]">Are your parents here, Flicker?</Text>
-   <Text tag="[Conv_Q3D3b_0006]">Are your parents here, Flicker?</Text>
-   <Text tag="[Conv_Q3D3b_0007]">Are your parents here, Flicker?</Text>
-   <Text tag="[Conv_Q3D3b_0008]">No.  My father was slain when I was only a hatchling, but my mother should have been here.  Still I won&apos;t give up hope.</Text>
-   <Text tag="[Conv_Q3D3b_0009]">No.  My father was slain when I was only a hatchling, but my mother should have been here.  Still I won&apos;t give up hope.</Text>
-   <Text tag="[Conv_Q3D3b_0010]">No.  My father was slain when I was only a hatchling, but my mother should have been here.  Still I won&apos;t give up hope.</Text>
-   <Text tag="[Conv_Q3D3b_0011]">No.  My father was slain when I was only a hatchling, but my mother should have been here.  Still I won&apos;t give up hope.</Text>
-   <Text tag="[Conv_Q3D3b_0012]">Perhaps she is being held prisoner somewhere else.  We will look until we find her.</Text>
-   <Text tag="[Conv_Q3D3b_0013]">Perhaps she is being held prisoner somewhere else.  We will look until we find her.</Text>
-   <Text tag="[Conv_Q3D3b_0014]">Perhaps she is being held prisoner somewhere else.  We will look until we find her.</Text>
-   <Text tag="[Conv_Q3D3b_0015]">Perhaps she is being held prisoner somewhere else.  We will look until we find her.</Text>
-   <Text tag="[Conv_Q3D3b_0016]">Thank you. Elistara, I have a question for you.  Please be honest with me.</Text>
-   <Text tag="[Conv_Q3D3b_0017]">Thank you. Elistara, I have a question for you.  Please be honest with me.</Text>
-   <Text tag="[Conv_Q3D3b_0018]">Thank you. Elistara, I have a question for you.  Please be honest with me.</Text>
-   <Text tag="[Conv_Q3D3b_0019]">Thank you. Elistara, I have a question for you.  Please be honest with me.</Text>
-   <Text tag="[Conv_Q3D3b_0020]">Of course.</Text>
-   <Text tag="[Conv_Q3D3b_0021]">Of course.</Text>
-   <Text tag="[Conv_Q3D3b_0022]">Of course.</Text>
-   <Text tag="[Conv_Q3D3b_0023]">Of course.</Text>
-   <Text tag="[Conv_Q3D3b_0024]">When all this is over, would you take me as your new mount?</Text>
-   <Text tag="[Conv_Q3D3b_0025]">When all this is over, would you take me as your new mount?</Text>
-   <Text tag="[Conv_Q3D3b_0026]">When all this is over, would you take me as your new mount?</Text>
-   <Text tag="[Conv_Q3D3b_0027]">When all this is over, would you take me as your new mount?</Text>
-   <Text tag="[Conv_Q3D3b_0028]">I would like nothing better.</Text>
-   <Text tag="[Conv_Q3D3b_0029]">I would like nothing better.</Text>
-   <Text tag="[Conv_Q3D3b_0030]">I would like nothing better.</Text>
-   <Text tag="[Conv_Q3D3b_0031]">I would like nothing better.</Text>
+<Text tag="[Conv_Q3D3b_0000]">Conseguimos! Meu povo é livre! Bem, a maioria deles...</Text>
+<Text tag="[Conv_Q3D3b_0001]">Conseguimos! Meu povo é livre! Bem, a maioria deles...</Text>
+<Text tag="[Conv_Q3D3b_0002]">Conseguimos! Meu povo é livre! Bem, a maioria deles...</Text>
+<Text tag="[Conv_Q3D3b_0003]">Conseguimos! Meu povo é livre! Bem, a maioria deles...</Text>
+<Text tag="[Conv_Q3D3b_0004]">Seus pais estão aqui, Flicker?</Text>
+<Text tag="[Conv_Q3D3b_0005]">Seus pais estão aqui, Flicker?</Text>
+<Text tag="[Conv_Q3D3b_0006]">Seus pais estão aqui, Flicker?</Text>
+<Text tag="[Conv_Q3D3b_0007]">Seus pais estão aqui, Flicker?</Text>
+<Text tag="[Conv_Q3D3b_0008]">Não. Meu pai foi morto quando eu era apenas um filhote, mas minha mãe deveria estar aqui. Ainda assim, não vou perder a esperança.</Text>
+<Text tag="[Conv_Q3D3b_0009]">Não. Meu pai foi morto quando eu era apenas um filhote, mas minha mãe deveria estar aqui. Ainda assim, não vou perder a esperança.</Text>
+<Text tag="[Conv_Q3D3b_0010]">Não. Meu pai foi morto quando eu era apenas um filhote, mas minha mãe deveria estar aqui. Ainda assim, não vou perder a esperança.</Text>
+<Text tag="[Conv_Q3D3b_0011]">Não. Meu pai foi morto quando eu era apenas um filhote, mas minha mãe deveria estar aqui. Ainda assim, não vou perder a esperança.</Text>
+<Text tag="[Conv_Q3D3b_0012]">Talvez ela esteja sendo mantida prisioneira em outro lugar. Vamos procurar até encontrá-la.</Text>
+<Text tag="[Conv_Q3D3b_0013]">Talvez ela esteja sendo mantida prisioneira em outro lugar. Vamos procurar até encontrá-la.</Text>
+<Text tag="[Conv_Q3D3b_0014]">Talvez ela esteja sendo mantida prisioneira em outro lugar. Vamos procurar até encontrá-la.</Text>
+<Text tag="[Conv_Q3D3b_0015]">Talvez ela esteja sendo mantida prisioneira em outro lugar. Vamos procurar até encontrá-la.</Text>
+<Text tag="[Conv_Q3D3b_0016]">Obrigado. Elistara, tenho uma pergunta para você. Por favor, seja honesto comigo.</Text>
+<Text tag="[Conv_Q3D3b_0017]">Obrigado. Elistara, tenho uma pergunta para você. Por favor, seja honesto comigo.</Text>
+<Text tag="[Conv_Q3D3b_0018]">Obrigado. Elistara, tenho uma pergunta para você. Por favor, seja honesto comigo.</Text>
+<Text tag="[Conv_Q3D3b_0019]">Obrigado. Elistara, tenho uma pergunta para você. Por favor, seja honesto comigo.</Text>
+<Text tag="[Conv_Q3D3b_0020]">Claro.</Text>
+<Text tag="[Conv_Q3D3b_0021]">Claro.</Text>
+<Text tag="[Conv_Q3D3b_0022]">Claro.</Text>
+<Text tag="[Conv_Q3D3b_0023]">Claro.</Text>
+<Text tag="[Conv_Q3D3b_0024]">Quando tudo isso acabar, você me aceitaria como sua nova montaria?</Text>
+<Text tag="[Conv_Q3D3b_0025]">Quando tudo isso acabar, você me aceitaria como sua nova montaria?</Text>
+<Text tag="[Conv_Q3D3b_0026]">Quando tudo isso acabar, você me aceitaria como sua nova montaria?</Text>
+<Text tag="[Conv_Q3D3b_0027]">Quando tudo isso acabar, você me aceitaria como sua nova montaria?</Text>
+<Text tag="[Conv_Q3D3b_0028]">Eu não gostaria de nada mais.</Text>
+<Text tag="[Conv_Q3D3b_0029]">Eu não gostaria de nada mais.</Text>
+<Text tag="[Conv_Q3D3b_0030]">Eu não gostaria de nada mais.</Text>
+<Text tag="[Conv_Q3D3b_0031]">Eu não gostaria de nada mais.</Text>
 
 </TextLibrary>

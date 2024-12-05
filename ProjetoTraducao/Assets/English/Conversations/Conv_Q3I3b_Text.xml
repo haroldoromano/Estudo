@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3I3b_NAME1]">Lord Bane</Text>
+<Text tag="[Conv_Q3I3b_NAME1]">Lord Bane</Text>
 
-   <Text tag="[Conv_Q3I3b_0000]">I knew you would return here, but you are too late!</Text>
-   <Text tag="[Conv_Q3I3b_0001]">I knew you would return here, but you are too late!</Text>
-   <Text tag="[Conv_Q3I3b_0002]">I knew you would return here, but you are too late!</Text>
-   <Text tag="[Conv_Q3I3b_0003]">I knew you would return here, but you are too late!</Text>
-   <Text tag="[Conv_Q3I3b_0004]">Bane! What have you done to the Iceguard Warriors you took?</Text>
-   <Text tag="[Conv_Q3I3b_0005]">Bane! What have you done to the Iceguard Warriors you took?</Text>
-   <Text tag="[Conv_Q3I3b_0006]">Bane! What have you done to the Iceguard Warriors you took?</Text>
-   <Text tag="[Conv_Q3I3b_0007]">Bane! What have you done to the Iceguard Warriors you took?</Text>
-   <Text tag="[Conv_Q3I3b_0008]">Allow me to introduce you to the Baneguard - perhaps you will see a few familiar faces amongst them.</Text>
-   <Text tag="[Conv_Q3I3b_0009]">Allow me to introduce you to the Baneguard - perhaps you will see a few familiar faces amongst them.</Text>
-   <Text tag="[Conv_Q3I3b_0010]">Allow me to introduce you to the Baneguard - perhaps you will see a few familiar faces amongst them.</Text>
-   <Text tag="[Conv_Q3I3b_0011]">Allow me to introduce you to the Baneguard - perhaps you will see a few familiar faces amongst them.</Text>
-   <Text tag="[Conv_Q3I3b_0012]">You&apos;ve turned the Iceguard into Undead? You&apos;ll pay for this, Bane!</Text>
-   <Text tag="[Conv_Q3I3b_0013]">You&apos;ve turned the Iceguard into Undead? You&apos;ll pay for this, Bane!</Text>
-   <Text tag="[Conv_Q3I3b_0014]">You&apos;ve turned the Iceguard into Undead? You&apos;ll pay for this, Bane!</Text>
-   <Text tag="[Conv_Q3I3b_0015]">You&apos;ve turned the Iceguard into Undead? You&apos;ll pay for this, Bane!</Text>
+<Text tag="[Conv_Q3I3b_0000]">Eu sabia que você voltaria aqui, mas você chegou tarde demais!</Text>
+<Text tag="[Conv_Q3I3b_0001]">Eu sabia que você voltaria aqui, mas você chegou tarde demais!</Text>
+<Text tag="[Conv_Q3I3b_0002]">Eu sabia que você voltaria aqui, mas você chegou tarde demais!</Text>
+<Text tag="[Conv_Q3I3b_0003]">Eu sabia que você voltaria aqui, mas você chegou tarde demais!</Text>
+<Text tag="[Conv_Q3I3b_0004]">Bane! O que você fez com os Guerreiros da Guarda de Gelo que você levou?</Text>
+<Text tag="[Conv_Q3I3b_0005]">Bane! O que você fez com os Guerreiros da Guarda de Gelo que você levou?</Text>
+<Text tag="[Conv_Q3I3b_0006]">Bane! O que você fez com os Guerreiros da Guarda de Gelo que você levou?</Text>
+<Text tag="[Conv_Q3I3b_0007]">Bane! O que você fez com os Guerreiros da Guarda de Gelo que você levou?</Text>
+<Text tag="[Conv_Q3I3b_0008]">Permita-me apresentá-lo aos Baneguard - talvez você veja alguns rostos familiares entre eles.</Text>
+<Text tag="[Conv_Q3I3b_0009]">Permita-me apresentá-lo aos Baneguard - talvez você veja alguns rostos familiares entre eles.</Text>
+<Text tag="[Conv_Q3I3b_0010]">Permita-me apresentá-lo aos Baneguard - talvez você veja alguns rostos familiares entre eles.</Text>
+<Text tag="[Conv_Q3I3b_0011]">Permita-me apresentá-lo aos Baneguard - talvez você veja alguns rostos familiares entre eles.</Text>
+<Text tag="[Conv_Q3I3b_0012]">Você transformou os Guardas de Gelo em Mortos-Vivos? Você vai pagar por isso, Bane!</Text>
+<Text tag="[Conv_Q3I3b_0013]">Você transformou o Iceguard em morto-vivo? Você vai pagar por isso, Bane!</Text>
+<Text tag="[Conv_Q3I3b_0014]">Você transformou o Iceguard em morto-vivo? Você vai pagar por isso, Bane!</Text>
+<Text tag="[Conv_Q3I3b_0015]">Você transformou o Iceguard em morto-vivo? Você vai pagar por isso, Bane!</Text>
 
 </TextLibrary>

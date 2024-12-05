@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QA00a_NAME0]">Darkhunter</Text>
-   <Text tag="[Conv_QA00a_NAME1]">Khrona</Text>
+<Text tag="[Conv_QA00a_NAME0]">Darkhunter</Text>
+<Text tag="[Conv_QA00a_NAME1]">Khrona</Text>
 
-   <Text tag="[Conv_QA00a_0000]">I received news this morning about that acquaintance of yours. It was difficult to come by because you will not tell me all that I need to know.</Text>
-   <Text tag="[Conv_QA00a_0001]">I received news this morning about that acquaintance of yours. It was difficult to come by because you will not tell me all that I need to know.</Text>
-   <Text tag="[Conv_QA00a_0002]">I received news this morning about that acquaintance of yours. It was difficult to come by because you will not tell me all that I need to know.</Text>
-   <Text tag="[Conv_QA00a_0003]">I received news this morning about that acquaintance of yours. It was difficult to come by because you will not tell me all that I need to know.</Text>
-   <Text tag="[Conv_QA00a_0004]">What did the message say?</Text>
-   <Text tag="[Conv_QA00a_0005]">What did the message say?</Text>
-   <Text tag="[Conv_QA00a_0006]">What did the message say?</Text>
-   <Text tag="[Conv_QA00a_0007]">What did the message say?</Text>
-   <Text tag="[Conv_QA00a_0008]">That this person you seek has been traveling through Northern Kor and up into the mountains. If you could give me more details, I could perhaps be of more help...</Text>
-   <Text tag="[Conv_QA00a_0009]">That this person you seek has been traveling through Northern Kor and up into the mountains. If you could give me more details, I could perhaps be of more help...</Text>
-   <Text tag="[Conv_QA00a_0010]">That this person you seek has been traveling through Northern Kor and up into the mountains. If you could give me more details, I could perhaps be of more help...</Text>
-   <Text tag="[Conv_QA00a_0011]">That this person you seek has been traveling through Northern Kor and up into the mountains. If you could give me more details, I could perhaps be of more help...</Text>
-   <Text tag="[Conv_QA00a_0012]">No, I cannot tell you any more.  That will be enough.  Thank you, Khrona.</Text>
-   <Text tag="[Conv_QA00a_0013]">No, I cannot tell you any more.  That will be enough.  Thank you, Khrona.</Text>
-   <Text tag="[Conv_QA00a_0014]">No, I cannot tell you any more.  That will be enough.  Thank you, Khrona.</Text>
-   <Text tag="[Conv_QA00a_0015]">No, I cannot tell you any more.  That will be enough.  Thank you, Khrona.</Text>
+<Text tag="[Conv_QA00a_0000]">Recebi notícias esta manhã sobre aquele seu conhecido. Foi difícil vir aqui porque você não me contaria tudo o que eu preciso saber.</Text>
+<Text tag="[Conv_QA00a_0001]">Recebi notícias esta manhã sobre aquele seu conhecido. Foi difícil vir aqui porque você não me contaria tudo o que eu preciso saber.</Text>
+<Text tag="[Conv_QA00a_0002]">Recebi notícias esta manhã sobre aquele seu conhecido. Foi difícil vir aqui porque você não me conta tudo o que preciso saber.</Text>
+<Text tag="[Conv_QA00a_0003]">Recebi notícias esta manhã sobre aquele seu conhecido. Foi difícil vir aqui porque você não me conta tudo o que preciso saber.</Text>
+<Text tag="[Conv_QA00a_0004]">O que dizia a mensagem?</Text>
+<Text tag="[Conv_QA00a_0005]">O que dizia a mensagem?</Text>
+<Text tag="[Conv_QA00a_0006]">O que dizia a mensagem?</Text>
+<Text tag="[Conv_QA00a_0007]">O que dizia a mensagem?</Text>
+<Text tag="[Conv_QA00a_0008]">Que essa pessoa que você procura está viajando pelo norte de Kor e subindo as montanhas. Se você pudesse me dar mais detalhes, talvez eu pudesse ser de mais ajuda...</Text>
+<Text tag="[Conv_QA00a_0009]">Que essa pessoa que você procura está viajando pelo Norte de Kor e subindo as montanhas. Se você pudesse me dar mais detalhes, talvez eu pudesse ser de mais ajuda...</Text>
+<Text tag="[Conv_QA00a_0010]">Que essa pessoa que você procura está viajando pelo Norte de Kor e subindo as montanhas. Se você pudesse me dar mais detalhes, talvez eu pudesse ser de mais ajuda...</Text>
+<Text tag="[Conv_QA00a_0011]">Que essa pessoa que você procura está viajando pelo Norte de Kor e subindo as montanhas. Se você pudesse me dar mais detalhes, talvez eu pudesse ser de mais ajuda...</Text>
+<Text tag="[Conv_QA00a_0012]">Não, não posso lhe contar mais nada. Isso será o suficiente. Obrigado, Khrona.</Text>
+<Text tag="[Conv_QA00a_0013]">Não, não posso lhe dizer mais nada. Isso será o suficiente. Obrigado, Khrona.</Text>
+<Text tag="[Conv_QA00a_0014]">Não, não posso lhe dizer mais nada. Isso será o suficiente. Obrigado, Khrona.</Text>
+<Text tag="[Conv_QA00a_0015]">Não, não posso lhe dizer mais nada. Isso será o suficiente. Obrigado, Khrona.</Text>
 
 </TextLibrary>

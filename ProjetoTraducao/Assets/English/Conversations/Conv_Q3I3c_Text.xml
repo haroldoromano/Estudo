@@ -1,19 +1,20 @@
+</TextLibrary>
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3I3c_NAME1]">Queen Ehlanna</Text>
+<Text tag="[Conv_Q3I3c_NAME1]">Rainha Ehlanna</Text>
 
-   <Text tag="[Conv_Q3I3c_0000]">Your Majesty, it was too late for your Iceguard. Lord Bane had them already. I couldn&apos;t save them.</Text>
-   <Text tag="[Conv_Q3I3c_0001]">Your Majesty, it was too late for your Iceguard. Lord Bane had them already. I couldn&apos;t save them.</Text>
-   <Text tag="[Conv_Q3I3c_0002]">Your Majesty, it was too late for your Iceguard. Lord Bane had them already. I couldn&apos;t save them.</Text>
-   <Text tag="[Conv_Q3I3c_0003]">Your Majesty, it was too late for your Iceguard. Lord Bane had them already. I couldn&apos;t save them.</Text>
-   <Text tag="[Conv_Q3I3c_0004]">We are saddened to hear this. These are troubled times. But we wish to shine a little light on this dark day. We wish to name you an honorary member of the Iceguard, for assisting in the rescue attempt.</Text>
-   <Text tag="[Conv_Q3I3c_0005]">We are saddened to hear this. These are troubled times. But we wish to shine a little light on this dark day. We wish to name you an honorary member of the Iceguard, for assisting in the rescue attempt.</Text>
-   <Text tag="[Conv_Q3I3c_0006]">We are saddened to hear this. These are troubled times. But we wish to shine a little light on this dark day. We wish to name you an honorary member of the Iceguard, for assisting in the rescue attempt.</Text>
-   <Text tag="[Conv_Q3I3c_0007]">We are saddened to hear this. These are troubled times. But we wish to shine a little light on this dark day. We wish to name you an honorary member of the Iceguard, for assisting in the rescue attempt.</Text>
-   <Text tag="[Conv_Q3I3c_0008]">Thank you, your Majesty. I&apos;m honored.</Text>
-   <Text tag="[Conv_Q3I3c_0009]">Thank you, your Majesty. I&apos;m honored.</Text>
-   <Text tag="[Conv_Q3I3c_0010]">Thank you, your Majesty. I&apos;m honored.</Text>
-   <Text tag="[Conv_Q3I3c_0011]">Thank you, your Majesty. I&apos;m honored.</Text>
+<Text tag="[Conv_Q3I3c_0000]">Vossa Majestade, era tarde demais para sua Guarda de Gelo. Lorde Bane já os tinha. Eu não pude salvá-los.</Text>
+<Text tag="[Conv_Q3I3c_0001]">Vossa Majestade, era tarde demais para sua Guarda de Gelo. Lorde Bane já os tinha. Eu não pude salvá-los.</Text>
+<Text tag="[Conv_Q3I3c_0002]">Vossa Majestade, era tarde demais para sua Guarda de Gelo. Lorde Bane já os tinha. Não consegui salvá-los.</Text>
+<Text tag="[Conv_Q3I3c_0003]">Vossa Majestade, era tarde demais para sua Guarda do Gelo. Lorde Bane já os tinha. Não consegui salvá-los.</Text>
+<Text tag="[Conv_Q3I3c_0004]">Estamos tristes em ouvir isso. Estes são tempos difíceis. Mas queremos lançar um pouco de luz neste dia sombrio. Queremos nomeá-lo um membro honorário da Guarda do Gelo, por ajudar na tentativa de resgate.</Text>
+<Text tag="[Conv_Q3I3c_0005]">Estamos tristes em ouvir isso. Estes são tempos difíceis. Mas queremos lançar um pouco de luz neste dia sombrio. Gostaríamos de nomeá-lo um membro honorário da Guarda do Gelo, por ajudar na tentativa de resgate.</Text>
+<Text tag="[Conv_Q3I3c_0006]">Estamos tristes em ouvir isso. Estes são tempos difíceis. Mas gostaríamos de lançar um pouco de luz neste dia sombrio. Gostaríamos de nomeá-lo um membro honorário da Guarda do Gelo, por ajudar na tentativa de resgate.</Text>
+<Text tag="[Conv_Q3I3c_0007]">Estamos tristes em ouvir isso. Estes são tempos difíceis. Mas gostaríamos de lançar um pouco de luz neste dia sombrio. Gostaríamos de nomeá-lo um membro honorário da Guarda do Gelo, por ajudar na tentativa de resgate.</Text>
+<Text tag="[Conv_Q3I3c_0008]">Obrigado, Majestade. Estou honrado.</Text>
+<Text tag="[Conv_Q3I3c_0009]">Obrigado, Majestade. Estou honrado.</Text>
+<Text tag="[Conv_Q3I3c_0010]">Obrigado, Majestade. Estou honrado.</Text>
+<Text tag="[Conv_Q3I3c_0011]">Obrigado, Majestade. Estou honrado.</Text>
 
 </TextLibrary>

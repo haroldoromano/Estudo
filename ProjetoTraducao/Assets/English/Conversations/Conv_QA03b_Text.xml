@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QA03b_NAME0]">Darkhunter</Text>
-   <Text tag="[Conv_QA03b_NAME1]">Liandra</Text>
+<Text tag="[Conv_QA03b_NAME0]">Darkhunter</Text>
+<Text tag="[Conv_QA03b_NAME1]">Liandra</Text>
 
-   <Text tag="[Conv_QA03b_0000]">Syrus, you poor fool. You came alone.</Text>
-   <Text tag="[Conv_QA03b_0001]">Syrus, you poor fool. You came alone.</Text>
-   <Text tag="[Conv_QA03b_0002]">Syrus, you poor fool. You came alone.</Text>
-   <Text tag="[Conv_QA03b_0003]">Syrus, you poor fool. You came alone.</Text>
-   <Text tag="[Conv_QA03b_0004]">Liandra, I beg of you... come back to Ylarie with me. Perhaps the Elven Mages have a cure.</Text>
-   <Text tag="[Conv_QA03b_0005]">Liandra, I beg of you... come back to Ylarie with me. Perhaps the Elven Mages have a cure.</Text>
-   <Text tag="[Conv_QA03b_0006]">Liandra, I beg of you... come back to Ylarie with me. Perhaps the Elven Mages have a cure.</Text>
-   <Text tag="[Conv_QA03b_0007]">Liandra, I beg of you... come back to Ylarie with me. Perhaps the Elven Mages have a cure.</Text>
-   <Text tag="[Conv_QA03b_0008]">Don&apos;t you understand, Syrus? I don&apos;t want a cure. I want power. And I want YOU. You belong to me - you are mine - even if I must take you by force.</Text>
-   <Text tag="[Conv_QA03b_0009]">Don&apos;t you understand, Syrus? I don&apos;t want a cure. I want power. And I want YOU. You belong to me - you are mine - even if I must take you by force.</Text>
-   <Text tag="[Conv_QA03b_0010]">Don&apos;t you understand, Syrus? I don&apos;t want a cure. I want power. And I want YOU. You belong to me - you are mine - even if I must take you by force.</Text>
-   <Text tag="[Conv_QA03b_0011]">Don&apos;t you understand, Syrus? I don&apos;t want a cure. I want power. And I want YOU. You belong to me - you are mine - even if I must take you by force.</Text>
-   <Text tag="[Conv_QA03b_0012]">I am no fool, Liandra. I did not come alone.</Text>
-   <Text tag="[Conv_QA03b_0013]">I am no fool, Liandra. I did not come alone.</Text>
-   <Text tag="[Conv_QA03b_0014]">I am no fool, Liandra. I did not come alone.</Text>
-   <Text tag="[Conv_QA03b_0015]">I am no fool, Liandra. I did not come alone.</Text>
+<Text tag="[Conv_QA03b_0000]">Syrus, seu pobre tolo. Você veio sozinho.</Text>
+<Text tag="[Conv_QA03b_0001]">Syrus, seu pobre tolo. Você veio sozinho.</Text>
+<Text tag="[Conv_QA03b_0002]">Syrus, seu pobre tolo. Você veio sozinho.</Text>
+<Text tag="[Conv_QA03b_0003]">Syrus, seu pobre tolo. Você veio sozinha.</Text>
+<Text tag="[Conv_QA03b_0004]">Liandra, eu imploro... volte para Ylarie comigo. Talvez os Magos Élficos tenham uma cura.</Text>
+<Text tag="[Conv_QA03b_0005]">Liandra, eu imploro... volte para Ylarie comigo. Talvez os Magos Élficos tenham uma cura.</Text>
+<Text tag="[Conv_QA03b_0006]">Liandra, eu imploro... volte para Ylarie comigo. Talvez os Magos Élficos tenham uma cura.</Text>
+<Text tag="[Conv_QA03b_0007]">Liandra, eu imploro... volte para Ylarie comigo. Talvez os Magos Élficos tenham uma cura.</Text>
+<Text tag="[Conv_QA03b_0008]">Você não entende, Syrus? Eu não quero uma cura. Eu quero poder. E eu quero VOCÊ. Você me pertence - você é meu - mesmo que eu tenha que tomá-lo à força.</Text>
+<Text tag="[Conv_QA03b_0009]">Você não entende, Syrus? Eu não quero uma cura. Eu quero poder. E eu quero VOCÊ. Você me pertence - você é meu - mesmo que eu tenha que tomá-lo à força.</Text>
+<Text tag="[Conv_QA03b_0010]">Você não entende, Syrus? Eu não quero uma cura. Eu quero poder. E eu quero VOCÊ. Você me pertence - você é meu - mesmo que eu tenha que te tomar à força.</Text>
+<Text tag="[Conv_QA03b_0011]">Você não entende, Syrus? Eu não quero uma cura. Eu quero poder. E eu quero VOCÊ. Você me pertence - você é meu - mesmo que eu tenha que te tomar à força.</Text>
+<Text tag="[Conv_QA03b_0012]">Eu não sou idiota, Liandra. Eu não vim sozinha.</Text>
+<Text tag="[Conv_QA03b_0013]">Eu não sou idiota, Liandra. Eu não vim sozinha.</Text>
+<Text tag="[Conv_QA03b_0014]">Eu não sou idiota, Liandra. Eu não vim sozinha.</Text>
+<Text tag="[Conv_QA03b_0015]">Eu não sou idiota, Liandra. Eu não vim sozinho.</Text>
 
 </TextLibrary>

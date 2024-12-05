@@ -49,3 +49,103 @@
    <Text tag="[Conv_Q3Q5a_0043]">We&apos;ll start by striking at these Necromancers. After that, we&apos;ll see how strong Bane&apos;s defenses really are.</Text>
 
 </TextLibrary>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0"?>
+<TextLibrary>
+
+<Text tag="[Conv_Q3Q5a_NAME1]">Elistara</Text>
+
+<Text tag="[Conv_Q3Q5a_0000]">Os Magos lançaram seus feitiços e olharam profundamente no reino de Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0001]">Os Magos lançaram seus feitiços e olharam profundamente no reino de Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0002]">Os Magos lançaram seus feitiços e olharam profundamente no reino de Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0003]">Os Magos lançaram seus feitiços e olharam profundamente no reino de Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0004]">O que eles encontraram? Ele está planejando outro ataque?</Text>
+<Text tag="[Conv_Q3Q5a_0005]">O que eles encontraram? Ele está planejando outro ataque?</Text>
+<Text tag="[Conv_Q3Q5a_0006]">O que eles encontraram? Ele está planejando outro ataque?</Text>
+<Text tag="[Conv_Q3Q5a_0007]">O que eles encontraram? Ele está planejando outro ataque?</Text>
+<Text tag="[Conv_Q3Q5a_0008]">Há uma enorme força de mortos-vivos se concentrando nas planícies liderada por três necromantes, os generais do exército de Lord Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0009]">Há uma enorme força de mortos-vivos se concentrando nas planícies liderada por três necromantes, os generais do exército de Lord Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0010]">Há uma enorme força de mortos-vivos se concentrando nas planícies liderada por três necromantes, os generais do exército de Lord Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0011]">Há uma enorme força de mortos-vivos se concentrando nas planícies liderada por três Necromantes, os generais do exército de Lord Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0012]">A Fortaleza Skullguard resistirá contra eles?</Text>
+<Text tag="[Conv_Q3Q5a_0013]">A Fortaleza Skullguard resistirá contra eles?</Text>
+<Text tag="[Conv_Q3Q5a_0014]">A Fortaleza Skullguard resistirá contra eles?</Text>
+<Text tag="[Conv_Q3Q5a_0015]">A Fortaleza Skullguard resistirá contra eles?</Text>
+<Text tag="[Conv_Q3Q5a_0016]">Esta força é dez vezes maior que a última, e temos apenas metade dos defensores que tínhamos antes. Skullguard cairá.</Text>
+<Text tag="[Conv_Q3Q5a_0017]">Esta força é dez vezes maior que a última, e temos apenas metade dos defensores que tínhamos antes. Skullguard cairá.</Text>
+<Text tag="[Conv_Q3Q5a_0018]">Esta força é dez vezes maior que a última, e temos apenas metade dos defensores que tínhamos antes. Skullguard cairá.</Text>
+<Text tag="[Conv_Q3Q5a_0019]">Esta força é dez vezes maior que a última, e temos apenas metade dos defensores que tínhamos antes. Skullguard cairá.</Text>
+<Text tag="[Conv_Q3Q5a_0020]">Então precisamos de outro plano. E se atacarmos seus generais, os Necromantes?</Text>
+<Text tag="[Conv_Q3Q5a_0021]">Então precisamos de outro plano. E se atacarmos seus generais, os Necromantes?</Text>
+<Text tag="[Conv_Q3Q5a_0022]">Então precisamos de outro plano. E se atacarmos seus generais, os Necromantes?</Text>
+<Text tag="[Conv_Q3Q5a_0023]">Então precisamos de outro plano. E se atacarmos seus generais, os Necromantes?</Text>
+<Text tag="[Conv_Q3Q5a_0024]">Eles simplesmente se levantarão novamente como Arkliches. Na melhor das hipóteses, isso atrasaria o inevitável.</Text>
+<Text tag="[Conv_Q3Q5a_0025]">Eles simplesmente se levantarão novamente como Arkliches. Na melhor das hipóteses, isso atrasaria o inevitável.</Text>
+<Text tag="[Conv_Q3Q5a_0026]">Eles simplesmente se levantarão novamente como Arkliches. Na melhor das hipóteses, isso atrasaria o inevitável.</Text>
+<Text tag="[Conv_Q3Q5a_0027]">Eles simplesmente se levantarão novamente como Arkliches. Na melhor das hipóteses, isso atrasaria o inevitável.</Text>
+<Text tag="[Conv_Q3Q5a_0028]">Então precisamos ganhar algum tempo e atacar o próprio Lorde Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0029]">Então precisamos ganhar algum tempo e atacar o próprio Lorde Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0030]">Então precisamos ganhar algum tempo e atacar o próprio Lorde Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0031]">Então precisamos ganhar algum tempo e atacar o próprio Lorde Bane.</Text>
+<Text tag="[Conv_Q3Q5a_0032]">Mas Lorde Bane é um Deus! Como ele pode ser derrotado?</Text>
+<Text tag="[Conv_Q3Q5a_0033]">Mas Lord Bane é um Deus! Como ele pode ser derrotado?</Text>
+<Text tag="[Conv_Q3Q5a_0034]">Mas Lord Bane é um Deus! Como ele pode ser derrotado?</Text>
+<Text tag="[Conv_Q3Q5a_0035]">Mas Lord Bane é um Deus! Como ele pode ser derrotado?</Text>
+<Text tag="[Conv_Q3Q5a_0036]">Se meu tempo nos Reinos da Guerra juntando Lorde Sartek de volta me ensinou alguma coisa, é que até os Deuses têm fraquezas.</Text>
+<Text tag="[Conv_Q3Q5a_0037]">Se meu tempo nos Reinos da Guerra juntando Lorde Sartek de volta me ensinou alguma coisa, é que até os Deuses têm fraquezas.</Text>
+<Text tag="[Conv_Q3Q5a_0038]">Se meu tempo nos Reinos da Guerra juntando Lorde Sartek de volta me ensinou alguma coisa, é que até os Deuses têm fraquezas.</Text>
+<Text tag="[Conv_Q3Q5a_0039]">Se meu tempo nos Reinos da Guerra juntando Lorde Sartek de volta me ensinou alguma coisa, é que até os Deuses têm fraquezas.</Texto>
+<Text tag="[Conv_Q3Q5a_0040]">Começaremos atacando esses Necromantes. Depois disso, veremos o quão fortes as defesas de Bane realmente são.</Text>
+<Text tag="[Conv_Q3Q5a_0041]">Começaremos atacando esses Necromantes. Depois disso, veremos o quão fortes as defesas de Bane realmente são.</Text>
+<Text tag="[Conv_Q3Q5a_0042]">Começaremos atacando esses Necromantes. Depois disso, veremos o quão fortes as defesas de Bane realmente são.</Text>
+<Text tag="[Conv_Q3Q5a_0043]">Começaremos atacando esses Necromantes. Depois disso, veremos o quão fortes as defesas de Bane realmente são.</Text>
+
+</TextLibrary>

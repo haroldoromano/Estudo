@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QA01c_NAME1]">Darkhunter</Text>
+<Text tag="[Conv_QA01c_NAME1]">Darkhunter</Text>
 
-   <Text tag="[Conv_QA01c_0000]">Well, THAT went well...</Text>
-   <Text tag="[Conv_QA01c_0001]">Well, THAT went well...</Text>
-   <Text tag="[Conv_QA01c_0002]">Well, THAT went well...</Text>
-   <Text tag="[Conv_QA01c_0003]">Well, THAT went well...</Text>
-   <Text tag="[Conv_QA01c_0004]">How can I make him LISTEN?</Text>
-   <Text tag="[Conv_QA01c_0005]">How can I make him LISTEN?</Text>
-   <Text tag="[Conv_QA01c_0006]">How can I make him LISTEN?</Text>
-   <Text tag="[Conv_QA01c_0007]">How can I make him LISTEN?</Text>
-   <Text tag="[Conv_QA01c_0008]">I&apos;m listening, Syrus, but you&apos;re not talking to me.</Text>
-   <Text tag="[Conv_QA01c_0009]">I&apos;m listening, Syrus, but you&apos;re not talking to me.</Text>
-   <Text tag="[Conv_QA01c_0010]">I&apos;m listening, Syrus, but you&apos;re not talking to me.</Text>
-   <Text tag="[Conv_QA01c_0011]">I&apos;m listening, Syrus, but you&apos;re not talking to me.</Text>
-   <Text tag="[Conv_QA01c_0012]">Because you cannot help me.</Text>
-   <Text tag="[Conv_QA01c_0013]">Because you cannot help me.</Text>
-   <Text tag="[Conv_QA01c_0014]">Because you cannot help me.</Text>
-   <Text tag="[Conv_QA01c_0015]">Because you cannot help me.</Text>
-   <Text tag="[Conv_QA01c_0016]">Try me. You might be surprised. Who&apos;s Liandra?</Text>
-   <Text tag="[Conv_QA01c_0017]">Try me. You might be surprised. Who&apos;s Liandra?</Text>
-   <Text tag="[Conv_QA01c_0018]">Try me. You might be surprised. Who&apos;s Liandra?</Text>
-   <Text tag="[Conv_QA01c_0019]">Try me. You might be surprised. Who&apos;s Liandra?</Text>
-   <Text tag="[Conv_QA01c_0020]">It is none of your concern.</Text>
-   <Text tag="[Conv_QA01c_0021]">It is none of your concern.</Text>
-   <Text tag="[Conv_QA01c_0022]">It is none of your concern.</Text>
-   <Text tag="[Conv_QA01c_0023]">It is none of your concern.</Text>
-   <Text tag="[Conv_QA01c_0024]">Fine, Syrus... whatever you say!</Text>
-   <Text tag="[Conv_QA01c_0025]">Fine, Syrus... whatever you say!</Text>
-   <Text tag="[Conv_QA01c_0026]">Fine, Syrus... whatever you say!</Text>
-   <Text tag="[Conv_QA01c_0027]">Fine, Syrus... whatever you say!</Text>
+<Text tag="[Conv_QA01c_0000]">Bem, ISSO correu bem...</Text>
+<Text tag="[Conv_QA01c_0001]">Bem, ISSO correu bem...</Text>
+<Text tag="[Conv_QA01c_0002]">Bem, ISSO correu bem...</Text>
+<Text tag="[Conv_QA01c_0003]">Bem, ISSO correu bem...</Text>
+<Text tag="[Conv_QA01c_0004]">Como posso fazê-lo ESCUTAR?</Text>
+<Text tag="[Conv_QA01c_0005]">Como posso fazê-lo ESCUTAR?</Text>
+<Text tag="[Conv_QA01c_0006]">Como posso fazê-lo ESCUTAR?</Text>
+<Text tag="[Conv_QA01c_0007]">Como posso fazê-lo ESCUTAR?</Text>
+<Text tag="[Conv_QA01c_0008]">Estou ouvindo, Syrus, mas você não está falando comigo.</Text>
+<Text tag="[Conv_QA01c_0009]">Estou ouvindo, Syrus, mas você não está falando comigo.</Text>
+<Text tag="[Conv_QA01c_0010]">Estou ouvindo, Syrus, mas você não está falando comigo.</Text>
+<Text tag="[Conv_QA01c_0011]">Estou ouvindo, Syrus, mas você não está falando comigo.</Text> eu.</Text>
+<Text tag="[Conv_QA01c_0012]">Porque você não pode me ajudar.</Text>
+<Text tag="[Conv_QA01c_0013]">Porque você não pode me ajudar.</Text>
+<Text tag="[Conv_QA01c_0014]">Porque você não pode me ajudar.</Text>
+<Text tag="[Conv_QA01c_0015]">Porque você não pode me ajudar.</Text>
+<Text tag="[Conv_QA01c_0016]">Experimente. Você pode se surpreender. Quem é Liandra?</Text>
+<Text tag="[Conv_QA01c_0017]">Experimente. Você pode se surpreender. Quem é Liandra?</Text>
+<Text tag="[Conv_QA01c_0018]">Experimente. Você pode se surpreender. Quem é Liandra?</Text>
+<Text tag="[Conv_QA01c_0019]">Experimente. Você pode se surpreender. Quem é Liandra?</Text>
+<Text tag="[Conv_QA01c_0020]">Não é da sua conta.</Text>
+<Text tag="[Conv_QA01c_0021]">Não é da sua conta.</Text>
+<Text tag="[Conv_QA01c_0022]">Não é da sua conta.</Text>
+<Text tag="[Conv_QA01c_0023]">Não é da sua conta.</Text>
+<Text tag="[Conv_QA01c_0024]">Tudo bem, Syrus... o que você disser!</Text>
+<Text tag="[Conv_QA01c_0025]">Tudo bem, Syrus... o que você disser!</Text>
+<Text tag="[Conv_QA01c_0026]">Tudo bem, Syrus... o que você disser!</Text>
+<Text tag="[Conv_QA01c_0027]">Tudo bem, Syrus... o que você disser!</Text>
 
 </TextLibrary>

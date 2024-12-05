@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q7b_NAME1]">Drong</Text>
+<Text tag="[Conv_Q3Q7b_NAME1]">Drong</Text>
 
-   <Text tag="[Conv_Q3Q7b_0000]">Mmmmm....</Text>
-   <Text tag="[Conv_Q3Q7b_0001]">Mmmmm....</Text>
-   <Text tag="[Conv_Q3Q7b_0002]">Mmmmm....</Text>
-   <Text tag="[Conv_Q3Q7b_0003]">Mmmmm....</Text>
-   <Text tag="[Conv_Q3Q7b_0004]">Drong - no - you can&apos;t eat Bane.</Text>
-   <Text tag="[Conv_Q3Q7b_0005]">Drong - no - you can&apos;t eat Bane.</Text>
-   <Text tag="[Conv_Q3Q7b_0006]">Drong - no - you can&apos;t eat Bane.</Text>
-   <Text tag="[Conv_Q3Q7b_0007]">Drong - no - you can&apos;t eat Bane.</Text>
-   <Text tag="[Conv_Q3Q7b_0008]">Why not?</Text>
-   <Text tag="[Conv_Q3Q7b_0009]">Why not?</Text>
-   <Text tag="[Conv_Q3Q7b_0010]">Why not?</Text>
-   <Text tag="[Conv_Q3Q7b_0011]">Why not?</Text>
-   <Text tag="[Conv_Q3Q7b_0012]">He was the God of Death - I don&apos;t think that would be good for you.</Text>
-   <Text tag="[Conv_Q3Q7b_0013]">He was the God of Death - I don&apos;t think that would be good for you.</Text>
-   <Text tag="[Conv_Q3Q7b_0014]">He was the God of Death - I don&apos;t think that would be good for you.</Text>
-   <Text tag="[Conv_Q3Q7b_0015]">He was the God of Death - I don&apos;t think that would be good for you.</Text>
-   <Text tag="[Conv_Q3Q7b_0016]">But you say to Drong he can eat the next God we find.</Text>
-   <Text tag="[Conv_Q3Q7b_0017]">But you say to Drong he can eat the next God we find.</Text>
-   <Text tag="[Conv_Q3Q7b_0018]">But you say to Drong he can eat the next God we find.</Text>
-   <Text tag="[Conv_Q3Q7b_0019]">But you say to Drong he can eat the next God we find.</Text>
-   <Text tag="[Conv_Q3Q7b_0020]">Yeah...well... okay then. But there aren&apos;t any Wyverns around, so don&apos;t complain if you get an upset stomach.</Text>
-   <Text tag="[Conv_Q3Q7b_0021]">Yeah...well... okay then. But there aren&apos;t any Wyverns around, so don&apos;t complain if you get an upset stomach.</Text>
-   <Text tag="[Conv_Q3Q7b_0022]">Yeah...well... okay then. But there aren&apos;t any Wyverns around, so don&apos;t complain if you get an upset stomach.</Text>
-   <Text tag="[Conv_Q3Q7b_0023]">Yeah...well... okay then. But there aren&apos;t any Wyverns around, so don&apos;t complain if you get an upset stomach.</Text>
-   <Text tag="[Conv_Q3Q7b_0024]">Heh, heh... maybe Drong just try an arm or something small... yum yum yum...</Text>
-   <Text tag="[Conv_Q3Q7b_0025]">Heh, heh... maybe Drong just try an arm or something small... yum yum yum...</Text>
-   <Text tag="[Conv_Q3Q7b_0026]">Heh, heh... maybe Drong just try an arm or something small... yum yum yum...</Text>
-   <Text tag="[Conv_Q3Q7b_0027]">Heh, heh... maybe Drong just try an arm or something small... yum yum yum...</Text>
+<Text tag="[Conv_Q3Q7b_0000]">Mmmmm....</Text>
+<Text tag="[Conv_Q3Q7b_0001]">Mmmmm....</Text>
+<Text tag="[Conv_Q3Q7b_0002]">Mmmmm....</Text>
+<Text tag="[Conv_Q3Q7b_0003]">Mmmmm....</Text>
+<Text tag="[Conv_Q3Q7b_0004]">Drong - não - você não pode comer Bane.</Text>
+<Text tag="[Conv_Q3Q7b_0005]">Drong - não - você não pode comer Bane.</Text>
+<Text tag="[Conv_Q3Q7b_0006]">Drong - não - você não pode comer Bane.</Text>
+<Text tag="[Conv_Q3Q7b_0007]">Drong - não - você não pode comer Bane.</Text>
+<Text tag="[Conv_Q3Q7b_0008]">Por que não?</Text>
+<Text tag="[Conv_Q3Q7b_0009]">Por que não?</Text>
+<Text tag="[Conv_Q3Q7b_0010]">Por que não?</Text>
+<Text tag="[Conv_Q3Q7b_0011]">Por que não?</Text>
+<Text tag="[Conv_Q3Q7b_0012]">Ele era o Deus da Morte - não acho que isso seria bom para você.</Text>
+<Text tag="[Conv_Q3Q7b_0013]">Ele era o Deus da Morte - não acho que isso seria bom para você.</Text>
+<Text tag="[Conv_Q3Q7b_0014]">Ele era o Deus da Morte - não acho que isso seria bom para você.</Text>
+<Text tag="[Conv_Q3Q7b_0015]">Ele era o Deus da Morte - não acho que isso seria bom para você.</Text>
+<Text tag="[Conv_Q3Q7b_0016]">Mas você diz a Drong que ele pode comer o próximo Deus que encontrarmos.</Text>
+<Text tag="[Conv_Q3Q7b_0017]">Mas você diz a Drong que ele pode comer o próximo Deus que encontrarmos.</Text>
+<Text tag="[Conv_Q3Q7b_0018]">Mas você diz a Drong que ele pode comer o próximo Deus nós encontramos.</Text>
+<Text tag="[Conv_Q3Q7b_0019]">Mas você diz a Drong que ele pode comer o próximo Deus que encontrarmos.</Text>
+<Text tag="[Conv_Q3Q7b_0020]">Sim... bem... ok então. Mas não há Wyverns por perto, então não reclame se você tiver uma dor de estômago.</Text>
+<Text tag="[Conv_Q3Q7b_0021]">Sim... bem... ok então. Mas não há Wyverns por perto, então não reclame se você tiver uma dor de estômago.</Text>
+<Text tag="[Conv_Q3Q7b_0022]">Sim... bem... ok então. Mas não há Wyverns por perto, então não reclame se você tiver uma dor de estômago.</Text>
+<Text tag="[Conv_Q3Q7b_0023]">Sim... bem... ok então. Mas não há Wyverns por perto, então não reclame se você tiver uma dor de estômago.</Text>
+<Text tag="[Conv_Q3Q7b_0024]">Heh, heh... talvez Drong tente um braço ou algo pequeno... yum yum yum...</Text>
+<Text tag="[Conv_Q3Q7b_0025]">Heh, heh... talvez Drong tente um braço ou algo pequeno... yum yum yum...</Text>
+<Text tag="[Conv_Q3Q7b_0026]">Heh, heh... talvez Drong tente um braço ou algo pequeno... yum yum yum...</Text>
+<Text tag="[Conv_Q3Q7b_0027]">Heh, heh... talvez Drong tente um braço ou algo pequeno... yum yum yum...</Text>
 
 </TextLibrary>

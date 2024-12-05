@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q2b_NAME1]">Elistara</Text>
+<Text tag="[Conv_Q3Q2b_NAME1]">Elistara</Text>
 
-   <Text tag="[Conv_Q3Q2b_0000]">You see! We&apos;re winning!</Text>
-   <Text tag="[Conv_Q3Q2b_0001]">You see! We&apos;re winning!</Text>
-   <Text tag="[Conv_Q3Q2b_0002]">You see! We&apos;re winning!</Text>
-   <Text tag="[Conv_Q3Q2b_0003]">You see! We&apos;re winning!</Text>
-   <Text tag="[Conv_Q3Q2b_0004]">Bane is sending these creatures to tire us out. That which follows will test your limits.</Text>
-   <Text tag="[Conv_Q3Q2b_0005]">Bane is sending these creatures to tire us out. That which follows will test your limits.</Text>
-   <Text tag="[Conv_Q3Q2b_0006]">Bane is sending these creatures to tire us out. That which follows will test your limits.</Text>
-   <Text tag="[Conv_Q3Q2b_0007]">Bane is sending these creatures to tire us out. That which follows will test your limits.</Text>
-   <Text tag="[Conv_Q3Q2b_0008]">Don&apos;t worry...I&apos;m ready!</Text>
-   <Text tag="[Conv_Q3Q2b_0009]">Don&apos;t worry...I&apos;m ready!</Text>
-   <Text tag="[Conv_Q3Q2b_0010]">Don&apos;t worry...I&apos;m ready!</Text>
-   <Text tag="[Conv_Q3Q2b_0011]">Don&apos;t worry...I&apos;m ready!</Text>
+<Text tag="[Conv_Q3Q2b_0000]">Você vê! Estamos vencendo!</Text>
+<Text tag="[Conv_Q3Q2b_0001]">Você vê! Estamos vencendo!</Text>
+<Text tag="[Conv_Q3Q2b_0002]">Você vê! Estamos vencendo!</Text>
+<Text tag="[Conv_Q3Q2b_0003]">Você vê! Estamos vencendo!</Text>
+<Text tag="[Conv_Q3Q2b_0004]">Bane está enviando essas criaturas para nos cansar. O que se segue testará seus limites.</Text>
+<Text tag="[Conv_Q3Q2b_0005]">Bane está enviando essas criaturas para nos cansar. O que se segue testará seus limites.</Text>
+<Text tag="[Conv_Q3Q2b_0006]">Bane está enviando essas criaturas para nos cansar. O que se segue testará seus limites.</Text>
+<Text tag="[Conv_Q3Q2b_0007]">Bane está enviando essas criaturas para nos cansar. O que se segue testará seus limites.</Text>
+<Text tag="[Conv_Q3Q2b_0008]">Não se preocupe... Estou pronto!</Text>
+<Text tag="[Conv_Q3Q2b_0009]">Não se preocupe... Estou pronto!</Text>
+<Text tag="[Conv_Q3Q2b_0010]">Não se preocupe... Estou pronto!</Text>
+<Text tag="[Conv_Q3Q2b_0011]">Não se preocupe... Estou pronto!</Text>
 
 </TextLibrary>

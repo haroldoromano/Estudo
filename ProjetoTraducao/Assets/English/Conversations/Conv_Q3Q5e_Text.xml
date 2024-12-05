@@ -1,35 +1,36 @@
+</TextLibrary>
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q5e_NAME1]">Darkhunter</Text>
+<Text tag="[Conv_Q3Q5e_NAME1]">Darkhunter</Text>
 
-   <Text tag="[Conv_Q3Q5e_0000]">What have you done? You released that Necromancer we captured in the Borderlands?</Text>
-   <Text tag="[Conv_Q3Q5e_0001]">What have you done? You released that Necromancer we captured in the Borderlands?</Text>
-   <Text tag="[Conv_Q3Q5e_0002]">What have you done? You released that Necromancer we captured in the Borderlands?</Text>
-   <Text tag="[Conv_Q3Q5e_0003]">What have you done? You released that Necromancer we captured in the Borderlands?</Text>
-   <Text tag="[Conv_Q3Q5e_0004]">Syrus... I&apos;m sorry. It was such a long time ago, and he had information we needed. I gave him his freedom in exchange.</Text>
-   <Text tag="[Conv_Q3Q5e_0005]">Syrus... I&apos;m sorry. It was such a long time ago, and he had information we needed. I gave him his freedom in exchange.</Text>
-   <Text tag="[Conv_Q3Q5e_0006]">Syrus... I&apos;m sorry. It was such a long time ago, and he had information we needed. I gave him his freedom in exchange.</Text>
-   <Text tag="[Conv_Q3Q5e_0007]">Syrus... I&apos;m sorry. It was such a long time ago, and he had information we needed. I gave him his freedom in exchange.</Text>
-   <Text tag="[Conv_Q3Q5e_0008]">And then you lied to me!  And what is all this about following your sword?</Text>
-   <Text tag="[Conv_Q3Q5e_0009]">And then you lied to me!  And what is all this about following your sword?</Text>
-   <Text tag="[Conv_Q3Q5e_0010]">And then you lied to me!  And what is all this about following your sword?</Text>
-   <Text tag="[Conv_Q3Q5e_0011]">And then you lied to me!  And what is all this about following your sword?</Text>
-   <Text tag="[Conv_Q3Q5e_0012]">I don&apos;t know - honestly.</Text>
-   <Text tag="[Conv_Q3Q5e_0013]">I don&apos;t know - honestly.</Text>
-   <Text tag="[Conv_Q3Q5e_0014]">I don&apos;t know - honestly.</Text>
-   <Text tag="[Conv_Q3Q5e_0015]">I don&apos;t know - honestly.</Text>
-   <Text tag="[Conv_Q3Q5e_0016]">Are you working for Lord Bane?</Text>
-   <Text tag="[Conv_Q3Q5e_0017]">Are you working for Lord Bane?</Text>
-   <Text tag="[Conv_Q3Q5e_0018]">Are you working for Lord Bane?</Text>
-   <Text tag="[Conv_Q3Q5e_0019]">Are you working for Lord Bane?</Text>
-   <Text tag="[Conv_Q3Q5e_0020]">No! I&apos;m trying to STOP him!</Text>
-   <Text tag="[Conv_Q3Q5e_0021]">No! I&apos;m trying to STOP him!</Text>
-   <Text tag="[Conv_Q3Q5e_0022]">No! I&apos;m trying to STOP him!</Text>
-   <Text tag="[Conv_Q3Q5e_0023]">No! I&apos;m trying to STOP him!</Text>
-   <Text tag="[Conv_Q3Q5e_0024]">How can I believe you?  I cannot stay here.  Humans!  You are full of lies and deceit. I am leaving. Farewell.</Text>
-   <Text tag="[Conv_Q3Q5e_0025]">How can I believe you?  I cannot stay here.  Humans!  You are full of lies and deceit. I am leaving. Farewell.</Text>
-   <Text tag="[Conv_Q3Q5e_0026]">How can I believe you?  I cannot stay here.  Humans!  You are full of lies and deceit. I am leaving. Farewell.</Text>
-   <Text tag="[Conv_Q3Q5e_0027]">How can I believe you?  I cannot stay here.  Humans!  You are full of lies and deceit. I am leaving. Farewell.</Text>
+<Text tag="[Conv_Q3Q5e_0000]">O que você fez? Você libertou aquele Necromante que capturamos nas Terras de Fronteira?</Text>
+<Text tag="[Conv_Q3Q5e_0001]">O que você fez? Você libertou aquele Necromante que capturamos nas Terras de Fronteira?</Text>
+<Text tag="[Conv_Q3Q5e_0002]">O que você fez? Você libertou aquele Necromante que capturamos nas Terras de Fronteira?</Text>
+<Text tag="[Conv_Q3Q5e_0003]">O que você fez? Você libertou aquele Necromante que capturamos nas Terras Fronteiriças?</Text>
+<Text tag="[Conv_Q3Q5e_0004]">Syrus... me desculpe. Foi há muito tempo, e ele tinha informações que precisávamos. Eu dei a ele sua liberdade em troca.</Text>
+<Text tag="[Conv_Q3Q5e_0005]">Syrus... me desculpe. Foi há muito tempo, e ele tinha informações que precisávamos. Eu dei a ele sua liberdade em troca.</Text>
+<Text tag="[Conv_Q3Q5e_0006]">Syrus... me desculpe. Foi há muito tempo, e ele tinha informações que precisávamos. Eu dei a ele sua liberdade em troca.</Text>
+<Text tag="[Conv_Q3Q5e_0007]">Syrus... me desculpe. Foi há muito tempo, e ele tinha informações que precisávamos. Eu dei a ele sua liberdade em troca.</Text>
+<Text tag="[Conv_Q3Q5e_0008]">E então você mentiu para mim! E o que é tudo isso sobre seguir sua espada?</Text>
+<Text tag="[Conv_Q3Q5e_0009]">E então você mentiu para mim! E o que é tudo isso sobre seguir sua espada?</Text>
+<Text tag="[Conv_Q3Q5e_0010]">E então você mentiu para mim! E o que é tudo isso sobre seguir sua espada?</Text>
+<Text tag="[Conv_Q3Q5e_0011]">E então você mentiu para mim! E o que é tudo isso sobre seguir sua espada?</Text>
+<Text tag="[Conv_Q3Q5e_0012]">Eu não sei - honestamente.</Text>
+<Text tag="[Conv_Q3Q5e_0013]">Eu não sei - honestamente.</Text>
+<Text tag="[Conv_Q3Q5e_0014]">Eu não sei - honestamente.</Text>
+<Text tag="[Conv_Q3Q5e_0015]">Eu não sei - honestamente.</Text>
+<Text tag="[Conv_Q3Q5e_0016]">Você está trabalhando para Lord Bane?</Text>
+<Text tag="[Conv_Q3Q5e_0017]">Você está trabalhando para Lord Bane?</Text>
+<Text tag="[Conv_Q3Q5e_0018]">Você está trabalhando para Lord Bane?</Text>
+<Text tag="[Conv_Q3Q5e_0019]">Você está trabalhando para Lord Bane?</Text>
+<Text tag="[Conv_Q3Q5e_0020]">Não! Estou tentando DETÊ-lo!</Text>
+<Text tag="[Conv_Q3Q5e_0021]">Não! Estou tentando DETÊ-lo!</Text>
+<Text tag="[Conv_Q3Q5e_0022]">Não! Estou tentando DETÊ-lo!</Text>
+<Text tag="[Conv_Q3Q5e_0023]">Não! Estou tentando DETÊ-lo!</Text>
+<Text tag="[Conv_Q3Q5e_0024]">Como posso acreditar em você? Não posso ficar aqui. Humanos! Vocês são cheios de mentiras e enganos. Estou indo embora. Adeus.</Text>
+<Text tag="[Conv_Q3Q5e_0025]">Como posso acreditar em vocês? Não posso ficar aqui. Humanos! Vocês são cheios de mentiras e enganos. Estou indo embora. Adeus.</Text>
+<Text tag="[Conv_Q3Q5e_0026]">Como posso acreditar em vocês? Não posso ficar aqui. Humanos! Vocês são cheios de mentiras e enganos. Estou indo embora. Adeus.</Text>
+<Text tag="[Conv_Q3Q5e_0027]">Como posso acreditar em vocês? Não posso ficar aqui. Humanos! Vocês são cheios de mentiras e enganos. Estou indo embora. Adeus.</Text>
 
 </TextLibrary>

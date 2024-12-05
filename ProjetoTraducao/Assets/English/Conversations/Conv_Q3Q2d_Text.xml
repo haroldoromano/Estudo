@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q2d_NAME1]">Elistara</Text>
+<Text tag="[Conv_Q3Q2d_NAME1]">Elistara</Text>
 
-   <Text tag="[Conv_Q3Q2d_0000]">We did it!</Text>
-   <Text tag="[Conv_Q3Q2d_0001]">We did it!</Text>
-   <Text tag="[Conv_Q3Q2d_0002]">We did it!</Text>
-   <Text tag="[Conv_Q3Q2d_0003]">We did it!</Text>
-   <Text tag="[Conv_Q3Q2d_0004]">Perhaps there is a grain of truth in your words, Human.  Perhaps we can win this war after all.</Text>
-   <Text tag="[Conv_Q3Q2d_0005]">Perhaps there is a grain of truth in your words, Human.  Perhaps we can win this war after all.</Text>
-   <Text tag="[Conv_Q3Q2d_0006]">Perhaps there is a grain of truth in your words, Human.  Perhaps we can win this war after all.</Text>
-   <Text tag="[Conv_Q3Q2d_0007]">Perhaps there is a grain of truth in your words, Human.  Perhaps we can win this war after all.</Text>
-   <Text tag="[Conv_Q3Q2d_0008]">We will win it, Elistara, I promise!</Text>
-   <Text tag="[Conv_Q3Q2d_0009]">We will win it, Elistara, I promise!</Text>
-   <Text tag="[Conv_Q3Q2d_0010]">We will win it, Elistara, I promise!</Text>
-   <Text tag="[Conv_Q3Q2d_0011]">We will win it, Elistara, I promise!</Text>
+<Text tag="[Conv_Q3Q2d_0000]">Conseguimos!</Text>
+<Text tag="[Conv_Q3Q2d_0001]">Conseguimos!</Text>
+<Text tag="[Conv_Q3Q2d_0002]">Conseguimos!</Text>
+<Text tag="[Conv_Q3Q2d_0003]">Conseguimos!</Text>
+<Text tag="[Conv_Q3Q2d_0004]">Talvez haja um grão de verdade em suas palavras, Humano. Talvez possamos vencer esta guerra, afinal.</Text>
+<Text tag="[Conv_Q3Q2d_0005]">Talvez haja um grão de verdade em suas palavras, Humano. Talvez possamos vencer esta guerra, afinal.</Text>
+<Text tag="[Conv_Q3Q2d_0006]">Talvez haja um grão de verdade em suas palavras, Humano. Talvez possamos vencer esta guerra, afinal.</Text>
+<Text tag="[Conv_Q3Q2d_0007]">Talvez haja um grão de verdade em suas palavras, Humano. Talvez possamos vencer esta guerra, afinal.</Text>
+<Text tag="[Conv_Q3Q2d_0008]">Nós venceremos, Elistara, eu prometo!</Text>
+<Text tag="[Conv_Q3Q2d_0009]">Nós venceremos, Elistara, eu prometo!</Text>
+<Text tag="[Conv_Q3Q2d_0010]">Nós venceremos, Elistara, eu prometo!</Text>
+<Text tag="[Conv_Q3Q2d_0011]">Nós venceremos, Elistara, eu prometo!</Text>
 
 </TextLibrary>

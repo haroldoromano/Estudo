@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_Q3Q5cc_NAME1]">Lord Morthas</Text>
+<Text tag="[Conv_Q3Q5cc_NAME1]">Lord Morthas</Text>
 
-   <Text tag="[Conv_Q3Q5cc_0000]">You took your first steps on the Dark Path long ago when you released our brother Lord Moarg. My master has ordered us to let you pass!</Text>
-   <Text tag="[Conv_Q3Q5cc_0001]">You took your first steps on the Dark Path long ago when you released our brother Lord Moarg. My master has ordered us to let you pass!</Text>
-   <Text tag="[Conv_Q3Q5cc_0002]">You took your first steps on the Dark Path long ago when you released our brother Lord Moarg. My master has ordered us to let you pass!</Text>
-   <Text tag="[Conv_Q3Q5cc_0003]">You took your first steps on the Dark Path long ago when you released our brother Lord Moarg. My master has ordered us to let you pass!</Text>
-   <Text tag="[Conv_Q3Q5cc_0004]">Your master hasn&apos;t got a choice in the matter...</Text>
-   <Text tag="[Conv_Q3Q5cc_0005]">Your master hasn&apos;t got a choice in the matter...</Text>
-   <Text tag="[Conv_Q3Q5cc_0006]">Your master hasn&apos;t got a choice in the matter...</Text>
-   <Text tag="[Conv_Q3Q5cc_0007]">Your master hasn&apos;t got a choice in the matter...</Text>
+<Text tag="[Conv_Q3Q5cc_0000]">Você deu seus primeiros passos no Caminho das Trevas há muito tempo quando libertou nosso irmão Lord Moarg. Meu mestre nos ordenou que o deixássemos passar!</Text>
+<Text tag="[Conv_Q3Q5cc_0001]">Você deu seus primeiros passos no Caminho das Trevas há muito tempo quando libertou nosso irmão Lord Moarg. Meu mestre nos ordenou que o deixássemos passar!</Text>
+<Text tag="[Conv_Q3Q5cc_0002]">Você deu seus primeiros passos no Caminho das Trevas há muito tempo quando libertou nosso irmão Lord Moarg. Meu mestre nos ordenou que deixássemos você passar!</Text>
+<Text tag="[Conv_Q3Q5cc_0003]">Você deu seus primeiros passos no Caminho das Trevas há muito tempo quando libertou nosso irmão Lorde Moarg. Meu mestre nos ordenou que deixássemos você passar!</Text>
+<Text tag="[Conv_Q3Q5cc_0004]">Seu mestre não tem escolha no assunto...</Text>
+<Text tag="[Conv_Q3Q5cc_0005]">Seu mestre não tem escolha no assunto...</Text>
+<Text tag="[Conv_Q3Q5cc_0006]">Seu mestre não tem escolha no assunto...</Text>
+<Text tag="[Conv_Q3Q5cc_0007]">Seu mestre não tem escolha no assunto...</Text>
 
 </TextLibrary>
