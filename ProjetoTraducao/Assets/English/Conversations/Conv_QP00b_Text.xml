@@ -1,19 +1,20 @@
+</TextLibrary>
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QP00b_NAME1]">Patch</Text>
+<Text tag="[Conv_QP00b_NAME1]">Patch</Text>
 
-   <Text tag="[Conv_QP00b_0000]">No, no, NO!  They are GONE!  Somebody took my treasure!</Text>
-   <Text tag="[Conv_QP00b_0001]">No, no, NO!  They are GONE!  Somebody took my treasure!</Text>
-   <Text tag="[Conv_QP00b_0002]">No, no, NO!  They are GONE!  Somebody took my treasure!</Text>
-   <Text tag="[Conv_QP00b_0003]">No, no, NO!  They are GONE!  Somebody took my treasure!</Text>
-   <Text tag="[Conv_QP00b_0004]">We&apos;ve got to track them down! Those jewels are worth more than the whole city of Hyaan.</Text>
-   <Text tag="[Conv_QP00b_0005]">We&apos;ve got to track them down! Those jewels are worth more than the whole city of Hyaan.</Text>
-   <Text tag="[Conv_QP00b_0006]">We&apos;ve got to track them down! Those jewels are worth more than the whole city of Hyaan.</Text>
-   <Text tag="[Conv_QP00b_0007]">We&apos;ve got to track them down! Those jewels are worth more than the whole city of Hyaan.</Text>
-   <Text tag="[Conv_QP00b_0008]">We must go, go, GO!  NOW!</Text>
-   <Text tag="[Conv_QP00b_0009]">We must go, go, GO!  NOW!</Text>
-   <Text tag="[Conv_QP00b_0010]">We must go, go, GO!  NOW!</Text>
-   <Text tag="[Conv_QP00b_0011]">We must go, go, GO!  NOW!</Text>
+<Text tag="[Conv_QP00b_0000]">Não, não, NÃO! Eles SE FORAM! Alguém pegou meu tesouro!</Text>
+<Text tag="[Conv_QP00b_0001]">Não, não, NÃO! Eles SE FORAM! Alguém pegou meu tesouro!</Text>
+<Text tag="[Conv_QP00b_0002]">Não, não, NÃO! Eles SE FORAM! Alguém pegou meu tesouro!</Text>
+<Text tag="[Conv_QP00b_0003]">Não, não, NÃO! Eles SE FORAM! Alguém pegou meu tesouro!</Text>
+<Text tag="[Conv_QP00b_0004]">Temos que rastreá-los! Essas joias valem mais do que toda a cidade de Hyaan.</Text>
+<Text tag="[Conv_QP00b_0005]">Temos que rastreá-las! Essas joias valem mais do que toda a cidade de Hyaan.</Text>
+<Text tag="[Conv_QP00b_0006]">Temos que rastreá-las! Essas joias valem mais do que toda a cidade de Hyaan.</Text>
+<Text tag="[Conv_QP00b_0007]">Temos que rastreá-las! Essas joias valem mais do que toda a cidade de Hyaan.</Text>
+<Text tag="[Conv_QP00b_0008]">Temos que ir, ir, IR! AGORA!</Text>
+<Text tag="[Conv_QP00b_0009]">Temos que ir, ir, IR! AGORA!</Text>
+<Text tag="[Conv_QP00b_0010]">Devemos ir, ir, IR! AGORA!</Text>
+<Text tag="[Conv_QP00b_0011]">Devemos ir, ir, IR! AGORA!</Text>
 
 </TextLibrary>

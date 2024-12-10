@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QK03a_NAME1]">Khalkus</Text>
+<Text tag="[Conv_QK03a_NAME1]">Khalkus</Text>
 
-   <Text tag="[Conv_QK03a_0000]">There&apos;s another piece o&apos; the Great Machine nearby. Me detector&apos;s goin&apos; off the scale! I canna believe that...</Text>
-   <Text tag="[Conv_QK03a_0001]">There&apos;s another piece o&apos; the Great Machine nearby. Me detector&apos;s goin&apos; off the scale! I canna believe that...</Text>
-   <Text tag="[Conv_QK03a_0002]">There&apos;s another piece o&apos; the Great Machine nearby. Me detector&apos;s goin&apos; off the scale! I canna believe that...</Text>
-   <Text tag="[Conv_QK03a_0003]">There&apos;s another piece o&apos; the Great Machine nearby. Me detector&apos;s goin&apos; off the scale! I canna believe that...</Text>
-   <Text tag="[Conv_QK03a_0004]">Which way, Khalkus?</Text>
-   <Text tag="[Conv_QK03a_0005]">Which way, Khalkus?</Text>
-   <Text tag="[Conv_QK03a_0006]">Which way, Khalkus?</Text>
-   <Text tag="[Conv_QK03a_0007]">Which way, Khalkus?</Text>
-   <Text tag="[Conv_QK03a_0008]">Right. It&apos;s south o&apos; here. Looks to be near some Minotaur King&apos;s Arena or somesuch, but I bet that he&apos;d just as leave sell us the...</Text>
-   <Text tag="[Conv_QK03a_0009]">Right. It&apos;s south o&apos; here. Looks to be near some Minotaur King&apos;s Arena or somesuch, but I bet that he&apos;d just as leave sell us the...</Text>
-   <Text tag="[Conv_QK03a_0010]">Right. It&apos;s south o&apos; here. Looks to be near some Minotaur King&apos;s Arena or somesuch, but I bet that he&apos;d just as leave sell us the...</Text>
-   <Text tag="[Conv_QK03a_0011]">Right. It&apos;s south o&apos; here. Looks to be near some Minotaur King&apos;s Arena or somesuch, but I bet that he&apos;d just as leave sell us the...</Text>
-   <Text tag="[Conv_QK03a_0012]">Let&apos;s go.</Text>
-   <Text tag="[Conv_QK03a_0013]">Let&apos;s go.</Text>
-   <Text tag="[Conv_QK03a_0014]">Let&apos;s go.</Text>
-   <Text tag="[Conv_QK03a_0015]">Let&apos;s go.</Text>
+<Text tag="[Conv_QK03a_0000]">Há outra peça da Grande Máquina por perto. Meu detector está saindo da escala! Não acredito nisso...</Text>
+<Text tag="[Conv_QK03a_0001]">Há outra peça da Grande Máquina por perto. Meu detector está saindo da escala! Não acredito nisso...</Text>
+<Text tag="[Conv_QK03a_0002]">Há outra peça da Grande Máquina por perto. Meu detector está saindo da escala! Não acredito nisso...</Text>
+<Text tag="[Conv_QK03a_0003]">Há outra parte da Grande Máquina aqui perto. Meu detector está saindo da escala! Não acredito nisso...</Text>
+<Text tag="[Conv_QK03a_0004]">Para onde, Khalkus?</Text>
+<Text tag="[Conv_QK03a_0005]">Para onde, Khalkus?</Text>
+<Text tag="[Conv_QK03a_0006]">Para onde, Khalkus?</Text>
+<Text tag="[Conv_QK03a_0007]">Para onde, Khalkus?</Text>
+<Text tag="[Conv_QK03a_0008]">Certo. É ao sul daqui. Parece estar perto de alguma Arena do Rei Minotauro ou algo assim, mas aposto que ele iria nos vender o...</Text>
+<Text tag="[Conv_QK03a_0009]">Certo. Fica ao sul daqui. Parece estar perto de alguma Arena do Rei Minotauro ou algo assim, mas aposto que ele iria nos vender o...</Text>
+<Text tag="[Conv_QK03a_0010]">Certo. Fica ao sul daqui. Parece estar perto de alguma Arena do Rei Minotauro ou algo assim, mas aposto que ele iria nos vender o...</Text>
+<Text tag="[Conv_QK03a_0011]">Certo. Fica ao sul daqui. Parece estar perto de alguma Arena do Rei Minotauro ou algo assim, mas aposto que ele iria nos vender o...</Text>
+<Text tag="[Conv_QK03a_0012]">Vamos lá.</Text>
+<Text tag="[Conv_QK03a_0013]">Vamos lá.</Text>
+<Text tag="[Conv_QK03a_0014]">Vamos lá.</Text>
+<Text tag="[Conv_QK03a_0015]">Vamos lá.</Text>
 
 </TextLibrary>

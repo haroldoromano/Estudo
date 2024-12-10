@@ -1,15 +1,16 @@
+</TextLibrary>
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QP01c_NAME1]">Patch</Text>
+<Text tag="[Conv_QP01c_NAME1]">Patch</Text>
 
-   <Text tag="[Conv_QP01c_0000]">Look! More tracks - more TRACKS - the thieves were here! HERE! They are going to Weret. Go go GO!</Text>
-   <Text tag="[Conv_QP01c_0001]">Look! More tracks - more TRACKS - the thieves were here! HERE! They are going to Weret. Go go GO!</Text>
-   <Text tag="[Conv_QP01c_0002]">Look! More tracks - more TRACKS - the thieves were here! HERE! They are going to Weret. Go go GO!</Text>
-   <Text tag="[Conv_QP01c_0003]">Look! More tracks - more TRACKS - the thieves were here! HERE! They are going to Weret. Go go GO!</Text>
-   <Text tag="[Conv_QP01c_0004]">Let&apos;s keep going. We&apos;ll get them.</Text>
-   <Text tag="[Conv_QP01c_0005]">Let&apos;s keep going. We&apos;ll get them.</Text>
-   <Text tag="[Conv_QP01c_0006]">Let&apos;s keep going. We&apos;ll get them.</Text>
-   <Text tag="[Conv_QP01c_0007]">Let&apos;s keep going. We&apos;ll get them.</Text>
+<Text tag="[Conv_QP01c_0000]">Olha! Mais rastros - mais RASTREADORES - os ladrões estavam aqui! AQUI! Eles estão indo para Weret. Vai, vai, VAI!</Text>
+<Text tag="[Conv_QP01c_0001]">Olha! Mais rastros - mais RASTREADORES - os ladrões estavam aqui! AQUI! Eles estão indo para Weret. Vai, vai, VAI!</Text>
+<Text tag="[Conv_QP01c_0002]">Olha! Mais rastros - mais RASTREADORES - os ladrões estavam aqui! AQUI! Eles estão indo para Weret. Vai, vai, VAI!</Text>
+<Text tag="[Conv_QP01c_0003]">Olha! Mais rastros - mais RASTREADORES - os ladrões estavam aqui! AQUI! Eles estão indo para Weret. Vai, vai, VAI!</Text>
+<Text tag="[Conv_QP01c_0004]">Vamos continuar. Nós os pegaremos.</Text>
+<Text tag="[Conv_QP01c_0005]">Vamos continuar. Nós os pegaremos.</Text>
+<Text tag="[Conv_QP01c_0006]">Vamos continuar. Nós os pegaremos.</Text>
+<Text tag="[Conv_QP01c_0007]">Vamos continuar. Nós os pegaremos.</Text>
 
 </TextLibrary>

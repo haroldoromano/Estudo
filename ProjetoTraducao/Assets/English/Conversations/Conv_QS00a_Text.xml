@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QS00a_NAME1]">Princess Serephine</Text>
+<Text tag="[Conv_QS00a_NAME1]">Princesa Serephine</Text>
 
-   <Text tag="[Conv_QS00a_0000]">You look worried, Princess.  Is something wrong?</Text>
-   <Text tag="[Conv_QS00a_0001]">You look worried, Princess.  Is something wrong?</Text>
-   <Text tag="[Conv_QS00a_0002]">You look worried, Princess.  Is something wrong?</Text>
-   <Text tag="[Conv_QS00a_0003]">You look worried, Princess.  Is something wrong?</Text>
-   <Text tag="[Conv_QS00a_0004]">I have just received a message from a friend of mine in Enmouth.  I don&apos;t know how she found me here, but she says that she is in trouble and needs my help.</Text>
-   <Text tag="[Conv_QS00a_0005]">I have just received a message from a friend of mine in Enmouth.  I don&apos;t know how she found me here, but she says that she is in trouble and needs my help.</Text>
-   <Text tag="[Conv_QS00a_0006]">I have just received a message from a friend of mine in Enmouth.  I don&apos;t know how she found me here, but she says that she is in trouble and needs my help.</Text>
-   <Text tag="[Conv_QS00a_0007]">I have just received a message from a friend of mine in Enmouth.  I don&apos;t know how she found me here, but she says that she is in trouble and needs my help.</Text>
-   <Text tag="[Conv_QS00a_0008]">Do you trust this friend?</Text>
-   <Text tag="[Conv_QS00a_0009]">Do you trust this friend?</Text>
-   <Text tag="[Conv_QS00a_0010]">Do you trust this friend?</Text>
-   <Text tag="[Conv_QS00a_0011]">Do you trust this friend?</Text>
-   <Text tag="[Conv_QS00a_0012]">I have known her since we were girls.  She says that she is in trouble with my father, and it is a matter of life or death.  I&apos;m not even certain that I could help her, but someone as brave as you might be able to do something.</Text>
-   <Text tag="[Conv_QS00a_0013]">I have known her since we were girls.  She says that she is in trouble with my father, and it is a matter of life or death.  I&apos;m not even certain that I could help her, but someone as brave as you might be able to do something.</Text>
-   <Text tag="[Conv_QS00a_0014]">I have known her since we were girls.  She says that she is in trouble with my father, and it is a matter of life or death.  I&apos;m not even certain that I could help her, but someone as brave as you might be able to do something.</Text>
-   <Text tag="[Conv_QS00a_0015]">I have known her since we were girls.  She says that she is in trouble with my father, and it is a matter of life or death.  I&apos;m not even certain that I could help her, but someone as brave as you might be able to do something.</Text>
-   <Text tag="[Conv_QS00a_0016]">Do you ever stop manipulating people, Serephine? We&apos;ll go and help your friend - there&apos;s no need to butter me up.</Text>
-   <Text tag="[Conv_QS00a_0017]">Do you ever stop manipulating people, Serephine? We&apos;ll go and help your friend - there&apos;s no need to butter me up.</Text>
-   <Text tag="[Conv_QS00a_0018]">Do you ever stop manipulating people, Serephine? We&apos;ll go and help your friend - there&apos;s no need to butter me up.</Text>
-   <Text tag="[Conv_QS00a_0019]">Do you ever stop manipulating people, Serephine? We&apos;ll go and help your friend - there&apos;s no need to butter me up.</Text>
-   <Text tag="[Conv_QS00a_0020]">Oh, thank you. You ARE my hero, you know.</Text>
-   <Text tag="[Conv_QS00a_0021]">Oh, thank you. You ARE my hero, you know.</Text>
-   <Text tag="[Conv_QS00a_0022]">Oh, thank you. You&apos;re like the older sister I never had - always looking out for me.</Text>
-   <Text tag="[Conv_QS00a_0023]">Oh, thank you. You&apos;re like the older sister I never had - always looking out for me.</Text>
-   <Text tag="[Conv_QS00a_0024]">Yeah. Sure. As long as I&apos;m doing what you want me to do.</Text>
-   <Text tag="[Conv_QS00a_0025]">Yeah. Sure. As long as I&apos;m doing what you want me to do.</Text>
-   <Text tag="[Conv_QS00a_0026]">Yeah. Well, apparently somebody needs to...</Text>
-   <Text tag="[Conv_QS00a_0027]">Yeah. Well, apparently somebody needs to...</Text>
+<Text tag="[Conv_QS00a_0000]">Você parece preocupada, Princesa. Há algo errado?</Text>
+<Text tag="[Conv_QS00a_0001]">Você parece preocupada, Princesa. Há algo errado?</Text>
+<Text tag="[Conv_QS00a_0002]">Você parece preocupada, Princesa. Há algo errado?</Text>
+<Text tag="[Conv_QS00a_0003]">Você parece preocupada, Princesa. Há algo errado?</Text>
+<Text tag="[Conv_QS00a_0004]">Acabei de receber uma mensagem de um amigo meu em Enmouth. Não sei como ela me encontrou aqui, mas ela diz que está com problemas e precisa da minha ajuda.</Text>
+<Text tag="[Conv_QS00a_0005]">Acabei de receber uma mensagem de uma amiga minha em Enmouth. Não sei como ela me encontrou aqui, mas ela diz que está com problemas e precisa da minha ajuda.</Text>
+<Text tag="[Conv_QS00a_0006]">Acabei de receber uma mensagem de uma amiga minha em Enmouth. Não sei como ela me encontrou aqui, mas ela diz que está com problemas e precisa da minha ajuda.</Text>
+<Text tag="[Conv_QS00a_0007]">Acabei de receber uma mensagem de uma amiga minha em Enmouth. Não sei como ela me encontrou aqui, mas ela diz que está com problemas e precisa da minha ajuda.</Text>
+<Text tag="[Conv_QS00a_0008]">Você confia nessa amiga?</Text>
+<Text tag="[Conv_QS00a_0009]">Você confia nessa amiga?</Text>
+<Text tag="[Conv_QS00a_0010]">Você confia nessa amiga?</Text>
+<Text tag="[Conv_QS00a_0011]">Você confia nessa amiga?</Text>
+<Text tag="[Conv_QS00a_0012]">Eu a conheço desde que éramos meninas. Ela diz que está com problemas com meu pai, e é uma questão de vida ou morte. Eu nem tenho certeza se eu poderia ajudá-la, mas alguém tão corajosa quanto você pode fazer alguma coisa.</Text>
+<Text tag="[Conv_QS00a_0013]">Eu a conheço desde que éramos meninas. Ela diz que está com problemas com meu pai, e é uma questão de vida ou morte. Eu nem tenho certeza se eu poderia ajudá-la, mas alguém tão corajosa quanto você pode fazer alguma coisa.</Text>
+<Text tag="[Conv_QS00a_0014]">Eu a conheço desde que éramos meninas. Ela diz que está com problemas com meu pai, e é uma questão de vida ou morte. Eu nem tenho certeza se eu poderia ajudá-la, mas alguém tão corajosa quanto você pode fazer alguma coisa.</Text>
+<Text tag="[Conv_QS00a_0015]">Eu a conheço desde que éramos meninas. Ela diz que está com problemas com meu pai, e é uma questão de vida ou morte. Eu nem tenho certeza se eu poderia ajudá-la, mas alguém tão corajoso quanto você pode ser capaz de fazer alguma coisa.</Text>
+<Text tag="[Conv_QS00a_0016]">Você já parou de manipular as pessoas, Serephine? Nós vamos ajudar sua amiga - não precisa me bajular.</Text>
+<Text tag="[Conv_QS00a_0017]">Você já parou de manipular as pessoas, Serephine? Nós vamos ajudar sua amiga - não precisa me bajular.</Text>
+<Text tag="[Conv_QS00a_0018]">Você já parou de manipular as pessoas, Serephine? Nós iremos ajudar sua amiga - não precisa me bajular.</Text>
+<Text tag="[Conv_QS00a_0019]">Você nunca para de manipular as pessoas, Serephine? Nós iremos ajudar sua amiga - não precisa me bajular.</Text>
+<Text tag="[Conv_QS00a_0020]">Oh, obrigada. Você É minha heroína, sabia.</Text>
+<Text tag="[Conv_QS00a_0021]">Oh, obrigada. Você É minha heroína, sabia.</Text>
+<Text tag="[Conv_QS00a_0022]">Oh, obrigada. Você é como a irmã mais velha que eu nunca tive - sempre cuidando de mim.</Text>
+<Text tag="[Conv_QS00a_0023]">Oh, obrigada. Você é como a irmã mais velha que eu nunca tive - sempre cuidando de mim.</Text>
+<Text tag="[Conv_QS00a_0024]">Sim. Claro. Contanto que eu esteja fazendo o que você quer que eu faça.</Text>
+<Text tag="[Conv_QS00a_0025]">Sim. Claro. Contanto que eu esteja fazendo o que você quer que eu faça.</Text>
+<Text tag="[Conv_QS00a_0026]">Sim. Bem, aparentemente alguém precisa...</Text>
+<Text tag="[Conv_QS00a_0027]">Sim. Bem, aparentemente alguém precisa...</Text>
 
 </TextLibrary>

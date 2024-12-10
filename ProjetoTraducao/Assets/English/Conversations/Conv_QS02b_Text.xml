@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QS02b_NAME1]">Princess Serephine</Text>
+<Text tag="[Conv_QS02b_NAME1]">Princesa Serephine</Text>
 
-   <Text tag="[Conv_QS02b_0000]">Are we safe?</Text>
-   <Text tag="[Conv_QS02b_0001]">Are we safe?</Text>
-   <Text tag="[Conv_QS02b_0002]">Are we safe?</Text>
-   <Text tag="[Conv_QS02b_0003]">Are we safe?</Text>
-   <Text tag="[Conv_QS02b_0004]">No. There are still more of them. Stay close to me as we travel. They&apos;ll try again, I&apos;m sure of it.</Text>
-   <Text tag="[Conv_QS02b_0005]">No. There are still more of them. Stay close to me as we travel. They&apos;ll try again, I&apos;m sure of it.</Text>
-   <Text tag="[Conv_QS02b_0006]">No. There are still more of them. Stay close to me as we travel. They&apos;ll try again, I&apos;m sure of it.</Text>
-   <Text tag="[Conv_QS02b_0007]">No. There are still more of them. Stay close to me as we travel. They&apos;ll try again, I&apos;m sure of it.</Text>
-   <Text tag="[Conv_QS02b_0008]">Stay close? That would be my pleasure.</Text>
-   <Text tag="[Conv_QS02b_0009]">Stay close? That would be my pleasure.</Text>
-   <Text tag="[Conv_QS02b_0010]">Stay close? Just like one big happy family!</Text>
-   <Text tag="[Conv_QS02b_0011]">Stay close? Just like one big happy family!</Text>
-   <Text tag="[Conv_QS02b_0012]">Serephine! Enough!</Text>
-   <Text tag="[Conv_QS02b_0013]">Serephine! Enough!</Text>
-   <Text tag="[Conv_QS02b_0014]">Serephine! Enough!  We are not, nor will we ever be, sisters!</Text>
-   <Text tag="[Conv_QS02b_0015]">Serephine! Enough!  We are not, nor will we ever be, sisters!</Text>
+<Text tag="[Conv_QS02b_0000]">Estamos seguros?</Text>
+<Text tag="[Conv_QS02b_0001]">Estamos seguros?</Text>
+<Text tag="[Conv_QS02b_0002]">Estamos seguros?</Text>
+<Text tag="[Conv_QS02b_0003]">Estamos seguros?</Text>
+<Text tag="[Conv_QS02b_0004]">Não. Ainda há mais deles. Fique perto de mim enquanto viajamos. Eles tentarão de novo, tenho certeza.</Text>
+<Text tag="[Conv_QS02b_0005]">Não. Ainda há mais deles. Fique perto de mim enquanto viajamos. Eles tentarão de novo, tenho certeza.</Text>
+<Text tag="[Conv_QS02b_0006]">Não. Ainda há mais deles. Fique perto de mim enquanto viajamos. Eles tentarão de novo, tenho certeza.</Text>
+<Text tag="[Conv_QS02b_0007]">Não. Ainda há mais deles. Fique perto de mim enquanto viajamos. Eles tentarão de novo, tenho certeza.</Text>
+<Text tag="[Conv_QS02b_0008]">Ficar perto? Isso seria um prazer.</Text>
+<Text tag="[Conv_QS02b_0009]">Ficar por perto? Isso seria um prazer.</Text>
+<Text tag="[Conv_QS02b_0010]">Ficar por perto? Como uma grande família feliz!</Text>
+<Text tag="[Conv_QS02b_0011]">Ficar por perto? Como uma grande família feliz!</Text>
+<Text tag="[Conv_QS02b_0012]">Serephine! Já chega!</Text>
+<Text tag="[Conv_QS02b_0013]">Serephine! Já chega!</Text>
+<Text tag="[Conv_QS02b_0014]">Serephine! Já chega! Não somos, nem nunca seremos, irmãs!</Text>
+<Text tag="[Conv_QS02b_0015]">Serephine! Chega! Não somos, nem nunca seremos, irmãs!</Text>
 
 </TextLibrary>

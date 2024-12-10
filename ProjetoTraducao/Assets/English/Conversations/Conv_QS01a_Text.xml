@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QS01a_NAME1]">Princess Serephine</Text>
+<Text tag="[Conv_QS01a_NAME1]">Princesa Serephine</Text>
 
-   <Text tag="[Conv_QS01a_0000]">I knew you would come for me. You are my champion!</Text>
-   <Text tag="[Conv_QS01a_0001]">I knew you would come for me. You are my champion!</Text>
-   <Text tag="[Conv_QS01a_0002]">I knew you would come for me. One as kind and noble as you, could never leave a friend behind. It is just as I said - we are sisters, you and I.</Text>
-   <Text tag="[Conv_QS01a_0003]">I knew you would come for me. One as kind and noble as you, could never leave a friend behind. It is just as I said - we are sisters, you and I.</Text>
-   <Text tag="[Conv_QS01a_0004]">Save it, Serephine, or I WILL leave you behind.</Text>
-   <Text tag="[Conv_QS01a_0005]">Save it, Serephine, or I WILL leave you behind.</Text>
-   <Text tag="[Conv_QS01a_0006]">Save it, Serephine, or I WILL leave you behind.</Text>
-   <Text tag="[Conv_QS01a_0007]">Save it, Serephine, or I WILL leave you behind.</Text>
-   <Text tag="[Conv_QS01a_0008]">What do you mean?</Text>
-   <Text tag="[Conv_QS01a_0009]">What do you mean?</Text>
-   <Text tag="[Conv_QS01a_0010]">What do you mean?</Text>
-   <Text tag="[Conv_QS01a_0011]">What do you mean?</Text>
-   <Text tag="[Conv_QS01a_0012]">Come on, let&apos;s just get away from here...</Text>
-   <Text tag="[Conv_QS01a_0013]">Come on, let&apos;s just get away from here...</Text>
-   <Text tag="[Conv_QS01a_0014]">Come on, let&apos;s just get away from here...</Text>
-   <Text tag="[Conv_QS01a_0015]">Come on, let&apos;s just get away from here...</Text>
+<Text tag="[Conv_QS01a_0000]">Eu sabia que você viria por mim. Você é minha campeã!</Text>
+<Text tag="[Conv_QS01a_0001]">Eu sabia que você viria por mim. Você é minha campeã!</Text>
+<Text tag="[Conv_QS01a_0002]">Eu sabia que você viria por mim. Alguém tão gentil e nobre como você, nunca poderia deixar um amigo para trás. É exatamente como eu disse - somos irmãs, você e eu.</Text>
+<Text tag="[Conv_QS01a_0003]">Eu sabia que você viria por mim. Alguém tão gentil e nobre como você, nunca poderia deixar um amigo para trás. É exatamente como eu disse - somos irmãs, você e eu.</Text>
+<Text tag="[Conv_QS01a_0004]">Guarde, Serephine, ou eu VOU te deixar para trás.</Text>
+<Text tag="[Conv_QS01a_0005]">Guarde, Serephine, ou eu VOU te deixar para trás.</Text>
+<Text tag="[Conv_QS01a_0006]">Guarde, Serephine, ou eu VOU te deixar para trás.</Text>
+<Text tag="[Conv_QS01a_0007]">Guarde, Serephine, ou eu VOU te deixar para trás.</Text>
+<Text tag="[Conv_QS01a_0008]">O que você quer dizer?</Text>
+<Text tag="[Conv_QS01a_0009]">O que você quer dizer?</Text>
+<Text tag="[Conv_QS01a_0010]">O que você quer dizer?</Text>
+<Text tag="[Conv_QS01a_0011]">O que você quer dizer?</Text>
+<Text tag="[Conv_QS01a_0012]">Vamos, vamos sair daqui...</Text>
+<Text tag="[Conv_QS01a_0013]">Vamos, vamos sair daqui...</Text>
+<Text tag="[Conv_QS01a_0014]">Vamos, vamos sair daqui...</Text>
+<Text tag="[Conv_QS01a_0015]">Vamos, vamos sair daqui...</Text>
 
 </TextLibrary>

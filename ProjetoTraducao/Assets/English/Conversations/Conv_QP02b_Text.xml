@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QP02b_NAME0]">Khalkus</Text>
-   <Text tag="[Conv_QP02b_NAME1]">Patch</Text>
+<Text tag="[Conv_QP02b_NAME0]">Khalkus</Text>
+<Text tag="[Conv_QP02b_NAME1]">Patch</Text>
 
-   <Text tag="[Conv_QP02b_0000]">There ye go, Patch. All done! The vault&apos;s complete. I&apos;ve given ye triple thick walls reinforced by an iron buttress an&apos; a door that&apos;s exactly modeled on the one that King Oleg had. Then we&apos;ve put a lock...</Text>
-   <Text tag="[Conv_QP02b_0001]">There ye go, Patch. All done! The vault&apos;s complete. I&apos;ve given ye triple thick walls reinforced by an iron buttress an&apos; a door that&apos;s exactly modeled on the one that King Oleg had. Then we&apos;ve put a lock...</Text>
-   <Text tag="[Conv_QP02b_0002]">There ye go, Patch. All done! The vault&apos;s complete. I&apos;ve given ye triple thick walls reinforced by an iron buttress an&apos; a door that&apos;s exactly modeled on the one that King Oleg had. Then we&apos;ve put a lock...</Text>
-   <Text tag="[Conv_QP02b_0003]">There ye go, Patch. All done! The vault&apos;s complete. I&apos;ve given ye triple thick walls reinforced by an iron buttress an&apos; a door that&apos;s exactly modeled on the one that King Oleg had. Then we&apos;ve put a lock...</Text>
-   <Text tag="[Conv_QP02b_0004]">Hey hey HEY!  Shut UP!  My treasure will be SAFE?</Text>
-   <Text tag="[Conv_QP02b_0005]">Hey hey HEY!  Shut UP!  My treasure will be SAFE?</Text>
-   <Text tag="[Conv_QP02b_0006]">Hey hey HEY!  Shut UP!  My treasure will be SAFE?</Text>
-   <Text tag="[Conv_QP02b_0007]">Hey hey HEY!  Shut UP!  My treasure will be SAFE?</Text>
-   <Text tag="[Conv_QP02b_0008]">Aye, Lad, safer than a dungbeetle up a Griffon&apos;s bum. This vault can withstand...</Text>
-   <Text tag="[Conv_QP02b_0009]">Aye, Lad, safer than a dungbeetle up a Griffon&apos;s bum. This vault can withstand...</Text>
-   <Text tag="[Conv_QP02b_0010]">Aye, Lad, safer than a dungbeetle up a Griffon&apos;s bum. This vault can withstand...</Text>
-   <Text tag="[Conv_QP02b_0011]">Aye, Lad, safer than a dungbeetle up a Griffon&apos;s bum. This vault can withstand...</Text>
-   <Text tag="[Conv_QP02b_0012]">Okay, OKAY!  Thank you!  Now be QUIET!</Text>
-   <Text tag="[Conv_QP02b_0013]">Okay, OKAY!  Thank you!  Now be QUIET!</Text>
-   <Text tag="[Conv_QP02b_0014]">Okay, OKAY!  Thank you!  Now be QUIET!</Text>
-   <Text tag="[Conv_QP02b_0015]">Okay, OKAY!  Thank you!  Now be QUIET!</Text>
+<Text tag="[Conv_QP02b_0000]">Pronto, Patch. Tudo pronto! O cofre está completo. Eu dei a você paredes de espessura tripla reforçadas por um suporte de ferro e uma porta que é exatamente modelada na que o Rei Oleg tinha. Então colocamos uma fechadura...</Text>
+<Text tag="[Conv_QP02b_0001]">Pronto, Patch. Tudo pronto! O cofre está completo. Eu dei a você paredes de espessura tripla reforçadas por um suporte de ferro e uma porta que é exatamente modelada na que o Rei Oleg tinha. Então colocamos uma fechadura...</Text>
+<Text tag="[Conv_QP02b_0002]">Aí está, Patch. Tudo pronto! O cofre está completo. Eu dei a você paredes de espessura tripla reforçadas por um contraforte de ferro e uma porta que é exatamente modelada na que o Rei Oleg tinha. Então colocamos uma fechadura...</Text>
+<Text tag="[Conv_QP02b_0003]">Aí está, Patch. Tudo pronto! O cofre está completo. Eu dei a você paredes de espessura tripla reforçadas por um contraforte de ferro e uma porta que é exatamente modelada na que o Rei Oleg tinha. Então colocamos um cadeado...</Text>
+<Text tag="[Conv_QP02b_0004]">Ei, ei, ei! Cale a BOCA! Meu tesouro estará SEGURO?</Text>
+<Text tag="[Conv_QP02b_0005]">Ei, ei, ei! Cale a BOCA! Meu tesouro estará SEGURO?</Text>
+<Text tag="[Conv_QP02b_0006]">Ei, ei, ei! Cale a BOCA! Meu tesouro estará SEGURO?</Text>
+<Text tag="[Conv_QP02b_0007]">Ei, ei, ei! Cale a BOCA! Meu tesouro estará SEGURO?</Text>
+<Text tag="[Conv_QP02b_0008]">É, rapaz, mais seguro que um besouro de esterco no traseiro de um grifo. Este cofre pode suportar...</Text>
+<Text tag="[Conv_QP02b_0009]">Sim, rapaz, mais seguro que um besouro de esterco no traseiro de um grifo. Este cofre pode suportar...</Text>
+<Text tag="[Conv_QP02b_0010]">Sim, rapaz, mais seguro que um besouro de esterco no traseiro de um grifo. Este cofre pode suportar...</Text>
+<Text tag="[Conv_QP02b_0011]">Sim, rapaz, mais seguro que um besouro de esterco no traseiro de um grifo. Este cofre pode suportar...</Text>
+<Text tag="[Conv_QP02b_0012]">Ok, OK! Obrigado! Agora fique QUIETO!</Text>
+<Text tag="[Conv_QP02b_0013]">Ok, OK! Obrigado! Agora fique QUIETO!</Text>
+<Text tag="[Conv_QP02b_0014]">Ok, OK! Obrigado! Agora fique QUIETO!</Text>
+<Text tag="[Conv_QP02b_0015]">Ok, OK! Obrigado! Agora fique QUIETO!</Text>
 
 </TextLibrary>

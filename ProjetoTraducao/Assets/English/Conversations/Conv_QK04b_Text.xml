@@ -1,31 +1,31 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QK04b_NAME1]">Khalkus</Text>
+<Text tag="[Conv_QK04b_NAME1]">Khalkus</Text>
 
-   <Text tag="[Conv_QK04b_0000]">Oh, no! A piece is missin&apos;. One little piece! How could they take and hide one little piece and leave us with...</Text>
-   <Text tag="[Conv_QK04b_0001]">Oh, no! A piece is missin&apos;. One little piece! How could they take and hide one little piece and leave us with...</Text>
-   <Text tag="[Conv_QK04b_0002]">Oh, no! A piece is missin&apos;. One little piece! How could they take and hide one little piece and leave us with...</Text>
-   <Text tag="[Conv_QK04b_0003]">Oh, no! A piece is missin&apos;. One little piece! How could they take and hide one little piece and leave us with...</Text>
-   <Text tag="[Conv_QK04b_0004]">What piece is missing?</Text>
-   <Text tag="[Conv_QK04b_0005]">What piece is missing?</Text>
-   <Text tag="[Conv_QK04b_0006]">What piece is missing?</Text>
-   <Text tag="[Conv_QK04b_0007]">What piece is missing?</Text>
-   <Text tag="[Conv_QK04b_0008]">&apos;Tis the button that turns it on! I can put it together, but I canna turn it on. &apos;Tis a tragedy beyond imaginin&apos;. I canna tell ye how much I&apos;ve...</Text>
-   <Text tag="[Conv_QK04b_0009]">&apos;Tis the button that turns it on! I can put it together, but I canna turn it on. &apos;Tis a tragedy beyond imaginin&apos;. I canna tell ye how much I&apos;ve...</Text>
-   <Text tag="[Conv_QK04b_0010]">&apos;Tis the button that turns it on! I can put it together, but I canna turn it on. &apos;Tis a tragedy beyond imaginin&apos;. I canna tell ye how much I&apos;ve...</Text>
-   <Text tag="[Conv_QK04b_0011]">&apos;Tis the button that turns it on! I can put it together, but I canna turn it on. &apos;Tis a tragedy beyond imaginin&apos;. I canna tell ye how much I&apos;ve...</Text>
-   <Text tag="[Conv_QK04b_0012]">Can&apos;t you make another button? How hard can it be?</Text>
-   <Text tag="[Conv_QK04b_0013]">Can&apos;t you make another button? How hard can it be?</Text>
-   <Text tag="[Conv_QK04b_0014]">Can&apos;t you make another button? How hard can it be?</Text>
-   <Text tag="[Conv_QK04b_0015]">Can&apos;t you make another button? How hard can it be?</Text>
-   <Text tag="[Conv_QK04b_0016]">Ach, one little button it is, but the button needs to be perfect, else it&apos;ll throw everythin&apos; outa whack when we start &apos;er up. Oh I just canna... I&apos;m so... I just wanna...</Text>
-   <Text tag="[Conv_QK04b_0017]">Ach, one little button it is, but the button needs to be perfect, else it&apos;ll throw everythin&apos; outa whack when we start &apos;er up. Oh I just canna... I&apos;m so... I just wanna...</Text>
-   <Text tag="[Conv_QK04b_0018]">Ach, one little button it is, but the button needs to be perfect, else it&apos;ll throw everythin&apos; outa whack when we start &apos;er up. Oh I just canna... I&apos;m so... I just wanna...</Text>
-   <Text tag="[Conv_QK04b_0019]">Ach, one little button it is, but the button needs to be perfect, else it&apos;ll throw everythin&apos; outa whack when we start &apos;er up. Oh I just canna... I&apos;m so... I just wanna...</Text>
-   <Text tag="[Conv_QK04b_0020]">Calm down, Khalkus. We&apos;ll get the button.</Text>
-   <Text tag="[Conv_QK04b_0021]">Calm down, Khalkus. We&apos;ll get the button.</Text>
-   <Text tag="[Conv_QK04b_0022]">Calm down, Khalkus. We&apos;ll get the button.</Text>
-   <Text tag="[Conv_QK04b_0023]">Calm down, Khalkus. We&apos;ll get the button.</Text>
+<Text tag="[Conv_QK04b_0000]">Oh, não! Um pedaço está faltando. Um pedacinho! Como eles puderam pegar e esconder um pedacinho e nos deixar com...</Text>
+<Text tag="[Conv_QK04b_0001]">Oh, não! Um pedaço está faltando. Um pedacinho! Como eles puderam pegar e esconder um pedacinho e nos deixar com...</Text>
+<Text tag="[Conv_QK04b_0002]">Oh, não! Um pedaço está faltando. Um pedacinho! Como eles puderam pegar e esconder um pedacinho e nos deixar com...</Text>
+<Text tag="[Conv_QK04b_0003]">Oh, não! Um pedaço está faltando&apos;. Um pedacinho! Como eles puderam pegar e esconder um pedacinho e nos deixar com...</Text>
+<Text tag="[Conv_QK04b_0004]">Que pedaço está faltando?</Text>
+<Text tag="[Conv_QK04b_0005]">Que pedaço está faltando?</Text>
+<Text tag="[Conv_QK04b_0006]">Que pedaço está faltando?</Text>
+<Text tag="[Conv_QK04b_0007]">Que pedaço está faltando?</Text>
+<Text tag="[Conv_QK04b_0008]">&apos;É o botão que liga! Eu posso montá-lo, mas não posso ligá-lo. &apos;É uma tragédia além da imaginação&apos;. Não posso dizer o quanto eu...</Text>
+<Text tag="[Conv_QK04b_0009]">&apos;É o botão que liga! Eu posso montá-lo, mas não posso ligá-lo. &apos;É uma tragédia além da imaginação&apos;. Não posso dizer o quanto eu...</Text>
+<Text tag="[Conv_QK04b_0010]">&apos;É o botão que liga! Eu posso montá-lo, mas não posso ligá-lo. &apos;É uma tragédia além da imaginação&apos;. Não posso dizer o quanto eu...</Text>
+<Text tag="[Conv_QK04b_0011]">&apos;É o botão que liga! Eu posso montá-lo, mas não posso ligá-lo. &apos;É uma tragédia além da imaginação&apos;. Não sei dizer o quanto eu...</Text>
+<Text tag="[Conv_QK04b_0012]">Você não pode fazer outro botão? Quão difícil pode ser?</Text>
+<Text tag="[Conv_QK04b_0013]">Você não pode fazer outro botão? Quão difícil pode ser?</Text>
+<Text tag="[Conv_QK04b_0014]">Você não pode fazer outro botão? Quão difícil pode ser?</Text>
+<Text tag="[Conv_QK04b_0015]">Você não pode fazer outro botão? Quão difícil pode ser?</Text>
+<Text tag="[Conv_QK04b_0016]">Ah, é um botãozinho, mas o botão precisa ser perfeito, senão ele vai jogar tudo fora. fora de sintonia quando a gente começa a funcionar. Ah, eu simplesmente não posso... Eu estou tão... Eu só quero...</Text>
+<Text tag="[Conv_QK04b_0017]">Ah, é um botãozinho, mas o botão precisa ser perfeito, senão ele vai jogar tudo fora de sintonia quando a gente começa a funcionar. Ah, eu simplesmente não posso... Eu estou tão... Eu só quero...</Text>
+<Text tag="[Conv_QK04b_0018]">Ah, é um botãozinho, mas o botão precisa ser perfeito, senão ele vai jogar tudo fora de sintonia quando a gente começa a funcionar. Oh, eu simplesmente não posso... Eu estou tão... Eu só quero...</Text>
+<Text tag="[Conv_QK04b_0019]">Ah, é um pequeno botão, mas o botão precisa ser perfeito, senão ele vai jogar tudo para fora quando começarmos. Oh, eu simplesmente não posso... Eu estou tão... Eu só quero...</Text>
+<Text tag="[Conv_QK04b_0020]">Calma, Khalkus. Nós vamos pegar o botão.</Text>
+<Text tag="[Conv_QK04b_0021]">Calma, Khalkus. Nós vamos pegar o botão.</Text>
+<Text tag="[Conv_QK04b_0022]">Calma, Khalkus. Nós pegaremos o botão.</Text>
+<Text tag="[Conv_QK04b_0023]">Calma, Khalkus. Nós pegaremos o botão.</Text>
 
 </TextLibrary>

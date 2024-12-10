@@ -1,15 +1,16 @@
+</TextLibrary>
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QP01b_NAME1]">Patch</Text>
+<Text tag="[Conv_QP01b_NAME1]">Patch</Text>
 
-   <Text tag="[Conv_QP01b_0000]">The thieves that stole my treasure - they were here! HERE! Fresh tracks lead out to Tusk. Time to go!</Text>
-   <Text tag="[Conv_QP01b_0001]">The thieves that stole my treasure - they were here! HERE! Fresh tracks lead out to Tusk. Time to go!</Text>
-   <Text tag="[Conv_QP01b_0002]">The thieves that stole my treasure - they were here! HERE! Fresh tracks lead out to Tusk. Time to go!</Text>
-   <Text tag="[Conv_QP01b_0003]">The thieves that stole my treasure - they were here! HERE! Fresh tracks lead out to Tusk. Time to go!</Text>
-   <Text tag="[Conv_QP01b_0004]">I&apos;m right behind you.</Text>
-   <Text tag="[Conv_QP01b_0005]">I&apos;m right behind you.</Text>
-   <Text tag="[Conv_QP01b_0006]">I&apos;m right behind you.</Text>
-   <Text tag="[Conv_QP01b_0007]">I&apos;m right behind you.</Text>
+<Text tag="[Conv_QP01b_0000]">Os ladrões que roubaram meu tesouro - eles estavam aqui! AQUI! Novas pegadas levam a Tusk. Hora de ir!</Text>
+<Text tag="[Conv_QP01b_0001]">Os ladrões que roubaram meu tesouro - eles estavam aqui! AQUI! Novas pegadas levam a Tusk. Hora de ir!</Text>
+<Text tag="[Conv_QP01b_0002]">Os ladrões que roubaram meu tesouro - eles estavam aqui! AQUI! Novas pegadas levam a Tusk. Hora de ir!</Text>
+<Text tag="[Conv_QP01b_0003]">Os ladrões que roubaram meu tesouro - eles estavam aqui! AQUI! Novas trilhas levam até Tusk. Hora de ir!</Text>
+<Text tag="[Conv_QP01b_0004]">Estou bem atrás de você.</Text>
+<Text tag="[Conv_QP01b_0005]">Estou bem atrás de você.</Text>
+<Text tag="[Conv_QP01b_0006]">Estou bem atrás de você.</Text>
+<Text tag="[Conv_QP01b_0007]">Estou bem atrás de você.</Text>
 
 </TextLibrary>

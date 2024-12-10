@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QU02c_NAME1]">Sunspear&apos;s Spirit</Text>
+<Text tag="[Conv_QU02c_NAME1]">Espírito de Lançassolar</Text>
 
-   <Text tag="[Conv_QU02c_0000]">Sunspear, is that you?</Text>
-   <Text tag="[Conv_QU02c_0001]">Sunspear, is that you?</Text>
-   <Text tag="[Conv_QU02c_0002]">Sunspear, is that you?</Text>
-   <Text tag="[Conv_QU02c_0003]">Sunspear, is that you?</Text>
-   <Text tag="[Conv_QU02c_0004]">In a manner of speaking, yes it is.</Text>
-   <Text tag="[Conv_QU02c_0005]">In a manner of speaking, yes it is.</Text>
-   <Text tag="[Conv_QU02c_0006]">In a manner of speaking, yes it is.</Text>
-   <Text tag="[Conv_QU02c_0007]">In a manner of speaking, yes it is.</Text>
-   <Text tag="[Conv_QU02c_0008]">I can see right through you! You&apos;re not Undead are you?</Text>
-   <Text tag="[Conv_QU02c_0009]">I can see right through you! You&apos;re not Undead are you?</Text>
-   <Text tag="[Conv_QU02c_0010]">I can see right through you! You&apos;re not Undead are you?</Text>
-   <Text tag="[Conv_QU02c_0011]">I can see right through you! You&apos;re not Undead are you?</Text>
-   <Text tag="[Conv_QU02c_0012]">I am a spirit.  There is a difference.  I am not guided by the hand of evil.</Text>
-   <Text tag="[Conv_QU02c_0013]">I am a spirit.  There is a difference.  I am not guided by the hand of evil.</Text>
-   <Text tag="[Conv_QU02c_0014]">I am a spirit.  There is a difference.  I am not guided by the hand of evil.</Text>
-   <Text tag="[Conv_QU02c_0015]">I am a spirit.  There is a difference.  I am not guided by the hand of evil.</Text>
-   <Text tag="[Conv_QU02c_0016]">Did something go wrong?</Text>
-   <Text tag="[Conv_QU02c_0017]">Did something go wrong?</Text>
-   <Text tag="[Conv_QU02c_0018]">Did something go wrong?</Text>
-   <Text tag="[Conv_QU02c_0019]">Did something go wrong?</Text>
-   <Text tag="[Conv_QU02c_0020]">No, everything is as it should be.  I have been sent back to guide you. Your work is not done yet. Where once I helped you fight Minotaurs, now I have a unique insight into how to fight the Undead.</Text>
-   <Text tag="[Conv_QU02c_0021]">No, everything is as it should be.  I have been sent back to guide you. Your work is not done yet. Where once I helped you fight Minotaurs, now I have a unique insight into how to fight the Undead.</Text>
-   <Text tag="[Conv_QU02c_0022]">No, everything is as it should be.  I have been sent back to guide you. Your work is not done yet. Where once I helped you fight Minotaurs, now I have a unique insight into how to fight the Undead.</Text>
-   <Text tag="[Conv_QU02c_0023]">No, everything is as it should be.  I have been sent back to guide you. Your work is not done yet. Where once I helped you fight Minotaurs, now I have a unique insight into how to fight the Undead.</Text>
-   <Text tag="[Conv_QU02c_0024]">It&apos;s good to have you back, Sunspear.</Text>
-   <Text tag="[Conv_QU02c_0025]">It&apos;s good to have you back, Sunspear.</Text>
-   <Text tag="[Conv_QU02c_0026]">It&apos;s good to have you back, Sunspear.</Text>
-   <Text tag="[Conv_QU02c_0027]">It&apos;s good to have you back, Sunspear.</Text>
+<Text tag="[Conv_QU02c_0000]">Lançassolar, é você?</Text>
+<Text tag="[Conv_QU02c_0001]">Lançassolar, é você?</Text>
+<Text tag="[Conv_QU02c_0002]">Lançassolar, é você?</Text>
+<Text tag="[Conv_QU02c_0003]">Lançassolar, é você?</Text>
+<Text tag="[Conv_QU02c_0004]">De certa forma, sim, é.</Text>
+<Text tag="[Conv_QU02c_0005]">De certa forma falando, sim, é.</Text>
+<Text tag="[Conv_QU02c_0006]">De certa forma, sim, é.</Text>
+<Text tag="[Conv_QU02c_0007]">De certa forma, sim, é.</Text>
+<Text tag="[Conv_QU02c_0008]">Eu posso ver através de você! Você não é um morto-vivo, é?</Text>
+<Text tag="[Conv_QU02c_0009]">Eu posso ver através de você! Você não é um morto-vivo, é?</Text>
+<Text tag="[Conv_QU02c_0010]">Eu posso ver através de você! Você não é um morto-vivo, é?</Text>
+<Text tag="[Conv_QU02c_0011]">Eu posso ver através de você! Você não é um morto-vivo, é?</Text>
+<Text tag="[Conv_QU02c_0012]">Eu sou um espírito. Há uma diferença. Eu não sou guiado pela mão do mal.</Text>
+<Text tag="[Conv_QU02c_0013]">Eu sou um espírito. Há uma diferença. Eu não sou guiado pela mão do mal.</Text>
+<Text tag="[Conv_QU02c_0014]">Eu sou um espírito. Há uma diferença. Eu não sou guiado pela mão do mal.</Text>
+<Text tag="[Conv_QU02c_0015]">Eu sou um espírito. Há uma diferença. Não sou guiado pela mão do mal.</Text>
+<Text tag="[Conv_QU02c_0016]">Algo deu errado?</Text>
+<Text tag="[Conv_QU02c_0017]">Algo deu errado?</Text>
+<Text tag="[Conv_QU02c_0018]">Algo deu errado?</Text>
+<Text tag="[Conv_QU02c_0019]">Algo deu errado?</Text>
+<Text tag="[Conv_QU02c_0020]">Não, tudo está como deveria ser. Fui enviado de volta para guiá-lo. Seu trabalho ainda não acabou. Onde antes eu o ajudei a lutar contra Minotauros, agora tenho uma visão única de como lutar contra os Mortos-Vivos.</Text>
+<Text tag="[Conv_QU02c_0021]">Não, tudo está como deveria ser. Fui enviado de volta para guiá-lo. Seu trabalho ainda não acabou. Onde antes eu o ajudei a lutar contra Minotauros, agora tenho uma visão única de como lutar contra os Mortos-Vivos.</Text>
+<Text tag="[Conv_QU02c_0022]">Não, tudo está como deveria ser. Fui enviado de volta para guiá-lo. Seu trabalho ainda não acabou. Onde antes eu o ajudei a lutar contra Minotauros, agora tenho uma visão única de como lutar contra os Mortos-Vivos.</Text>
+<Text tag="[Conv_QU02c_0023]">Não, tudo está como deveria ser. Fui enviado de volta para guiá-lo. Seu trabalho ainda não acabou. Onde antes eu ajudava você a lutar contra Minotauros, agora tenho uma visão única de como lutar contra os Mortos-Vivos.</Text>
+<Text tag="[Conv_QU02c_0024]">É bom ter você de volta, Lança-Sol.</Text>
+<Text tag="[Conv_QU02c_0025]">É bom ter você de volta, Lança-Sol.</Text>
+<Text tag="[Conv_QU02c_0026]">É bom ter você de volta, Lança-Sol.</Text>
+<Text tag="[Conv_QU02c_0027]">É bom ter você de volta, Lança-Sol.</Text>
 
 </TextLibrary>

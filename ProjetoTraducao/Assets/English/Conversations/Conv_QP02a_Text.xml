@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QP02a_NAME0]">Khalkus</Text>
-   <Text tag="[Conv_QP02a_NAME1]">Patch</Text>
+<Text tag="[Conv_QP02a_NAME0]">Khalkus</Text>
+<Text tag="[Conv_QP02a_NAME1]">Patch</Text>
 
-   <Text tag="[Conv_QP02a_0000]">Listen &apos;ere, Lad.  You need somewhere safe to keep all that loot.</Text>
-   <Text tag="[Conv_QP02a_0001]">Listen &apos;ere, Lad.  You need somewhere safe to keep all that loot.</Text>
-   <Text tag="[Conv_QP02a_0002]">Listen &apos;ere, Lad.  You need somewhere safe to keep all that loot.</Text>
-   <Text tag="[Conv_QP02a_0003]">Listen &apos;ere, Lad.  You need somewhere safe to keep all that loot.</Text>
-   <Text tag="[Conv_QP02a_0004]">I will CARRY it!  Never letting it go again!</Text>
-   <Text tag="[Conv_QP02a_0005]">I will CARRY it!  Never letting it go again!</Text>
-   <Text tag="[Conv_QP02a_0006]">I will CARRY it!  Never letting it go again!</Text>
-   <Text tag="[Conv_QP02a_0007]">I will CARRY it!  Never letting it go again!</Text>
-   <Text tag="[Conv_QP02a_0008]">I tell ye what - hows about I build ye a big vault in Dhun-Kor. Then yer treasure&apos;ll be safe an&apos; ye can see it any time ye wants.</Text>
-   <Text tag="[Conv_QP02a_0009]">I tell ye what - hows about I build ye a big vault in Dhun-Kor. Then yer treasure&apos;ll be safe an&apos; ye can see it any time ye wants.</Text>
-   <Text tag="[Conv_QP02a_0010]">I tell ye what - hows about I build ye a big vault in Dhun-Kor. Then yer treasure&apos;ll be safe an&apos; ye can see it any time ye wants.</Text>
-   <Text tag="[Conv_QP02a_0011]">I tell ye what - hows about I build ye a big vault in Dhun-Kor. Then yer treasure&apos;ll be safe an&apos; ye can see it any time ye wants.</Text>
-   <Text tag="[Conv_QP02a_0012]">Yes! Big vault. VERY big vault.  With a VERY big lock. And VERY big key... No! Very SMALL key, and I will hide it. Yes...</Text>
-   <Text tag="[Conv_QP02a_0013]">Yes! Big vault. VERY big vault.  With a VERY big lock. And VERY big key... No! Very SMALL key, and I will hide it. Yes...</Text>
-   <Text tag="[Conv_QP02a_0014]">Yes! Big vault. VERY big vault.  With a VERY big lock. And VERY big key... No! Very SMALL key, and I will hide it. Yes...</Text>
-   <Text tag="[Conv_QP02a_0015]">Yes! Big vault. VERY big vault.  With a VERY big lock. And VERY big key... No! Very SMALL key, and I will hide it. Yes...</Text>
+<Text tag="[Conv_QP02a_0000]">Escute aqui, rapaz. Você precisa de um lugar seguro para guardar todo esse saque.</Text>
+<Text tag="[Conv_QP02a_0001]">Escute aqui, rapaz. Você precisa de um lugar seguro para guardar todo esse saque.</Text>
+<Text tag="[Conv_QP02a_0002]">Escute aqui, rapaz. Você precisa de um lugar seguro para guardar todo esse saque.</Text>
+<Text tag="[Conv_QP02a_0003]">Escute aqui, rapaz. Você precisa de um lugar seguro para guardar todo esse saque.</Text>
+<Text tag="[Conv_QP02a_0004]">Eu vou CARREGÁ-lo! Nunca mais vou soltá-lo!</Text>
+<Text tag="[Conv_QP02a_0005]">Eu vou CARREGÁ-lo! Nunca mais vou soltá-lo!</Text>
+<Text tag="[Conv_QP02a_0006]">Eu vou CARREGÁ-lo! Nunca mais vou soltá-lo!</Text>
+<Text tag="[Conv_QP02a_0007]">Eu vou CARREGÁ-lo! Nunca mais vou soltá-lo!</Text>
+<Text tag="[Conv_QP02a_0008]">Vou te dizer uma coisa - que tal eu construir um grande cofre em Dhun-Kor. Então seu tesouro estará seguro e você pode ver quando quiser.</Text>
+<Text tag="[Conv_QP02a_0009]">Eu te digo uma coisa - que tal eu construir um grande cofre em Dhun-Kor. Então seu tesouro estará seguro e você poderá vê-lo quando quiser.</Text>
+<Text tag="[Conv_QP02a_0010]">Eu te digo uma coisa - que tal eu construir um grande cofre em Dhun-Kor. Então seu tesouro estará seguro e você poderá vê-lo quando quiser.</Text>
+<Text tag="[Conv_QP02a_0011]">Eu te digo uma coisa - que tal eu construir um grande cofre em Dhun-Kor. Então seu tesouro estará seguro e você poderá vê-lo quando quiser.</Text>
+<Text tag="[Conv_QP02a_0012]">Sim! Grande cofre. Cofre MUITO grande. Com uma fechadura MUITO grande. E uma chave MUITO grande... Não! Uma chave MUITO PEQUENA, e eu vou escondê-la. Sim...</Text>
+<Text tag="[Conv_QP02a_0013]">Sim! Grande cofre. Cofre MUITO grande. Com uma fechadura MUITO grande. E uma chave MUITO grande... Não! Uma chave MUITO PEQUENA, e eu vou escondê-la. Sim...</Text>
+<Text tag="[Conv_QP02a_0014]">Sim! Grande cofre. Cofre MUITO grande. Com uma fechadura MUITO grande. E uma chave MUITO grande... Não! Uma chave MUITO PEQUENA, e eu vou escondê-la. Sim...</Text>
+<Text tag="[Conv_QP02a_0015]">Sim! Grande cofre. Cofre MUITO grande. Com uma fechadura MUITO grande. E uma chave MUITO grande... Não! Uma chave MUITO PEQUENA, e eu vou escondê-la. Sim...</Text>
 
 </TextLibrary>

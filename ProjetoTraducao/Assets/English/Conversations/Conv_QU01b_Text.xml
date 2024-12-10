@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QU01b_NAME1]">Sunspear</Text>
+<Text tag="[Conv_QU01b_NAME1]">Lança Solar</Text>
 
-   <Text tag="[Conv_QU01b_0000]">Ahh, my apologies, the Arboleth was a poor choice.</Text>
-   <Text tag="[Conv_QU01b_0001]">Ahh, my apologies, the Arboleth was a poor choice.</Text>
-   <Text tag="[Conv_QU01b_0002]">Ahh, my apologies, the Arboleth was a poor choice.</Text>
-   <Text tag="[Conv_QU01b_0003]">Ahh, my apologies, the Arboleth was a poor choice.</Text>
-   <Text tag="[Conv_QU01b_0004]">Why is that?</Text>
-   <Text tag="[Conv_QU01b_0005]">Why is that?</Text>
-   <Text tag="[Conv_QU01b_0006]">Why is that?</Text>
-   <Text tag="[Conv_QU01b_0007]">Why is that?</Text>
-   <Text tag="[Conv_QU01b_0008]">Once it has defeated me, it would consume my body and I would become part of it.  That is not a fitting death for a warrior.</Text>
-   <Text tag="[Conv_QU01b_0009]">Once it has defeated me, it would consume my body and I would become part of it.  That is not a fitting death for a warrior.</Text>
-   <Text tag="[Conv_QU01b_0010]">Once it has defeated me, it would consume my body and I would become part of it.  That is not a fitting death for a warrior.</Text>
-   <Text tag="[Conv_QU01b_0011]">Once it has defeated me, it would consume my body and I would become part of it.  That is not a fitting death for a warrior.</Text>
-   <Text tag="[Conv_QU01b_0012]">Alright, then. We&apos;ll just have to keep looking.</Text>
-   <Text tag="[Conv_QU01b_0013]">Alright, then. We&apos;ll just have to keep looking.</Text>
-   <Text tag="[Conv_QU01b_0014]">Alright, then. We&apos;ll just have to keep looking.</Text>
-   <Text tag="[Conv_QU01b_0015]">Alright, then. We&apos;ll just have to keep looking.</Text>
+<Text tag="[Conv_QU01b_0000]">Ahh, minhas desculpas, o Arboleth foi uma escolha ruim.</Text>
+<Text tag="[Conv_QU01b_0001]">Ahh, minhas desculpas, o Arboleth foi uma escolha ruim.</Text>
+<Text tag="[Conv_QU01b_0002]">Ahh, minhas desculpas, o Arboleth foi uma escolha ruim.</Text>
+<Text tag="[Conv_QU01b_0003]">Ahh, minhas desculpas, o Arboleth foi uma escolha ruim.</Text>
+<Text tag="[Conv_QU01b_0004]">Por que isso?</Text>
+<Text tag="[Conv_QU01b_0005]">Por que isso?</Text>
+<Text tag="[Conv_QU01b_0006]">Por que isso?</Text>
+<Text tag="[Conv_QU01b_0007]">Por que isso?</Text>
+<Text tag="[Conv_QU01b_0008]">Depois que me derrotar, consumirá meu corpo e eu me tornarei parte dele. Essa não é uma morte adequada para um guerreiro.</Text>
+<Text tag="[Conv_QU01b_0009]">Depois que me derrotar, consumirá meu corpo e eu me tornarei parte dele. Essa não é uma morte adequada para um guerreiro.</Text>
+<Text tag="[Conv_QU01b_0010]">Depois que me derrotar, consumirá meu corpo e eu me tornarei parte dele. Essa não é uma morte adequada para um guerreiro.</Text>
+<Text tag="[Conv_QU01b_0011]">Depois que ele me derrotar, ele consumirá meu corpo e eu me tornarei parte dele. Essa não é uma morte adequada para um guerreiro.</Text>
+<Text tag="[Conv_QU01b_0012]">Tudo bem, então. Teremos que continuar procurando.</Text>
+<Text tag="[Conv_QU01b_0013]">Tudo bem, então. Teremos que continuar procurando.</Text>
+<Text tag="[Conv_QU01b_0014]">Tudo bem, então. Teremos que continuar procurando.</Text>
+<Text tag="[Conv_QU01b_0015]">Tudo bem, então. Teremos que continuar procurando.</Text>
 
 </TextLibrary>

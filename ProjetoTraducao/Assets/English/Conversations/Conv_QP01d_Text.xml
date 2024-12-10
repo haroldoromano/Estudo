@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QP01d_NAME1]">Patch</Text>
+<Text tag="[Conv_QP01d_NAME1]">Patch</Text>
 
-   <Text tag="[Conv_QP01d_0000]">Ahhh... My treasure is back.  I will never leave it again, never, ever, ever...</Text>
-   <Text tag="[Conv_QP01d_0001]">Ahhh... My treasure is back.  I will never leave it again, never, ever, ever...</Text>
-   <Text tag="[Conv_QP01d_0002]">Ahhh... My treasure is back.  I will never leave it again, never, ever, ever...</Text>
-   <Text tag="[Conv_QP01d_0003]">Ahhh... My treasure is back.  I will never leave it again, never, ever, ever...</Text>
-   <Text tag="[Conv_QP01d_0004]">I can understand why, Patch.  It&apos;s beautiful.</Text>
-   <Text tag="[Conv_QP01d_0005]">I can understand why, Patch.  It&apos;s beautiful.</Text>
-   <Text tag="[Conv_QP01d_0006]">I can understand why, Patch.  It&apos;s beautiful.</Text>
-   <Text tag="[Conv_QP01d_0007]">I can understand why, Patch.  It&apos;s beautiful.</Text>
-   <Text tag="[Conv_QP01d_0008]">You are my good friend! Have some treasure! It is payment for helping me get it all back.</Text>
-   <Text tag="[Conv_QP01d_0009]">You are my good friend! Have some treasure! It is payment for helping me get it all back.</Text>
-   <Text tag="[Conv_QP01d_0010]">You are my good friend! Have some treasure! It is payment for helping me get it all back.</Text>
-   <Text tag="[Conv_QP01d_0011]">You are my good friend! Have some treasure! It is payment for helping me get it all back.</Text>
+<Text tag="[Conv_QP01d_0000]">Ahhh... Meu tesouro está de volta. Eu nunca mais o deixarei, nunca, nunca, nunca...</Text>
+<Text tag="[Conv_QP01d_0001]">Ahhh... Meu tesouro está de volta. Eu nunca mais o deixarei, nunca, nunca, nunca...</Text>
+<Text tag="[Conv_QP01d_0002]">Ahhh... Meu tesouro está de volta. Eu nunca mais o deixarei, nunca, nunca, nunca...</Text>
+<Text tag="[Conv_QP01d_0003]">Ahhh... Meu tesouro está de volta. Nunca mais vou deixá-lo, nunca, nunca, nunca...</Text>
+<Text tag="[Conv_QP01d_0004]">Eu posso entender o porquê, Patch. É lindo.</Text>
+<Text tag="[Conv_QP01d_0005]">Eu posso entender o porquê, Patch. É lindo.</Text>
+<Text tag="[Conv_QP01d_0006]">Eu posso entender o porquê, Patch. É lindo.</Text>
+<Text tag="[Conv_QP01d_0007]">Eu posso entender o porquê, Patch. É lindo.</Text>
+<Text tag="[Conv_QP01d_0008]">Você é meu bom amigo! Tenha um tesouro! É o pagamento por me ajudar a recuperá-lo.</Text>
+<Text tag="[Conv_QP01d_0009]">Você é meu bom amigo! Tenha algum tesouro! É o pagamento por me ajudar a ter tudo de volta.</Text>
+<Text tag="[Conv_QP01d_0010]">Você é meu bom amigo! Tenha algum tesouro! É o pagamento por me ajudar a ter tudo de volta.</Text>
+<Text tag="[Conv_QP01d_0011]">Você é meu bom amigo! Tenha algum tesouro! É o pagamento por me ajudar a ter tudo de volta.</Text>
 
 </TextLibrary>

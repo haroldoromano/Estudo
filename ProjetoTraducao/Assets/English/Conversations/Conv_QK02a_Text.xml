@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[Conv_QK02a_NAME1]">Khalkus</Text>
+<Text tag="[Conv_QK02a_NAME1]">Khalkus</Text>
 
-   <Text tag="[Conv_QK02a_0000]">Guess what? I&apos;ve been buildin&apos; a detector device that can pinpoint the location for bits o&apos; the Great Machine. Well ye&apos;ll never believe...</Text>
-   <Text tag="[Conv_QK02a_0001]">Guess what? I&apos;ve been buildin&apos; a detector device that can pinpoint the location for bits o&apos; the Great Machine. Well ye&apos;ll never believe...</Text>
-   <Text tag="[Conv_QK02a_0002]">Guess what? I&apos;ve been buildin&apos; a detector device that can pinpoint the location for bits o&apos; the Great Machine. Well ye&apos;ll never believe...</Text>
-   <Text tag="[Conv_QK02a_0003]">Guess what? I&apos;ve been buildin&apos; a detector device that can pinpoint the location for bits o&apos; the Great Machine. Well ye&apos;ll never believe...</Text>
-   <Text tag="[Conv_QK02a_0004]">Have you found another piece?</Text>
-   <Text tag="[Conv_QK02a_0005]">Have you found another piece?</Text>
-   <Text tag="[Conv_QK02a_0006]">Have you found another piece?</Text>
-   <Text tag="[Conv_QK02a_0007]">Have you found another piece?</Text>
-   <Text tag="[Conv_QK02a_0008]">Oh, aye, I have. It&apos;s in a Worm Cave southeast o&apos; Dhun-Kor. Ye&apos;re comin&apos; arent&apos; ye? &apos;Cos I mean it wouldna do to leave a thing o&apos; such beauty in a dusty ol&apos; cave with...</Text>
-   <Text tag="[Conv_QK02a_0009]">Oh, aye, I have. It&apos;s in a Worm Cave southeast o&apos; Dhun-Kor. Ye&apos;re comin&apos; arent&apos; ye? &apos;Cos I mean it wouldna do to leave a thing o&apos; such beauty in a dusty ol&apos; cave with...</Text>
-   <Text tag="[Conv_QK02a_0010]">Oh, aye, I have. It&apos;s in a Worm Cave southeast o&apos; Dhun-Kor. Ye&apos;re comin&apos; arent&apos; ye? &apos;Cos I mean it wouldna do to leave a thing o&apos; such beauty in a dusty ol&apos; cave with...</Text>
-   <Text tag="[Conv_QK02a_0011]">Oh, aye, I have. It&apos;s in a Worm Cave southeast o&apos; Dhun-Kor. Ye&apos;re comin&apos; arent&apos; ye? &apos;Cos I mean it wouldna do to leave a thing o&apos; such beauty in a dusty ol&apos; cave with...</Text>
-   <Text tag="[Conv_QK02a_0012]">Come on, Khalkus, let&apos;s go.</Text>
-   <Text tag="[Conv_QK02a_0013]">Come on, Khalkus, let&apos;s go.</Text>
-   <Text tag="[Conv_QK02a_0014]">Come on, Khalkus, let&apos;s go.</Text>
-   <Text tag="[Conv_QK02a_0015]">Come on, Khalkus, let&apos;s go.</Text>
+<Text tag="[Conv_QK02a_0000]">Adivinha? Eu tenho construído um dispositivo detector que pode apontar a localização de bits da Grande Máquina. Bem, vocês nunca vão acreditar...</Text>
+<Text tag="[Conv_QK02a_0001]">Adivinha? Eu tenho construído um dispositivo detector que pode apontar a localização de bits da Grande Máquina. Bem, vocês nunca vão acreditar...</Text>
+<Text tag="[Conv_QK02a_0002]">Adivinha? Eu tenho construído um dispositivo detector que pode apontar a localização de bits da Grande Máquina. Bem, vocês nunca vão acreditar...</Text>
+<Text tag="[Conv_QK02a_0003]">Adivinhem? Eu tenho construído um dispositivo detector que pode apontar a localização de bits da Grande Máquina. Bem, vocês nunca vão acreditar...</Text>
+<Text tag="[Conv_QK02a_0004]">Você encontrou outra peça?</Text>
+<Text tag="[Conv_QK02a_0005]">Você encontrou outra peça?</Text>
+<Text tag="[Conv_QK02a_0006]">Você encontrou outra peça?</Text>
+<Text tag="[Conv_QK02a_0007]">Você encontrou outra peça?</Text>
+<Text tag="[Conv_QK02a_0008]">Ah, sim, eu encontrei. Está em uma caverna de vermes a sudeste de Dhun-Kor. Vocês estão vindo, não estão? Porque eu quero dizer que não seria bom deixar uma coisa tão bonita em um velho e empoeirado caverna com...</Text>
+<Text tag="[Conv_QK02a_0009]">Oh, sim, eu tenho. Está em uma caverna de vermes a sudeste de Dhun-Kor. Vocês estão vindo, não estão? Porque eu quero dizer que não faria bem deixar uma coisa de tamanha beleza em uma caverna empoeirada com...</Text>
+<Text tag="[Conv_QK02a_0010]">Oh, sim, eu tenho. Está em uma caverna de vermes a sudeste de Dhun-Kor. Vocês estão vindo, não estão? Porque eu quero dizer que não faria bem deixar uma coisa de tamanha beleza em uma caverna empoeirada caverna com...</Text>
+<Text tag="[Conv_QK02a_0011]">Oh, sim, eu tenho. É em uma caverna de vermes a sudeste de Dhun-Kor. Vocês estão vindo, não estão? Porque eu quero dizer que não seria bom deixar uma coisa de tamanha beleza em um velho e empoeirado caverna com...</Text>
+<Text tag="[Conv_QK02a_0012]">Vamos, Khalkus, vamos lá.</Text>
+<Text tag="[Conv_QK02a_0013]">Vamos, Khalkus, vamos lá.</Text>
+<Text tag="[Conv_QK02a_0014]">Vamos, Khalkus, vamos lá.</Text>
+<Text tag="[Conv_QK02a_0015]">Vamos, Khalkus, vamos lá.</Text>
 
 </TextLibrary>
