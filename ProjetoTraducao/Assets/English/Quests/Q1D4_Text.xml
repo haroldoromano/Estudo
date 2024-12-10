@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1D4_ACTION]">Search for a Sea Serpent</Text>
-   <Text tag="[QUEST_Q1D4_FAILURE]">The Sea Serpent slips away beneath the waves.  You will need to keep searching.</Text>
-   <Text tag="[QUEST_Q1D4_KILL]">You have defeated the Sea Serpent. Now you just need to get it back to Drong.</Text>
-   <Text tag="[QUEST_Q1D4_RETURN]">Visit Drong</Text>
-   <Text tag="[QUEST_Q1D4_REWARD]">Drong joins you.  He will do +10 damage to any animals you fight at the beginning of a battle.</Text>
-   <Text tag="[QUEST_Q1D4_STEP1]">You must travel to Drakenburg and search for a Sea Serpent.</Text>
-   <Text tag="[QUEST_Q1D4_STEP2]">You must return the Sea Serpent to Drong in his Tower.</Text>
+<Text tag="[QUEST_Q1D4_ACTION]">Procurar uma Serpente Marinha</Text>
+<Text tag="[QUEST_Q1D4_FAILURE]">A Serpente Marinha desaparece sob as ondas. Você precisará continuar procurando.</Text>
+<Text tag="[QUEST_Q1D4_KILL]">Você derrotou a Serpente Marinha. Agora você só precisa levá-la de volta para Drong.</Text>
+<Text tag="[QUEST_Q1D4_RETURN]">Visite Drong</Text>
+<Text tag="[QUEST_Q1D4_REWARD]">Drong se junta a você. Ele causará +10 de dano a qualquer animal que você lutar no início de uma batalha.</Text>
+<Text tag="[QUEST_Q1D4_STEP1]">Você deve viajar para Drakenburg e procurar por uma Serpente Marinha.</Text>
+<Text tag="[QUEST_Q1D4_STEP2]">Você deve devolver a Serpente Marinha para Drong em sua Torre.</Text>
 
 </TextLibrary>

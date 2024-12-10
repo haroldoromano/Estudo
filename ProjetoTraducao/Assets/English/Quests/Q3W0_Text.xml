@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3W0_ACTION1]">Fight the Wolf</Text>
-   <Text tag="[QUEST_Q3W0_ACTION2]">Chase away the Wolf Pack</Text>
-   <Text tag="[QUEST_Q3W0_ACTION3]">Fight the Doomknight</Text>
-   <Text tag="[QUEST_Q3W0_FAILURE1]">You have failed to defeat the Wolf.</Text>
-   <Text tag="[QUEST_Q3W0_FAILURE2]">You have failed to defeat the Doomknight.</Text>
-   <Text tag="[QUEST_Q3W0_MESSAGE]">You can either continue to chase the wolf pack or help them reclaim their homeland from the Undead.</Text>
-   <Text tag="[QUEST_Q3W0_PROGRESS1]">Chase away the wolf pack that&apos;s been terrorizing the Elves at Tirianin.</Text>
-   <Text tag="[QUEST_Q3W0_PROGRESS2]">Chase away the wolf pack or help the wolf pack reclaim their homeland.</Text>
-   <Text tag="[QUEST_Q3W0_REWARD1]">You have successfully chased away the wolf pack. You receive the Wolfbane Cloak.</Text>
-   <Text tag="[QUEST_Q3W0_REWARD2]">You have defeated the Doomknight. The Wolves can return to their home.</Text>
+<Text tag="[QUEST_Q3W0_ACTION1]">Lute contra o Lobo</Text>
+<Text tag="[QUEST_Q3W0_ACTION2]">Afaste a Matilha de Lobos</Text>
+<Text tag="[QUEST_Q3W0_ACTION3]">Lute contra o Cavaleiro da Perdição</Text>
+<Text tag="[QUEST_Q3W0_FAILURE1]">Você falhou em derrotar o Lobo.</Text>
+<Text tag="[QUEST_Q3W0_FAILURE2]">Você falhou em derrotar o Cavaleiro da Perdição.</Text>
+<Text tag="[QUEST_Q3W0_MESSAGE]">Você pode continuar a perseguir a matilha de lobos ou ajudá-los a recuperar sua terra natal dos Mortos-Vivos.</Text>
+<Text tag="[QUEST_Q3W0_PROGRESS1]">Afaste a matilha de lobos que está aterrorizando os Elfos em Tirianin.</Text>
+<Text tag="[QUEST_Q3W0_PROGRESS2]">Afaste a matilha de lobos ou ajude a matilha a recuperar sua terra natal.</Text>
+<Text tag="[QUEST_Q3W0_REWARD1]">Você afugentou a matilha de lobos com sucesso. Você recebeu a Capa Wolfbane.</Text>
+<Text tag="[QUEST_Q3W0_REWARD2]">Você derrotou o Doomknight. Os Lobos podem retornar para seu lar.</Text>
 
 </TextLibrary>

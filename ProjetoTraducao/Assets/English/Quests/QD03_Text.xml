@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QD03_ACTION]">Battle the Dark Dwarves</Text>
-   <Text tag="[QUEST_QD03_DRONG]">You do not need to battle the Dark Dwarves as Drong is not here to try any of the Diamonds. You should return with Drong.</Text>
-   <Text tag="[QUEST_QD03_FAILURE]">You have failed to pry any diamonds from the Dark Dwarves. Drong is still hungry.</Text>
-   <Text tag="[QUEST_QD03_REWARD]">Drong rewards you for finding him a delicious diamond.</Text>
-   <Text tag="[QUEST_QD03_STEP1]">You must journey to the Lake of Blood to find a diamond for Drong.</Text>
+<Text tag="[QUEST_QD03_ACTION]">Lute contra os Anões Negros</Text>
+<Text tag="[QUEST_QD03_DRONG]">Você não precisa lutar contra os Anões Negros, pois Drong não está aqui para tentar nenhum dos Diamantes. Você deve retornar com Drong.</Text>
+<Text tag="[QUEST_QD03_FAILURE]">Você falhou em arrancar nenhum diamante dos Anões Negros. Drong ainda está com fome.</Text>
+<Text tag="[QUEST_QD03_REWARD]">Drong recompensa você por encontrar um diamante delicioso para ele.</Text>
+<Text tag="[QUEST_QD03_STEP1]">Você deve viajar até o Lago de Sangue para encontrar um diamante para Drong.</Text>
 
 </TextLibrary>

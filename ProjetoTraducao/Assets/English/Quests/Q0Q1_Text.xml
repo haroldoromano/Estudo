@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0Q1_ACTION]">Search the Crypt</Text>
-   <Text tag="[QUEST_Q0Q1_FAILURE]">The Skeleton is still at large, you must continue your search for it.</Text>
-   <Text tag="[QUEST_Q0Q1_REWARD]">You have slain the Skeleton, but there appears to be no evidence of any cult activity.</Text>
-   <Text tag="[QUEST_Q0Q1_QMNAME0]">Rogue Skeleton</Text>
-   <Text tag="[QUEST_Q0Q1_QMHELP0]">This skeleton has a Ring of Earth that increases his Green Mana.</Text>
+<Text tag="[QUEST_Q0Q1_ACTION]">Procure na Cripta</Text>
+<Text tag="[QUEST_Q0Q1_FAILURE]">O Esqueleto ainda está solto, você deve continuar sua busca por ele.</Text>
+<Text tag="[QUEST_Q0Q1_REWARD]">Você matou o Esqueleto, mas não parece haver nenhuma evidência de atividade de culto.</Text>
+<Text tag="[QUEST_Q0Q1_QMNAME0]">Esqueleto Ladino</Text>
+<Text tag="[QUEST_Q0Q1_QMHELP0]">Este esqueleto tem um Anel de Terra que aumenta seu Mana Verde.</Text>
 
 </TextLibrary>

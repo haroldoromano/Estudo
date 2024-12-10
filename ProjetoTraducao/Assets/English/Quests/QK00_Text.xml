@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QK00_ACTION]">Battle the Ogre Mage</Text>
-   <Text tag="[QUEST_QK00_FAILURE]">You have failed to defeat the Ogre Mage. You must try again.</Text>
-   <Text tag="[QUEST_QK00_NOCOMP]">You will need Khalkus with you to find the machinery.</Text>
-   <Text tag="[QUEST_QK00_REWARD]">You have found the first part of the Great Machine.</Text>
-   <Text tag="[QUEST_QK00_STEP1]">You must travel to Gork and battle an Ogre Mage.</Text>
+<Text tag="[QUEST_QK00_ACTION]">Lute contra o Ogre Mage</Text>
+<Text tag="[QUEST_QK00_FAILURE]">Você falhou em derrotar o Ogre Mage. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_QK00_NOCOMP]">Você precisará de Khalkus com você para encontrar a maquinaria.</Text>
+<Text tag="[QUEST_QK00_REWARD]">Você encontrou a primeira parte da Great Machine.</Text>
+<Text tag="[QUEST_QK00_STEP1]">Você deve viajar para Gork e lutar contra um Ogre Mage.</Text>
 
 </TextLibrary>

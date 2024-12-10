@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3D0_ACTION]">Search for the Dragon</Text>
-   <Text tag="[QUEST_Q3D0_AMBUSH]">An Arboleth surprises you while you are searching.</Text>
-   <Text tag="[QUEST_Q3D0_FAILURE]">You have failed to defeat the Arboleth. You will not be able to complete your search until it is dealt with.</Text>
-   <Text tag="[QUEST_Q3D0_KILL]">You have defeated the Arboleth, but there is no sign of the Dragon here.</Text>
-   <Text tag="[QUEST_Q3D0_RETURN]">Return to Elistara</Text>
-   <Text tag="[QUEST_Q3D0_REWARD]">Elistara hopes that you soon have the time to search further.</Text>
-   <Text tag="[QUEST_Q3D0_STEP1]">You must travel to the Bloodstone and search for the Dragon.</Text>
-   <Text tag="[QUEST_Q3D0_STEP2]">You must return to Elistara and tell her you could not find the Dragon.</Text>
+<Text tag="[QUEST_Q3D0_ACTION]">Procurando pelo Dragão</Text>
+<Text tag="[QUEST_Q3D0_AMBUSH]">Um Arboleth te surpreende enquanto você está procurando.</Text>
+<Text tag="[QUEST_Q3D0_FAILURE]">Você falhou em derrotar o Arboleth. Você não poderá concluir sua busca até que ela seja resolvida.</Text>
+<Text tag="[QUEST_Q3D0_KILL]">Você derrotou o Arboleth, mas não há sinal do Dragão aqui.</Text>
+<Text tag="[QUEST_Q3D0_RETURN]">Retorne para Elistara</Text>
+<Text tag="[QUEST_Q3D0_REWARD]">Elistara espera que você tenha tempo para pesquisar mais.</Text>
+<Text tag="[QUEST_Q3D0_STEP1]">Você deve viajar para Bloodstone e procurar pelo Dragão.</Text>
+<Text tag="[QUEST_Q3D0_STEP2]">Você deve retornar para Elistara e dizer a ela que não conseguiu encontrar o Dragão.</Text>
 
 </TextLibrary>

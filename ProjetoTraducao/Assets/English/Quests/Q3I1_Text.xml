@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3I1_ACTION]">Battle the Undead</Text>
-   <Text tag="[QUEST_Q3I1_FAILURE]">You have failed to win back the mine.</Text>
-   <Text tag="[QUEST_Q3I1_KILL]">You have defeated the Undead. The mine is back in Elven hands.</Text>
-   <Text tag="[QUEST_Q3I1_RETURN]">Report victory to Queen</Text>
-   <Text tag="[QUEST_Q3I1_REWARD]">The Queen displays her gratitude in reclaiming the Ice Crystal Mine.</Text>
-   <Text tag="[QUEST_Q3I1_STEP1]">You must journey to the Ice Crystal Mine and reclaim it from the Undead.</Text>
-   <Text tag="[QUEST_Q3I1_STEP2]">You must now return to Ehlariel and report your victory to Queen Ehlanna.</Text>
+<Text tag="[QUEST_Q3I1_ACTION]">Lute contra os mortos-vivos</Text>
+<Text tag="[QUEST_Q3I1_FAILURE]">Você falhou em reconquistar a mina.</Text>
+<Text tag="[QUEST_Q3I1_KILL]">Você derrotou os mortos-vivos. A mina está de volta nas mãos dos elfos.</Text>
+<Text tag="[QUEST_Q3I1_RETURN]">Reporte a vitória à Rainha</Text>
+<Text tag="[QUEST_Q3I1_REWARD]">A Rainha demonstra sua gratidão ao recuperar a Mina de Cristais de Gelo.</Text>
+<Text tag="[QUEST_Q3I1_STEP1]">Você deve viajar até a Mina de Cristais de Gelo e recuperá-la dos Mortos-Vivos.</Text>
+<Text tag="[QUEST_Q3I1_STEP2]">Agora você deve retornar a Ehlariel e relatar sua vitória à Rainha Ehlanna.</Text>
 
 </TextLibrary>

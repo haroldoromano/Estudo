@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0Q5_ACTION]">Rescue the Prisoners</Text>
-   <Text tag="[QUEST_Q0Q5_FAILURE]">You have failed to stop the Orcs, but they are not over the Hammer Pass yet!</Text>
-   <Text tag="[QUEST_Q0Q5_REWARD]">You have freed the prisoners, and you receive your reward.</Text>
-   <Text tag="[QUEST_Q0Q5_QMNAME0]">Orc Chieftain</Text>
-   <Text tag="[QUEST_Q0Q5_QMHELP0]">This Orc is a Chieftain of his tribe and has a Great Mang - a weapon that can drain all of your Red Mana.</Text>
+<Text tag="[QUEST_Q0Q5_ACTION]">Resgate os Prisioneiros</Text>
+<Text tag="[QUEST_Q0Q5_FAILURE]">Você falhou em deter os Orcs, mas eles ainda não passaram pelo Hammer Pass!</Text>
+<Text tag="[QUEST_Q0Q5_REWARD]">Você libertou os prisioneiros e recebeu sua recompensa.</Text>
+<Text tag="[QUEST_Q0Q5_QMNAME0]">Chefe Orc</Text>
+<Text tag="[QUEST_Q0Q5_QMHELP0]">Este Orc é um Chefe de sua tribo e tem um Grande Mang - uma arma que pode drenar todo o seu Mana Vermelho.</Text>
 
 </TextLibrary>

@@ -1,6 +1,6 @@
 <CutScene file="Assets\CutScenes\Chap4_End_good.xml" voice="CutScenes\Act_4_Good.ogg" duration="41000" voicedelay="1000" font="font_system" sound="snd_cutscene" x="0" y="128" width="1024" height="512" textx="512" texty="652">
-	<Text time="1000">And so Lord Bane was finally defeated, but as he had told Lord Albion many centuries before: you cannot beat Death, merely cheat it for a while.</Text>
-	<Text time="12000">This time however, Sartek, God of the Minotaurs, intervened.  He ground Bane&apos;s body beneath his mighty hooves until it was dust, and then he tore Bane&apos;s very soul into 5 pieces.</Text>
-	<Text time="25000">He gave one to the Knights of Agaria, one to the High Elves, one to the Dwarves, one to the Dragons, and he kept the final piece for himself.</Text>
-	<Text time="36000">This time, Bane would not return so easily...</Text>
+<Text time="1000">E então Lord Bane foi finalmente derrotado, mas como ele havia dito a Lord Albion muitos séculos antes: você não pode derrotar a Morte, apenas enganá-la por um tempo.</Text>
+<Text time="12000">Desta vez, no entanto, Sartek, Deus dos Minotauros, interveio. Ele triturou o corpo de Bane sob seus cascos poderosos até virar pó, e então ele rasgou a alma de Bane em 5 pedaços.</Text>
+<Text time="25000">Ele deu um para os Cavaleiros de Agaria, um para os Altos Elfos, um para os Anões, um para os Dragões, e ele ficou com o último pedaço para si.</Text>
+<Text time="36000">Desta vez, Bane não retornaria tão facilmente...</Text>
 </CutScene>

@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1Q7_ACTION0]">Approach the Dragon</Text>
-   <Text tag="[QUEST_Q1Q7_ACTION1]">Search for Dragons</Text>
-   <Text tag="[QUEST_Q1Q7_FAILURE]">The Dragon Spider chases you away - you will need to continue your search.</Text>
-   <Text tag="[QUEST_Q1Q7_MSGA]">You see the Dragon - held fast in a complex looking device something like a large bear trap.</Text>
-   <Text tag="[QUEST_Q1Q7_MSGB]">You find no dragons, but a huge Dragon Spider jumps out at you while you are searching.</Text>
-   <Text tag="[QUEST_Q1Q7_PROGRESS1]">You must take care of a Dragon in Northern Kor.</Text>
-   <Text tag="[QUEST_Q1Q7_PROGRESS2]">You must travel to the Dragonrealm with Flicker and search for any sign of Dragons.</Text>
-   <Text tag="[QUEST_Q1Q7_REWARD]">You have defeated the Dragon Spider.</Text>
+<Text tag="[QUEST_Q1Q7_ACTION0]">Aproxime-se do Dragão</Text>
+<Text tag="[QUEST_Q1Q7_ACTION1]">Procure por Dragões</Text>
+<Text tag="[QUEST_Q1Q7_FAILURE]">A Aranha Dragão te persegue - você precisará continuar sua busca.</Text>
+<Text tag="[QUEST_Q1Q7_MSGA]">Você vê o Dragão - preso em um dispositivo de aparência complexa, algo como uma grande armadilha para ursos.</Text>
+<Text tag="[QUEST_Q1Q7_MSGB]">Você não encontra dragões, mas uma enorme Aranha Dragão salta em você enquanto você está procurando.</Text>
+<Text tag="[QUEST_Q1Q7_PROGRESS1]">Você deve cuidar de um Dragão em Northern Kor.</Text>
+<Text tag="[QUEST_Q1Q7_PROGRESS2]">Você deve viajar para o Dragonrealm com Flicker e procurar por qualquer sinal de Dragões.</Text>
+<Text tag="[QUEST_Q1Q7_REWARD]">Você derrotou a Aranha Dragão.</Text>
 
 </TextLibrary>

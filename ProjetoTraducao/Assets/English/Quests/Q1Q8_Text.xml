@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1Q8_ACTION]">Make Some Noise</Text>
-   <Text tag="[QUEST_Q1Q8_ACTION1]">Make More Noise</Text>
-   <Text tag="[QUEST_Q1Q8_FAILURE]">Kelthurax is still not awake - you might need to make some more noise.</Text>
-   <Text tag="[QUEST_Q1Q8_MSGA]">You make a lot of noise, but there is no sign of Kelthurax.</Text>
-   <Text tag="[QUEST_Q1Q8_MSGB]">All the noise you are making has attracted a Wyvern.</Text>
-   <Text tag="[QUEST_Q1Q8_MSGC]">The sound of combat with the Wyvern seems to have woken Kelthurax. He bursts up out of the ground and confronts you...</Text>
-   <Text tag="[QUEST_Q1Q8_REWARD]">Kelthurax has ignored your plea for help. It looks like you are on your own!</Text>
-   <Text tag="[QUEST_Q1Q8_QMHELP0]">This Wyvern seems larger than most. Its stats are slightly higher, especially in Battle and Air Mastery.</Text>
+<Text tag="[QUEST_Q1Q8_ACTION]">Faça Barulho</Text>
+<Text tag="[QUEST_Q1Q8_ACTION1]">Faça Mais Barulho</Text>
+<Text tag="[QUEST_Q1Q8_FAILURE]">Kelthurax ainda não acordou - talvez você precise fazer mais barulho.</Text>
+<Text tag="[QUEST_Q1Q8_MSGA]">Você faz muito barulho, mas não há sinal de Kelthurax.</Text>
+<Text tag="[QUEST_Q1Q8_MSGB]">Todo o barulho que você está fazendo atraiu um Wyvern.</Text>
+<Text tag="[QUEST_Q1Q8_MSGC]">O som do combate com o Wyvern parece ter acordado Kelthurax. Ele irrompe do chão e confronta você...</Text>
+<Text tag="[QUEST_Q1Q8_REWARD]">Kelthurax ignorou seu pedido de ajuda. Parece que você está sozinho!</Text>
+<Text tag="[QUEST_Q1Q8_QMHELP0]">Este Wyvern parece maior do que a maioria. Seus atributos são ligeiramente maiores, especialmente em Batalha e Maestria Aérea.</Text>
 
 </TextLibrary>

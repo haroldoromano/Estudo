@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1D2_ACTION]">Search for the Wyvern</Text>
-   <Text tag="[QUEST_Q1D2_FAILURE]">The Wyvern flew away! You will need to find another one.</Text>
-   <Text tag="[QUEST_Q1D2_KILL]">You wrap the Wyvern in cloth to take back to Drong.</Text>
-   <Text tag="[QUEST_Q1D2_RETURN]">Visit Drong</Text>
-   <Text tag="[QUEST_Q1D2_REWARD]">Drong gives you some brightly colored magical stones.</Text>
-   <Text tag="[QUEST_Q1D2_STEP1]">You must travel to the Wyverns&apos; Roost, northwest of Gluk and obtain a Wyvern for Drong to eat.</Text>
-   <Text tag="[QUEST_Q1D2_STEP2]">You must return the Wyvern to Drong&apos;s Tower.</Text>
+<Text tag="[QUEST_Q1D2_ACTION]">Procure o Wyvern</Text>
+<Text tag="[QUEST_Q1D2_FAILURE]">O Wyvern voou para longe! Você precisará encontrar outro.</Text>
+<Text tag="[QUEST_Q1D2_KILL]">Você embrulha o Wyvern em um pano para levar de volta para Drong.</Text>
+<Text tag="[QUEST_Q1D2_RETURN]">Visite Drong</Text>
+<Text tag="[QUEST_Q1D2_REWARD]">Drong lhe dá algumas pedras mágicas de cores brilhantes.</Text>
+<Text tag="[QUEST_Q1D2_STEP1]">Você deve viajar para o Wyverns&apos; Roost, noroeste de Gluk e obtenha um Wyvern para Drong comer.</Text>
+<Text tag="[QUEST_Q1D2_STEP2]">Você deve devolver o Wyvern para a Torre de Drong.</Text>
 
 </TextLibrary>

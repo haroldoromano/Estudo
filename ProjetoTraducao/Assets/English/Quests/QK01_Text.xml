@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QK01_ACTION]">Battle the Centaur</Text>
-   <Text tag="[QUEST_QK01_FAILURE]">You have failed to defeat the Centaur. Khalkus begs you to try again.</Text>
-   <Text tag="[QUEST_QK01_NOCOMP]">You will need Khalkus in your party to identify the machinery.</Text>
-   <Text tag="[QUEST_QK01_REWARD]">You have found the second part of the Great Machine.</Text>
-   <Text tag="[QUEST_QK01_STEP1]">You must travel to Alfland and battle a Centaur.</Text>
+<Text tag="[QUEST_QK01_ACTION]">Batalhe contra o Centauro</Text>
+<Text tag="[QUEST_QK01_FAILURE]">Você falhou em derrotar o Centauro. Khalkus implora para você tentar novamente.</Text>
+<Text tag="[QUEST_QK01_NOCOMP]">Você precisará de Khalkus em seu grupo para identificar a maquinaria.</Text>
+<Text tag="[QUEST_QK01_REWARD]">Você encontrou a segunda parte da Grande Máquina.</Text>
+<Text tag="[QUEST_QK01_STEP1]">Você deve viajar para Alfland e lutar contra um Centauro.</Text>
 
 </TextLibrary>

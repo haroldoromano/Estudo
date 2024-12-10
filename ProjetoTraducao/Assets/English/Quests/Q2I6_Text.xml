@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2I6_ACTION]">Search for an Eye</Text>
-   <Text tag="[QUEST_Q2I6_FAILURE]">You have failed to defeat the Dragon Spider. You must try again if you want that eye.</Text>
-   <Text tag="[QUEST_Q2I6_KILL]">You have defeated the Dragon Spider.  The Eye is all yours.</Text>
-   <Text tag="[QUEST_Q2I6_RETURN]">Deliver the Eye</Text>
-   <Text tag="[QUEST_Q2I6_REWARD]">You have eased your conscience.</Text>
-   <Text tag="[QUEST_Q2I6_STEP1]">You must go to the Dragons&apos; Graveyard and get a Dragon&apos;s Eye.</Text>
-   <Text tag="[QUEST_Q2I6_STEP2]">You must now take the Dragon&apos;s Eye to Silvermyr.</Text>
+<Text tag="[QUEST_Q2I6_ACTION]">Procurar por um Olho</Text>
+<Text tag="[QUEST_Q2I6_FAILURE]">Você falhou em derrotar a Aranha Dragão. Você deve tentar novamente se quiser aquele olho.</Text>
+<Text tag="[QUEST_Q2I6_KILL]">Você derrotou a Aranha Dragão. O Olho é todo seu.</Text>
+<Text tag="[QUEST_Q2I6_RETURN]">Entregar o Olho</Text>
+<Text tag="[QUEST_Q2I6_REWARD]">Você aliviou sua consciência.</Text>
+<Text tag="[QUEST_Q2I6_STEP1]">Você deve ir até a casa dos Dragões. Cemitério e pegue um Olho de Dragão.</Text>
+<Text tag="[QUEST_Q2I6_STEP2]">Agora você deve levar o Olho de Dragão para Silvermyr.</Text>
 
 </TextLibrary>

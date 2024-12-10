@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2Q7_ACTION]">Search for the Ribs</Text>
-   <Text tag="[QUEST_Q2Q7_FAILURE]">The Minotaur King is too well protected by the Ribs of Sartek. You must fight him again.</Text>
-   <Text tag="[QUEST_Q2Q7_KILL]">Having defeated the Minotaur King, you take the ribs that he had fashioned into some crude armor.</Text>
-   <Text tag="[QUEST_Q2Q7_NOTFOUND]">The Ribs of Sartek are not here.</Text>
-   <Text tag="[QUEST_Q2Q7_RETURN]">Return the Ribs</Text>
-   <Text tag="[QUEST_Q2Q7_REWARD]">With the ribs now in place, Sartek&apos;s body is beginning to take shape.</Text>
-   <Text tag="[QUEST_Q2Q7_STEP1]">You must seek out the Ribs of Sartek, hidden somewhere within the Realms of War.</Text>
-   <Text tag="[QUEST_Q2Q7_STEP2]">You must return the Ribs of Sartek to Tauron at the Horned Temple.</Text>
-   <Text tag="[QUEST_Q2Q7_QMHELP0]">This Minotaur King is wearing armor made from the Ribs of Sartek. These provide much protection when he takes large amounts of damage.</Text>
+<Text tag="[QUEST_Q2Q7_ACTION]">Procurar as Costelas</Text>
+<Text tag="[QUEST_Q2Q7_FAILURE]">O Rei Minotauro está muito bem protegido pelas Costelas de Sartek. Você deve lutar com ele novamente.</Text>
+<Text tag="[QUEST_Q2Q7_KILL]">Depois de derrotar o Rei Minotauro, você pega as costelas que ele transformou em uma armadura rudimentar.</Text>
+<Text tag="[QUEST_Q2Q7_NOTFOUND]">As Costelas de Sartek não estão aqui.</Text>
+<Text tag="[QUEST_Q2Q7_RETURN]">Devolva as Costelas</Text>
+<Text tag="[QUEST_Q2Q7_REWARD]">Com as costelas agora no lugar, o corpo de Sartek está começando a tomar forma.</Text>
+<Text tag="[QUEST_Q2Q7_STEP1]">Você deve procurar as Costelas de Sartek, escondidas em algum lugar dentro dos Reinos da Guerra.</Text>
+<Text tag="[QUEST_Q2Q7_STEP2]">Você deve devolver as Costelas de Sartek para Tauron no Horned Templo.</Text>
+<Text tag="[QUEST_Q2Q7_QMHELP0]">Este Rei Minotauro está usando uma armadura feita das Costelas de Sartek. Elas fornecem muita proteção quando ele recebe grandes quantidades de dano.</Text>
 
 </TextLibrary>

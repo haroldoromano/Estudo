@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2M2_ACTION]">Fight the Sandworm</Text>
-   <Text tag="[QUEST_Q2M2_FAILURE]">You have failed to defeat the Sandworm, you must try again.</Text>
-   <Text tag="[QUEST_Q2M2_KILL]">You have defeated the Sandworm. You must return to Red-Axe in the city of Tusk.</Text>
-   <Text tag="[QUEST_Q2M2_RETURN]">Return to Red-Axe</Text>
-   <Text tag="[QUEST_Q2M2_REWARD]">Red-Axe is pleased with your progress.</Text>
-   <Text tag="[QUEST_Q2M2_STEP1]">You must travel to the Worm Cave and confront a Giant Sandworm.</Text>
-   <Text tag="[QUEST_Q2M2_STEP2]">You must now return to Red-Axe in Tusk for your reward.</Text>
+<Text tag="[QUEST_Q2M2_ACTION]">Lute contra o Sandworm</Text>
+<Text tag="[QUEST_Q2M2_FAILURE]">Você falhou em derrotar o Sandworm, você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2M2_KILL]">Você derrotou o Sandworm. Você deve retornar para Red-Axe na cidade de Tusk.</Text>
+<Text tag="[QUEST_Q2M2_RETURN]">Retornar para Red-Axe</Text>
+<Text tag="[QUEST_Q2M2_REWARD]">Red-Axe está satisfeito com seu progresso.</Text>
+<Text tag="[QUEST_Q2M2_STEP1]">Você deve viajar para a Worm Cave e confrontar um Giant Sandworm.</Text>
+<Text tag="[QUEST_Q2M2_STEP2]">Agora você deve retornar para Red-Axe em Tusk para receber sua recompensa.</Text>
 
 </TextLibrary>

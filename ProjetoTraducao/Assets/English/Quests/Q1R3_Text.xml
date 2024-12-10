@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1R3_ACTION]">Search Again</Text>
-   <Text tag="[QUEST_Q1R3_FAILURE]">You cannot let this Minotaur escape, you must figt him again!</Text>
-   <Text tag="[QUEST_Q1R3_MSGA]">As you are exploring the Lair, you are ambushed by a Minotaur.</Text>
-   <Text tag="[QUEST_Q1R3_MSGB]">The Lair is still empty (with no sign of a struggle), but you find deep gouges in the earth nearby, as if some large object was dragged away.</Text>
-   <Text tag="[QUEST_Q1R3_MSGC]">Just outside the Lair you discover a cog from a finely crafted piece of machinery. This does not belong to any Dragon.</Text>
-   <Text tag="[QUEST_Q1R3_MSGD]">You find a number of Minotaur tracks leading up into the mountains. It seems the Minotaurs may be behind the Dragons&apos; disappearance.</Text>
-   <Text tag="[QUEST_Q1R3_MSGE]">You see Flicker.  He is being attacked by a large Minotaur. He looks like he needs some help.</Text>
-   <Text tag="[QUEST_Q1R3_RETURN]">Find Flicker</Text>
-   <Text tag="[QUEST_Q1R3_REWARD]">Flicker joins you in order to track down the Minotaurs that have done this.</Text>
-   <Text tag="[QUEST_Q1R3_STEP1]">You must search all 3 Dragon Lairs again, looking for anything that might be a clue.</Text>
-   <Text tag="[QUEST_Q1R3_STEP2]">You must return back to the Dragonrealm and seek out Flicker.</Text>
+<Text tag="[QUEST_Q1R3_ACTION]">Procurar Novamente</Text>
+<Text tag="[QUEST_Q1R3_FAILURE]">Você não pode deixar esse Minotauro escapar, você deve lutar com ele novamente!</Text>
+<Text tag="[QUEST_Q1R3_MSGA]">Enquanto você explora o Covil, você é emboscado por um Minotauro.</Text>
+<Text tag="[QUEST_Q1R3_MSGB]">O Covil ainda está vazio (sem sinais de luta), mas você encontra sulcos profundos na terra próxima, como se algum objeto grande tivesse sido arrastado para longe.</Text>
+<Text tag="[QUEST_Q1R3_MSGC]">Do lado de fora do Covil, você descobre uma engrenagem de uma máquina finamente trabalhada. Isto não pertence a nenhum Dragão.</Text>
+<Text tag="[QUEST_Q1R3_MSGD]">Você encontra uma série de rastros de Minotauros que levam até as montanhas. Parece que os Minotauros podem estar por trás do desaparecimento dos Dragões.</Text>
+<Text tag="[QUEST_Q1R3_MSGE]">Você vê Flicker. Ele está sendo atacado por um grande Minotauro. Parece que ele precisa de ajuda.</Text>
+<Text tag="[QUEST_Q1R3_RETURN]">Encontre Flicker</Text>
+<Text tag="[QUEST_Q1R3_REWARD]">Flicker se junta a você para rastrear os Minotauros que fizeram isso.</Text>
+<Text tag="[QUEST_Q1R3_STEP1]">Você deve procurar em todos os 3 Dragon Lairs novamente, procurando por qualquer coisa que possa ser uma pista.</Text>
+<Text tag="[QUEST_Q1R3_STEP2]">Você deve retornar ao Dragonrealm e procurar por Flicker.</Text>
 
 </TextLibrary>

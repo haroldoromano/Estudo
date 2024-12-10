@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QD02_ACTION]">Battle the Sea Serpent</Text>
-   <Text tag="[QUEST_QD02_DRONG]">You don&apos;t need to battle the Sea Serpent as Drong is not here to try any sandstone. You should return with him.</Text>
-   <Text tag="[QUEST_QD02_FAILURE]">You have failed to defeat the Sea Serpent. You will need to beat it before Drong can have any tasty sandstone.</Text>
-   <Text tag="[QUEST_QD02_REWARD]">Drong rewards you for finding him some delicious sandstone.</Text>
-   <Text tag="[QUEST_QD02_STEP1]">You must journey to the beach at Tirianin to find sandstone for Drong.</Text>
+<Text tag="[QUEST_QD02_ACTION]">Lute contra a Serpente do Mar</Text>
+<Text tag="[QUEST_QD02_DRONG]">Você não precisa lutar contra a Serpente do Mar, pois Drong não está aqui para tentar qualquer arenito. Você deve retornar com ele.</Text>
+<Text tag="[QUEST_QD02_FAILURE]">Você falhou em derrotar a Serpente do Mar. Você precisará derrotá-la antes que Drong possa ter qualquer arenito saboroso.</Text>
+<Text tag="[QUEST_QD02_REWARD]">Drong recompensa você por encontrar um arenito delicioso para ele.</Text>
+<Text tag="[QUEST_QD02_STEP1]">Você deve viajar até a praia em Tirianin para encontrar arenito para Drong.</Text>
 
 </TextLibrary>

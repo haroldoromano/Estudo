@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1Q3_ACTION]">Battle the Ogre Mage</Text>
-   <Text tag="[QUEST_Q1Q3_FAILURE]">You have failed to defeat the Ogre Mage.  You must try again!</Text>
-   <Text tag="[QUEST_Q1Q3_KILL]">You have defeated the Ogre Mage.  The remaining Ogres will soon descend into chaos.</Text>
-   <Text tag="[QUEST_Q1Q3_RETURN]">Return to Khrona</Text>
-   <Text tag="[QUEST_Q1Q3_REWARD]">Khrona is pleased and pays you for your troubles.</Text>
-   <Text tag="[QUEST_Q1Q3_STEP1]">You must first go to the Gluk and battle an Ogre Mage.</Text>
-   <Text tag="[QUEST_Q1Q3_STEP2]">You must now head back to Dhun-Kor.</Text>
-   <Text tag="[QUEST_Q1Q3_QMHELP0]">This Ogre Mage is very powerful and also knows the Rain of Fire spell.</Text>
+<Text tag="[QUEST_Q1Q3_ACTION]">Lute contra o Ogre Mage</Text>
+<Text tag="[QUEST_Q1Q3_FAILURE]">Você falhou em derrotar o Ogre Mage. Você deve tentar novamente!</Text>
+<Text tag="[QUEST_Q1Q3_KILL]">Você derrotou o Ogre Mage. Os Ogros restantes logo cairão no caos.</Text>
+<Text tag="[QUEST_Q1Q3_RETURN]">Retorne para Khrona</Text>
+<Text tag="[QUEST_Q1Q3_REWARD]">Khrona está satisfeita e paga por seus problemas.</Text>
+<Text tag="[QUEST_Q1Q3_STEP1]">Você deve primeiro ir até Gluk e lutar contra um Ogre Mage.</Text>
+<Text tag="[QUEST_Q1Q3_STEP2]">Agora você deve voltar para Dhun-Kor.</Text>
+<Text tag="[QUEST_Q1Q3_QMHELP0]">Este Ogre Mage é muito poderoso e também conhece o feitiço Rain of Fire.</Text>
 
 </TextLibrary>

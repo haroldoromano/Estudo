@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3W2_ACTION]">Request the Elvenstone</Text>
-   <Text tag="[QUEST_Q3W2_FAILURE]">You have failed to defeat the monster.</Text>
-   <Text tag="[QUEST_Q3W2_KILL]">You have succeeded in obtaining the Elvenstone. Now return to Ylarie to bless the wolves homeland.</Text>
-   <Text tag="[QUEST_Q3W2_RETURN]">Deliver Elvenstone</Text>
-   <Text tag="[QUEST_Q3W2_REWARD]">Winter rewards you for blessing the homeland of the wolves. Winter also becomes your companion.</Text>
-   <Text tag="[QUEST_Q3W2_STEP1]">You must first go to Ehlariel to request the Elvenstone from Queen Ehlanna.</Text>
-   <Text tag="[QUEST_Q3W2_STEP2]">You must now return to Ylarie to bless the homeland of the wolves.</Text>
+<Text tag="[QUEST_Q3W2_ACTION]">Solicite a Pedra Élfica</Text>
+<Text tag="[QUEST_Q3W2_FAILURE]">Você falhou em derrotar o monstro.</Text>
+<Text tag="[QUEST_Q3W2_KILL]">Você obteve a Pedra Élfica com sucesso. Agora volte para Ylarie para abençoar a terra natal dos lobos.</Text>
+<Text tag="[QUEST_Q3W2_RETURN]">Entregue a Pedra Élfica</Text>
+<Text tag="[QUEST_Q3W2_REWARD]">O inverno recompensa você por abençoar a terra natal dos lobos. O inverno também se torna seu companheiro.</Text>
+<Text tag="[QUEST_Q3W2_STEP1]">Você deve primeiro ir até Ehlariel para solicitar a Pedra Élfica da Rainha Ehlanna.</Text>
+<Text tag="[QUEST_Q3W2_STEP2]">Agora você deve retornar a Ylarie para abençoar a terra natal dos lobos.</Text>
 
 </TextLibrary>

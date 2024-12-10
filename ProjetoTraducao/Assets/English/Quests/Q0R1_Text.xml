@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0R1_ACTION]">Battle the Harpies</Text>
-   <Text tag="[QUEST_Q0R1_FAILURE]">The Harpies were too fierce and strong. But at least you live to fight another day.</Text>
-   <Text tag="[QUEST_Q0R1_REWARD]">The Harpies have been chased away.  Hopefully they will not return this time!</Text>
+<Text tag="[QUEST_Q0R1_ACTION]">Lute contra as Harpias</Text>
+<Text tag="[QUEST_Q0R1_FAILURE]">As Harpias eram muito ferozes e fortes. Mas pelo menos você vive para lutar outro dia.</Text>
+<Text tag="[QUEST_Q0R1_REWARD]">As Harpias foram expulsas. Espero que não retornem desta vez!</Text>
 
 </TextLibrary>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QA00_ACTION]">Search Northern Kor</Text>
-   <Text tag="[QUEST_QA00_FAILURE]">You have failed to defeat the Wight. You must defeat it before your search can be completed.</Text>
-   <Text tag="[QUEST_QA00_NOCOMP]">You cannot search without Darkhunter in your party.</Text>
-   <Text tag="[QUEST_QA00_REWARD]">There was no sign of Darkhunter&apos;s friend.</Text>
-   <Text tag="[QUEST_QA00_STEP1]">You must first go to Northern Kor and search.</Text>
+<Text tag="[QUEST_QA00_ACTION]">Procurar Northern Kor</Text>
+<Text tag="[QUEST_QA00_FAILURE]">Você falhou em derrotar o Wight. Você deve derrotá-lo antes que sua busca possa ser concluída.</Text>
+<Text tag="[QUEST_QA00_NOCOMP]">Você não pode procurar sem Darkhunter em seu grupo.</Text>
+<Text tag="[QUEST_QA00_REWARD]">Não havia sinal do amigo de Darkhunter.</Text>
+<Text tag="[QUEST_QA00_STEP1]">Você deve primeiro ir para Northern Kor e procurar.</Text>
 
 </TextLibrary>

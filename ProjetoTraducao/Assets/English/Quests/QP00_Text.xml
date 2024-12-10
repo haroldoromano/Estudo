@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QP00_ACTION]">Visit the Treasure</Text>
-   <Text tag="[QUEST_QP00_PATCH]">You can&apos;t find Patch&apos;s hidden treasure without Patch to show you the way. You should return with Patch.</Text>
-   <Text tag="[QUEST_QP00_REWARD]">All that remains of Patch&apos;s treasure are a few scattered gold coins.</Text>
-   <Text tag="[QUEST_QP00_STEP1]">You must journey to Hyaan to see Patch&apos;s treasure.</Text>
+<Text tag="[QUEST_QP00_ACTION]">Visite o Tesouro</Text>
+<Text tag="[QUEST_QP00_PATCH]">Você não pode encontrar o tesouro escondido de Patch sem que Patch lhe mostre o caminho. Você deve retornar com Patch.</Text>
+<Text tag="[QUEST_QP00_REWARD]">Tudo o que resta do tesouro de Patch são algumas moedas de ouro espalhadas.</Text>
+<Text tag="[QUEST_QP00_STEP1]">Você deve viajar para Hyaan para ver o tesouro de Patch.</Text>
 
 </TextLibrary>

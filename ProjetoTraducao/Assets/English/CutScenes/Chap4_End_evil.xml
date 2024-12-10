@@ -1,6 +1,6 @@
 <CutScene file="Assets\CutScenes\Chap4_End_evil.xml" voice="CutScenes\Act_4_Evil.ogg" duration="48000" voicedelay="1000" font="font_system" sound="snd_cutscene" x="0" y="128" width="1024" height="512" textx="512" texty="652">
-	<Text time="1000">And so Lord Bane was finally defeated, but as he had told Lord Albion many centuries before: you cannot defeat Death, merely cheat it for a while.</Text>
-	<Text time="12000">This time however, Sartek, God of the Minotaurs, intervened.  He ground Bane&apos;s body beneath his mighty hooves until it was dust, and then he tore Bane&apos;s very soul into 5 pieces.</Text>
-	<Text time="25000">The world moves in cycles... Lord Bane&apos;s time had passed, but another power was set to arise in the Realms of Death - one that had humble beginnings deep within the Kingdom of Agaria.</Text>
-	<Text time="39000">Would this new power serve the light? Or would it serve the darkness? Only time would tell...</Text>
+<Text time="1000">E então Lord Bane foi finalmente derrotado, mas como ele havia dito a Lord Albion muitos séculos antes: você não pode derrotar a Morte, apenas enganá-la por um tempo.</Text>
+<Text time="12000">Desta vez, no entanto, Sartek, Deus dos Minotauros, interveio. Ele moeu o corpo de Bane sob seus cascos poderosos até que se tornasse pó, e então ele rasgou a alma de Bane em 5 pedaços.</Text>
+<Text time="25000">O mundo se move em ciclos... O tempo de Lord Bane havia passado, mas outro poder estava prestes a surgir nos Reinos da Morte - um que teve origens humildes nas profundezas do Reino de Agaria.</Text>
+<Text time="39000">Esse novo poder serviria à luz? Ou serviria à escuridão? Só o tempo diria...</Text>
 </CutScene>

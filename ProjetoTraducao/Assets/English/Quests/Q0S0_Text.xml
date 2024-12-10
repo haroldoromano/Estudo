@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0S0_ACTION0]">Search the Sewers</Text>
-   <Text tag="[QUEST_Q0S0_ACTION1]">Search Deeper</Text>
-   <Text tag="[QUEST_Q0S0_FAILURE0]">The rat has overpowered you, but you may fight it again!</Text>
-   <Text tag="[QUEST_Q0S0_FAILURE1]">The Undead Rat has overpowered you, but you may try again.</Text>
-   <Text tag="[QUEST_Q0S0_FAILURE2]">The Rat King has beaten you back, but you may try again.</Text>
-   <Text tag="[QUEST_Q0S0_PROGRESS0]">You must go to the Gildine Sewers and search for clues.</Text>
-   <Text tag="[QUEST_Q0S0_PROGRESS1]">You must search deeper in the Gildine Sewers.</Text>
-   <Text tag="[QUEST_Q0S0_REWARD]">You have slain the foul creature who was causing the rats to attack Gildor.  On its body you find a strange Amulet.</Text>
-   <Text tag="[QUEST_Q0S0_SUCCESS0]">You have slain the rat and uncovered a secret tunnel leading deeper into the Gildine Sewers.</Text>
-   <Text tag="[QUEST_Q0S0_SUCCESS1]">Someone must be controlling these rats. They cannot be far away!</Text>
-   <Text tag="[QUEST_Q0S0_QMNAME1]">Half-dead Rat</Text>
-   <Text tag="[QUEST_Q0S0_QMHELP1]">This rat is so mangy it almost looks dead.  It must be related somehow to the Undead creatures!</Text>
-   <Text tag="[QUEST_Q0S0_QMNAME2]">The Rat King</Text>
-   <Text tag="[QUEST_Q0S0_QMHELP2]">This creature is obviously the Leader of the Rats.</Text>
+<Text tag="[QUEST_Q0S0_ACTION0]">Procure nos Esgotos</Text>
+<Text tag="[QUEST_Q0S0_ACTION1]">Procure Mais Profundo</Text>
+<Text tag="[QUEST_Q0S0_FAILURE0]">O rato dominou você, mas você pode lutar contra ele novamente!</Text>
+<Text tag="[QUEST_Q0S0_FAILURE1]">O Rato Morto-Vivo dominou você, mas você pode tentar novamente.</Text>
+<Text tag="[QUEST_Q0S0_FAILURE2]">O Rei Rato derrotou você, mas você pode tentar novamente.</Text>
+<Text tag="[QUEST_Q0S0_PROGRESS0]">Você deve ir aos Esgotos Gildine e procurar por pistas.</Text>
+<Text tag="[QUEST_Q0S0_PROGRESS1]">Você deve procurar mais profundamente nos Esgotos Gildine.</Text>
+<Text tag="[QUEST_Q0S0_REWARD]">Você matou a criatura imunda que estava fazendo os ratos atacarem Gildor. Em seu corpo, você encontra um estranho Amuleto.</Text>
+<Text tag="[QUEST_Q0S0_SUCCESS0]">Você matou o rato e descobriu um túnel secreto que leva mais profundamente aos Esgotos Gildine.</Text>
+<Text tag="[QUEST_Q0S0_SUCCESS1]">Alguém deve estar controlando esses ratos. Eles não podem estar longe!</Text>
+<Text tag="[QUEST_Q0S0_QMNAME1]">Rato meio morto</Text>
+<Text tag="[QUEST_Q0S0_QMHELP1]">Este rato está tão sarnento que quase parece morto. Deve estar relacionado de alguma forma com as criaturas Mortas-Vivas!</Text>
+<Text tag="[QUEST_Q0S0_QMNAME2]">O Rei Rato</Text>
+<Text tag="[QUEST_Q0S0_QMHELP2]">Esta criatura é obviamente o Líder dos Ratos.</Text>
 
 </TextLibrary>

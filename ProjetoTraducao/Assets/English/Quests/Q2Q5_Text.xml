@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2Q5_ACTION1]">Meet the Gnoll Chieftain</Text>
-   <Text tag="[QUEST_Q2Q5_ACTION2]">Challenge the Gnoll Chieftain</Text>
-   <Text tag="[QUEST_Q2Q5_FAILURE]">You have failed to defeat the Gnoll Chieftain. You must try again quickly.</Text>
-   <Text tag="[QUEST_Q2Q5_KILL]">You have defeated the Gnoll Chieftain. Staf becomes the new Chieftain and rewards you with the Tooth of Sartek.</Text>
-   <Text tag="[QUEST_Q2Q5_RETURN]">Return the Tooth</Text>
-   <Text tag="[QUEST_Q2Q5_REWARD]">Tauron finally has all the teeth. Only 4 pieces of Sartek remain.</Text>
-   <Text tag="[QUEST_Q2Q5_STEP1]">You must go to Hyaan and get the Tooth of Sartek from the Gnoll Chieftain.</Text>
-   <Text tag="[QUEST_Q2Q5_STEP2]">You must defeat the Gnoll Chieftain and help Staf become the new leader.</Text>
-   <Text tag="[QUEST_Q2Q5_STEP3]">You must return the Tooth of Sartek to Tauron at the Horned Temple.</Text>
-   <Text tag="[QUEST_Q2Q5_QMNAME0]">Gnoll Chieftain</Text>
-   <Text tag="[QUEST_Q2Q5_QMHELP0]">This Gnoll Chieftain is considerably tougher than an average Gnoll.</Text>
+<Text tag="[QUEST_Q2Q5_ACTION1]">Conheça o Chefe Gnoll</Text>
+<Text tag="[QUEST_Q2Q5_ACTION2]">Desafie o Chefe Gnoll</Text>
+<Text tag="[QUEST_Q2Q5_FAILURE]">Você falhou em derrotar o Chefe Gnoll. Você deve tentar novamente rapidamente.</Text>
+<Text tag="[QUEST_Q2Q5_KILL]">Você derrotou o Chefe Gnoll. Staf se torna o novo Chefe e o recompensa com o Dente de Sartek.</Text>
+<Text tag="[QUEST_Q2Q5_RETURN]">Devolva o Dente</Text>
+<Text tag="[QUEST_Q2Q5_REWARD]">Tauron finalmente tem todos os dentes. Restam apenas 4 pedaços de Sartek.</Text>
+<Text tag="[QUEST_Q2Q5_STEP1]">Você deve ir para Hyaan e pegar o Dente de Sartek do Chefe Gnoll.</Text>
+<Text tag="[QUEST_Q2Q5_STEP2]">Você deve derrotar o Chefe Gnoll e ajudar Staf a se tornar o novo líder.</Text>
+<Text tag="[QUEST_Q2Q5_STEP3]">Você deve devolver o Dente de Sartek para Tauron no Templo Chifrudo.</Text>
+<Text tag="[QUEST_Q2Q5_QMNAME0]">Chefe Gnoll</Text>
+<Text tag="[QUEST_Q2Q5_QMHELP0]">Este Chefe Gnoll é consideravelmente mais resistente do que um Gnoll comum.</Text>
 
 </TextLibrary>

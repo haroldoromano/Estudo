@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3Q0_ACTION0]">Fight the Doomknight</Text>
-   <Text tag="[QUEST_Q3Q0_ACTION1]">Cross the Pass</Text>
-   <Text tag="[QUEST_Q3Q0_BANEMSG]">A huge blizzard is blocking the way through the path, as is one of Lord Bane&apos;s Doomknights.</Text>
-   <Text tag="[QUEST_Q3Q0_FAILURE0]">You have failed to defeat the Doomknight. You must try again.</Text>
-   <Text tag="[QUEST_Q3Q0_FAILURE1]">The blizzard is too strong - you cannot cross the mountains.</Text>
-   <Text tag="[QUEST_Q3Q0_KILL]">You have defeated the Doomknight, but a huge blizzard is blocking the pass.</Text>
-   <Text tag="[QUEST_Q3Q0_RETURN]">Return to Tauron</Text>
-   <Text tag="[QUEST_Q3Q0_REWARD]">You have tried to cross Gornak&apos;s Gap and failed. There must be another way through.</Text>
-   <Text tag="[QUEST_Q3Q0_STEP1]">You must cross the mountains through Gornak&apos;s Gap and travel to Lord Bane&apos;s citadel.</Text>
-   <Text tag="[QUEST_Q3Q0_STEP2]">You must defeat one of Lord Bane&apos;s minions - a Doomknight - to try and cross the pass.</Text>
-   <Text tag="[QUEST_Q3Q0_STEP3]">Gornak&apos;s Gap is blocked by a huge blizzard.  You must travel back to Tauron in Ohtar.</Text>
+<Text tag="[QUEST_Q3Q0_ACTION0]">Lute contra o Cavaleiro da Perdição</Text>
+<Text tag="[QUEST_Q3Q0_ACTION1]">Atravesse a Passagem</Text>
+<Text tag="[QUEST_Q3Q0_BANEMSG]">Uma grande nevasca está bloqueando o caminho, assim como um dos Cavaleiros da Perdição de Lorde Bane.</Text>
+<Text tag="[QUEST_Q3Q0_FAILURE0]">Você falhou em derrotar o Cavaleiro da Perdição. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q3Q0_FAILURE1]">A nevasca é muito forte - você não pode cruzar as montanhas.</Text>
+<Text tag="[QUEST_Q3Q0_KILL]">Você derrotou o Doomknight, mas uma grande nevasca está bloqueando a passagem.</Text>
+<Text tag="[QUEST_Q3Q0_RETURN]">Retorne para Tauron</Text>
+<Text tag="[QUEST_Q3Q0_REWARD]">Você tentou cruzar o Gornak&apos;s Gap e falhou. Deve haver outro caminho.</Text>
+<Text tag="[QUEST_Q3Q0_STEP1]">Você deve cruzar as montanhas através de Gornak&apos;s Gap e viajar para a cidadela de Lord Bane.</Text>
+<Text tag="[QUEST_Q3Q0_STEP2]">Você deve derrotar um dos lacaios de Lord Bane - um Doomknight - para tentar cruzar a passagem.</Text>
+<Text tag="[QUEST_Q3Q0_STEP3]">Gornak&apos;s Gap está bloqueado por uma grande nevasca. Você deve viajar de volta para Tauron em Ohtar.</Text>
 
 </TextLibrary>

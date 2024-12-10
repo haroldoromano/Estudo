@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3E1_ACTION]">Search for treasure</Text>
-   <Text tag="[QUEST_Q3E1_ATTACK]">A Flame Dragon surprises you during your search.</Text>
-   <Text tag="[QUEST_Q3E1_FAILURE]">You will have to defeat this Flame Dragon before you can try finding any treasure.</Text>
-   <Text tag="[QUEST_Q3E1_REWARD]">You have found some of Umbra&apos;s Treasure.</Text>
+<Text tag="[QUEST_Q3E1_ACTION]">Procurar tesouro</Text>
+<Text tag="[QUEST_Q3E1_ATTACK]">Um Dragão de Chamas surpreende você durante sua busca.</Text>
+<Text tag="[QUEST_Q3E1_FAILURE]">Você terá que derrotar este Dragão de Chamas antes de tentar encontrar qualquer tesouro.</Text>
+<Text tag="[QUEST_Q3E1_REWARD]">Você encontrou parte do Tesouro de Umbra.</Text>
 
 </TextLibrary>

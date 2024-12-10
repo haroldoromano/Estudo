@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1S2_ACTION1]">Battle the first Scorpion</Text>
-   <Text tag="[QUEST_Q1S2_ACTION2]">Battle the second Scorpion</Text>
-   <Text tag="[QUEST_Q1S2_FAILURE1]">You have failed to defeat the first Scorpion.</Text>
-   <Text tag="[QUEST_Q1S2_FAILURE2]">You have failed to defeat the second Scorpion.</Text>
-   <Text tag="[QUEST_Q1S2_PROGRESS1]">You must travel to the Scorpions&apos; Cave north of Dhun-Kor and slay the Scorpions.</Text>
-   <Text tag="[QUEST_Q1S2_PROGRESS2]">You must enter the Scorpions&apos; Cave once more and defeat the second Scorpion.</Text>
-   <Text tag="[QUEST_Q1S2_REWARD]">Both the Scorpions have been defeated. Sadly they had little treasure.</Text>
-   <Text tag="[QUEST_Q1S2_SUCCESS1]">You have defeated the first Scorpion.</Text>
-   <Text tag="[QUEST_Q1S2_QMNAME1]">Giant Scorpion</Text>
-   <Text tag="[QUEST_Q1S2_QMHELP1]">This Scorpion is larger than the first. It has huge claws and can cast the Rend spell.</Text>
+<Text tag="[QUEST_Q1S2_ACTION1]">Lute contra o primeiro Scorpion</Text>
+<Text tag="[QUEST_Q1S2_ACTION2]">Lute contra o segundo Scorpion</Text>
+<Text tag="[QUEST_Q1S2_FAILURE1]">Você não conseguiu derrotar o primeiro Scorpion.</Text>
+<Text tag="[QUEST_Q1S2_FAILURE2]">Você não conseguiu derrotar o segundo Scorpion.</Text>
+<Text tag="[QUEST_Q1S2_PROGRESS1]">Você deve viajar para a Caverna dos Scorpions ao norte de Dhun-Kor e matar os Scorpions.</Text>
+<Text tag="[QUEST_Q1S2_PROGRESS2]">Você deve entrar na Caverna dos Scorpions. Cave mais uma vez e derrote o segundo Scorpion.</Text>
+<Text tag="[QUEST_Q1S2_REWARD]">Ambos os Scorpions foram derrotados. Infelizmente, eles tinham pouco tesouro.</Text>
+<Text tag="[QUEST_Q1S2_SUCCESS1]">Você derrotou o primeiro Scorpion.</Text>
+<Text tag="[QUEST_Q1S2_QMNAME1]">Escorpião Gigante</Text>
+<Text tag="[QUEST_Q1S2_QMHELP1]">Este Scorpion é maior que o primeiro. Ele tem garras enormes e pode lançar o feitiço Rend.</Text>
 
 </TextLibrary>

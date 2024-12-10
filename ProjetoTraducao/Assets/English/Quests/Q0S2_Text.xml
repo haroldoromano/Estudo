@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0S2_ACTION]">Search the Cave</Text>
-   <Text tag="[QUEST_Q0S2_FAILURE]">Wolves inside the cave have chased you away. You must go back inside.</Text>
-   <Text tag="[QUEST_Q0S2_REWARD]">There was no sign of any Dragon, only some Wolves and a few scattered coins from the Dragon&apos;s treasure hoard.</Text>
-   <Text tag="[QUEST_Q0S2_QMHELP0]">There is no sign of the Dragon here, but Wolves seem to have taken up residence in his cave.</Text>
+<Text tag="[QUEST_Q0S2_ACTION]">Procure na Caverna</Text>
+<Text tag="[QUEST_Q0S2_FAILURE]">Lobos dentro da caverna o expulsaram. Você deve voltar para dentro.</Text>
+<Text tag="[QUEST_Q0S2_REWARD]">Não havia sinal de nenhum Dragão, apenas alguns Lobos e algumas moedas espalhadas do tesouro do Dragão.</Text>
+<Text tag="[QUEST_Q0S2_QMHELP0]">Não há sinal do Dragão aqui, mas Lobos parecem ter se estabelecido em sua caverna.</Text>
 
 </TextLibrary>

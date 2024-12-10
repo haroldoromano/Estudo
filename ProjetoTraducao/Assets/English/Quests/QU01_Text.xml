@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QU01_ACTION]">Battle an Arboleth</Text>
-   <Text tag="[QUEST_QU01_FAILURE]">You have failed to defeat the Arboleth. Sunspear asks that you fight another one.</Text>
-   <Text tag="[QUEST_QU01_NOCOMP]">You will need Sunspear in your party to watch you fight the Arboleth.</Text>
-   <Text tag="[QUEST_QU01_REWARD]">Sunspear thanks you, but he does not wish to fight an Arboleth.</Text>
-   <Text tag="[QUEST_QU01_STEP1]">You must travel to Bonebridge and fight an Arboleth.</Text>
+<Text tag="[QUEST_QU01_ACTION]">Lute contra um Arboleth</Text>
+<Text tag="[QUEST_QU01_FAILURE]">Você falhou em derrotar o Arboleth. Lança-Sol pede que você lute contra outro.</Text>
+<Text tag="[QUEST_QU01_NOCOMP]">Você precisará de Lança-Sol em seu grupo para assistir você lutar contra o Arboleth.</Text>
+<Text tag="[QUEST_QU01_REWARD]">Lança-Sol agradece, mas ele não quer lutar contra um Arboleth.</Text>
+<Text tag="[QUEST_QU01_STEP1]">Você deve viajar para Bonebridge e lutar contra um Arboleth.</Text>
 
 </TextLibrary>

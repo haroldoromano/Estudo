@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3I2_ACTION]">Battle the Undead</Text>
-   <Text tag="[QUEST_Q3I2_FAILURE]">You have failed to rescue the captives.</Text>
-   <Text tag="[QUEST_Q3I2_KILL]">You have defeated the Doomknight. A few of the Undead escaped with some of their captives.</Text>
-   <Text tag="[QUEST_Q3I2_RETURN]">Report to Queen</Text>
-   <Text tag="[QUEST_Q3I2_REWARD]">You are rewarded for rescuing most of the Elven captives.</Text>
-   <Text tag="[QUEST_Q3I2_STEP1]">You must travel to Iceguard Keep and defeat the Undead that have captured the Elven Warriors.</Text>
-   <Text tag="[QUEST_Q3I2_STEP2]">You must now escort the Elves back to Ehlariel.</Text>
+<Text tag="[QUEST_Q3I2_ACTION]">Lute contra os mortos-vivos</Text>
+<Text tag="[QUEST_Q3I2_FAILURE]">Você falhou em resgatar os cativos.</Text>
+<Text tag="[QUEST_Q3I2_KILL]">Você derrotou o Doomknight. Alguns mortos-vivos escaparam com alguns de seus cativos.</Text>
+<Text tag="[QUEST_Q3I2_RETURN]">Reporte-se à Rainha</Text>
+<Text tag="[QUEST_Q3I2_REWARD]">Você é recompensado por resgatar a maioria dos cativos élficos.</Text>
+<Text tag="[QUEST_Q3I2_STEP1]">Você deve viajar para Iceguard Keep e derrotar os mortos-vivos que capturaram os guerreiros élficos.</Text>
+<Text tag="[QUEST_Q3I2_STEP2]">Agora você deve escoltar os elfos de volta para Ehlariel.</Text>
 
 </TextLibrary>

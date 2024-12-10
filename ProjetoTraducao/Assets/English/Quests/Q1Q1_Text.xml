@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1Q1_ACTION0]">Visit Gruulkar</Text>
-   <Text tag="[QUEST_Q1Q1_ACTION1]">Battle the Wargs</Text>
-   <Text tag="[QUEST_Q1Q1_FAILURE]">You could not defeat the Wargs, but you must try again.</Text>
-   <Text tag="[QUEST_Q1Q1_HELP0]">You must travel to Gruuldok to meet with Gruulkar.</Text>
-   <Text tag="[QUEST_Q1Q1_HELP1]">You must get Gruulkar a gift.  A Warg Pelt from the pack near the Wargstone should do the trick.</Text>
-   <Text tag="[QUEST_Q1Q1_HELP2]">You must return the Warg Pelt to Gruulkar.</Text>
-   <Text tag="[QUEST_Q1Q1_REWARD]">You now know that the Orcs taking prisoners are controlled by someone in the north.</Text>
-   <Text tag="[QUEST_Q1Q1_SUCCESS]">You have obtained a Warg pelt to take to Gruulkar as a gift.</Text>
-   <Text tag="[QUEST_Q1Q1_QMNAME0]">Warg</Text>
-   <Text tag="[QUEST_Q1Q1_QMHELP0]">This is a particularly nasty type of Wolf, called a Warg. They are huge and fast.  They can cast both Rend and Haste.</Text>
+<Text tag="[QUEST_Q1Q1_ACTION0]">Visite Gruulkar</Text>
+<Text tag="[QUEST_Q1Q1_ACTION1]">Lute contra os Wargs</Text>
+<Text tag="[QUEST_Q1Q1_FAILURE]">Você não conseguiu derrotar os Wargs, mas precisa tentar novamente.</Text>
+<Text tag="[QUEST_Q1Q1_HELP0]">Você precisa viajar para Gruuldok para se encontrar com Gruulkar.</Text>
+<Text tag="[QUEST_Q1Q1_HELP1]">Você precisa dar um presente para Gruulkar. Uma Pele de Warg do bando perto da Pedra de Warg deve resolver.</Text>
+<Text tag="[QUEST_Q1Q1_HELP2]">Você deve devolver a Pele de Warg para Gruulkar.</Text>
+<Text tag="[QUEST_Q1Q1_REWARD]">Agora você sabe que os Orcs que estão fazendo prisioneiros são controlados por alguém no norte.</Text>
+<Text tag="[QUEST_Q1Q1_SUCCESS]">Você obteve uma Pele de Warg para levar para Gruulkar como um presente.</Text>
+<Text tag="[QUEST_Q1Q1_QMNAME0]">Warg</Text>
+<Text tag="[QUEST_Q1Q1_QMHELP0]">Este é um tipo particularmente desagradável de Lobo, chamado de Warg. Eles são enormes e rápidos. Eles podem conjurar Rend e Haste.</Text>
 
 </TextLibrary>

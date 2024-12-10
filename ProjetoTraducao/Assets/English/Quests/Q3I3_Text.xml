@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3I3_ACTION1]">Battle the Undead</Text>
-   <Text tag="[QUEST_Q3I3_ACTION2]">Battle the Baneguard</Text>
-   <Text tag="[QUEST_Q3I3_ACTION3]">Report to Queen</Text>
-   <Text tag="[QUEST_Q3I3_FAILURE1]">You have failed to defeat the Undead. You will not be able to find the Elven captives until they are out of your way.</Text>
-   <Text tag="[QUEST_Q3I3_FAILURE2]">You have failed to defeat the Baneguard.</Text>
-   <Text tag="[QUEST_Q3I3_MESSAGE1]">You have walked into a trap. You are surrounded by the Undead.</Text>
-   <Text tag="[QUEST_Q3I3_PROGRESS1]">Travel to the Iceguard Keep to pick up the trail left by the Undead.</Text>
-   <Text tag="[QUEST_Q3I3_PROGRESS2]">The tracks left by the Undead lead you to the Lake of Blood. Travel there to find the Elven captives.</Text>
-   <Text tag="[QUEST_Q3I3_PROGRESS3]">Return to Ehlariel and report the grim fate of the Elven captives.</Text>
-   <Text tag="[QUEST_Q3I3_REWARD]">You have been rewarded for your effort on this dangerous mission. You are awarded the Iceguard.</Text>
-   <Text tag="[QUEST_Q3I3_SUCCESS1]">You have defeated the Undead and uncovered a trail leading to the Lake of Blood. You need to follow this trail if you want to rescue the Elven captives.</Text>
-   <Text tag="[QUEST_Q3I3_SUCCESS2]">You must return to Ehlariel and report the grim fate of the Elven captives.</Text>
-   <Text tag="[QUEST_Q3I3_QMNAME1]">Baneguard</Text>
-   <Text tag="[QUEST_Q3I3_QMHELP1]">The Baneguard have more spells than a regular Doomknight.  They can cast Cleave and Bone Strike. They also have more Life Points and Battle skill.</Text>
+<Text tag="[QUEST_Q3I3_ACTION1]">Lute contra os mortos-vivos</Text>
+<Text tag="[QUEST_Q3I3_ACTION2]">Lute contra os Baneguard</Text>
+<Text tag="[QUEST_Q3I3_ACTION3]">Reporte-se à Rainha</Text>
+<Text tag="[QUEST_Q3I3_FAILURE1]">Você falhou em derrotar os mortos-vivos. Você não conseguirá encontrar os cativos élficos até que eles saiam do seu caminho.</Text>
+<Text tag="[QUEST_Q3I3_FAILURE2]">Você falhou em derrotar os Baneguard.</Text>
+<Text tag="[QUEST_Q3I3_MESSAGE1]">Você caiu em uma armadilha. Você está cercado pelos mortos-vivos.</Text>
+<Text tag="[QUEST_Q3I3_PROGRESS1]">Viaje para a Fortaleza da Guarda do Gelo para pegar a trilha deixada pelos mortos-vivos.</Text>
+<Text tag="[QUEST_Q3I3_PROGRESS2]">Os rastros deixados pelos mortos-vivos levam você ao Lago de Sangue. Viaje até lá para encontrar os cativos élficos.</Text>
+<Text tag="[QUEST_Q3I3_PROGRESS3]">Retorne a Ehlariel e relate o destino sombrio dos cativos élficos.</Text>
+<Text tag="[QUEST_Q3I3_REWARD]">Você foi recompensado por seu esforço nesta missão perigosa. Você recebeu a Guarda do Gelo.</Text>
+<Text tag="[QUEST_Q3I3_SUCCESS1]">Você derrotou os mortos-vivos e descobriu uma trilha que leva ao Lago de Sangue. Você precisa seguir esta trilha se quiser resgatar os cativos élficos.</Text>
+<Text tag="[QUEST_Q3I3_SUCCESS2]">Você deve retornar a Ehlariel e relatar o destino sombrio dos cativos élficos.</Text>
+<Text tag="[QUEST_Q3I3_QMNAME1]">Baneguard</Text>
+<Text tag="[QUEST_Q3I3_QMHELP1]">Os Baneguard têm mais magias do que um Doomknight comum. Eles podem conjurar Cleave e Bone Strike. Eles também têm mais Pontos de Vida e habilidade de Batalha.</Text>
 
 </TextLibrary>

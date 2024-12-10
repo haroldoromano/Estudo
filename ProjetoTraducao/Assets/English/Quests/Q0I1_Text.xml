@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0I1_ACTION]">Fight the Spider</Text>
-   <Text tag="[QUEST_Q0I1_FAILURE]">The Spiders have chased you away, but you may return to fight again.</Text>
-   <Text tag="[QUEST_Q0I1_REWARD]">The Giant Spider has been slain. Almost immediately the rest scurry away into the forest.</Text>
-   <Text tag="[QUEST_Q0I1_QMNAME0]">Wolf Spider</Text>
-   <Text tag="[QUEST_Q0I1_QMHELP0]">This big hairy spider can Howl like a wolf, inflicting Fear in its enemies.</Text>
+<Text tag="[QUEST_Q0I1_ACTION]">Lute contra a Aranha</Text>
+<Text tag="[QUEST_Q0I1_FAILURE]">As Aranhas o expulsaram, mas você pode voltar para lutar novamente.</Text>
+<Text tag="[QUEST_Q0I1_REWARD]">A Aranha Gigante foi morta. Quase imediatamente, o resto foge para a floresta.</Text>
+<Text tag="[QUEST_Q0I1_QMNAME0]">Aranha Lobo</Text>
+<Text tag="[QUEST_Q0I1_QMHELP0]">Esta grande aranha peluda pode uivar como um lobo, infligindo Medo em seus inimigos.</Text>
 
 </TextLibrary>

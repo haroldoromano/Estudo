@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3D3_ACTION]">Enter the Cave</Text>
-   <Text tag="[QUEST_Q3D3_FAILURE]">You have failed to defeat the Undead Dragon guardian. You must try again.</Text>
-   <Text tag="[QUEST_Q3D3_NOCOMPS]">You should have Elistara and Flicker in your party before you enter the cave.</Text>
-   <Text tag="[QUEST_Q3D3_REWARD]">You have freed the Dragons. One by one they take to the skies and head home.</Text>
-   <Text tag="[QUEST_Q3D3_STEP1]">You must travel to a cave in the Realms of Death where Lord Bane holds the Dragons imprisoned.</Text>
+<Text tag="[QUEST_Q3D3_ACTION]">Entre na Caverna</Text>
+<Text tag="[QUEST_Q3D3_FAILURE]">Você falhou em derrotar o guardião Dragão Morto-Vivo. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q3D3_NOCOMPS]">Você deve ter Elistara e Flicker em seu grupo antes de entrar na caverna.</Text>
+<Text tag="[QUEST_Q3D3_REWARD]">Você libertou os Dragões. Um por um, eles sobem aos céus e voltam para casa.</Text>
+<Text tag="[QUEST_Q3D3_STEP1]">Você deve viajar para uma caverna nos Reinos da Morte, onde Lord Bane mantém os Dragões presos.</Text>
 
 </TextLibrary>

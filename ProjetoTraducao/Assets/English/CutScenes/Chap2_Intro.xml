@@ -1,6 +1,6 @@
 <CutScene file="Assets\CutScenes\Chap2_Intro.xml" voice="CutScenes\Act_2_Intro.ogg" duration="30000" voicedelay="1000" font="font_system" sound="snd_cutscene" x="0" y="128" width="1024" height="512" textx="512" texty="652">
-	<Text time="1000">Dugog the Ogre Lord had been slain, and the attacks into Agaria, both from Undead and Orcs, grew less frequent.</Text>
-	<Text time="10000">Tranquility began to settle over the kingdom once more, but there was still a sense of danger in the air; peasant and noble alike knew this peace could never last.</Text>
-	<Text time="20000">And so Queen Gwendholyn sent an expedition to the lands of Kor...</Text>
-	<Text time="25000">...perhaps they could learn the true nature of this threat.</Text>
+<Text time="1000">Dugog, o Senhor Ogro, foi morto, e os ataques a Agaria, tanto de mortos-vivos quanto de orcs, tornaram-se menos frequentes.</Text>
+<Text time="10000">A tranquilidade começou a se instalar sobre o reino mais uma vez, mas ainda havia uma sensação de perigo no ar; camponeses e nobres sabiam que essa paz nunca duraria.</Text>
+<Text time="20000">E então a Rainha Gwendholyn enviou uma expedição às terras de Kor...</Text>
+<Text time="25000">...talvez eles pudessem aprender a verdadeira natureza dessa ameaça.</Text>
 </CutScene>

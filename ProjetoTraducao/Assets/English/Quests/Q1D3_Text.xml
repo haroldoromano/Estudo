@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1D3_ACTION]">Find an Ogre</Text>
-   <Text tag="[QUEST_Q1D3_FAILURE]">You have failed to defeat this Ogre. You must find another one.</Text>
-   <Text tag="[QUEST_Q1D3_KILL]">You package up the defeated Ogre ready to take to Drong&apos;s Tower.</Text>
-   <Text tag="[QUEST_Q1D3_RETURN]">Visit Drong</Text>
-   <Text tag="[QUEST_Q1D3_REWARD]">Drong pays you well and gives you a magic cloak.</Text>
-   <Text tag="[QUEST_Q1D3_STEP1]">Travel to Gork and defeat an Ogre then take it back to Drong.</Text>
-   <Text tag="[QUEST_Q1D3_STEP2]">You must return to Drong&apos;s Tower with the Ogre.</Text>
-   <Text tag="[QUEST_Q1D3_QMHELP0]">You will need a BIG Ogre to feed Drong.  This one is big, but he looks extra tough.</Text>
+<Text tag="[QUEST_Q1D3_ACTION]">Encontre um Ogro</Text>
+<Text tag="[QUEST_Q1D3_FAILURE]">Você falhou em derrotar este Ogro. Você deve encontrar outro.</Text>
+<Text tag="[QUEST_Q1D3_KILL]">Você empacota o Ogro derrotado pronto para levar para a Torre de Drong.</Text>
+<Text tag="[QUEST_Q1D3_RETURN]">Visite Drong</Text>
+<Text tag="[QUEST_Q1D3_REWARD]">Drong paga bem e lhe dá uma capa mágica.</Text>
+<Text tag="[QUEST_Q1D3_STEP1]">Viaje para Gork e derrote um Ogro, depois leve-o de volta para Drong.</Text>
+<Text tag="[QUEST_Q1D3_STEP2]">Você deve retornar para a Torre de Drong com o Ogro.</Text>
+<Text tag="[QUEST_Q1D3_QMHELP0]">Você precisará de um Ogro GRANDE para alimentar Drong. Este é grande, mas parece extra resistente.</Text>
 
 </TextLibrary>

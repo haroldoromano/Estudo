@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3D1_ACTION]">Search for the Dragon</Text>
-   <Text tag="[QUEST_Q3D1_ACTION2]">Battle the Dragon</Text>
-   <Text tag="[QUEST_Q3D1_FAILURE]">You have failed to defeat the Undead Dragon. You can try to fight it again or simply return to Elistara.</Text>
-   <Text tag="[QUEST_Q3D1_KILL]">You have defeated the Undead Dragon. You must return to Elistara with the news.</Text>
-   <Text tag="[QUEST_Q3D1_NOSIGN]">There is no sign of Elistara&apos;s Dragon here.</Text>
-   <Text tag="[QUEST_Q3D1_RETURN]">Return to Elistara</Text>
-   <Text tag="[QUEST_Q3D1_REWARD]">Elistara is devastated by the news.</Text>
-   <Text tag="[QUEST_Q3D1_STEP1]">You must search for Elistara&apos;s Dragon in the Realms of Death.</Text>
-   <Text tag="[QUEST_Q3D1_STEP2]">You may continue to try and fight the Dragon, or return to Elistara.</Text>
-   <Text tag="[QUEST_Q3D1_STEP3]">You must return to Elistara in Ylarie.</Text>
-   <Text tag="[QUEST_Q3D1_TRACKS]">You do not find the Dragon, but there appear to be some Dragon tracks leading towards Lord Bane&apos;s Citadel.</Text>
+<Text tag="[QUEST_Q3D1_ACTION]">Procurando pelo Dragão</Text>
+<Text tag="[QUEST_Q3D1_ACTION2]">Lutando contra o Dragão</Text>
+<Text tag="[QUEST_Q3D1_FAILURE]">Você falhou em derrotar o Dragão Morto-Vivo. Você pode tentar lutar contra ele novamente ou simplesmente retornar para Elistara.</Text>
+<Text tag="[QUEST_Q3D1_KILL]">Você derrotou o Dragão Morto-Vivo. Você deve retornar a Elistara com as notícias.</Text>
+<Text tag="[QUEST_Q3D1_NOSIGN]">Não há sinal do Dragão de Elistara aqui.</Text>
+<Text tag="[QUEST_Q3D1_RETURN]">Retornar a Elistara</Text>
+<Text tag="[QUEST_Q3D1_REWARD]">Elistara está devastada com as notícias.</Text>
+<Text tag="[QUEST_Q3D1_STEP1]">Você deve procurar o Dragão de Elistara nos Reinos da Morte.</Text>
+<Text tag="[QUEST_Q3D1_STEP2]">Você pode continuar tentando lutar contra o Dragão ou retornar a Elistara.</Text>
+<Text tag="[QUEST_Q3D1_STEP3]">Você deve retornar a Elistara em Ylarie.</Text>
+<Text tag="[QUEST_Q3D1_TRACKS]">Você não encontra o Dragão, mas parece haver algumas pegadas de Dragão levando em direção à Cidadela de Lord Bane.</Text>
 
 </TextLibrary>

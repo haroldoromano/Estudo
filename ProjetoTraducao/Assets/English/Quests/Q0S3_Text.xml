@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0S3_ACTION]">Search for Lord Michael</Text>
-   <Text tag="[QUEST_Q0S3_ARRIVE]">Erik&apos;s father, Lord Michael, must be around here somewhere.</Text>
-   <Text tag="[QUEST_Q0S3_FAILURE]">You have failed to defeat the Orc. You will need to try again if you are to rescue Lord Michael.</Text>
-   <Text tag="[QUEST_Q0S3_KILL]">You have defeated the Orc and rescued Lord Michael.</Text>
-   <Text tag="[QUEST_Q0S3_RETURN]">Return Lord Michael to his son</Text>
-   <Text tag="[QUEST_Q0S3_REWARD]">Erik the Squire is overjoyed to see his father alive and well. He gives you his favorite bow.</Text>
-   <Text tag="[QUEST_Q0S3_STEP1]">You must go to the Ogre&apos;s Tower and search for Lord Michael.</Text>
-   <Text tag="[QUEST_Q0S3_STEP2]">You must now return to Bartonia and reunite Michael with his son Erik.</Text>
-   <Text tag="[QUEST_Q0S3_QMHELP0]">This Orc is bigger and stronger than most. He can stun you with his massive club.</Text>
+<Text tag="[QUEST_Q0S3_ACTION]">Procurar por Lorde Michael</Text>
+<Text tag="[QUEST_Q0S3_ARRIVE]">O pai de Erik, Lorde Michael, deve estar por aqui em algum lugar.</Text>
+<Text tag="[QUEST_Q0S3_FAILURE]">Você falhou em derrotar o Orc. Você precisará tentar novamente se quiser resgatar Lorde Michael.</Text>
+<Text tag="[QUEST_Q0S3_KILL]">Você derrotou o Orc e resgatou Lorde Michael.</Text>
+<Text tag="[QUEST_Q0S3_RETURN]">Devolver Lorde Michael ao seu filho</Text>
+<Text tag="[QUEST_Q0S3_REWARD]">Erik, o Escudeiro, está muito feliz em ver seu pai vivo e bem. Ele lhe dá seu arco favorito.</Text>
+<Text tag="[QUEST_Q0S3_STEP1]">Você deve ir até a Torre do Ogro e procurar por Lorde Michael.</Text>
+<Text tag="[QUEST_Q0S3_STEP2]">Agora você deve retornar a Bartonia e reunir Michael com seu filho Erik.</Text>
+<Text tag="[QUEST_Q0S3_QMHELP0]">Este Orc é maior e mais forte do que a maioria. Ele pode atordoar você com seu enorme porrete.</Text>
 
 </TextLibrary>

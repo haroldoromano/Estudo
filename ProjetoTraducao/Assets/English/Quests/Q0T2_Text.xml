@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0T2_ACTION]">Advanced Combat Training</Text>
-   <Text tag="[QUEST_Q0T2_FAILURE]">You have failed your combat training. You must try again.</Text>
-   <Text tag="[QUEST_Q0T2_REWARD]">You have passed your combat training.</Text>
-   <Text tag="[QUEST_Q0T2_QMNAME0]">Young Knight</Text>
+<Text tag="[QUEST_Q0T2_ACTION]">Treinamento de Combate Avançado</Text>
+<Text tag="[QUEST_Q0T2_FAILURE]">Você falhou no seu treinamento de combate. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q0T2_REWARD]">Você passou no seu treinamento de combate.</Text>
+<Text tag="[QUEST_Q0T2_QMNAME0]">Jovem Cavaleiro</Text>
 
 </TextLibrary>

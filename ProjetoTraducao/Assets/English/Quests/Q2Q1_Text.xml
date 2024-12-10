@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2Q1_ACTION]">Enter the Volcano</Text>
-   <Text tag="[QUEST_Q2Q1_FAILURE]">You have failed to defeat the Fire Elemental. You must try again.</Text>
-   <Text tag="[QUEST_Q2Q1_KILL]">You have defeated the Fire Elemental.</Text>
-   <Text tag="[QUEST_Q2Q1_RETURN]">Enter the Temple</Text>
-   <Text tag="[QUEST_Q2Q1_REWARD]">Tauron Flamebite welcomes you into the Horned Temple. You receive the Firewalker award (+4 Fire Mastery).</Text>
-   <Text tag="[QUEST_Q2Q1_STEP1]">You must travel to the nearby Volcano and enter its crater.</Text>
-   <Text tag="[QUEST_Q2Q1_STEP2]">You must return to the Horned Temple and meet with Tauron.</Text>
+<Text tag="[QUEST_Q2Q1_ACTION]">Entre no Vulcão</Text>
+<Text tag="[QUEST_Q2Q1_FAILURE]">Você falhou em derrotar o Elemental do Fogo. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2Q1_KILL]">Você derrotou o Elemental do Fogo.</Text>
+<Text tag="[QUEST_Q2Q1_RETURN]">Entre no Templo</Text>
+<Text tag="[QUEST_Q2Q1_REWARD]">Tauron Flamebite lhe dá as boas-vindas ao Templo Chifrudo. Você recebe o prêmio Firewalker (+4 Fire Mastery).</Text>
+<Text tag="[QUEST_Q2Q1_STEP1]">Você deve viajar até o vulcão próximo e entrar em sua cratera.</Text>
+<Text tag="[QUEST_Q2Q1_STEP2]">Você deve retornar ao Horned Temple e se encontrar com Tauron.</Text>
 
 </TextLibrary>

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3W1_ACTION]">Battle the Doomknight</Text>
-   <Text tag="[QUEST_Q3W1_FAILURE]">You have failed to defeat the Doomknight. The cubs remain in peril.</Text>
-   <Text tag="[QUEST_Q3W1_KILL]">You have defeated the Doomknight. The cubs are safe; now return them to Winter.</Text>
-   <Text tag="[QUEST_Q3W1_RETURN]">Return Cubs</Text>
-   <Text tag="[QUEST_Q3W1_REWARD]">Winter displays his gratitude for your help.</Text>
-   <Text tag="[QUEST_Q3W1_STEP1]">You must first go to the Dragon Shrine and defeat the Doomknight to rescue the wolf cubs.</Text>
-   <Text tag="[QUEST_Q3W1_STEP2]">You have rescued the wolf cubs. You must now return to Ylarie for your reward.</Text>
+<Text tag="[QUEST_Q3W1_ACTION]">Lute contra o Doomknight</Text>
+<Text tag="[QUEST_Q3W1_FAILURE]">Você falhou em derrotar o Doomknight. Os filhotes continuam em perigo.</Text>
+<Text tag="[QUEST_Q3W1_KILL]">Você derrotou o Doomknight. Os filhotes estão seguros; agora devolva-os para Winter.</Text>
+<Text tag="[QUEST_Q3W1_RETURN]">Devolver os Filhotes</Text>
+<Text tag="[QUEST_Q3W1_REWARD]">Winter demonstra sua gratidão por sua ajuda.</Text>
+<Text tag="[QUEST_Q3W1_STEP1]">Você deve primeiro ir ao Santuário do Dragão e derrotar o Cavaleiro da Perdição para resgatar os filhotes de lobo.</Text>
+<Text tag="[QUEST_Q3W1_STEP2]">Você resgatou os filhotes de lobo. Agora você deve retornar para Ylarie para receber sua recompensa.</Text>
 
 </TextLibrary>

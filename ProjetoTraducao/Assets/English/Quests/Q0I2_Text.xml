@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0I2_ACTION1]">Approach the Palace</Text>
-   <Text tag="[QUEST_Q0I2_ACTION2]">Sneak into the Palace</Text>
-   <Text tag="[QUEST_Q0I2_DONE]">The message has finally been delivered to the Emperor of Selentia.</Text>
-   <Text tag="[QUEST_Q0I2_ENMOUTH]">You have arrived in Emouth, largest Trade Port in the eastern lands, and home to the Selentine Emperor.</Text>
-   <Text tag="[QUEST_Q0I2_FAIL]">The Giant Rat has blocked your progress, but you may try again...</Text>
-   <Text tag="[QUEST_Q0I2_GUARDIAN]">You sneak into the Palace through the sewers, but you find a Giant Rat blocking the way...</Text>
-   <Text tag="[QUEST_Q0I2_PROGRESS1]">You must carry your message to the Imperial Palace in Enmouth.</Text>
-   <Text tag="[QUEST_Q0I2_PROGRESS2]">You must find another way to enter the Imperial Palace.</Text>
-   <Text tag="[QUEST_Q0I2_QMHELP0]">This Rat is larger than most, and also very fast - it knows the Haste spell.</Text>
+<Text tag="[QUEST_Q0I2_ACTION1]">Aproxime-se do Palácio</Text>
+<Text tag="[QUEST_Q0I2_ACTION2]">Entre no Palácio</Text>
+<Text tag="[QUEST_Q0I2_DONE]">A mensagem foi finalmente entregue ao Imperador de Selentia.</Text>
+<Text tag="[QUEST_Q0I2_ENMOUTH]">Você chegou em Emouth, o maior Porto Comercial nas terras orientais e lar do Imperador Selentino.</Text>
+<Text tag="[QUEST_Q0I2_FAIL]">O Rato Gigante bloqueou seu progresso, mas você pode tentar novamente...</Text>
+<Text tag="[QUEST_Q0I2_GUARDIAN]">Você entra furtivamente no Palácio pelos esgotos, mas encontra um Rato Gigante bloqueando o caminho...</Text>
+<Text tag="[QUEST_Q0I2_PROGRESS1]">Você deve levar sua mensagem ao Palácio Imperial em Enmouth.</Text>
+<Text tag="[QUEST_Q0I2_PROGRESS2]">Você deve encontrar outra maneira de entrar no Palácio Imperial.</Text>
+<Text tag="[QUEST_Q0I2_QMHELP0]">Este Rato é maior do que a maioria, e também muito rápido - ele conhece o feitiço Haste.</Text>
 
 </TextLibrary>

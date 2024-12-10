@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0Q0_ACTION0]">You must first travel to Siria.</Text>
-   <Text tag="[QUEST_Q0Q0_ACTION1]">You have survived an attack at the gates of Siria.  You must now deliver the message.</Text>
-   <Text tag="[QUEST_Q0Q0_ACTION2]">The message has been stolen! You must visit your father, Sir Albion, to explain.</Text>
-   <Text tag="[QUEST_Q0Q0_AMBUSH]">As you approach the city of Siria, a thief leaps out at you and demands you hand over the message!</Text>
-   <Text tag="[QUEST_Q0Q0_DONE]">Your father is grateful for your dedication to the task.  He gives you a fine Longsword with which to protect yourself.</Text>
-   <Text tag="[QUEST_Q0Q0_POPUP0]">Enter the City</Text>
-   <Text tag="[QUEST_Q0Q0_POPUP1]">Deliver the Message</Text>
-   <Text tag="[QUEST_Q0Q0_POPUP2]">Visit Your Father</Text>
+<Text tag="[QUEST_Q0Q0_ACTION0]">Você deve primeiro viajar para Siria.</Text>
+<Text tag="[QUEST_Q0Q0_ACTION1]">Você sobreviveu a um ataque nos portões de Siria. Agora você deve entregar a mensagem.</Text>
+<Text tag="[QUEST_Q0Q0_ACTION2]">A mensagem foi roubada! Você deve visitar seu pai, Sir Albion, para explicar.</Text>
+<Text tag="[QUEST_Q0Q0_AMBUSH]">Ao se aproximar da cidade de Siria, um ladrão salta em você e exige que você entregue a mensagem!</Text>
+<Text tag="[QUEST_Q0Q0_DONE]">Seu pai é grato por sua dedicação à tarefa. Ele lhe dá uma bela Longsword para se proteger.</Text>
+<Text tag="[QUEST_Q0Q0_POPUP0]">Entre na Cidade</Text>
+<Text tag="[QUEST_Q0Q0_POPUP1]">Entregue a Mensagem</Text>
+<Text tag="[QUEST_Q0Q0_POPUP2]">Visite Seu Pai</Text>
 
 </TextLibrary>

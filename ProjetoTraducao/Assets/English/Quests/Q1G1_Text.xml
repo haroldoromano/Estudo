@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1G1_ACTION]">Enter the Hive</Text>
-   <Text tag="[QUEST_Q1G1_ACTION2]">Search for the Troll</Text>
-   <Text tag="[QUEST_Q1G1_FAILURE]">You did not defeat the Wasp, but you may enter the hive and try again.</Text>
-   <Text tag="[QUEST_Q1G1_FAILURE2]">You did not defeat the Troll, but you may try again.</Text>
-   <Text tag="[QUEST_Q1G1_KILL]">You take the wings from the Giant Wasp. When you also have the Ice Troll Hair, these can be taken back to Neehi.</Text>
-   <Text tag="[QUEST_Q1G1_KILL2]">You cut the hair from the Ice Troll.  When you also have the Wasp Wings, this can be taken back to Neehi.</Text>
-   <Text tag="[QUEST_Q1G1_KILL3]">You now have both the wings from the Giant Wasp and the hair from the Ice Troll. These can now be taken back to Neehi.</Text>
-   <Text tag="[QUEST_Q1G1_RETURN]">Deliver the Components</Text>
-   <Text tag="[QUEST_Q1G1_REWARD]">Neehi pays you for the delivery.</Text>
-   <Text tag="[QUEST_Q1G1_STEP1]">You must search for a set of Wasp Wings and also find an Ice Troll.</Text>
-   <Text tag="[QUEST_Q1G1_STEP2]">You must now deliver the goods to Neehi in Gruuldok for your reward.</Text>
-   <Text tag="[QUEST_Q1G1_QMNAME1]">Ice Troll</Text>
-   <Text tag="[QUEST_Q1G1_QMHELP1]">Ice Trolls live in the cold northern areas. They can Freeze their foes.</Text>
+<Text tag="[QUEST_Q1G1_ACTION]">Entre na Colmeia</Text>
+<Text tag="[QUEST_Q1G1_ACTION2]">Procure o Troll</Text>
+<Text tag="[QUEST_Q1G1_FAILURE]">Você não derrotou a Vespa, mas pode entrar na colmeia e tentar novamente.</Text>
+<Text tag="[QUEST_Q1G1_FAILURE2]">Você não derrotou o Troll, mas pode tentar novamente.</Text>
+<Text tag="[QUEST_Q1G1_KILL]">Você pega as asas da Vespa Gigante. Quando você também tem o Cabelo do Troll de Gelo, eles podem ser levados de volta para Neehi.</Text>
+<Text tag="[QUEST_Q1G1_KILL2]">Você corta o cabelo do Troll de Gelo. Quando você também tiver as Asas de Vespa, elas podem ser levadas de volta para Neehi.</Text>
+<Text tag="[QUEST_Q1G1_KILL3]">Agora você tem as asas da Vespa Gigante e o cabelo do Troll de Gelo. Agora eles podem ser levados de volta para Neehi.</Text>
+<Text tag="[QUEST_Q1G1_RETURN]">Entregue os componentes</Text>
+<Text tag="[QUEST_Q1G1_REWARD]">Neehi paga você pela entrega.</Text>
+<Text tag="[QUEST_Q1G1_STEP1]">Você deve procurar um conjunto de Asas de Vespa e também encontrar um Troll de Gelo.</Text>
+<Text tag="[QUEST_Q1G1_STEP2]">Agora você deve entregar os produtos para Neehi em Gruuldok para receber sua recompensa.</Text>
+<Text tag="[QUEST_Q1G1_QMNAME1]">Troll de Gelo</Text>
+<Text tag="[QUEST_Q1G1_QMHELP1]">Trolls de Gelo vivem nas áreas frias do norte. Eles podem congelar seus inimigos.</Text>
 
 </TextLibrary>

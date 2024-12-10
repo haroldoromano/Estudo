@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1E2_ACTION]">Destroy the Gobshooters</Text>
-   <Text tag="[QUEST_Q1E2_FAILURE]">You have failed to destroy the Gobshooters.</Text>
-   <Text tag="[QUEST_Q1E2_REWARD]">You have destroyed the Gobshooters and you are rewarded.</Text>
+<Text tag="[QUEST_Q1E2_ACTION]">Destrua os Gobshooters</Text>
+<Text tag="[QUEST_Q1E2_FAILURE]">Você falhou em destruir os Gobshooters.</Text>
+<Text tag="[QUEST_Q1E2_REWARD]">Você destruiu os Gobshooters e foi recompensado.</Text>
 
 </TextLibrary>

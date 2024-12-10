@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3I0_ACTION]">Appear before Queen Ehlanna</Text>
-   <Text tag="[QUEST_Q3I0_FAILURE]">You have failed to defeat the monster</Text>
-   <Text tag="[QUEST_Q3I0_REWARD]">The Queen is pleased that you came and hopes to count on your assistance in the future.</Text>
+<Text tag="[QUEST_Q3I0_ACTION]">Apareça diante da Rainha Ehlanna</Text>
+<Text tag="[QUEST_Q3I0_FAILURE]">Você falhou em derrotar o monstro</Text>
+<Text tag="[QUEST_Q3I0_REWARD]">A Rainha está feliz que você veio e espera contar com sua ajuda no futuro.</Text>
 
 </TextLibrary>

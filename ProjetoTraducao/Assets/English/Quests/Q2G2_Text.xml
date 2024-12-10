@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2G2_ACTION]">Fight the Assassin</Text>
-   <Text tag="[QUEST_Q2G2_FAILURE]">You have failed to defeat the Master Assassin. You must try again.</Text>
-   <Text tag="[QUEST_Q2G2_KILL]">You have defeated the Master Assassin. You may now return and give Patch the good news.</Text>
-   <Text tag="[QUEST_Q2G2_RETURN]">Return to Patch</Text>
-   <Text tag="[QUEST_Q2G2_REWARD]">Patch is overjoyed.  He joins your party.</Text>
-   <Text tag="[QUEST_Q2G2_STEP1]">You must find the Master Assassin and defeat him.</Text>
-   <Text tag="[QUEST_Q2G2_STEP2]">You must now return to Hyaan and give Patch the good news.</Text>
-   <Text tag="[QUEST_Q2G2_QMNAME0]">Master Assassin</Text>
+<Text tag="[QUEST_Q2G2_ACTION]">Lute contra o Assassino</Text>
+<Text tag="[QUEST_Q2G2_FAILURE]">Você falhou em derrotar o Mestre Assassino. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2G2_KILL]">Você derrotou o Mestre Assassino. Agora você pode retornar e dar as boas novas ao Patch.</Text>
+<Text tag="[QUEST_Q2G2_RETURN]">Retornar ao Patch</Text>
+<Text tag="[QUEST_Q2G2_REWARD]">Patch está muito feliz. Ele se junta ao seu grupo.</Text>
+<Text tag="[QUEST_Q2G2_STEP1]">Você deve encontrar o Mestre Assassino e derrotá-lo.</Text>
+<Text tag="[QUEST_Q2G2_STEP2]">Agora você deve retornar a Hyaan e dar as boas novas a Patch.</Text>
+<Text tag="[QUEST_Q2G2_QMNAME0]">Mestre Assassino</Text>
 
 </TextLibrary>

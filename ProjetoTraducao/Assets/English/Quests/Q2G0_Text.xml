@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2G0_ACTION]">Fight the Stranger</Text>
-   <Text tag="[QUEST_Q2G0_FAILURE]">You have failed to defeat the stranger. You must try again.</Text>
-   <Text tag="[QUEST_Q2G0_KILL]">You have defeated the stranger.  You should return to the Gnoll in Hyaan.</Text>
-   <Text tag="[QUEST_Q2G0_RETURN]">Return to the Gnoll</Text>
-   <Text tag="[QUEST_Q2G0_REWARD]">The Gnoll rewards you with an unusual amount of Gold.</Text>
-   <Text tag="[QUEST_Q2G0_STEP1]">You must locate the strange man at The Pike and chase him away.</Text>
-   <Text tag="[QUEST_Q2G0_STEP2]">You must return to the Gnoll at Hyaan for your reward.</Text>
-   <Text tag="[QUEST_Q2G0_QMNAME0]">Assassin</Text>
+<Text tag="[QUEST_Q2G0_ACTION]">Lute contra o Estranho</Text>
+<Text tag="[QUEST_Q2G0_FAILURE]">Você falhou em derrotar o estranho. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2G0_KILL]">Você derrotou o estranho. Você deve retornar ao Gnoll em Hyaan.</Text>
+<Text tag="[QUEST_Q2G0_RETURN]">Retornar ao Gnoll</Text>
+<Text tag="[QUEST_Q2G0_REWARD]">O Gnoll recompensa você com uma quantidade incomum de ouro.</Text>
+<Text tag="[QUEST_Q2G0_STEP1]">Você deve localizar o homem estranho em The Pike e expulsá-lo.</Text>
+<Text tag="[QUEST_Q2G0_STEP2]">Você deve retornar ao Gnoll em Hyaan para receber sua recompensa.</Text>
+<Text tag="[QUEST_Q2G0_QMNAME0]">Assassino</Text>
 
 </TextLibrary>

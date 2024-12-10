@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QS02_BATTLE]">You have been attacked by Imperial Guards who are trying to take Princess Serephine back home.</Text>
-   <Text tag="[QUEST_QS02_CANX]">You have manage to flee from the Imperial Guards. But they will never be too far behind you.</Text>
-   <Text tag="[QUEST_QS02_FAILURE1]">You have failed to defeat the Imperial Guards. You flee, but they are close behind.</Text>
-   <Text tag="[QUEST_QS02_PROGRESS1]">Imperial Guards are searching the area looking for you. You should be cautious.</Text>
-   <Text tag="[QUEST_QS02_PROGRESS2]">You may have defeated some of the Imperial Guards, but the rest will not give up this easily. You should remain cautious.</Text>
-   <Text tag="[QUEST_QS02_REWARD]">You have been rewarded by Princess Serephine for your bravery.</Text>
-   <Text tag="[QUEST_QS02_SUCCESS1]">You have defeated most of the Imperial Guards. You must continue to be cautious, as they will not give up so easily.</Text>
-   <Text tag="[QUEST_QS02_SUCCESS2]">You have defeated the remaining Imperial Guards.</Text>
+<Text tag="[QUEST_QS02_BATTLE]">Você foi atacado por Guardas Imperiais que estão tentando levar a Princesa Serephine de volta para casa.</Text>
+<Text tag="[QUEST_QS02_CANX]">Você conseguiu fugir dos Guardas Imperiais. Mas eles nunca estarão muito atrás de você.</Text>
+<Text tag="[QUEST_QS02_FAILURE1]">Você falhou em derrotar os Guardas Imperiais. Você foge, mas eles estão logo atrás.</Text>
+<Text tag="[QUEST_QS02_PROGRESS1]">Guardas Imperiais estão vasculhando a área procurando por você. Você deve ser cauteloso.</Text>
+<Text tag="[QUEST_QS02_PROGRESS2]">Você pode ter derrotado alguns dos Guardas Imperiais, mas o resto não desistirá tão facilmente. Você deve permanecer cauteloso.</Text>
+<Text tag="[QUEST_QS02_REWARD]">Você foi recompensado pela Princesa Serephine por sua bravura.</Text>
+<Text tag="[QUEST_QS02_SUCCESS1]">Você derrotou a maioria dos Guardas Imperiais. Você deve continuar sendo cauteloso, pois eles não desistirão tão facilmente.</Text>
+<Text tag="[QUEST_QS02_SUCCESS2]">Você derrotou os Guardas Imperiais restantes.</Text>
 
 </TextLibrary>

@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2Q2_ACTION1]">Challenge the Minotaurs</Text>
-   <Text tag="[QUEST_Q2Q2_ACTION2]">Challenge the Chieftain</Text>
-   <Text tag="[QUEST_Q2Q2_ACTION3]">Return the Horns</Text>
-   <Text tag="[QUEST_Q2Q2_FAILURE1]">The Minotaurs are too strong. You must try again.</Text>
-   <Text tag="[QUEST_Q2Q2_FAILURE2]">The Chieftain has defeated you, but you must try again.</Text>
-   <Text tag="[QUEST_Q2Q2_PROGRESS1]">You must travel to the city of Tusk and challenge the Minotaurs to try and win the Horns of Sartek.</Text>
-   <Text tag="[QUEST_Q2Q2_PROGRESS2]">To win the Horns of Sartek, you must defeat a Minotaur Chieftain in battle.</Text>
-   <Text tag="[QUEST_Q2Q2_PROGRESS3]">You must return the Horns of Sartek to Tauron at the Horned Temple.</Text>
-   <Text tag="[QUEST_Q2Q2_REWARD]">Tauron is pleased to see the Horns. Now only 7 pieces of Sartek remain.</Text>
-   <Text tag="[QUEST_Q2Q2_SUCCESS1]">You have shown your worth to the tribe. Now you must challenge their leader.</Text>
-   <Text tag="[QUEST_Q2Q2_SUCCESS2]">You have defeated the Minotaur Chieftain. You claim the Horns of Sartek as your prize.</Text>
-   <Text tag="[QUEST_Q2Q2_QMNAME1]">Chieftain</Text>
-   <Text tag="[QUEST_Q2Q2_QMHELP1]">The Chieftain is better armored than most Minotaurs and can cast the Cleave spell.</Text>
+<Text tag="[QUEST_Q2Q2_ACTION1]">Desafie os Minotauros</Text>
+<Text tag="[QUEST_Q2Q2_ACTION2]">Desafie o Chefe</Text>
+<Text tag="[QUEST_Q2Q2_ACTION3]">Devolva os Chifres</Text>
+<Text tag="[QUEST_Q2Q2_FAILURE1]">Os Minotauros são muito fortes. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2Q2_FAILURE2]">O Chefe derrotou você, mas você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2Q2_PROGRESS1]">Você deve viajar para a cidade de Tusk e desafiar os Minotauros para tentar ganhar os Chifres de Sartek.</Text>
+<Text tag="[QUEST_Q2Q2_PROGRESS2]">Para ganhar os Chifres de Sartek, você deve derrotar um Chefe Minotauro em batalha.</Text>
+<Text tag="[QUEST_Q2Q2_PROGRESS3]">Você deve devolver os Chifres de Sartek para Tauron no Templo dos Chifres.</Text>
+<Text tag="[QUEST_Q2Q2_REWARD]">Tauron está feliz em ver os Chifres. Agora restam apenas 7 peças de Sartek.</Text>
+<Text tag="[QUEST_Q2Q2_SUCCESS1]">Você mostrou seu valor para a tribo. Agora você deve desafiar o líder deles.</Text>
+<Text tag="[QUEST_Q2Q2_SUCCESS2]">Você derrotou o Chefe Minotauro. Você reivindica os Chifres de Sartek como seu prêmio.</Text>
+<Text tag="[QUEST_Q2Q2_QMNAME1]">Chefe</Text>
+<Text tag="[QUEST_Q2Q2_QMHELP1]">O Chefe tem uma armadura melhor que a maioria dos Minotauros e pode conjurar a magia Cleave.</Text>
 
 </TextLibrary>

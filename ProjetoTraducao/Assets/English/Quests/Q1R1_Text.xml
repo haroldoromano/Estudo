@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1R1_ACTION]">Search the Lair</Text>
-   <Text tag="[QUEST_Q1R1_FAILURE]">The Wyvern chases you from the lair. You will need to go in and look again.</Text>
-   <Text tag="[QUEST_Q1R1_MSGA]">You see something move in the lair, but you quickly realize it is only a Wyvern.</Text>
-   <Text tag="[QUEST_Q1R1_REWARD]">All you find is a small amount of gold.</Text>
+<Text tag="[QUEST_Q1R1_ACTION]">Procure no Covil</Text>
+<Text tag="[QUEST_Q1R1_FAILURE]">O Wyvern expulsa você do covil. Você precisará entrar e olhar novamente.</Text>
+<Text tag="[QUEST_Q1R1_MSGA]">Você vê algo se movendo no covil, mas rapidamente percebe que é apenas um Wyvern.</Text>
+<Text tag="[QUEST_Q1R1_REWARD]">Tudo o que você encontra é uma pequena quantidade de ouro.</Text>
 
 </TextLibrary>

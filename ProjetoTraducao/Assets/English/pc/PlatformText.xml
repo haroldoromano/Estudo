@@ -1,28 +1,28 @@
 <TextLibrary>
-   <Text tag="[PLATFORM]">PC</Text>
-   <Text tag="[CLICKCONT]">Click to Continue</Text>
-   <Text tag="[PRESSCONT]">Press to Continue</Text>
-   <Text tag="[MSG_AUTOSAVE]">Please Wait... Your hero is being autosaved</Text>
-   <Text tag="[MSG_LOAD]">Please Wait... Loading Hero</Text>
-   <Text tag="[MSG_SPLASH_CONTINUE0]">Click to Continue</Text>
-   <Text tag="[MSG_SPLASH_CONTINUE1]">Press START to Continue</Text>
-   <Text tag="[CANNOTCREATEHERO_FILE]">The hero&apos;s save file could not be created.</Text>
-   
-   <Text tag="[AUTOUPLOAD_TITLE]">Auto-Upload</Text>
-   <Text tag="[AUTOUPLOAD_WARNING]">Puzzle Quest can automatically upload your high scores to the internet. \n Would you like to enable this feature?</Text>
-   <Text tag="[AUTOUPLOAD_MSG0]">Automatic uploading of high scores has been disabled. To re-enable this feature, go to the Settings menu.</Text>
-   <Text tag="[AUTOUPLOAD_MSG1]">Automatic uploading of high scores has been enabled. To disable this feature, go to the Settings menu.</Text>
-   <Text tag="[AUTOUPLOAD]">Upload High Scores to Internet</Text>
-   
-   <Text tag="[AUTODOWNLOAD_TITLE]">Internet High Scores</Text>
-   <Text tag="[AUTODOWNLOAD_WARNING]">Puzzle Quest can download lists of high scores from the internet. These may contain offensive language. \n Would you like to enable this feature?</Text>
-   <Text tag="[AUTODOWNLOAD_MSG0]">Downloading of internet high scores has been disabled. To re-enable this feature, go to the Settings menu.</Text>
-   <Text tag="[AUTODOWNLOAD_MSG1]">Downloading of internet high scores has been enabled. To disable this feature, go to the Settings menu.</Text>
-   <Text tag="[AUTODOWNLOAD]">Download Internet High Scores</Text>
-   <Text tag="[AUTODOWNLOAD_NA]">Internet High Scores have been disabled</Text>
-   <Text tag="[PROFANITY_FILTER]">Profanity Filter</Text>
-   
-   <Text tag="[ERROR_STARTUP_DX]">Puzzle Quest requires a newer version of DirectX (9.0c or higher) to be installed.</Text>
-   <Text tag="[ERROR_STARTUP_NOFULLSCREEN]">The game cannot run in full screen mode on this desktop resolution.\nIt will now start in windowed mode.</Text>
-   <Text tag="[ERROR_STARTUP_NORES]">No desktop settings have been found with which this game can run.</Text>
+<Text tag="[PLATFORM]">PC</Text>
+<Text tag="[CLICKCONT]">Clique para continuar</Text>
+<Text tag="[PRESSCONT]">Pressione para continuar</Text>
+<Text tag="[MSG_AUTOSAVE]">Aguarde... Seu herói está sendo salvo automaticamente</Text>
+<Text tag="[MSG_LOAD]">Aguarde... Carregando herói</Text>
+<Text tag="[MSG_SPLASH_CONTINUE0]">Clique para continuar</Text>
+<Text tag="[MSG_SPLASH_CONTINUE1]">Pressione START para continuar</Text>
+<Text tag="[CANNOTCREATEHERO_FILE]">O arquivo salvo do herói não pôde ser criado.</Text>
+
+<Text tag="[AUTOUPLOAD_TITLE]">Carregamento automático</Text>
+<Text tag="[AUTOUPLOAD_WARNING]">O Puzzle Quest pode carregar automaticamente suas pontuações mais altas para a internet. \n Gostaria de habilitar este recurso?</Text>
+<Text tag="[AUTOUPLOAD_MSG0]">O upload automático de pontuações mais altas foi desabilitado. Para reabilitar este recurso, vá para o menu Configurações.</Text>
+<Text tag="[AUTOUPLOAD_MSG1]">O upload automático de pontuações mais altas foi habilitado. Para desabilitar este recurso, vá para o menu Configurações.</Text>
+<Text tag="[AUTOUPLOAD]">Carregar pontuações mais altas para a Internet</Text>
+
+<Text tag="[AUTODOWNLOAD_TITLE]">Pontuações mais altas da Internet</Text>
+<Text tag="[AUTODOWNLOAD_WARNING]">O Puzzle Quest pode baixar listas de pontuações mais altas da Internet. Elas podem conter linguagem ofensiva. \n Gostaria de habilitar este recurso?</Text>
+<Text tag="[AUTODOWNLOAD_MSG0]">O download de pontuações mais altas da Internet foi desabilitado. Para reativar esse recurso, vá para o menu Configurações.</Text>
+<Text tag="[AUTODOWNLOAD_MSG1]">O download de pontuações máximas da Internet foi ativado. Para desabilitar esse recurso, vá para o menu Configurações.</Text>
+<Text tag="[AUTODOWNLOAD]">Baixar recordes da Internet</Text>
+<Text tag="[AUTODOWNLOAD_NA]">Os recordes da Internet foram desabilitados</Text>
+<Text tag="[PROFANITY_FILTER]">Filtro de profanidade</Text>
+
+<Text tag="[ERROR_STARTUP_DX]">O Puzzle Quest requer uma versão mais recente do DirectX (9.0c ou superior) para ser instalado.</Text>
+<Text tag="[ERROR_STARTUP_NOFULLSCREEN]">O jogo não pode ser executado em tela cheia nessa resolução de desktop.\nAgora ele será iniciado em modo de janela.</Text>
+<Text tag="[ERROR_STARTUP_NORES]">Nenhuma configuração de desktop foi encontrada para executar este jogo.</Text>
 </TextLibrary>

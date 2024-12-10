@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3A2_ACTION]">Battle the Harpy Queen</Text>
-   <Text tag="[QUEST_Q3A2_FAILURE]">You have failed to defeat the Harpy Queen, you must try again.</Text>
-   <Text tag="[QUEST_Q3A2_REWARD]">You have defeated the Harpy Queen. Hopefully now the Harpies will stay away.</Text>
-   <Text tag="[QUEST_Q3A2_QMNAME0]">Harpy Queen</Text>
-   <Text tag="[QUEST_Q3A2_QMHELP0]">This huge Harpy is Queen of her coven. She is tougher than a regular Harpy and able to cast the Stun spell.</Text>
+<Text tag="[QUEST_Q3A2_ACTION]">Lute contra a Rainha Harpia</Text>
+<Text tag="[QUEST_Q3A2_FAILURE]">Você falhou em derrotar a Rainha Harpia, você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q3A2_REWARD]">Você derrotou a Rainha Harpia. Espero que agora as Harpias fiquem longe.</Text>
+<Text tag="[QUEST_Q3A2_QMNAME0]">Rainha Harpia</Text>
+<Text tag="[QUEST_Q3A2_QMHELP0]">Esta enorme Harpia é a Rainha de seu coven. Ela é mais resistente do que uma Harpia normal e capaz de lançar o feitiço Stun.</Text>
 
 </TextLibrary>

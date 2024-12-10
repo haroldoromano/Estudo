@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QD00_ACTION]">Find Granite</Text>
-   <Text tag="[QUEST_QD00_DRONG]">You have found some tasty looking granite, but Drong is no longer in your party. You will need to go get him so he can try some of this granite.</Text>
-   <Text tag="[QUEST_QD00_REWARD]">Drong rewards you for finding him some tasty granite.</Text>
-   <Text tag="[QUEST_QD00_STEP1]">You must journey to the Valley of Kings to find granite for Drong.</Text>
+<Text tag="[QUEST_QD00_ACTION]">Encontre Granito</Text>
+<Text tag="[QUEST_QD00_DRONG]">Você encontrou um granito de aparência saborosa, mas Drong não está mais no seu grupo. Você precisará buscá-lo para que ele possa experimentar um pouco deste granito.</Text>
+<Text tag="[QUEST_QD00_REWARD]">Drong recompensa você por encontrar um granito saboroso para ele.</Text>
+<Text tag="[QUEST_QD00_STEP1]">Você deve viajar para o Vale dos Reis para encontrar granito para Drong.</Text>
 
 </TextLibrary>

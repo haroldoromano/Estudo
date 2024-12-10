@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3A4_ACTION]">Battle the Arboleth</Text>
-   <Text tag="[QUEST_Q3A4_FAILURE]">You have failed to defeat the Arboleth. You must try again.</Text>
-   <Text tag="[QUEST_Q3A4_REWARD]">You have defeated the Arboleth. Hopefully the others will stay away.</Text>
+<Text tag="[QUEST_Q3A4_ACTION]">Batalhe contra o Arboleth</Text>
+<Text tag="[QUEST_Q3A4_FAILURE]">Você falhou em derrotar o Arboleth. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q3A4_REWARD]">Você derrotou o Arboleth. Espero que os outros fiquem longe.</Text>
 
 </TextLibrary>

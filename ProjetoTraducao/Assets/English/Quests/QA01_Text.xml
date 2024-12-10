@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QA01_ACTION]">Enter the Red Tower</Text>
-   <Text tag="[QUEST_QA01_NOCOMP]">You must have Darkhunter with you before approaching Lord Greythane.</Text>
-   <Text tag="[QUEST_QA01_REWARD]">You leave the Red Tower of Maethelburg after little success.</Text>
-   <Text tag="[QUEST_QA01_STEP1]">You must travel to Maethelburg and enter the Red Tower, home to Lord Greythane and the Knights of the Riverguard.</Text>
+<Text tag="[QUEST_QA01_ACTION]">Entre na Torre Vermelha</Text>
+<Text tag="[QUEST_QA01_NOCOMP]">Você deve ter Darkhunter com você antes de se aproximar de Lord Greythane.</Text>
+<Text tag="[QUEST_QA01_REWARD]">Você deixa a Torre Vermelha de Maethelburg após pouco sucesso.</Text>
+<Text tag="[QUEST_QA01_STEP1]">Você deve viajar para Maethelburg e entrar na Torre Vermelha, lar de Lord Greythane e dos Cavaleiros da Guarda do Rio.</Text>
 
 </TextLibrary>

@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
-   
-   <Text tag="[QUEST_Q000_ACTION]" >Battle the Monster</Text>
-   <Text tag="[QUEST_Q000_RETURN]" >Get Reward</Text>
-   <Text tag="[QUEST_Q000_REWARD]" >You have won and you receive a reward</Text>
-   <Text tag="[QUEST_Q000_KILL]"   >You have defeated the monster</Text>
-   <Text tag="[QUEST_Q000_FAILURE]">You have failed to defeat the monster</Text>
-   <Text tag="[QUEST_Q000_STEP1]"  >You must first go to the destination and battle the monster</Text>
-   <Text tag="[QUEST_Q000_STEP2]"  >You must now return home for your reward</Text>
-   
+
+<Text tag="[QUEST_Q000_ACTION]" >Lute contra o monstro</Text>
+<Text tag="[QUEST_Q000_RETURN]" >Obtenha recompensa</Text>
+<Text tag="[QUEST_Q000_REWARD]" >Você venceu e recebeu uma recompensa</Text>
+<Text tag="[QUEST_Q000_KILL]" >Você derrotou o monstro</Text>
+<Text tag="[QUEST_Q000_FAILURE]">Você falhou em derrotar o monstro</Text>
+<Text tag="[QUEST_Q000_STEP1]" >Você deve primeiro ir ao destino e lutar contra o monstro</Text>
+<Text tag="[QUEST_Q000_STEP2]" >Agora você deve retornar para casa para receber sua recompensa</Text>
+
 </TextLibrary>

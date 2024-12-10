@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0T0_ACTION]">Visit your Father</Text>
-   <Text tag="[QUEST_Q0T0_REWARD]">You receive a broken shield from your father.</Text>
-   <Text tag="[QUEST_Q0T0_SIRIA]">You have arrived in Siria, home of your father Sir Albion. You should visit your father at the first available opportunity.</Text>
-   <Text tag="[QUEST_Q0T0_STEP1]">You must travel to Siria and visit your father.</Text>
+<Text tag="[QUEST_Q0T0_ACTION]">Visite seu pai</Text>
+<Text tag="[QUEST_Q0T0_REWARD]">Você recebeu um escudo quebrado de seu pai.</Text>
+<Text tag="[QUEST_Q0T0_SIRIA]">Você chegou em Siria, lar de seu pai, Sir Albion. Você deve visitar seu pai na primeira oportunidade disponível.</Text>
+<Text tag="[QUEST_Q0T0_STEP1]">Você deve viajar para Siria e visitar seu pai.</Text>
 
 </TextLibrary>

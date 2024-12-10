@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QP01_ACTION1]">Track the thief</Text>
-   <Text tag="[QUEST_QP01_ACTION2]">Battle the thief</Text>
-   <Text tag="[QUEST_QP01_FAILURE]">You have failed to defeat the thief and reclaim Patches treasure.</Text>
-   <Text tag="[QUEST_QP01_REWARD]">Patch rewards you for helping to reclaim his treasure.</Text>
-   <Text tag="[QUEST_QP01_STEP1]">You must follow the tracks to the Pike to track down the thief who stole Patch&apos;s treasure.</Text>
-   <Text tag="[QUEST_QP01_STEP2]">You must follow the tracks to Tusk to track down the thief who stole Patch&apos;s treasure.</Text>
-   <Text tag="[QUEST_QP01_STEP3]">You must follow the tracks to Weret to track down the thief who stole Patch&apos;s treasure.</Text>
+<Text tag="[QUEST_QP01_ACTION1]">Rastreie o ladrão</Text>
+<Text tag="[QUEST_QP01_ACTION2]">Lute contra o ladrão</Text>
+<Text tag="[QUEST_QP01_FAILURE]">Você falhou em derrotar o ladrão e recuperar o tesouro de Patch.</Text>
+<Text tag="[QUEST_QP01_REWARD]">Patch recompensa você por ajudar a recuperar seu tesouro.</Text>
+<Text tag="[QUEST_QP01_STEP1]">Você deve seguir as trilhas até Pike para rastrear o ladrão que roubou o tesouro de Patch.</Text>
+<Text tag="[QUEST_QP01_STEP2]">Você deve seguir as trilhas até Tusk para rastrear o ladrão que roubou o tesouro de Patch. tesouro.</Text>
+<Text tag="[QUEST_QP01_STEP3]">Você deve seguir as trilhas até Weret para rastrear o ladrão que roubou o tesouro de Patch.</Text>
 
 </TextLibrary>

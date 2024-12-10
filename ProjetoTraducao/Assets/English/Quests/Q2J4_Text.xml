@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2J4_ACTION1]">Battle the Medusa</Text>
-   <Text tag="[QUEST_Q2J4_ACTION2]">Shop for Griffonskin</Text>
-   <Text tag="[QUEST_Q2J4_FAILURE]">You have failed to defeat the Medusa. You must try again.</Text>
-   <Text tag="[QUEST_Q2J4_KILL]">You have defeated the Medusa.  You retrieve some blood with which to sign the documents.</Text>
-   <Text tag="[QUEST_Q2J4_R0]">Jarl&apos;s Hammer and Cloak</Text>
-   <Text tag="[QUEST_Q2J4_R1]">Jotun&apos;s Helm and Boots</Text>
-   <Text tag="[QUEST_Q2J4_RETURN]">Talk to the Giants</Text>
-   <Text tag="[QUEST_Q2J4_REWARD]">You have succeeded!  Jarl and Jotun give you all the items they no longer want.</Text>
-   <Text tag="[QUEST_Q2J4_STEP1]">You must approach Jarl and Jotun and see if they can reach a truce.</Text>
-   <Text tag="[QUEST_Q2J4_STEP2]">You must travel to Werret to find a Medusa and to Gruuldok to get some Griffonskin.</Text>
-   <Text tag="[QUEST_Q2J4_STEP3]">You must return to the Giants&apos; Walk to meet with Jarl and Jotun.</Text>
-   <Text tag="[QUEST_Q2J4_TALK1]">Talk to Jarl</Text>
-   <Text tag="[QUEST_Q2J4_TALK2]">Talk to Jotun</Text>
+<Text tag="[QUEST_Q2J4_ACTION1]">Lute contra a Medusa</Text>
+<Text tag="[QUEST_Q2J4_ACTION2]">Compre Griffonskin</Text>
+<Text tag="[QUEST_Q2J4_FAILURE]">Você falhou em derrotar a Medusa. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2J4_KILL]">Você derrotou a Medusa. Você recupera um pouco de sangue para assinar os documentos.</Text>
+<Text tag="[QUEST_Q2J4_R0]">Martelo e Capa de Jarl</Text>
+<Text tag="[QUEST_Q2J4_R1]">Elmo e Botas de Jotun</Text>
+<Text tag="[QUEST_Q2J4_RETURN]">Fale com os Gigantes</Text>
+<Text tag="[QUEST_Q2J4_REWARD]">Você conseguiu! Jarl e Jotun dão a você todos os itens que eles não querem mais.</Text>
+<Text tag="[QUEST_Q2J4_STEP1]">Você deve abordar Jarl e Jotun e ver se eles conseguem chegar a uma trégua.</Text>
+<Text tag="[QUEST_Q2J4_STEP2]">Você deve viajar para Werret para encontrar uma Medusa e para Gruuldok para obter um pouco de Griffonskin.</Text>
+<Text tag="[QUEST_Q2J4_STEP3]">Você deve retornar à Caminhada dos Gigantes para se encontrar com Jarl e Jotun.</Text>
+<Text tag="[QUEST_Q2J4_TALK1]">Fale com Jarl</Text>
+<Text tag="[QUEST_Q2J4_TALK2]">Fale com Jotun</Text>
 
 </TextLibrary>

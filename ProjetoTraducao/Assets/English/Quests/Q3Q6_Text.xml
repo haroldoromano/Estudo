@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3Q6_ACTION1]">Enter the Citadel</Text>
-   <Text tag="[QUEST_Q3Q6_ACTION2]">Enter the Throne Room</Text>
-   <Text tag="[QUEST_Q3Q6_FAILURE1]">You have failed to gain entry into the citadel. You must try again.</Text>
-   <Text tag="[QUEST_Q3Q6_FAILURE2]">You have failed to gain entry into the Throne Room. You must try again.</Text>
-   <Text tag="[QUEST_Q3Q6_PROGRESS1]">You must defeat a guardian Doomknight to gain entry to the citadel.</Text>
-   <Text tag="[QUEST_Q3Q6_PROGRESS2]">You must defeat an Iron Golem to gain entry to the Throne Room.</Text>
-   <Text tag="[QUEST_Q3Q6_REWARD]">You have finally confronted Lord Bane. All that remains is to defeat him!</Text>
-   <Text tag="[QUEST_Q3Q6_SUCCESS1]">You have gained entry into the citadel. Now you must travel deeper inside.</Text>
-   <Text tag="[QUEST_Q3Q6_SUCCESS2]">You have gained entry into the Throne Room.</Text>
+<Text tag="[QUEST_Q3Q6_ACTION1]">Entre na Cidadela</Text>
+<Text tag="[QUEST_Q3Q6_ACTION2]">Entre na Sala do Trono</Text>
+<Text tag="[QUEST_Q3Q6_FAILURE1]">Você não conseguiu entrar na cidadela. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q3Q6_FAILURE2]">Você não conseguiu entrar na Sala do Trono. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q3Q6_PROGRESS1]">Você deve derrotar um guardião Doomknight para ganhar entrada na cidadela.</Text>
+<Text tag="[QUEST_Q3Q6_PROGRESS2]">Você deve derrotar um Iron Golem para ganhar entrada na Sala do Trono.</Text>
+<Text tag="[QUEST_Q3Q6_REWARD]">Você finalmente confrontou Lord Bane. Tudo o que resta é derrotá-lo!</Text>
+<Text tag="[QUEST_Q3Q6_SUCCESS1]">Você ganhou entrada na cidadela. Agora você deve viajar mais profundamente para dentro.</Text>
+<Text tag="[QUEST_Q3Q6_SUCCESS2]">Você ganhou entrada na Sala do Trono.</Text>
 
 </TextLibrary>

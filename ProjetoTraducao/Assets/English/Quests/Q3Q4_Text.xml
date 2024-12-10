@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3Q4_ACTION1]">Search for Herbs</Text>
-   <Text tag="[QUEST_Q3Q4_ACTION2]">Search for More Herbs</Text>
-   <Text tag="[QUEST_Q3Q4_ACTION3]">Return the Herbs</Text>
-   <Text tag="[QUEST_Q3Q4_FAILURE1]">The Arboleth has chased you away.  You will need to return and face it.</Text>
-   <Text tag="[QUEST_Q3Q4_FAILURE2]">The Liche has defeated you.  You will need to return and battle the Liche one more time.</Text>
-   <Text tag="[QUEST_Q3Q4_PROGRESS1]">You must search for herbs in Bonebridge, north of Skullguard Pass.</Text>
-   <Text tag="[QUEST_Q3Q4_PROGRESS2]">You must search for more Herbs in Bonebridge - you do yet not have enough.</Text>
-   <Text tag="[QUEST_Q3Q4_PROGRESS3]">You have the herbs. You must now return to Ylarie.</Text>
-   <Text tag="[QUEST_Q3Q4_REWARD]">The Mages pay you a tidy sum of Gold for collecting their herbs.</Text>
-   <Text tag="[QUEST_Q3Q4_SUCCESS1]">You have found the first group of herbs the Mages were looking for.</Text>
-   <Text tag="[QUEST_Q3Q4_SUCCESS2]">You have found the second group of herbs the Mages were looking for.  You should now return them to Ylarie.</Text>
+<Text tag="[QUEST_Q3Q4_ACTION1]">Procurar Ervas</Text>
+<Text tag="[QUEST_Q3Q4_ACTION2]">Procurar Mais Ervas</Text>
+<Text tag="[QUEST_Q3Q4_ACTION3]">Devolver as Ervas</Text>
+<Text tag="[QUEST_Q3Q4_FAILURE1]">O Arboleth te expulsou. Você precisará retornar e enfrentá-lo.</Text>
+<Text tag="[QUEST_Q3Q4_FAILURE2]">O Liche te derrotou. Você precisará retornar e lutar contra o Liche mais uma vez.</Text>
+<Text tag="[QUEST_Q3Q4_PROGRESS1]">Você deve procurar ervas em Bonebridge, ao norte de Skullguard Pass.</Text>
+<Text tag="[QUEST_Q3Q4_PROGRESS2]">Você deve procurar mais ervas em Bonebridge - você ainda não tem o suficiente.</Text>
+<Text tag="[QUEST_Q3Q4_PROGRESS3]">Você tem as ervas. Agora você deve retornar para Ylarie.</Text>
+<Text tag="[QUEST_Q3Q4_REWARD]">Os Magos pagam a você uma boa quantia de ouro para coletar suas ervas.</Text>
+<Text tag="[QUEST_Q3Q4_SUCCESS1]">Você encontrou o primeiro grupo de ervas que os Magos estavam procurando.</Text>
+<Text tag="[QUEST_Q3Q4_SUCCESS2]">Você encontrou o segundo grupo de ervas que os Magos estavam procurando. Agora você deve devolvê-los para Ylarie.</Text>
 
 </TextLibrary>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QS00_RETCOMP]">Return with Serephine</Text>
-   <Text tag="[QUEST_QS00_ACTION]">Try to Save Serephine</Text>
-   <Text tag="[QUEST_QS00_FAILURE]">You escape the guards but not in time to save Serephine.  She has been taken away; you are uncertain exactly where.</Text>
-   <Text tag="[QUEST_QS00_NOCOMP]">You will need Serephine with you to complete the quest in Enmouth.</Text>
-   <Text tag="[QUEST_QS00_PRELUDE]">As you enter Enmouth, you are ambushed by guards.  They seem intent on capturing Princess Serephine.</Text>
-   <Text tag="[QUEST_QS00_REENTER]">This is where Serephine was taken from your party by Imperial Guards. Perhaps you can rescue her...</Text>
-   <Text tag="[QUEST_QS00_REMOVECOMP]">Princess Serephine has been removed from your party.  You must try to get her back.</Text>
-   <Text tag="[QUEST_QS00_REWARD]">By the time you defeat the Imperial Guards, they have taken Serephine away; you are uncertain exactly where.</Text>
-   <Text tag="[QUEST_QS00_STEP1]">You must travel to Enmouth to help Princess Serephine&apos;s friend.</Text>
-   <Text tag="[QUEST_QS00_STEP2]">You must try to save Serephine from the Imperial Guards in Enmouth.</Text>
+<Text tag="[QUEST_QS00_RETCOMP]">Retorne com Serephine</Text>
+<Text tag="[QUEST_QS00_ACTION]">Tente salvar Serephine</Text>
+<Text tag="[QUEST_QS00_FAILURE]">Você escapa dos guardas, mas não a tempo de salvar Serephine. Ela foi levada embora; você não tem certeza de onde exatamente.</Text>
+<Text tag="[QUEST_QS00_NOCOMP]">Você precisará de Serephine com você para completar a missão em Enmouth.</Text>
+<Text tag="[QUEST_QS00_PRELUDE]">Ao entrar em Enmouth, você é emboscado por guardas. Eles parecem determinados a capturar a Princesa Serephine.</Text>
+<Text tag="[QUEST_QS00_REENTER]">Foi aqui que Serephine foi tirada do seu grupo pelos Guardas Imperiais. Talvez você possa resgatá-la...</Text>
+<Text tag="[QUEST_QS00_REMOVECOMP]">A Princesa Serephine foi removida do seu grupo. Você deve tentar recuperá-la.</Text>
+<Text tag="[QUEST_QS00_REWARD]">Quando você derrotar os Guardas Imperiais, eles terão levado Serephine embora; você não sabe exatamente para onde.</Text>
+<Text tag="[QUEST_QS00_STEP1]">Você deve viajar para Enmouth para ajudar a amiga da Princesa Serephine.</Text>
+<Text tag="[QUEST_QS00_STEP2]">Você deve tentar salvar Serephine dos Guardas Imperiais em Enmouth.</Text>
 
 </TextLibrary>

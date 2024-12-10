@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2I5_ACTION1]">Deliver Jarl&apos;s Invitation</Text>
-   <Text tag="[QUEST_Q2I5_ACTION2]">Deliver Jotun&apos;s Invitation</Text>
-   <Text tag="[QUEST_Q2I5_KILL1]">You have successfully delivered Jarl&apos;s invitation. You still need to deliver Jotun&apos;s.</Text>
-   <Text tag="[QUEST_Q2I5_KILL2]">You have successfully delivered Jotun&apos;s invititation. You still need to deliver Jarl&apos;s.</Text>
-   <Text tag="[QUEST_Q2I5_KILL3]">You have successfully delivered the invitations. Return to the City of Tusk for your reward.</Text>
-   <Text tag="[QUEST_Q2I5_RETURN]">Recieve your delivery fee</Text>
-   <Text tag="[QUEST_Q2I5_REWARD]">You are rewarded well for your services.</Text>
-   <Text tag="[QUEST_Q2I5_STEP0]">You must deliver both invitations to Jarl and Jotun.</Text>
-   <Text tag="[QUEST_Q2I5_STEP1]">You have delivered Jarl&apos;s invitation. You must now deliver Jotun&apos;s.</Text>
-   <Text tag="[QUEST_Q2I5_STEP2]">You have delivered Jotun&apos;s invitation. You must now deliver Jarl&apos;s.</Text>
-   <Text tag="[QUEST_Q2I5_STEP3]">You have delivered both invitations. You must now return to the City of Tusk to collect your delivery fee.</Text>
+<Text tag="[QUEST_Q2I5_ACTION1]">Entregar o convite de Jarl</Text>
+<Text tag="[QUEST_Q2I5_ACTION2]">Entregar o convite de Jotun</Text>
+<Text tag="[QUEST_Q2I5_KILL1]">Você entregou com sucesso o convite de Jarl. Você ainda precisa entregar o de Jotun.</Text>
+<Text tag="[QUEST_Q2I5_KILL2]">Você entregou com sucesso o convite de Jotun. Você ainda precisa entregar o de Jarl.</Text>
+<Text tag="[QUEST_Q2I5_KILL3]">Você entregou os convites com sucesso. Retorne à Cidade de Tusk para receber sua recompensa.</Text>
+<Text tag="[QUEST_Q2I5_RETURN]">Receba sua taxa de entrega</Text>
+<Text tag="[QUEST_Q2I5_REWARD]">Você foi bem recompensado por seus serviços.</Text>
+<Text tag="[QUEST_Q2I5_STEP0]">Você deve entregar ambos os convites para Jarl e Jotun.</Text>
+<Text tag="[QUEST_Q2I5_STEP1]">Você entregou o convite de Jarl. Agora você deve entregar o de Jotun.</Text>
+<Text tag="[QUEST_Q2I5_STEP2]">Você entregou o convite de Jotun. Agora você deve entregar o de Jarl.</Text>
+<Text tag="[QUEST_Q2I5_STEP3]">Você entregou ambos os convites. Agora você deve retornar à Cidade de Tusk para coletar sua taxa de entrega.</Text>
 
 </TextLibrary>

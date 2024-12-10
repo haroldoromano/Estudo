@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2Q6_ACTION]">Battle the Ogre Mage</Text>
-   <Text tag="[QUEST_Q2Q6_FAILURE]">The Ogre Mage is too strong for you.  You must return again later.</Text>
-   <Text tag="[QUEST_Q2Q6_KILL]">You have defeated the Ogre Mage.  You take the banner that has been made from the Spine of Sartek.</Text>
-   <Text tag="[QUEST_Q2Q6_RETURN]">Return the Spine</Text>
-   <Text tag="[QUEST_Q2Q6_REWARD]">Tauron adds another piece of Sartek to his collection.</Text>
-   <Text tag="[QUEST_Q2Q6_STEP1]">You must travel to Gluk in search of the Ogre Mage</Text>
-   <Text tag="[QUEST_Q2Q6_STEP2]">You must return back to the Horned Temple to claim your reward.</Text>
+<Text tag="[QUEST_Q2Q6_ACTION]">Lute contra o Ogre Mage</Text>
+<Text tag="[QUEST_Q2Q6_FAILURE]">O Ogre Mage é muito forte para você. Você deve retornar mais tarde.</Text>
+<Text tag="[QUEST_Q2Q6_KILL]">Você derrotou o Ogre Mage. Você pega o estandarte que foi feito da Espinha de Sartek.</Text>
+<Text tag="[QUEST_Q2Q6_RETURN]">Devolver a Espinha</Text>
+<Text tag="[QUEST_Q2Q6_REWARD]">Tauron adiciona outra peça de Sartek à sua coleção.</Text>
+<Text tag="[QUEST_Q2Q6_STEP1]">Você deve viajar para Gluk em busca do Ogre Mage</Text>
+<Text tag="[QUEST_Q2Q6_STEP2]">Você deve retornar ao Templo Chifrudo para reivindicar sua recompensa.</Text>
 
 </TextLibrary>

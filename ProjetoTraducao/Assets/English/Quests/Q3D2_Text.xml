@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3D2_ACTION]">Enter Kelthurax&apos;s Lair</Text>
-   <Text tag="[QUEST_Q3D2_ARRIVE]">There are still no signs of any Dragons, and a huge Iron Golem blocks the way into Kelthurax&apos;s Lair.</Text>
-   <Text tag="[QUEST_Q3D2_FAILURE]">You have failed to gain entry to the lair. You must try again.</Text>
-   <Text tag="[QUEST_Q3D2_NOELISTARA]">You shouldn&apos;t enter without Elistara in your party!</Text>
-   <Text tag="[QUEST_Q3D2_REWARD]">You have helped Elistara fulfil her oath and deliver the message.</Text>
-   <Text tag="[QUEST_Q3D2_STEP1]">You must travel to the Dragonrealm and gain entry to Kelthurax&apos;s Lair.</Text>
+<Text tag="[QUEST_Q3D2_ACTION]">Entre no Covil de Kelthurax</Text>
+<Text tag="[QUEST_Q3D2_ARRIVE]">Ainda não há sinais de nenhum Dragão, e um enorme Golem de Ferro bloqueia o caminho para o Covil de Kelthurax.</Text>
+<Text tag="[QUEST_Q3D2_FAILURE]">Você não conseguiu entrar no covil. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q3D2_NOELISTARA]">Você não deve entrar sem Elistara em seu grupo!</Text>
+<Text tag="[QUEST_Q3D2_REWARD]">Você ajudou Elistara a cumprir seu juramento e entregar a mensagem.</Text>
+<Text tag="[QUEST_Q3D2_STEP1]">Você deve viajar para o Dragonrealm e ganhar entrada no Kelthurax's Lair.</Text>
 
 </TextLibrary>

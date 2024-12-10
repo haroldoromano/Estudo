@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2M1_ACTION]">Fight the Wyvern</Text>
-   <Text tag="[QUEST_Q2M1_FAILURE]">You have failed to defeat the Wyvern. You must try again.</Text>
-   <Text tag="[QUEST_Q2M1_KILL]">You have defeated the Wyvern. You must return to Red-Axe in the city of Tusk.</Text>
-   <Text tag="[QUEST_Q2M1_RETURN]">Return to Red-Axe</Text>
-   <Text tag="[QUEST_Q2M1_REWARD]">The Trial is complete. Red-Axe is pleased with your progress.</Text>
-   <Text tag="[QUEST_Q2M1_STEP1]">You must travel to the Wyverns&apos; Roost and battle a Wyvern.</Text>
-   <Text tag="[QUEST_Q2M1_STEP2]">You must return to Red-Axe in Tusk for your reward.</Text>
-   <Text tag="[QUEST_Q2M1_QMHELP0]">This Wyvern is particularly large and has a Battle Skill higher than most.</Text>
+<Text tag="[QUEST_Q2M1_ACTION]">Lute contra o Wyvern</Text>
+<Text tag="[QUEST_Q2M1_FAILURE]">Você falhou em derrotar o Wyvern. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2M1_KILL]">Você derrotou o Wyvern. Você deve retornar para Red-Axe na cidade de Tusk.</Text>
+<Text tag="[QUEST_Q2M1_RETURN]">Retorne para Red-Axe</Text>
+<Text tag="[QUEST_Q2M1_REWARD]">O teste foi concluído. Red-Axe está satisfeito com seu progresso.</Text>
+<Text tag="[QUEST_Q2M1_STEP1]">Você deve viajar para os Wyverns&apos; Empoleire-se e lute contra um Wyvern.</Text>
+<Text tag="[QUEST_Q2M1_STEP2]">Você deve retornar para Red-Axe em Tusk para receber sua recompensa.</Text>
+<Text tag="[QUEST_Q2M1_QMHELP0]">Este Wyvern é particularmente grande e tem uma Habilidade de Batalha maior que a maioria.</Text>
 
 </TextLibrary>

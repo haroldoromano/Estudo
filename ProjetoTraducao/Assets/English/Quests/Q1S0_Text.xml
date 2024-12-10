@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1S0_KHALKUSNO]">Khalkus will not let you keep the key.  But maybe if you ask him to leave...</Text>
-   <Text tag="[QUEST_Q1S0_ACTION]">Search for the Heirloom</Text>
-   <Text tag="[QUEST_Q1S0_FAILURE]">The Ogre has chased you away, you will need to try again.</Text>
-   <Text tag="[QUEST_Q1S0_KEEP]">Keep the Heirloom</Text>
-   <Text tag="[QUEST_Q1S0_KILL]">Having defeated the Ogre, a quick search turns up the heirloom - a fine looking key. Nobody is watching - it would be very easy to keep it!</Text>
-   <Text tag="[QUEST_Q1S0_RETURN]">Return the Heirloom</Text>
-   <Text tag="[QUEST_Q1S0_REWARD0]">Khalkus is overjoyed that you have returned the heirloom.  He names you a Dwarf-Friend (and you gain +2 Morale).</Text>
-   <Text tag="[QUEST_Q1S0_REWARD1]">Khalkus is sad to learn that the heirloom was lost.</Text>
-   <Text tag="[QUEST_Q1S0_STEP1]">You must go to the Ogre&apos;s Tower and search for the heirloom.</Text>
-   <Text tag="[QUEST_Q1S0_STEP2]">You must now return the heirloom to Dhun-Kor (or you could keep it and say it was lost).</Text>
+<Text tag="[QUEST_Q1S0_KHALKUSNO]">Khalkus não deixará você ficar com a chave. Mas talvez se você pedir para ele ir embora...</Text>
+<Text tag="[QUEST_Q1S0_ACTION]">Procure a Herança</Text>
+<Text tag="[QUEST_Q1S0_FAILURE]">O Ogro o expulsou, você precisará tentar novamente.</Text>
+<Text tag="[QUEST_Q1S0_KEEP]">Fique com a Herança</Text>
+<Text tag="[QUEST_Q1S0_KILL]">Depois de derrotar o Ogro, uma busca rápida revela a herança - uma chave de boa aparência. Ninguém está olhando - seria muito fácil ficar com ele!</Text>
+<Text tag="[QUEST_Q1S0_RETURN]">Devolva a herança</Text>
+<Text tag="[QUEST_Q1S0_REWARD0]">Khalkus está muito feliz que você devolveu a herança. Ele nomeia você um Amigo-Anão (e você ganha +2 de Moral).</Text>
+<Text tag="[QUEST_Q1S0_REWARD1]">Khalkus fica triste ao saber que a herança foi perdida.</Text>
+<Text tag="[QUEST_Q1S0_STEP1]">Você deve ir até a Torre do Ogro e procurar pela herança.</Text>
+<Text tag="[QUEST_Q1S0_STEP2]">Agora você deve devolver a herança para Dhun-Kor (ou você pode ficar com ela e dizer que ela foi perdida).</Text>
 
 </TextLibrary>

@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2J2_ACTION]">Take the Cloak</Text>
-   <Text tag="[QUEST_Q2J2_FAILURE]">You have failed to defeat Jotun. You must try again.</Text>
-   <Text tag="[QUEST_Q2J2_KILL]">You have defeated Jotun. You now have the Cloak.</Text>
-   <Text tag="[QUEST_Q2J2_RETURN]">Return the Cloak</Text>
-   <Text tag="[QUEST_Q2J2_REWARD]">Jarl rewards you for returning his Cloak.</Text>
-   <Text tag="[QUEST_Q2J2_STEP1]">You must travel to Jotun&apos;s Keep and get the Cloak.</Text>
-   <Text tag="[QUEST_Q2J2_STEP2]">You must return the Cloak to Jarl&apos;s Keep.</Text>
-   <Text tag="[QUEST_Q2J2_QMNAME0]">Jotun</Text>
+<Text tag="[QUEST_Q2J2_ACTION]">Pegue a Capa</Text>
+<Text tag="[QUEST_Q2J2_FAILURE]">Você falhou em derrotar Jotun. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2J2_KILL]">Você derrotou Jotun. Agora você tem a Capa.</Text>
+<Text tag="[QUEST_Q2J2_RETURN]">Devolver a Capa</Text>
+<Text tag="[QUEST_Q2J2_REWARD]">Jarl recompensa você por devolver sua Capa.</Text>
+<Text tag="[QUEST_Q2J2_STEP1]">Você deve viajar para a Fortaleza de Jotun e pegar a Capa.</Text>
+<Text tag="[QUEST_Q2J2_STEP2]">Você deve devolver a Capa para a Fortaleza de Jarl.</Text>
+<Text tag="[QUEST_Q2J2_QMNAME0]">Jotun</Text>
 
 </TextLibrary>

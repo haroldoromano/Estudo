@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0Q3_ACTION]">Fight the Zombie</Text>
-   <Text tag="[QUEST_Q0Q3_FAILURE]">The Sorcerer lives to fight another day!  You must try again.</Text>
-   <Text tag="[QUEST_Q0Q3_MESSAGE]">Darkhunter cunningly leads you through the Skell Marshes until you find the Sorcerer and his Zombie.</Text>
-   <Text tag="[QUEST_Q0Q3_REWARD]">You have helped Darkhunter defeat the evil Sorcerer, and you help yourselves to some of his treasure as a reward.</Text>
-   <Text tag="[QUEST_Q0Q3_QMNAME0]">Giant Zombie</Text>
-   <Text tag="[QUEST_Q0Q3_QMHELP0]">This is a Giant Zombie, and its Battle and Life Points are higher than normal.</Text>
+<Text tag="[QUEST_Q0Q3_ACTION]">Lute contra o Zumbi</Text>
+<Text tag="[QUEST_Q0Q3_FAILURE]">O Feiticeiro vive para lutar outro dia! Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q0Q3_MESSAGE]">Darkhunter astutamente o guia pelos Pântanos Skell até você encontrar o Feiticeiro e seu Zumbi.</Text>
+<Text tag="[QUEST_Q0Q3_REWARD]">Você ajudou Darkhunter a derrotar o Feiticeiro maligno, e vocês se servem de parte de seu tesouro como recompensa.</Text>
+<Text tag="[QUEST_Q0Q3_QMNAME0]">Zumbi Gigante</Text>
+<Text tag="[QUEST_Q0Q3_QMHELP0]">Este é um Zumbi Gigante, e seus Pontos de Batalha e Vida são maiores que o normal.</Text>
 
 </TextLibrary>

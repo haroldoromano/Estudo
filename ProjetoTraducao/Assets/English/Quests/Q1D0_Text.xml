@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1D0_ACTION]">Search for a Spider</Text>
-   <Text tag="[QUEST_Q1D0_FAILURE]">This spider got away. You will need to find another.</Text>
-   <Text tag="[QUEST_Q1D0_KILL]">You wrap the spider up, ready to be returned to Drong.</Text>
-   <Text tag="[QUEST_Q1D0_RETURN]">Visit Drong</Text>
-   <Text tag="[QUEST_Q1D0_REWARD]">Drong gives you a finely crafted magical helm.</Text>
-   <Text tag="[QUEST_Q1D0_STEP1]">You must travel to Dragon Valley and find a Dragon Spider.</Text>
-   <Text tag="[QUEST_Q1D0_STEP2]">You must return the Spider to Drong&apos;s Tower.</Text>
+<Text tag="[QUEST_Q1D0_ACTION]">Procurar por uma aranha</Text>
+<Text tag="[QUEST_Q1D0_FAILURE]">Esta aranha escapou. Você precisará encontrar outro.</Text>
+<Text tag="[QUEST_Q1D0_KILL]">Você embrulha a aranha, pronta para ser devolvida a Drong.</Text>
+<Text tag="[QUEST_Q1D0_RETURN]">Visite Drong</Text>
+<Text tag="[QUEST_Q1D0_REWARD]">Drong lhe dá um capacete mágico finamente trabalhado.</Text>
+<Text tag="[QUEST_Q1D0_STEP1]">Você deve viajar para o Vale do Dragão e encontrar uma Aranha Dragão.</Text>
+<Text tag="[QUEST_Q1D0_STEP2]">Você deve devolver a Aranha para a Torre de Drong.</Text>
 
 </TextLibrary>

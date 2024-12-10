@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1Q0_ACTION]">Battle the Orc Lord</Text>
-   <Text tag="[QUEST_Q1Q0_FAILURE]">You have failed to defeat the Orc Lord - you must try again.</Text>
-   <Text tag="[QUEST_Q1Q0_RETURN]">Report your Success</Text>
-   <Text tag="[QUEST_Q1Q0_REWARD]">The Elders of Dhun-Kor are grateful for your help. They reward you with much gold and a Dwarven Axe.</Text>
-   <Text tag="[QUEST_Q1Q0_STEP1]">You must travel to the 4 Orc villages east of Dhun-Kor and defeat their leaders.</Text>
-   <Text tag="[QUEST_Q1Q0_STEP2]">You have defeated one Orc Lord. Three more remain in the villages east of Dhun-Khor.</Text>
-   <Text tag="[QUEST_Q1Q0_STEP3]">You have defeated two Orc Lords. Two more remain in the villages east of Dhun-Kor.</Text>
-   <Text tag="[QUEST_Q1Q0_STEP4]">You have defeated three Orc Lords. Only one remains in a village east of Dhun-Khor.</Text>
-   <Text tag="[QUEST_Q1Q0_STEP5]">You must report your success to the elders of Dhun-Kor.</Text>
+<Text tag="[QUEST_Q1Q0_ACTION]">Batalhe contra o Lorde Orc</Text>
+<Text tag="[QUEST_Q1Q0_FAILURE]">Você falhou em derrotar o Lorde Orc - você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q1Q0_RETURN]">Reporte seu Sucesso</Text>
+<Text tag="[QUEST_Q1Q0_REWARD]">Os Anciãos de Dhun-Kor são gratos por sua ajuda. Eles o recompensam com muito ouro e um Machado Anão.</Text>
+<Text tag="[QUEST_Q1Q0_STEP1]">Você deve viajar para as 4 aldeias Orc a leste de Dhun-Kor e derrotar seus líderes.</Text>
+<Text tag="[QUEST_Q1Q0_STEP2]">Você derrotou um Lorde Orc. Mais três permanecem nas vilas a leste de Dhun-Khor.</Text>
+<Text tag="[QUEST_Q1Q0_STEP3]">Você derrotou dois Lordes Orcs. Mais dois permanecem nas vilas a leste de Dhun-Kor.</Text>
+<Text tag="[QUEST_Q1Q0_STEP4]">Você derrotou três Lordes Orcs. Apenas um permanece em uma vila a leste de Dhun-Khor.</Text>
+<Text tag="[QUEST_Q1Q0_STEP5]">Você deve relatar seu sucesso aos anciãos de Dhun-Kor.</Text>
 
 </TextLibrary>

@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2J0_ACTION]">Take the Hammer</Text>
-   <Text tag="[QUEST_Q2J0_FAILURE]">You have failed to defeat Jotun and get the Hammer. You must try again.</Text>
-   <Text tag="[QUEST_Q2J0_KILL]">You have defeated Jotun.  The Hammer is now yours.</Text>
-   <Text tag="[QUEST_Q2J0_RETURN]">Return the Hammer</Text>
-   <Text tag="[QUEST_Q2J0_REWARD]">Jarl rewards you for returning his Hammer.</Text>
-   <Text tag="[QUEST_Q2J0_STEP1]">You must travel to Jotun&apos;s Keep and get the Hammer.</Text>
-   <Text tag="[QUEST_Q2J0_STEP2]">You must return the Hammer to Jarl&apos;s Keep.</Text>
-   <Text tag="[QUEST_Q2J0_QMNAME0]">Jotun</Text>
+<Text tag="[QUEST_Q2J0_ACTION]">Pegue o Martelo</Text>
+<Text tag="[QUEST_Q2J0_FAILURE]">Você falhou em derrotar Jotun e obter o Martelo. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2J0_KILL]">Você derrotou Jotun. O Martelo agora é seu.</Text>
+<Text tag="[QUEST_Q2J0_RETURN]">Devolva o Martelo</Text>
+<Text tag="[QUEST_Q2J0_REWARD]">Jarl recompensa você por devolver seu Martelo.</Text>
+<Text tag="[QUEST_Q2J0_STEP1]">Você deve viajar para a Fortaleza de Jotun e pegar o Martelo.</Text>
+<Text tag="[QUEST_Q2J0_STEP2]">Você deve devolver o Martelo para a Fortaleza de Jarl.</Text>
+<Text tag="[QUEST_Q2J0_QMNAME0]">Jotun</Text>
 
 </TextLibrary>

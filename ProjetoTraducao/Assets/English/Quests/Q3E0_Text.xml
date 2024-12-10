@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3E0_ACTION]">Search for treasure</Text>
-   <Text tag="[QUEST_Q3E0_ATTACK]">A Swamp Dragon surprises you during your search.</Text>
-   <Text tag="[QUEST_Q3E0_FAILURE]">You will have to defeat this Swamp Dragon before you can try finding any treasure.</Text>
-   <Text tag="[QUEST_Q3E0_REWARD]">You have found some of Morass&apos; Treasure.</Text>
+<Text tag="[QUEST_Q3E0_ACTION]">Procurar tesouro</Text>
+<Text tag="[QUEST_Q3E0_ATTACK]">Um Dragão do Pântano surpreende você durante sua busca.</Text>
+<Text tag="[QUEST_Q3E0_FAILURE]">Você terá que derrotar este Dragão do Pântano antes de tentar encontrar qualquer tesouro.</Text>
+<Text tag="[QUEST_Q3E0_REWARD]">Você encontrou parte do Tesouro de Morass.</Text>
 
 </TextLibrary>

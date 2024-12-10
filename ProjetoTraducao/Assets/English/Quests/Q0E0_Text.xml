@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0E0_ACTION]">Destroy the Catapults</Text>
-   <Text tag="[QUEST_Q0E0_FAILURE]">You have failed to destroy the Catapults.</Text>
-   <Text tag="[QUEST_Q0E0_KILL]">You have destroyed the Catapults.</Text>
-   <Text tag="[QUEST_Q0E0_RETURN]">Receive Reward</Text>
-   <Text tag="[QUEST_Q0E0_REWARD]">You are rewarded for your service in protecting Drakenburg.</Text>
-   <Text tag="[QUEST_Q0E0_STEP1]">You must first go to Skelheim and destroy the Catapults.</Text>
-   <Text tag="[QUEST_Q0E0_STEP2]">You must now return to Drakenburg to receive your reward.</Text>
+<Text tag="[QUEST_Q0E0_ACTION]">Destrua as Catapultas</Text>
+<Text tag="[QUEST_Q0E0_FAILURE]">Você falhou em destruir as Catapultas.</Text>
+<Text tag="[QUEST_Q0E0_KILL]">Você destruiu as Catapultas.</Text>
+<Text tag="[QUEST_Q0E0_RETURN]">Receba Recompensa</Text>
+<Text tag="[QUEST_Q0E0_REWARD]">Você foi recompensado por seu serviço na proteção de Drakenburg.</Text>
+<Text tag="[QUEST_Q0E0_STEP1]">Você deve primeiro ir para Skelheim e destruir as Catapultas.</Text>
+<Text tag="[QUEST_Q0E0_STEP2]">Agora você deve retornar a Drakenburg para receber sua recompensa.</Text>
 
 </TextLibrary>

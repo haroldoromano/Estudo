@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q3Q3_ACTION]">Recapture the Keep</Text>
-   <Text tag="[QUEST_Q3Q3_FAILURE]">The keep is under siege. You must continue your atack.</Text>
-   <Text tag="[QUEST_Q3Q3_KILL]">You have defeated the monster</Text>
-   <Text tag="[QUEST_Q3Q3_RETURN]">Get Reward</Text>
-   <Text tag="[QUEST_Q3Q3_REWARD]">Skullguard Keep has been recaptured. You receive the Skullguard award which adds +2 to Battle.</Text>
-   <Text tag="[QUEST_Q3Q3_STEP1]">You must battle the Undead to reclaim Skullguard Keep.</Text>
-   <Text tag="[QUEST_Q3Q3_STEP2]">You must battle the Undead to reclaim Skullguard Keep.</Text>
+<Text tag="[QUEST_Q3Q3_ACTION]">Recapturar a Fortaleza</Text>
+<Text tag="[QUEST_Q3Q3_FAILURE]">A fortaleza está sob cerco. Você deve continuar seu ataque.</Text>
+<Text tag="[QUEST_Q3Q3_KILL]">Você derrotou o monstro</Text>
+<Text tag="[QUEST_Q3Q3_RETURN]">Obter Recompensa</Text>
+<Text tag="[QUEST_Q3Q3_REWARD]">A Fortaleza Skullguard foi recapturada. Você recebe o prêmio Skullguard que adiciona +2 à Batalha.</Text>
+<Text tag="[QUEST_Q3Q3_STEP1]">Você deve batalhar contra os mortos-vivos para recuperar a Fortaleza Skullguard.</Text>
+<Text tag="[QUEST_Q3Q3_STEP2]">Você deve batalhar contra os mortos-vivos para recuperar a Fortaleza Skullguard.</Text>
 
 </TextLibrary>

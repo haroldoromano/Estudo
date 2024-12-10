@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1G3_ACTION]">Visit the Smithy</Text>
-   <Text tag="[QUEST_Q1G3_RETURN]">Return to Neehi</Text>
-   <Text tag="[QUEST_Q1G3_RETURN2]">Keep the Axe</Text>
-   <Text tag="[QUEST_Q1G3_REWARD]">Neehi pays you well for your troubles. You also receive an award: Master Merchant.</Text>
-   <Text tag="[QUEST_Q1G3_REWARD2]">You decide to keep this very nice Soultree Axe.</Text>
-   <Text tag="[QUEST_Q1G3_STEP1]">You must travel to Gallia and visit the Dwarven Smith there.</Text>
-   <Text tag="[QUEST_Q1G3_STEP2]">You must return the Soultree Axe to Neehi the merchant in Gruuldok (or, if you are in Gallia, you could keep it).</Text>
-   <Text tag="[QUEST_Q1G3_TRADE]">The Dwarven Smith creates a Soultree Axe for you.  You can decide to keep it, or return it to Neehi for your reward.</Text>
+<Text tag="[QUEST_Q1G3_ACTION]">Visite a Smithy</Text>
+<Text tag="[QUEST_Q1G3_RETURN]">Retorne para Neehi</Text>
+<Text tag="[QUEST_Q1G3_RETURN2]">Fique com o Machado</Text>
+<Text tag="[QUEST_Q1G3_REWARD]">Neehi paga bem pelos seus problemas. Você também recebe um prêmio: Mestre Mercador.</Text>
+<Text tag="[QUEST_Q1G3_REWARD2]">Você decide ficar com este belo Machado da Árvore das Almas.</Text>
+<Text tag="[QUEST_Q1G3_STEP1]">Você deve viajar para a Gália e visitar o Ferreiro Anão lá.</Text>
+<Text tag="[QUEST_Q1G3_STEP2]">Você deve devolver o Machado da Árvore das Almas para Neehi, o comerciante em Gruuldok (ou, se estiver na Gália, pode ficar com ele).</Text>
+<Text tag="[QUEST_Q1G3_TRADE]">O Ferreiro Anão cria um Machado da Árvore das Almas para você. Você pode decidir ficar com ele ou devolvê-lo para Neehi como recompensa.</Text>
 
 </TextLibrary>

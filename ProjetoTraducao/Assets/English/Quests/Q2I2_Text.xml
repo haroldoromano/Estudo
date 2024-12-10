@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2I2_ACTION]">Battle the Gnoll</Text>
-   <Text tag="[QUEST_Q2I2_FAILURE]">You have failed to defeat the Gnolls. You must try again.</Text>
-   <Text tag="[QUEST_Q2I2_REWARD]">You have defeated the Gnolls. The rest have fled the Pike in fear.</Text>
+<Text tag="[QUEST_Q2I2_ACTION]">Lute contra os Gnolls</Text>
+<Text tag="[QUEST_Q2I2_FAILURE]">Você falhou em derrotar os Gnolls. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q2I2_REWARD]">Você derrotou os Gnolls. O resto fugiu do Pike com medo.</Text>
 
 </TextLibrary>

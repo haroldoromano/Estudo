@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2Q3_ACTION0]">Visit the Queen</Text>
-   <Text tag="[QUEST_Q2Q3_ACTION1]">Climb the Tree</Text>
-   <Text tag="[QUEST_Q2Q3_ACTION2]">Take the Eye</Text>
-   <Text tag="[QUEST_Q2Q3_ACTION3]">Return the Eye</Text>
-   <Text tag="[QUEST_Q2Q3_FAILURE1]">The Elven Knight has stopped you climbing the tree. You may try again.</Text>
-   <Text tag="[QUEST_Q2Q3_FAILURE2]">The Griffon has stopped you taking the Eye. You may try again.</Text>
-   <Text tag="[QUEST_Q2Q3_PROGRESS0]">You must travel to Silvermyr and visit Queen Titania, asking her for the Eye of Sartek.</Text>
-   <Text tag="[QUEST_Q2Q3_PROGRESS1]">You must climb the Tree of Seeing in Silvermyr and take the Eye of Sartek.</Text>
-   <Text tag="[QUEST_Q2Q3_PROGRESS2]">You must take the Eye of Sartek.</Text>
-   <Text tag="[QUEST_Q2Q3_PROGRESS3]">You must return the Eye to the Horned Temple.</Text>
-   <Text tag="[QUEST_Q2Q3_REWARD]">Tauron accepts the Eye of Sartek. Now only 6 pieces remain.</Text>
-   <Text tag="[QUEST_Q2Q3_SUCCESS1]">Having defeated the Elven Knight, you climb the Tree of Seeing.</Text>
-   <Text tag="[QUEST_Q2Q3_SUCCESS2]">Having defeated the Griffon, you take the Eye.</Text>
+<Text tag="[QUEST_Q2Q3_ACTION0]">Visite a Rainha</Text>
+<Text tag="[QUEST_Q2Q3_ACTION1]">Suba na Árvore</Text>
+<Text tag="[QUEST_Q2Q3_ACTION2]">Pegue o Olho</Text>
+<Text tag="[QUEST_Q2Q3_ACTION3]">Devolva o Olho</Text>
+<Text tag="[QUEST_Q2Q3_FAILURE1]">O Cavaleiro Élfico impediu você de subir na árvore. Você pode tentar novamente.</Text>
+<Text tag="[QUEST_Q2Q3_FAILURE2]">O Griffon impediu você de pegar o Olho. Você pode tentar novamente.</Text>
+<Text tag="[QUEST_Q2Q3_PROGRESS0]">Você deve viajar para Silvermyr e visitar a Rainha Titania, pedindo a ela o Olho de Sartek.</Text>
+<Text tag="[QUEST_Q2Q3_PROGRESS1]">Você deve escalar a Árvore da Visão em Silvermyr e pegar o Olho de Sartek.</Text>
+<Text tag="[QUEST_Q2Q3_PROGRESS2]">Você deve pegar o Olho de Sartek.</Text>
+<Text tag="[QUEST_Q2Q3_PROGRESS3]">Você deve devolver o Olho ao Templo Chifrudo.</Text>
+<Text tag="[QUEST_Q2Q3_REWARD]">Tauron aceita o Olho de Sartek. Agora restam apenas 6 peças.</Text>
+<Text tag="[QUEST_Q2Q3_SUCCESS1]">Depois de derrotar o Cavaleiro Élfico, você sobe na Árvore da Visão.</Text>
+<Text tag="[QUEST_Q2Q3_SUCCESS2]">Depois de derrotar o Griffon, você pega o Olho.</Text>
 
 </TextLibrary>

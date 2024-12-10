@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0I7_ACTION]">Attack the Bat</Text>
-   <Text tag="[QUEST_Q0I7_FAILURE]">The Vampire Bat chases you from the tower. You will need to return and try again.</Text>
-   <Text tag="[QUEST_Q0I7_REWARD]">Having killed the largest Bat, the rest fly away and leave the tower empty again.</Text>
-   <Text tag="[QUEST_Q0I7_QMHELP0]">This Bat is particularly fast and large. Not only does it have extra Life Points, but it knows the Haste spell.</Text>
+<Text tag="[QUEST_Q0I7_ACTION]">Ataque o Morcego</Text>
+<Text tag="[QUEST_Q0I7_FAILURE]">O Morcego Vampiro expulsa você da torre. Você precisará retornar e tentar novamente.</Text>
+<Text tag="[QUEST_Q0I7_REWARD]">Depois de matar o maior Morcego, o resto voa para longe e deixa a torre vazia novamente.</Text>
+<Text tag="[QUEST_Q0I7_QMHELP0]">Este Morcego é particularmente rápido e grande. Ele não só tem Pontos de Vida extras, mas também conhece o feitiço Aceleração.</Text>
 
 </TextLibrary>

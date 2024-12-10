@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0T1_ACTION]">Go to Combat Training</Text>
-   <Text tag="[QUEST_Q0T1_FAILURE]">You have failed to learn basic combat. You must try again.</Text>
-   <Text tag="[QUEST_Q0T1_REWARD]">You have learned the art of basic combat.</Text>
+<Text tag="[QUEST_Q0T1_ACTION]">Ir para o Treinamento de Combate</Text>
+<Text tag="[QUEST_Q0T1_FAILURE]">Você falhou em aprender o combate básico. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q0T1_REWARD]">Você aprendeu a arte do combate básico.</Text>
 
 </TextLibrary>

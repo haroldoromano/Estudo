@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QA02_ACTION]">Wait for the Meeting</Text>
-   <Text tag="[QUEST_QA02_NOCOMP]">You must have Darkhunter with you before you attend the meeting.</Text>
-   <Text tag="[QUEST_QA02_REWARD]">Darkhunter refused the offer to join the Undead.</Text>
-   <Text tag="[QUEST_QA02_STEP1]">You must travel to Sartek&apos;s Maze and wait to be contacted.</Text>
+<Text tag="[QUEST_QA02_ACTION]">Aguarde a reunião</Text>
+<Text tag="[QUEST_QA02_NOCOMP]">Você deve ter Darkhunter com você antes de comparecer à reunião.</Text>
+<Text tag="[QUEST_QA02_REWARD]">Darkhunter recusou a oferta de se juntar aos mortos-vivos.</Text>
+<Text tag="[QUEST_QA02_STEP1]">Você deve viajar para o Labirinto de Sartek e esperar ser contatado.</Text>
 
 </TextLibrary>

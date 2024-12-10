@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QK06_ACTION]">Search for the button</Text>
-   <Text tag="[QUEST_QK06_BUTTON]">You have found the button. It is in the possession of a Dark Dwarf.</Text>
-   <Text tag="[QUEST_QK06_FAILURE]">You have failed to retrieve the button. You must keep trying.</Text>
-   <Text tag="[QUEST_QK06_NOCOMP]">You need Khalkus in your party to put the Great Machine together.</Text>
-   <Text tag="[QUEST_QK06_REWARD]">You now own the Shield of Albion (and Khalkus has the Great Machine).</Text>
-   <Text tag="[QUEST_QK06_STEP1]">You must travel to Kal-Ungar and search for the missing button.</Text>
+<Text tag="[QUEST_QK06_ACTION]">Procure o botão</Text>
+<Text tag="[QUEST_QK06_BUTTON]">Você encontrou o botão. Ele está em posse de um Anão Negro.</Text>
+<Text tag="[QUEST_QK06_FAILURE]">Você falhou em recuperar o botão. Você deve continuar tentando.</Text>
+<Text tag="[QUEST_QK06_NOCOMP]">Você precisa de Khalkus no seu grupo para montar a Grande Máquina.</Text>
+<Text tag="[QUEST_QK06_REWARD]">Agora você possui o Escudo de Albion (e Khalkus tem a Grande Máquina).</Text>
+<Text tag="[QUEST_QK06_STEP1]">Você deve viajar para Kal-Ungar e procurar o botão perdido.</Text>
 
 </TextLibrary>

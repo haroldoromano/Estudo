@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q1S4_REWARDKEEP]">You decide to keep the Relic.  You had better not let the Orcish Priests find out though!</Text>
-   <Text tag="[QUEST_Q1S4_KEEP]">Keep the Relic</Text>
-   <Text tag="[QUEST_Q1S4_ACTION]">Search for the Goblin</Text>
-   <Text tag="[QUEST_Q1S4_FAILURE]">The Goblin has slipped away, he is still somewhere in Kor. You must pursue him!</Text>
-   <Text tag="[QUEST_Q1S4_RETURN]">Return the Relic</Text>
-   <Text tag="[QUEST_Q1S4_REWARD]">You return the Relic and the Orcish Priests of Ymorgia reward you with Gold.</Text>
-   <Text tag="[QUEST_Q1S4_STEP1]">You must find the Goblin, somewhere in Kor, and reclaim the relic.</Text>
-   <Text tag="[QUEST_Q1S4_STEP2]">You must return the relic to the Temple in Gruuldok to receive your reward, or if you are at Drong&apos;s Tower you could keep the relic instead.</Text>
-   <Text tag="[QUEST_Q1S4_SUCCESS]">You never caught the Goblin, but you have the relic to return to Gruuldok.  Of course, you could always decide to keep the relic instead...</Text>
+<Text tag="[QUEST_Q1S4_REWARDKEEP]">Você decide ficar com a Relíquia. Mas é melhor não deixar os Sacerdotes Orcs descobrirem!</Text>
+<Text tag="[QUEST_Q1S4_KEEP]">Fique com a Relíquia</Text>
+<Text tag="[QUEST_Q1S4_ACTION]">Procure o Goblin</Text>
+<Text tag="[QUEST_Q1S4_FAILURE]">O Goblin escapou, ele ainda está em algum lugar em Kor. Você deve persegui-lo!</Text>
+<Text tag="[QUEST_Q1S4_RETURN]">Devolva a Relíquia</Text>
+<Text tag="[QUEST_Q1S4_REWARD]">Você devolve a Relíquia e os Sacerdotes Orcs de Ymorgia o recompensam com Ouro.</Text>
+<Text tag="[QUEST_Q1S4_STEP1]">Você deve encontrar o Goblin, em algum lugar em Kor, e recuperar a relíquia.</Text>
+<Text tag="[QUEST_Q1S4_STEP2]">Você deve devolver a relíquia ao Templo em Gruuldok para receber sua recompensa, ou se estiver na Torre de Drong, você pode ficar com a relíquia.</Text>
+<Text tag="[QUEST_Q1S4_SUCCESS]">Você nunca pegou o Goblin, mas tem a relíquia para retornar a Gruuldok. Claro, você sempre pode decidir ficar com a relíquia...</Text>
 
 </TextLibrary>

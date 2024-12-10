@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QU02_ACTION]">Battle a Frost Dragon</Text>
-   <Text tag="[QUEST_QU02_COMPLEFT]">Sunspear has left the party.</Text>
-   <Text tag="[QUEST_QU02_FAILURE]">You have failed to defeat the Frost Dragon. Sunspear asks that you try again.</Text>
-   <Text tag="[QUEST_QU02_NOCOMP]">You will need to have Sunspear in your party before battling the Frost Dragon.</Text>
-   <Text tag="[QUEST_QU02_RETURN]">Return for Sunspear</Text>
-   <Text tag="[QUEST_QU02_REWARD]">Sunspear&apos;s Spirit has appeared to guide you.</Text>
-   <Text tag="[QUEST_QU02_STEP1]">You must travel to Ragnar&apos;s Coast and battle a Frost Dragon.</Text>
-   <Text tag="[QUEST_QU02_STEP2]">You must wait seven days and then return to Ragnar&apos;s Coast.</Text>
+<Text tag="[QUEST_QU02_ACTION]">Lute contra um Dragão de Gelo</Text>
+<Text tag="[QUEST_QU02_COMPLEFT]">Sunspear deixou o grupo.</Text>
+<Text tag="[QUEST_QU02_FAILURE]">Você falhou em derrotar o Dragão de Gelo. Sunspear pede que você tente novamente.</Text>
+<Text tag="[QUEST_QU02_NOCOMP]">Você precisará ter Sunspear em seu grupo antes de lutar contra o Dragão de Gelo.</Text>
+<Text tag="[QUEST_QU02_RETURN]">Retorne para Sunspear</Text>
+<Text tag="[QUEST_QU02_REWARD]">O Espírito de Sunspear apareceu para guiá-lo.</Text>
+<Text tag="[QUEST_QU02_STEP1]">Você deve viajar para a Costa de Ragnar e lutar contra um Dragão de Gelo.</Text>
+<Text tag="[QUEST_QU02_STEP2]">Você deve esperar sete dias e então retornar para a Costa de Ragnar.</Text>
 
 </TextLibrary>

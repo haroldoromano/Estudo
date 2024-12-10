@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_QK05_ACTION]">Battle the Dark Dwarves</Text>
-   <Text tag="[QUEST_QK05_FAILURE]">You have failed to defeat the Dark Dwarves. Khalkus urges you on to try again.</Text>
-   <Text tag="[QUEST_QK05_NOCOMP]">You will need Khalkus in your party to identify the machinery.</Text>
-   <Text tag="[QUEST_QK05_REWARD]">You have found the fifth piece of the Great Machine.</Text>
-   <Text tag="[QUEST_QK05_STEP1]">You must go to Kal-Ungar and fight the Dark Dwarves.</Text>
+<Text tag="[QUEST_QK05_ACTION]">Lute contra os Anões Negros</Text>
+<Text tag="[QUEST_QK05_FAILURE]">Você falhou em derrotar os Anões Negros. Khalkus pede que você tente novamente.</Text>
+<Text tag="[QUEST_QK05_NOCOMP]">Você precisará de Khalkus em seu grupo para identificar a maquinaria.</Text>
+<Text tag="[QUEST_QK05_REWARD]">Você encontrou a quinta peça da Grande Máquina.</Text>
+<Text tag="[QUEST_QK05_STEP1]">Você deve ir para Kal-Ungar e lutar contra os Anões Negros.</Text>
 
 </TextLibrary>

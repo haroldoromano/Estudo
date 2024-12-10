@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q2M4_ACTION1]">Fight Red-Axe</Text>
-   <Text tag="[QUEST_Q2M4_ACTION2]">Fight Red-Axe Again</Text>
-   <Text tag="[QUEST_Q2M4_FAILURE]">Red-Axe is too skillful for you, and he suggests you try again... but harder this time.</Text>
-   <Text tag="[QUEST_Q2M4_REWARD]">You not only receive the Award, Master of the Axe, but Red-Axe also gives you his magical weapon.</Text>
-   <Text tag="[QUEST_Q2M4_STEP1]">You must face Red-Axe in single combat and defeat him.</Text>
-   <Text tag="[QUEST_Q2M4_STEP2]">You must try battling Red-Axe once again.</Text>
+<Text tag="[QUEST_Q2M4_ACTION1]">Lute contra Red-Axe</Text>
+<Text tag="[QUEST_Q2M4_ACTION2]">Lute contra Red-Axe novamente</Text>
+<Text tag="[QUEST_Q2M4_FAILURE]">Red-Axe é muito habilidoso para você, e ele sugere que você tente novamente... mas com mais força dessa vez.</Text>
+<Text tag="[QUEST_Q2M4_REWARD]">Você não só recebe o prêmio, Mestre do Machado, mas Red-Axe também lhe dá sua arma mágica.</Text>
+<Text tag="[QUEST_Q2M4_STEP1]">Você deve enfrentar Red-Axe em combate individual e derrotá-lo.</Text>
+<Text tag="[QUEST_Q2M4_STEP2]">Você deve tentar lutar contra Red-Axe uma vez novamente.</Text>
 
 </TextLibrary>

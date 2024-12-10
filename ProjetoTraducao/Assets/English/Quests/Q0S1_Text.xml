@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QUEST_Q0S1_ACTION1]">Fight an Ogre</Text>
-   <Text tag="[QUEST_Q0S1_ACTION2]">Fight another Ogre</Text>
-   <Text tag="[QUEST_Q0S1_FAILURE1]">The first Ogre was tougher than you thought. You must try again.</Text>
-   <Text tag="[QUEST_Q0S1_FAILURE2]">The second Ogre was tougher than you thought. You must try again.</Text>
-   <Text tag="[QUEST_Q0S1_PROGRESS1]">You must travel to the Ogre&apos;s Tower and fight the Ogre Twins.</Text>
-   <Text tag="[QUEST_Q0S1_PROGRESS2]">You have defeated the first Ogre, but one still remains.</Text>
-   <Text tag="[QUEST_Q0S1_REWARD]">Both of the Ogres have fled over the mountains.  You help yourself to the treasure in their Tower.</Text>
-   <Text tag="[QUEST_Q0S1_SUCCESS1]">You have chased away the first Ogre. Only one remains.</Text>
-   <Text tag="[QUEST_Q0S1_QMNAME0]">Gluk the Ogre</Text>
-   <Text tag="[QUEST_Q0S1_QMHELP0]">This Ogre is better armored than most, with a Scale Helm.</Text>
-   <Text tag="[QUEST_Q0S1_QMNAME1]">Glok the Ogre</Text>
-   <Text tag="[QUEST_Q0S1_QMHELP1]">This Ogre has stolen a Troll Ring, so he can regenerate Life Points.</Text>
+<Text tag="[QUEST_Q0S1_ACTION1]">Lute contra um Ogro</Text>
+<Text tag="[QUEST_Q0S1_ACTION2]">Lute contra outro Ogro</Text>
+<Text tag="[QUEST_Q0S1_FAILURE1]">O primeiro Ogro foi mais difícil do que você pensava. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q0S1_FAILURE2]">O segundo Ogro foi mais difícil do que você pensava. Você deve tentar novamente.</Text>
+<Text tag="[QUEST_Q0S1_PROGRESS1]">Você deve viajar para a Torre do Ogro e lutar contra os Gêmeos Ogros.</Text>
+<Text tag="[QUEST_Q0S1_PROGRESS2]">Você derrotou o primeiro Ogro, mas um ainda resta.</Text>
+<Text tag="[QUEST_Q0S1_REWARD]">Ambos os Ogros fugiram pelas montanhas. Você se serve do tesouro na Torre deles.</Text>
+<Text tag="[QUEST_Q0S1_SUCCESS1]">Você afugentou o primeiro Ogro. Só resta um.</Text>
+<Text tag="[QUEST_Q0S1_QMNAME0]">Gluk, o Ogro</Text>
+<Text tag="[QUEST_Q0S1_QMHELP0]">Este Ogro tem uma armadura melhor que a maioria, com um Elmo de Escama.</Text>
+<Text tag="[QUEST_Q0S1_QMNAME1]">Glok, o Ogro</Text>
+<Text tag="[QUEST_Q0S1_QMHELP1]">Este Ogro roubou um Anel de Troll, para poder regenerar Pontos de Vida.</Text>
 
 </TextLibrary>
