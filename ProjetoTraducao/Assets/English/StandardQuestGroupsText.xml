@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[QG_ASSN_NAME]">Assassins</Text>
-   <Text tag="[QG_DRAG_NAME]">Dragonhunt</Text>
-   <Text tag="[QG_DRLA_NAME]">Drong&apos;s Larder</Text>
-   <Text tag="[QG_GOTR_NAME]">Goblin Trader</Text>
-   <Text tag="[QG_ICEQ_NAME]">Ice Queen</Text>
-   <Text tag="[QG_JAJO_NAME]">Jarl and Jotun</Text>
-   <Text tag="[QG_LODR_NAME]">Lost Dragon</Text>
-   <Text tag="[QG_MOTA_NAME]">The Axe Master</Text>
-   <Text tag="[QG_PRIM_NAME]">Primary Quest</Text>
-   <Text tag="[QG_RATK_NAME]">The Rat King</Text>
-   <Text tag="[QG_SELE_NAME]">Selentine Aid</Text>
-   <Text tag="[QG_WWLF_NAME]">Winter Wolf</Text>
+<Text tag="[QG_ASSN_NAME]">Assassinos</Text>
+<Text tag="[QG_DRAG_NAME]">Caça ao Dragão</Text>
+<Text tag="[QG_DRLA_NAME]">Despensa do Drong</Text>
+<Text tag="[QG_GOTR_NAME]">Comerciante Goblin</Text>
+<Text tag="[QG_ICEQ_NAME]">Rainha do Gelo</Text>
+<Text tag="[QG_JAJO_NAME]">Jarl e Jotun</Text>
+<Text tag="[QG_LODR_NAME]">Dragão Perdido</Text>
+<Text tag="[QG_MOTA_NAME]">O Mestre do Machado</Text>
+<Text tag="[QG_PRIM_NAME]">Missão Primária</Text>
+<Text tag="[QG_RATK_NAME]">O Rato Rei</Texto>
+<Texto tag="[QG_SELE_NAME]">Ajuda Selentina</Texto>
+<Texto tag="[QG_WWLF_NAME]">Lobo do Inverno</Texto>
 
 </TextLibrary>
