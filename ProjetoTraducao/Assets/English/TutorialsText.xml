@@ -1,201 +1,201 @@
 <?xml version="1.0"?>
 <TextLibrary>
 
-   <Text tag="[EVELINETHEWISE]">Eveline the Wise</Text>
+<Text tag="[EVELINETHEWISE]">Eveline, a Sábia</Text>
 
-   <Text tag="[MAINMENU_HEADING]">Greetings Warlord</Text>
-   <Text tag="[MAINMENU_TEXT]">My name is Eveline the Wise, and you would be wise to heed my words as you journey through the Realms of Etheria. \n If you foolishly wish to ignore my advice, all you need to do is select the &quot;Hide&quot; button in the bottom left of the screen.</Text>
-   <Text tag="[MAINMENU_GP_TEXT]">My name is Eveline the Wise, and you would be wise to heed my words as you journey through the Realms of Etheria. \n If you foolishly wish to ignore my advice, you will need to turn off the Tutorial in the Settings menu.</Text>
+<Text tag="[MAINMENU_HEADING]">Saudações, Senhor da Guerra</Text>
+<Text tag="[MAINMENU_TEXT]">Meu nome é Eveline, a Sábia, e você seria sábio em ouvir minhas palavras enquanto viaja pelos Reinos de Etheria. \n Se você tolamente deseja ignorar meu conselho, tudo o que precisa fazer é selecionar o botão &quot;Ocultar&quot; no canto inferior esquerdo da tela.</Text>
+<Text tag="[MAINMENU_GP_TEXT]">Meu nome é Eveline, a Sábia, e você seria sábio em ouvir minhas palavras enquanto viaja pelos Reinos de Etheria. \n Se você tolamente deseja ignorar meu conselho, precisará desativar o Tutorial no menu Configurações.</Text>
 
-   <Text tag="[MAINMENU2_HEADING]">Starting Out</Text>
-   <Text tag="[MAINMENU2_TEXT]">I have many questions for you, and soon you will answer them all. \n So let us begin this journey by selecting the &quot;New Quest&quot; button at the top right of the screen.</Text>
+<Text tag="[MAINMENU2_HEADING]">Começando</Text>
+<Text tag="[MAINMENU2_TEXT]">Tenho muitas perguntas para você, e em breve você responderá a todas elas. \n Então, vamos começar esta jornada selecionando o botão &quot;Nova Missão&quot; no canto superior direito da tela.</Text>
 
-   <Text tag="[CREATEHERO_HEADING]">Creating a Hero</Text>
-   <Text tag="[CREATEHERO_TEXT]">Where are your manners? First you must introduce yourself! \n * Tell me your name. \n * Then your profession. \n * Then what you look like. \n When you have done all of these 3 things, select &quot;Okay&quot;.</Text>
+<Text tag="[CREATEHERO_HEADING]">Criando um Herói</Text>
+<Text tag="[CREATEHERO_TEXT]">Onde estão suas maneiras? Primeiro você deve se apresentar! \n * Diga seu nome. \n * Depois sua profissão. \n * Depois sua aparência. \n Quando você tiver feito todas essas 3 coisas, selecione &quot;Ok&quot;.</Text>
 
-   <Text tag="[SINGLEPLAYERMENU_HEADING]">Single Player</Text>
-   <Text tag="[SINGLEPLAYERMENU_TEXT]">This is where you go if you do not wish to continue your quest. \n &quot;Instant Action&quot; and &quot;Choose Opponent&quot; will let you play a quick game outside of the main quest. \n You can set time limits for these types of games. They still earn you Experience and Gold.</Text>
+<Text tag="[SINGLEPLAYERMENU_HEADING]">Jogador Único</Text>
+<Text tag="[SINGLEPLAYERMENU_TEXT]">É aqui que você vai se não quiser continuar sua missão. \n &quot;Ação Instantânea&quot; e &quot;Escolher Oponente&quot; permitirão que você jogue uma partida rápida fora da missão principal. \n Você pode definir limites de tempo para esses tipos de jogos. Eles ainda lhe rendem Experiência e Ouro.</Text>
 
-   <Text tag="[TAVERNMENU_HEADING]">Rumors</Text>
-   <Text tag="[TAVERNMENU_TEXT]">You can find taverns in cities. They are a good source of rumors. They are not a place to get drunk! \n Some rumors are free but others will cost you Gold. \n To learn rumors, simply select them from the list.</Text>
+<Text tag="[TAVERNMENU_HEADING]">Rumores</Text>
+<Text tag="[TAVERNMENU_TEXT]">Você pode encontrar tavernas nas cidades. Elas são uma boa fonte de rumores. Elas não são um lugar para ficar bêbado! \n Alguns rumores são gratuitos, mas outros custarão Ouro. \n Para saber rumores, basta selecioná-los na lista.</Text>
 
-   <Text tag="[SHOPMENU_HEADING]">Buying Items</Text>
-   <Text tag="[SHOPMENU_TEXT]">Pay attention! You can buy items to outfit your hero in this shop. To purchase an item, simply select it in the list. \n Items shown in gray are too expensive for you to buy. Items shown in red require a higher skill level than you currently possess.</Text>
+<Text tag="[SHOPMENU_HEADING]">Comprando Itens</Text>
+<Text tag="[SHOPMENU_TEXT]">Preste atenção! Você pode comprar itens para equipar seu herói nesta loja. Para comprar um item, basta selecioná-lo na lista. \n Itens mostrados em cinza são muito caros para você comprar. Itens mostrados em vermelho exigem um nível de habilidade maior do que você possui atualmente.</Text>
 
-   <Text tag="[SELLITEMSMENU_HEADING]">Selling Items</Text>
-   <Text tag="[SELLITEMSMENU_TEXT]">Selling unwanted items is a great way to keep your inventory clean as well as earn a bit of extra Gold. \n Most items that are not currently equipped can be sold (except for special quest items that are worth zero Gold).</Text>
+<Text tag="[SELLITEMSMENU_HEADING]">Vendendo Itens</Text>
+<Text tag="[SELLITEMSMENU_TEXT]">Vender itens indesejados é uma ótima maneira de manter seu inventário limpo, além de ganhar um pouco de Ouro extra. \n A maioria dos itens que não estão equipados no momento podem ser vendidos (exceto itens de missão especial que valem zero Ouro).</Text>
 
-   <Text tag="[INV_INTRO_HEADING]">Inventory</Text>
-   <Text tag="[INV_INTRO_TEXT]">This menu contains everything you need to know about yourself all itemized out into different groups. \n To scroll through each group, select the tab buttons along the top.  You will find everything from items and spells to mounts you have captured and awards you have won.</Text>
+<Text tag="[INV_INTRO_HEADING]">Inventário</Text>
+<Text tag="[INV_INTRO_TEXT]">Este menu contém tudo o que você precisa saber sobre si mesmo, tudo itemizado em grupos diferentes. \n Para rolar por cada grupo, selecione os botões de abas na parte superior. Você encontrará tudo, desde itens e magias até montarias que você capturou e prêmios que você ganhou.</Text>
 
-   <Text tag="[INV_ITEMS_HEADING]">Items</Text>
-   <Text tag="[INV_ITEMS_TEXT]">You can equip up to 4 items: one helm or crown, one piece of armor or clothing, one weapon, and another miscellaneous object. \n Items have various beneficial effects in combat and they all work automatically.</Text>
+<Text tag="[INV_ITEMS_HEADING]">Itens</Text>
+<Text tag="[INV_ITEMS_TEXT]">Você pode equipar até 4 itens: um elmo ou coroa, uma peça de armadura ou roupa, uma arma e outro objeto diverso. \n Os itens têm vários efeitos benéficos em combate e todos funcionam automaticamente.</Text>
 
-   <Text tag="[INV_SPELLS_HEADING]">Spells</Text>
-   <Text tag="[INV_SPELLS_TEXT]">You can take up to 6 spells into combat. \n As you gain levels, more spells will become available. You may also learn spells from your captives - monsters you have captured during play by completing special puzzle games.</Text>
+<Text tag="[INV_SPELLS_HEADING]">Magias</Text>
+<Text tag="[INV_SPELLS_TEXT]">Você pode usar até 6 magias em combate. \n Conforme você ganha níveis, mais magias ficarão disponíveis. Você também pode aprender magias com seus cativos - monstros que você capturou durante o jogo ao completar jogos de quebra-cabeça especiais.</Text>
 
-   <Text tag="[INV_COMPANIONS_HEADING]">Companions</Text>
-   <Text tag="[INV_COMPANIONS_TEXT]">Companions will offer to join you during your quest. \n All companions have a special ability that they can activate at the beginning of combat against certain enemies.</Text>
+<Text tag="[INV_COMPANIONS_HEADING]">Companheiros</Text>
+<Text tag="[INV_COMPANIONS_TEXT]">Os companheiros se oferecerão para se juntar a você durante sua missão. \n Todos os companheiros têm uma habilidade especial que podem ativar no início do combate contra certos inimigos.</Text>
 
-   <Text tag="[INV_PETS_HEADING]">Captives</Text>
-   <Text tag="[INV_PETS_TEXT]">Captives are enemies you have captured that can teach you spells. \n You need to have built a Dungeon in your city to capture enemies.</Text>
+<Text tag="[INV_PETS_HEADING]">Cativos</Text>
+<Text tag="[INV_PETS_TEXT]">Cativos são inimigos que você capturou e que podem lhe ensinar magias. \n Você precisa ter construído uma Masmorra em sua cidade para capturar inimigos.</Text>
 
-   <Text tag="[INV_MOUNTS_HEADING]">Mounts</Text>
-   <Text tag="[INV_MOUNTS_TEXT]">Mounts are beasts you have captured that can be ridden. \n You need to have built a Dungeon in your city to capture mounts.</Text>
+<Text tag="[INV_MOUNTS_HEADING]">Montagens</Text>
+<Text tag="[INV_MOUNTS_TEXT]">Montarias são bestas que você capturou e que podem ser montadas. \n Você precisa ter construído uma Masmorra em sua cidade para capturar montarias.</Text>
 
-   <Text tag="[INV_KINGDOM_HEADING]">Your Kingdom</Text>
-   <Text tag="[INV_KINGDOM_TEXT]">This lists all of the cities you have captured. \n Once you have a Siege Workshop in your city, you may capture other cities on the map. \n Once you own a city it generates Gold for you each month and gives you access to &apos;Your Citadel&apos; when you visit.</Text>
+<Text tag="[INV_KINGDOM_HEADING]">Seu Reino</Text>
+<Text tag="[INV_KINGDOM_TEXT]">Esta lista contém todas as cidades que você capturou. \n Depois que você tiver uma Oficina de Cerco em sua cidade, você pode capturar outras cidades no mapa. \n Depois que você possuir uma cidade, ela gera Ouro para você a cada mês e lhe dá acesso à &apos;Sua Cidadela&apos; quando você a visita.</Text>
 
-   <Text tag="[INV_RUMORS_HEADING]">Rumors</Text>
-   <Text tag="[INV_RUMORS_TEXT]">This list contains the rumors you have learned from taverns. \n A few important rumors are marked with a &apos;!&apos; and will remain at the top of your list.</Text>
+<Text tag="[INV_RUMORS_HEADING]">Rumores</Text>
+<Text tag="[INV_RUMORS_TEXT]">Esta lista contém os rumores que você aprendeu nas tavernas. \n Alguns rumores importantes são marcados com um &apos;!&apos; e permanecerá no topo da sua lista.</Text>
 
-   <Text tag="[INV_BATTLES_HEADING]">Victories</Text>
-   <Text tag="[INV_BATTLES_TEXT]">Here you can see all of the enemies you have fought. \n The first number shows the times you have defeated an enemy, the second shows the number of times you have fought it.</Text>
+<Text tag="[INV_BATTLES_HEADING]">Vitórias</Text>
+<Text tag="[INV_BATTLES_TEXT]">Aqui você pode ver todos os inimigos que você lutou. \n O primeiro número mostra as vezes que você derrotou um inimigo, o segundo mostra o número de vezes que você lutou contra ele.</Text>
 
-   <Text tag="[INV_AWARDS_HEADING]">Awards</Text>
-   <Text tag="[INV_AWARDS_TEXT]">This list shows all of the awards you have gained. \n You are given awards for completing special quests during the story. Each award gives you a special bonus to one of your skills.</Text>
+<Text tag="[INV_AWARDS_HEADING]">Prêmios</Text>
+<Text tag="[INV_AWARDS_TEXT]">Esta lista mostra todos os prêmios que você ganhou. \n Você recebe prêmios por completar missões especiais durante a história. Cada prêmio dá a você um bônus especial para uma de suas habilidades.</Text>
 
-   <Text tag="[YOURCITY_INTRO_HEADING]">Your Citadel</Text>
-   <Text tag="[YOURCITY_INTRO_TEXT]">You can access your citadel from any city on the map that you have captured. \n You can add structures to your citadel that enable new game options and mini-games (such as creating items and learning spells).</Text>
+<Text tag="[YOURCITY_INTRO_HEADING]">Sua Cidadela</Text>
+<Text tag="[YOURCITY_INTRO_TEXT]">Você pode acessar sua cidadela de qualquer cidade no mapa que você tenha capturado. \n Você pode adicionar estruturas à sua cidadela que permitem novas opções de jogo e minijogos (como criar itens e aprender magias).</Text>
 
-   <Text tag="[YOURCITY_ITEMS_HEADING]">Creating Items</Text>
-   <Text tag="[YOURCITY_ITEMS_TEXT]">Now that you have a Forge, you can create magic items in a mini-game. \n To create new items, you will need to find and collect runes on the map - check each waypoint for them. \n You have been given 3 basic runes to get started.</Text>
+<Text tag="[YOURCITY_ITEMS_HEADING]">Criando itens</Text>
+<Text tag="[YOURCITY_ITEMS_TEXT]">Agora que você tem uma Forja, você pode criar itens mágicos em um minijogo. \n Para criar novos itens, você precisará encontrar e coletar runas no mapa - verifique cada ponto de passagem para encontrá-las. \n Você recebeu 3 runas básicas para começar.</Text>
 
-   <Text tag="[YOURCITY_SPELLS_HEADING]">Learning Spells</Text>
-   <Text tag="[YOURCITY_SPELLS_TEXT]">Now that you have a Mage Tower, you can learn spells from your captives in a mini-game. \n Learned spells cost 50% extra mana for you to cast than they do for their original owner.</Text>
+<Text tag="[YOURCITY_SPELLS_HEADING]">Aprendendo magias</Text>
+<Text tag="[YOURCITY_SPELLS_TEXT]">Agora que você tem uma Torre de Magos, você pode aprender magias de seus cativos em um minijogo. \n Magias aprendidas custam 50% mais mana para você conjurar do que para seu dono original.</Text>
 
-   <Text tag="[YOURCITY_PETS_HEADING]">Captives</Text>
-   <Text tag="[YOURCITY_PETS_TEXT]">Now that you have a Dungeon, you may capture any enemy you have defeated 3 or more times by completing a puzzle mini-game. \n Captives can be used as either mounts or to teach you spells.</Text>
+<Text tag="[YOURCITY_PETS_HEADING]">Cativos</Text>
+<Text tag="[YOURCITY_PETS_TEXT]">Agora que você tem uma Masmorra, você pode capturar qualquer inimigo que você derrotou 3 ou mais vezes completando um minijogo de quebra-cabeça. \n Cativos podem ser usados ​​como montarias ou para lhe ensinar magias.</Text>
 
-   <Text tag="[YOURCITY_MOUNTS_HEADING]">Mounts</Text>
-   <Text tag="[YOURCITY_MOUNTS_TEXT]">Now that you have a Stable you can train mounts. \n Mounts add to your skills and give you an extra spell in combat. \n As mounts gain levels through training, they also begin to let you avoid some encounters on the map.</Text>
+<Text tag="[YOURCITY_MOUNTS_HEADING]">Montarias</Text>
+<Text tag="[YOURCITY_MOUNTS_TEXT]">Agora que você tem um Estábulo, você pode treinar montarias. \n Montarias aumentam suas habilidades e lhe dão uma magia extra em combate. \n Conforme as montarias ganham níveis por meio do treinamento, elas também começam a deixar você evitar alguns encontros no mapa.</Text>
 
-   <Text tag="[YOURCITY_CITIES_HEADING]">Cities</Text>
-   <Text tag="[YOURCITY_CITIES_TEXT]">Now that you have a Siege Workshop you can capture cities. \n Captured cities not only generate Gold for you, but they allow you to access this menu from new locations.</Text>
+<Text tag="[YOURCITY_CITIES_HEADING]">Cidades</Text>
+<Text tag="[YOURCITY_CITIES_TEXT]">Agora que você tem uma Oficina de Cerco, você pode capturar cidades. \n Cidades capturadas não só geram Ouro para você, mas também permitem que você acesse este menu de novos locais.</Text>
 
-   <Text tag="[YOURCITY_SKILLS_HEADING]">Buying Skills</Text>
-   <Text tag="[YOURCITY_SKILLS_TEXT]">Now that you have a Temple, donating Gold will gain you the favor of the Gods, who will increase your skills. \n Increasing skills gets more expensive as the skills get higher.</Text>
+<Text tag="[YOURCITY_SKILLS_HEADING]">Comprando Habilidades</Text>
+<Text tag="[YOURCITY_SKILLS_TEXT]">Agora que você tem um Templo, doar Ouro lhe dará o favor dos Deuses, que aumentarão suas habilidades. \n Aumentar as habilidades fica mais caro conforme as habilidades aumentam.</Text>
 
-   <Text tag="[YOURCITY_TOWER_HEADING]">Towers</Text>
-   <Text tag="[YOURCITY_TOWER_TEXT]">Every so often, Cities you have captured will rebel. You cannot do anything at a rebel City except capture it back. \n Towers decrease the chance of rebellion by 50%.</Text>
+<Text tag="[YOURCITY_TOWER_HEADING]">Torres</Text>
+<Text tag="[YOURCITY_TOWER_TEXT]">De vez em quando, as cidades que você capturou se rebelarão. Você não pode fazer nada em uma cidade rebelde, exceto capturá-la de volta. \n Torres diminuem a chance de rebelião em 50%.</Text>
 
-   <Text tag="[YOURCITY_VAULT_HEADING]">The Vault</Text>
-   <Text tag="[YOURCITY_VAULT_TEXT]">Every month, when you travel through your Cities, they will have gold waiting for you. \n The Vault increases that gold by 50%.</Text>
+<Text tag="[YOURCITY_VAULT_HEADING]">O Vault</Text>
+<Text tag="[YOURCITY_VAULT_TEXT]">Todo mês, quando você viajar por suas cidades, elas terão ouro esperando por você. \n O Vault aumenta esse ouro em 50%.</Text>
 
-   <Text tag="[LEVELUPMENU_HEADING]">Gaining a Level</Text>
-   <Text tag="[LEVELUPMENU_TEXT]">Every time you gain a level, you get 4 points to spend on your skills. \n Each skill will cost a different amount, depending on your profession. Any unused points may be saved for later.</Text>
+<Text tag="[LEVELUPMENU_HEADING]">Ganhando um nível</Text>
+<Text tag="[LEVELUPMENU_TEXT]">Toda vez que você ganha um nível, você ganha 4 pontos para gastar em suas habilidades. \n Cada habilidade custará uma quantia diferente, dependendo da sua profissão. Quaisquer pontos não utilizados podem ser salvos para mais tarde.</Text>
 
-   <Text tag="[CAPTUREMENU_HEADING]">Capturing Enemies</Text>
-   <Text tag="[CAPTUREMENU_TEXT]">That was a brave decision! You are going to try and capture this enemy. \n To do that you will need to clear the board of gems, moving them one at a time, just like in a regular game. \n If you fail, you can always try again.</Text>
+<Text tag="[CAPTUREMENU_HEADING]">Capturando Inimigos</Text>
+<Text tag="[CAPTUREMENU_TEXT]">Essa foi uma decisão corajosa! Você vai tentar capturar esse inimigo. \n Para fazer isso, você precisará limpar o tabuleiro de gemas, movendo-as uma de cada vez, como em um jogo normal. \n Se você falhar, você sempre pode tentar novamente.</Text>
 
-   <Text tag="[ITEMGAMEMENU_HEADING]">Creating Items</Text>
-   <Text tag="[ITEMGAMEMENU_TEXT]">To beat this mini-game and create an item, you must destroy a number of special &apos;Hammer and Anvil&apos; gems shown on the right. \n Each time one or more of them are destroyed, the board will reset.</Text>
+<Text tag="[ITEMGAMEMENU_HEADING]">Criando Itens</Text>
+<Text tag="[ITEMGAMEMENU_TEXT]">Para vencer este minijogo e criar um item, você deve destruir uma série de gemas especiais &apos;Martelo e Bigorna&apos; mostradas à direita. \n Cada vez que um ou mais deles forem destruídos, o tabuleiro será reiniciado.</Text>
 
-   <Text tag="[SPELLGAMEMENU_HEADING]">Learning Spells</Text>
-   <Text tag="[SPELLGAMEMENU_TEXT]">To beat this mini-game and learn a spell, you must reach the total of mana and scrolls shown on the right by matching gems as in a regular game. \n Scrolls are a new gem type and are only created when matching 4 or 5 of a kind.</Text>
+<Text tag="[SPELLGAMEMENU_HEADING]">Aprendendo Magias</Text>
+<Text tag="[SPELLGAMEMENU_TEXT]">Para vencer este minijogo e aprender uma magia, você deve atingir o total de mana e pergaminhos mostrados à direita combinando gemas como em um jogo normal. \n Os pergaminhos são um novo tipo de gema e são criados apenas ao combinar 4 ou 5 de um tipo.</Text>
 
-   <Text tag="[SPELLGAMEMENU_HEADING]">Learning Spells</Text>
-   <Text tag="[SPELLGAMEMENU_TEXT]">To beat this mini-game and learn a spell, you must reach the total of mana and scrolls shown on the right by matching gems as in a regular game. \n Scrolls are a new gem type and are only created when matching 4 or 5 of a kind.</Text>
+<Text tag="[SPELLGAMEMENU_HEADING]">Aprendendo Magias</Text>
+<Text tag="[SPELLGAMEMENU_TEXT]">Para vencer este minijogo e aprender uma magia, você deve atingir o total de mana e pergaminhos mostrados à direita combinando gemas como em um jogo normal. \n Os pergaminhos são um novo tipo de gema e são criados apenas ao combinar 4 ou 5 de um tipo.</Text>
 
-   <Text tag="[MAPMENU_HEADING]">The World Map</Text>
-   <Text tag="[MAPMENU_TEXT]">To move around on the map, simply left-click your destination. \n To perform an action once you reach this destination, left-click on it again and choose from the list of options that appear.</Text>
-   <Text tag="[MAPMENU_GP_TEXT]">To move around on the map, simply move the cursor and select your destination. \n To perform an action once you reach this destination, select that destination again and choose from the list of options that appear.</Text>
+<Text tag="[MAPMENU_HEADING]">O Mapa do Mundo</Text>
+<Text tag="[MAPMENU_TEXT]">Para se movimentar no mapa, basta clicar com o botão esquerdo no seu destino. \n Para executar uma ação quando chegar a este destino, clique com o botão esquerdo nele novamente e escolha na lista de opções que aparecem.</Text>
+<Text tag="[MAPMENU_GP_TEXT]">Para se movimentar no mapa, basta mover o cursor e selecionar seu destino. \n Para executar uma ação quando chegar a este destino, selecione-o novamente e escolha na lista de opções que aparecem.</Text>
 
-   <Text tag="[MAPMENUQUEST_HEADING]">Your Quests</Text>
-   <Text tag="[MAPMENUQUEST_TEXT]">This lists your current quests and today&apos;s date. \n To see more detail about each quest, click the buttons on the left side of the list.</Text>
-   <Text tag="[MAPMENUQUEST_GP_TEXT]">This lists your current quests and today&apos;s date. \n To see more detail about each quest, press the right back-button and select from the list.</Text>
+<Text tag="[MAPMENUQUEST_HEADING]">Suas missões</Text>
+<Text tag="[MAPMENUQUEST_TEXT]">Esta lista suas missões atuais e a data de hoje. \n Para ver mais detalhes sobre cada missão, clique nos botões no lado esquerdo da lista.</Text>
+<Text tag="[MAPMENUQUEST_GP_TEXT]">Isso lista suas missões atuais e a data de hoje. \n Para ver mais detalhes sobre cada missão, pressione o botão de voltar direito e selecione na lista.</Text>
 
-   <Text tag="[MAPMENUHERO_HEADING]">Your Hero</Text>
-   <Text tag="[MAPMENUHERO_TEXT]">This shows a brief overview of your hero. \n To quickly access your inventory, you can click on your portrait.</Text>
-   <Text tag="[MAPMENUHERO_GP_TEXT]">This shows a brief overview of your hero. \n To quickly access your inventory, press the left back-button.</Text>
+<Text tag="[MAPMENUHERO_HEADING]">Seu herói</Text>
+<Text tag="[MAPMENUHERO_TEXT]">Isso mostra uma breve visão geral do seu herói. \n Para acessar rapidamente seu inventário, você pode clicar em seu retrato.</Text>
+<Text tag="[MAPMENUHERO_GP_TEXT]">Isso mostra uma breve visão geral do seu herói. \n Para acessar rapidamente seu inventário, pressione o botão esquerdo de voltar.</Text>
 
-   <Text tag="[MANADRAIN_HEADING]">Mana Drain</Text>
-   <Text tag="[MANADRAIN_TEXT]">If there are no more moves left on the grid, then there is a Mana Drain. Both players lose all their mana and the grid resets.</Text>
+<Text tag="[MANADRAIN_HEADING]">Drenagem de Mana</Text>
+<Text tag="[MANADRAIN_TEXT]">Se não houver mais movimentos restantes na grade, então há uma Drenagem de Mana. Ambos os jogadores perdem todo o seu mana e a grade é reiniciada.</Text>
 
-   <Text tag="[ILLEGALMOVE0_HEADING]">Illegal Moves</Text>
-   <Text tag="[ILLEGALMOVE0_TEXT]">If you make an illegal move, then you will take 5 points of damage. So be careful!</Text>
+<Text tag="[ILLEGALMOVE0_HEADING]">Movimentos Ilegais</Text>
+<Text tag="[ILLEGALMOVE0_TEXT]">Se você fizer um movimento ilegal, então você receberá 5 pontos de dano. Então tome cuidado!</Text>
 
-   <Text tag="[ILLEGALMOVE1_HEADING]">Illegal Moves</Text>
-   <Text tag="[ILLEGALMOVE1_TEXT]">In the tutorial there is no penalty for an illegal move. \n If you make an illegal move in a real battle however, you will take 5 points of damage. So be careful!</Text>
+<Text tag="[ILLEGALMOVE1_HEADING]">Movimentos Ilegais</Text>
+<Text tag="[ILLEGALMOVE1_TEXT]">No tutorial não há penalidade para um movimento ilegal. \n Se você fizer um movimento ilegal em uma batalha real, entretanto, você receberá 5 pontos de dano. Então tenha cuidado!</Text>
 
-   <Text tag="[HEROICEFFORT_HEADING]">Heroic Effort</Text>
-   <Text tag="[HEROICEFFORT_TEXT]">If you manage to chain together a cascade of 5 or more series of gems, then we call that a Heroic Effort! \n You will receive a bonus of 100 Experience Points.</Text>
+<Text tag="[HEROICEFFORT_HEADING]">Esforço Heroico</Text>
+<Text tag="[HEROICEFFORT_TEXT]">Se você conseguir encadear uma cascata de 5 ou mais séries de gemas, então chamamos isso de Esforço Heroico! \n Você receberá um bônus de 100 Pontos de Experiência.</Text>
 
-   <Text tag="[SELECTSPELLMENU_HEADING]">Learning Spells</Text>
-   <Text tag="[SELECTSPELLMENU_TEXT]">The list shows you all the spells that you may learn from your captives, along with the difficulty of learning that spell. \n The most powerful spells are quite difficult to learn and you may require a number of attempts to be successful.</Text>
+<Text tag="[SELECTSPELLMENU_HEADING]">Aprendendo Magias</Text>
+<Text tag="[SELECTSPELLMENU_TEXT]">A lista mostra todas as magias que você pode aprender com seus cativos, junto com a dificuldade de aprender aquela magia. \n As magias mais poderosas são bem difíceis de aprender e você pode precisar de várias tentativas para ter sucesso.</Text>
 
-   <Text tag="[SELECTRUNEMENU_HEADING]">Creating Items</Text>
-   <Text tag="[SELECTRUNEMENU_TEXT]">To create an item, you must select 3 runes and then play a mini-game. \n Each combination of runes will give a different item, and you need one rune from each category: Base, Modifier and Power. More powerful runes will make the item harder to create.</Text>
+<Text tag="[SELECTRUNEMENU_HEADING]">Criando Itens</Text>
+<Text tag="[SELECTRUNEMENU_TEXT]">Para criar um item, você deve selecionar 3 runas e então jogar um minijogo. \n Cada combinação de runas dará um item diferente, e você precisa de uma runa de cada categoria: Base, Modificador e Poder. Runas mais poderosas tornarão o item mais difícil de criar.</Text>
 
-   <Text tag="[SELECTMOUNTMENU_HEADING]">Training Mounts</Text>
-   <Text tag="[SELECTMOUNTMENU_TEXT]">The list shows all of your mounts along with their current level. \n Successfully training a mount, by defeating a special timed mini-game, adds +1 to its level and helps to improve your skills in combat.</Text>
+<Text tag="[SELECTMOUNTMENU_HEADING]">Treinando Montarias</Text>
+<Text tag="[SELECTMOUNTMENU_TEXT]">A lista mostra todas as suas montarias junto com seus níveis atuais. \n Treinar uma montaria com sucesso, derrotando um minijogo especial cronometrado, adiciona +1 ao seu nível e ajuda a melhorar suas habilidades em combate.</Text>
 
-   <Text tag="[QUESTINTRO_HEADING]">Welcome to Etheria</Text>
-   <Text tag="[QUESTINTRO_TEXT]">You are standing in the Citadel of Bartonia, deep in the Agarian forest. \n You will travel through Etheria by getting and completing a series of quests, available from cities around the map.</Text>
+<Text tag="[QUESTINTRO_HEADING]">Bem-vindo a Etheria</Text>
+<Text tag="[QUESTINTRO_TEXT]">Você está na Cidadela de Bartonia, nas profundezas da floresta Agarian. \n Você viajará por Etheria obtendo e completando uma série de missões, disponíveis em cidades ao redor do mapa.</Text>
 
-   <Text tag="[QUESTINTRO_HEADING_a]">Welcome to Etheria</Text>
-   <Text tag="[QUESTINTRO_TEXT_a]">I see you have already been traveling around! \n To progress, you will need to do more than travel; you will need to obtain and complete a series of quests. Your first quest is available in Bartonia.</Text>
+<Text tag="[QUESTINTRO_HEADING_a]">Bem-vindo a Etheria</Text>
+<Text tag="[QUESTINTRO_TEXT_a]">Vejo que você já está viajando por aí! \n Para progredir, você precisará fazer mais do que viajar; você precisará obter e completar uma série de missões. Sua primeira missão está disponível em Bartonia.</Text>
 
-   <Text tag="[QUESTINTRO2_HEADING]">Quests</Text>
-   <Text tag="[QUESTINTRO2_TEXT]">Any city with a &apos;!&apos; above it has a quest for you. A red &apos;!&apos; means it is an important story quest. \n To get your first quest from Bartonia, select the city and choose &apos;Get Quests&apos;.</Text>
+<Text tag="[QUESTINTRO2_HEADING]">Missões</Text>
+<Text tag="[QUESTINTRO2_TEXT]">Qualquer cidade com um &apos;!&apos; acima dela tem uma missão para você. Um &apos;!&apos; vermelho significa que é uma missão importante da história. \n Para obter sua primeira missão de Bartonia, selecione a cidade e escolha &apos;Obter missões&apos;.</Text>
 
-   <Text tag="[QUESTINTRO2_HEADING_a]">Quests</Text>
-   <Text tag="[QUESTINTRO2_TEXT_a]">Any city with a &apos;!&apos; above it has a quest for you. A red &apos;!&apos; means it is an important story quest. \n To get your first quest, move to Bartonia, select the city and choose &apos;Get Quests&apos;.</Text>
+<Text tag="[QUESTINTRO2_HEADING_a]">Missões</Text>
+<Text tag="[QUESTINTRO2_TEXT_a]">Qualquer cidade com um &apos;!&apos; acima dela tem uma missão para você. Um &apos;!&apos; vermelho significa que é uma missão importante da história. \n Para obter sua primeira missão, vá para Bartonia, selecione a cidade e escolha &apos;Obter missões&apos;.</Text>
 
-   <Text tag="[QUESTMOVE_HEADING]">Movement</Text>
-   <Text tag="[QUESTMOVE_TEXT]">To go to a new location, simply move the cursor there, select it and your hero will walk there. \n You need to travel to Siria - the small tower to the right of Bartonia with the sparkles on it.  Select it now.</Text>
+<Text tag="[QUESTMOVE_HEADING]">Movimento</Text>
+<Text tag="[QUESTMOVE_TEXT]">Para ir para um novo local, basta mover o cursor até lá, selecioná-lo e seu herói caminhará até lá. \n Você precisa viajar para Siria - a pequena torre à direita de Bartonia com os brilhos. Selecione-a agora.</Text>
 
-   <Text tag="[QUESTACTION_HEADING]">Actions</Text>
-   <Text tag="[QUESTACTION_TEXT]">Once you have reached a destination, you may need to do something. \n Each sparkling location has a list of actions you can perform. Select Siria now and choose &apos;Visit your Father&apos;.</Text>
+<Text tag="[QUESTACTION_HEADING]">Ações</Text>
+<Text tag="[QUESTACTION_TEXT]">Depois de chegar a um destino, talvez você precise fazer algo. \n Cada local brilhante tem uma lista de ações que você pode executar. Selecione Siria agora e escolha &apos;Visite seu Pai&apos;.</Text>
 
-   <Text tag="[QUESTMOREQUESTS_HEADING]">More Quests</Text>
-   <Text tag="[QUESTMOREQUESTS_TEXT]">Congratulations! You have completed your first quest. \n You will see that another quest is available back in Bartonia, so you should travel back there now and get it.  Good luck!</Text>
+<Text tag="[QUESTMOREQUESTS_HEADING]">Mais missões</Text>
+<Text tag="[QUESTMOREQUESTS_TEXT]">Parabéns! Você completou sua primeira missão. \n Você verá que outra missão está disponível em Bartonia, então você deve viajar de volta para lá agora e obtê-la. Boa sorte!</Text>
 
-   <Text tag="[QUEST_T1_HEADING]">Basic Combat</Text>
-   <Text tag="[QUEST_T1_TEXT]">The objective of combat is to reduce your opponent&apos;s Life Points to zero.  You can see his 20 Life Points flashing up in the top right. \n To make your first combat easier, you are facing a Practice Dummy who cannot fight back, so take your time and experiment.</Text>
-   <Text tag="[QUEST_T1aa_HEADING]">Swapping Gems</Text>
-   <Text tag="[QUEST_T1aa_TEXT]">Now you will start swapping gems to make identical lines of 3 or more.  To swap gems left-click on the first gem, and then left-click on any gem adjacent to it.</Text>
-   <Text tag="[QUEST_T1aa_GP_TEXT]">Now you will start swapping gems to make identical lines of 3 or more.  To swap gems, move the cursor on the grid, select the first gem, and then press a directional button to swap it with an adjacent one.</Text>
-   <Text tag="[QUEST_T1a_HEADING]">Matching Gems</Text>
-   <Text tag="[QUEST_T1a_TEXT]">You are doing well! Keep matching groups of 3 gems (especially Skulls) until the Practice Dummy has no Life Points left.</Text>
-   <Text tag="[QUEST_T1b_HEADING]">Victory</Text>
-   <Text tag="[QUEST_T1b_TEXT]">I think you are ready for a bigger challenge now - it is time to get your next quest. \n However, the Practice Dummy is still there for now if you need to practice some more.</Text>
+<Text tag="[QUEST_T1_HEADING]">Combate básico</Text>
+<Text tag="[QUEST_T1_TEXT]">O objetivo do combate é reduzir os Pontos de Vida do seu oponente a zero. Você pode ver seus 20 Pontos de Vida piscando no canto superior direito. \n Para tornar seu primeiro combate mais fácil, você está enfrentando um Practice Dummy que não pode revidar, então vá com calma e experimente.</Text>
+<Text tag="[QUEST_T1aa_HEADING]">Trocando Gemas</Text>
+<Text tag="[QUEST_T1aa_TEXT]">Agora você começará a trocar as gemas para fazer linhas idênticas de 3 ou mais. Para trocar as gemas, clique com o botão esquerdo na primeira gema e, em seguida, clique com o botão esquerdo em qualquer gema adjacente a ela.</Text>
+<Text tag="[QUEST_T1aa_GP_TEXT]">Agora você começará a trocar as gemas para fazer linhas idênticas de 3 ou mais. Para trocar as gemas, mova o cursor na grade, selecione a primeira gema e, em seguida, pressione um botão direcional para trocá-la com uma adjacente.</Text>
+<Text tag="[QUEST_T1a_HEADING]">Correspondência de gemas</Text>
+<Text tag="[QUEST_T1a_TEXT]">Você está indo bem! Continue combinando grupos de 3 gemas (especialmente Caveiras) até que o Boneco de Prática não tenha mais Pontos de Vida.</Text>
+<Text tag="[QUEST_T1b_HEADING]">Vitória</Text>
+<Text tag="[QUEST_T1b_TEXT]">Acho que você está pronto para um desafio maior agora - é hora de pegar sua próxima missão. \n No entanto, o Boneco de Prática ainda está lá por enquanto se você precisar praticar um pouco mais.</Text>
 
-   <Text tag="[QUEST_T2_HEADING]">Advanced Combat</Text>
-   <Text tag="[QUEST_T2_TEXT]">Now it gets tougher - you have an opponent who will fight back. \n You both take turns matching gems and trying to damage each other. Remember what you have learned!</Text>
-   <Text tag="[QUEST_T2a_HEADING]">Matching Gems</Text>
-   <Text tag="[QUEST_T2a_TEXT]">You are doing well! Keep matching groups of 3 gems and casting spells. \n Try not to allow your opponent to get any Skulls.</Text>
-   <Text tag="[QUEST_T2b_HEADING]">Victory</Text>
-   <Text tag="[QUEST_T2b_TEXT]">Congratulations! You have passed with flying colors. You are now a member of the Queen&apos;s Guard. \n And I believe the Queen was looking for you. She has a task for you already.</Text>
+<Text tag="[QUEST_T2_HEADING]">Combate Avançado</Text>
+<Text tag="[QUEST_T2_TEXT]">Agora fica mais difícil - você tem um oponente que vai lutar de volta. \n Vocês dois se revezam combinando gemas e tentando causar dano um ao outro. Lembre-se do que você aprendeu!</Text>
+<Text tag="[QUEST_T2a_HEADING]">Combinando Gemas</Text>
+<Text tag="[QUEST_T2a_TEXT]">Você está indo bem! Continue combinando grupos de 3 gemas e lançando feitiços. \n Tente não permitir que seu oponente pegue nenhuma Caveira.</Text>
+<Text tag="[QUEST_T2b_HEADING]">Vitória</Text>
+<Text tag="[QUEST_T2b_TEXT]">Parabéns! Você passou com louvor. Agora você é um membro da Guarda da Rainha. \n E acredito que a Rainha estava procurando por você. Ela já tem uma tarefa para você.</Text>
 
-   <Text tag="[OT_MATCH_SKULLS0]">Swap these gems to match 3 Skulls. This will damage your opponent.</Text>
-   <Text tag="[OT_MATCH_SKULLS1]">Match some more Skulls here. Each Skull does one point of damage.</Text>
-   <Text tag="[OT_MATCH_SKULLS2]">Skulls are the most important gems on the board. Try not to miss any!</Text>
-   <Text tag="[OT_MATCH_STARS0]">Keep matching 3 of a kind. These Purple Stars will give you Experience and help you gain levels.</Text>
-   <Text tag="[OT_MATCH_STARS1]">Here are some more Purple Stars to match. Each one gives you one point of Experience.</Text>
-   <Text tag="[OT_MATCH_GOLD0]">Swap these gems to match some Gold. You can spend gold in between battles.</Text>
-   <Text tag="[OT_MATCH_GOLD1]">You can use Gold in the Shop after this battle to buy items for your Hero.</Text>
-   <Text tag="[OT_MATCH_GREEN0]">Swap these gems to match some Green Mana. You use Green Mana for casting spells.</Text>
-   <Text tag="[OT_MATCH_RED0]">Swap these gems to match some Red Mana. You use Red Mana for casting spells.</Text>
-   <Text tag="[OT_MATCH_YELLOW0]">Swap these gems to match some Yellow Mana. You use Yellow Mana for casting spells.</Text>
-   <Text tag="[OT_MATCH_BLUE0]">Swap these gems to match some Blue Mana. You use Blue Mana for casting spells.</Text>
-   <Text tag="[OT_SPELLCASTING0]">You have enough mana to use this spell. Try casting it if you think it would be useful.</Text>
-   <Text tag="[OT_SPELLCASTING1]">A spell is active again. You will learn new spells when you gain levels.</Text>
-   <Text tag="[OT_MATCH_5]">Swap these gems to match 5-of-a-kind. This gives an extra turn and creates a Wildcard.</Text>
-   <Text tag="[OT_MATCH_4]">Swap these gems to match 4-of-a-kind. This gives you an extra turn.</Text>
-   <Text tag="[OT_REDSKULL0]">This is a +5 Skull. It matches with other Skulls. It does +5 damage and explodes!</Text>
-   <Text tag="[OT_REDSKULL1]">When it explodes a +5 Skull destroys (and gives effects for) all other gems around it.</Text>
-   <Text tag="[OT_WILDCARD0]">This is a Wildcard. It matches any mana color and multiplies the amount of mana it gives.</Text>
-   <Text tag="[OT_WILDCARD1]">Remember that Wildcards only match mana gems, not Skulls, Gold or Purple Stars.</Text>
-   <Text tag="[OT_MATCH_SKULLS3]">If you don&apos;t match skulls and damage your opponent, he will use them against you!</Text>
-   <Text tag="[OT_MATCH_SKULLS4]">As your character gains levels and improves their Battle skill, Skulls will do more damage.</Text>
-   <Text tag="[OT_MATCH_SKULLS5]">Try not to set up any Skulls for your opponent. Think one move ahead!</Text>
-   <Text tag="[OT_SPELLCASTING2]">Don&apos;t forget to keep an eye on your spells.  You have enough mana for this one.</Text>
-   <Text tag="[OT_SPELLCASTING3]">Each spell shows its mana cost on the button. Powerful spells have high mana costs.</Text>
-   <Text tag="[OT_SPELLCASTING4]">Remember to check your enemy&apos;s spells too. Try to deny him the mana he needs.</Text>
-   <Text tag="[OT_MATCH_GREEN1]">When you match mana gems, you will see the mana reserves next to your portrait fill up.</Text>
-   <Text tag="[OT_MATCH_RED1]">Try to match the correct mana for the spells you want to cast.</Text>
-   <Text tag="[OT_MATCH_YELLOW1]">As you gain levels and improve skills, mana gems will give more and more mana.</Text>
-   <Text tag="[OT_MATCH_BLUE1]">Try to match mana that your enemy needs. This will stop him casting spells at you.</Text>
- 
+<Text tag="[OT_MATCH_SKULLS0]">Troque essas gemas para combinar 3 Caveiras. Isso causará dano ao seu oponente.</Text>
+<Text tag="[OT_MATCH_SKULLS1]">Combine mais algumas Caveiras aqui. Cada Caveira causa um ponto de dano.</Text>
+<Text tag="[OT_MATCH_SKULLS2]">Caveiras são as gemas mais importantes no tabuleiro. Tente não perder nenhuma!</Text>
+<Text tag="[OT_MATCH_STARS0]">Continue combinando 3 iguais. Essas Estrelas Roxas darão a você Experiência e ajudarão você a ganhar níveis.</Text>
+<Text tag="[OT_MATCH_STARS1]">Aqui estão mais algumas Estrelas Roxas para combinar. Cada uma dá a você um ponto de Experiência.</Text>
+<Text tag="[OT_MATCH_GOLD0]">Troque essas gemas para combinar um pouco de Ouro. Você pode gastar ouro entre as batalhas.</Text>
+<Text tag="[OT_MATCH_GOLD1]">Você pode usar ouro na loja após esta batalha para comprar itens para seu herói.</Text>
+<Text tag="[OT_MATCH_GREEN0]">Troque essas gemas para combinar com algum mana verde. Você usa mana verde para conjurar magias.</Text>
+<Text tag="[OT_MATCH_RED0]">Troque essas gemas para combinar com algum mana vermelho. Você usa mana vermelho para conjurar magias.</Text>
+<Text tag="[OT_MATCH_YELLOW0]">Troque essas gemas para combinar com algum mana amarelo. Você usa mana amarelo para conjurar magias.</Text>
+<Text tag="[OT_MATCH_BLUE0]">Troque essas gemas para combinar com algum mana azul. Você usa mana azul para conjurar magias.</Text>
+<Text tag="[OT_SPELLCASTING0]">Você tem mana suficiente para usar esta magia. Tente conjurá-lo se achar que seria útil.</Text>
+<Text tag="[OT_SPELLCASTING1]">Uma magia está ativa novamente. Você aprenderá novas magias quando ganhar níveis.</Text>
+<Text tag="[OT_MATCH_5]">Troque essas gemas para combinar 5 de um tipo. Isso dá um turno extra e cria um Curinga.</Text>
+<Text tag="[OT_MATCH_4]">Troque essas gemas para combinar 4 de um tipo. Isso dá a você um turno extra.</Text>
+<Text tag="[OT_REDSKULL0]">Esta é uma Caveira +5. Ela combina com outras Caveiras. Ela causa +5 de dano e explode!</Text>
+<Text tag="[OT_REDSKULL1]">Quando explode, uma Caveira +5 destrói (e dá efeitos para) todas as outras gemas ao redor dela.</Text>
+<Text tag="[OT_WILDCARD0]">Esta é uma Curinga. Ele combina com qualquer cor de mana e multiplica a quantidade de mana que ele dá.</Text>
+<Text tag="[OT_WILDCARD1]">Lembre-se de que os curingas combinam apenas com gemas de mana, não com caveiras, estrelas douradas ou roxas.</Text>
+<Text tag="[OT_MATCH_SKULLS3]">Se você não combinar caveiras e causar dano ao seu oponente, ele as usará contra você!</Text>
+<Text tag="[OT_MATCH_SKULLS4]">Conforme seu personagem ganha níveis e melhora sua habilidade de batalha, as caveiras causam mais dano.</Text>
+<Text tag="[OT_MATCH_SKULLS5]">Tente não preparar nenhuma caveira para seu oponente. Pense um movimento à frente!</Text>
+<Text tag="[OT_SPELLCASTING2]">Não se esqueça de ficar de olho em suas magias. Você tem mana suficiente para este.</Text>
+<Text tag="[OT_SPELLCASTING3]">Cada magia mostra seu custo de mana no botão. Magias poderosas têm altos custos de mana.</Text>
+<Text tag="[OT_SPELLCASTING4]">Lembre-se de verificar as magias do seu inimigo também. Tente negar a ele o mana que ele precisa.</Text>
+<Text tag="[OT_MATCH_GREEN1]">Quando você combina gemas de mana, verá as reservas de mana ao lado do seu retrato se encherem.</Text>
+<Text tag="[OT_MATCH_RED1]">Tente combinar o mana correto para as magias que você quer conjurar.</Text>
+<Text tag="[OT_MATCH_YELLOW1]">Conforme você ganha níveis e melhora habilidades, as gemas de mana darão mais e mais mana.</Text>
+<Text tag="[OT_MATCH_BLUE1]">Tente combinar o mana que seu inimigo precisa. Isso vai impedi-lo de lançar feitiços em você.</Text>
+
 </TextLibrary>

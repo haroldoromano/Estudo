@@ -1,38 +1,38 @@
 <TextLibrary>
-   
-   <Text tag="[STATUS_BLINDED_NAME]">Blinded</Text>
-   <Text tag="[STATUS_BLINDED_DESC]">You cannot use any spells for as long as you are blinded</Text>
-   <Text tag="[STATUS_CHALLENGED_NAME]">Challenge</Text>
-   <Text tag="[STATUS_CHALLENGED_DESC]">Damage is increased by 50% while both players are under a challenge</Text>
-   <Text tag="[STATUS_DISEASE_NAME]">Disease</Text>
-   <Text tag="[STATUS_DISEASE_DESC]">Reduces all of your Mana Reserves by 1 at the start of your turn (max limit of 4)</Text>
-   <Text tag="[STATUS_ENRAGED_NAME]">Enraged</Text>
-   <Text tag="[STATUS_ENRAGED_DESC]">Adds your Red Mana total to your Battle skill</Text>
-   <Text tag="[STATUS_FAVORED_NAME]">Favor</Text>
-   <Text tag="[STATUS_FAVORED_DESC]">Gives a 50% chance to add +1 to Life Points whenever you gain a point of Experience</Text>
-   <Text tag="[STATUS_FEAR_NAME]">Fear</Text>
-   <Text tag="[STATUS_FEAR_DESC]">Reduces the value of all of your skills by 50%</Text>
-   <Text tag="[STATUS_FIREBOMBED_NAME]">Firebomb</Text>
-   <Text tag="[STATUS_FIREBOMBED_DESC]">Does 5 damage to you when your Red Mana is 12+ at the start of your turn (max limit of 4)</Text>
-   <Text tag="[STATUS_FIRESHIELDED_NAME]">Fire Shield</Text>
-   <Text tag="[STATUS_FIRESHIELDED_DESC]">Protects against 1 point of damage whenever you receive 2 or more damage</Text>
-   <Text tag="[STATUS_HANDOFPOWERED_NAME]">Hand of Power</Text>
-   <Text tag="[STATUS_HANDOFPOWERED_DESC]">Adds +2 to damage whenever you do damage (max limit of 2)</Text>
-   <Text tag="[STATUS_HASTED_NAME]">Hasted</Text>
-   <Text tag="[STATUS_HASTED_DESC]">Does 4 damage to your opponent whenever you gain an extra turn</Text>
-   <Text tag="[STATUS_HIDDEN_NAME]">Hidden</Text>
-   <Text tag="[STATUS_HIDDEN_DESC]">Damage you do is increased by 100% until you receive damage</Text>
-   <Text tag="[STATUS_POISON_NAME]">Poison</Text>
-   <Text tag="[STATUS_POISON_DESC]">Reduces your Life Points by 1 at the start of your turn (max limit of 4)</Text>
-   <Text tag="[STATUS_PALADINSAURAED_NAME]">Paladin&apos;s Aura</Text>
-   <Text tag="[STATUS_PALADINSAURAED_DESC]">Adds +2 of to all of your Mana Reserves at the beginning of your turn</Text>
-   <Text tag="[STATUS_SINGINGBLADESED_NAME]">Singing Blades</Text>
-   <Text tag="[STATUS_SINGINGBLADESED_DESC]">Reduces all of your enemy&apos;s Mana Reserves by 4 whenever you do damage</Text>
-   <Text tag="[STATUS_VIGILED_NAME]">Vigil</Text>
-   <Text tag="[STATUS_VIGILED_DESC]">Adds +3 to all of your Mana Reserves whenever you match 4 or 5 gems</Text>
-   <Text tag="[STATUS_WALLOFTHORNSED_NAME]">Wall of Thorns</Text>
-   <Text tag="[STATUS_WALLOFTHORNSED_DESC]">Damage is deducted from Green Mana instead of your Life Points</Text>
-   <Text tag="[STATUS_WALLOFFIRED_NAME]">Wall of Fire</Text>
-   <Text tag="[STATUS_WALLOFFIRED_DESC]">Damage is deducted from Red Mana instead of your Life Points</Text>
-   
+
+<Text tag="[STATUS_BLINDED_NAME]">Cego</Text>
+<Text tag="[STATUS_BLINDED_DESC]">Você não pode usar nenhuma magia enquanto estiver cego</Text>
+<Text tag="[STATUS_CHALLENGED_NAME]">Desafio</Text>
+<Text tag="[STATUS_CHALLENGED_DESC]">O dano é aumentado em 50% enquanto ambos os jogadores estiverem sob um desafio</Text>
+<Text tag="[STATUS_DISEASE_NAME]">Doença</Text>
+<Text tag="[STATUS_DISEASE_DESC]">Reduz todas as suas Reservas de Mana em 1 no início do seu turno (limite máximo de 4)</Text>
+<Text tag="[STATUS_ENRAGED_NAME]">Enfurecido</Text>
+<Text tag="[STATUS_ENRAGED_DESC]">Adiciona seu total de Mana Vermelho a sua habilidade de Batalha</Text>
+<Text tag="[STATUS_FAVORED_NAME]">Favor</Text>
+<Text tag="[STATUS_FAVORED_DESC]">Dá 50% de chance de adicionar +1 aos Pontos de Vida sempre que você ganha um ponto de Experiência</Text>
+<Text tag="[STATUS_FEAR_NAME]">Medo</Text>
+<Text tag="[STATUS_FEAR_DESC]">Reduz o valor de todas as suas habilidades em 50%</Text>
+<Text tag="[STATUS_FIREBOMBED_NAME]">Bomba de Fogo</Text>
+<Text tag="[STATUS_FIREBOMBED_DESC]">Causa 5 de dano a você quando seu Mana Vermelho é 12+ no início do seu turno (limite máximo de 4)</Text>
+<Text tag="[STATUS_FIRESHIELDED_NAME]">Escudo de Fogo</Text>
+<Text tag="[STATUS_FIRESHIELDED_DESC]">Protege contra 1 ponto de dano sempre que você recebe 2 ou mais de dano</Text>
+<Text tag="[STATUS_HANDOFPOWERED_NAME]">Mão do Poder</Text>
+<Text tag="[STATUS_HANDOFPOWERED_DESC]">Adiciona +2 ao dano sempre que você causa dano (limite máximo de 2)</Text>
+<Text tag="[STATUS_HASTED_NAME]">Acelerado</Text>
+<Text tag="[STATUS_HASTED_DESC]">Causa 4 de dano ao seu oponente sempre que você ganha um turno extra</Text>
+<Text tag="[STATUS_HIDDEN_NAME]">Oculto</Text>
+<Text tag="[STATUS_HIDDEN_DESC]">O dano que você causa é aumentado em 100% até que você receba dano</Text>
+<Text tag="[STATUS_POISON_NAME]">Veneno</Text>
+<Text tag="[STATUS_POISON_DESC]">Reduz seus Pontos de Vida em 1 no início do seu turno (limite máximo de 4)</Text>
+<Text tag="[STATUS_PALADINSAURAED_NAME]">Aura do Paladino</Text>
+<Text tag="[STATUS_PALADINSAURAED_DESC]">Adiciona +2 de a todas as suas Reservas de Mana no início do seu turno</Text>
+<Text tag="[STATUS_SINGINGBLADESED_NAME]">Lâminas Cantantes</Text>
+<Text tag="[STATUS_SINGINGBLADESED_DESC]">Reduz todas as Reservas de Mana do seu inimigo em 4 sempre que você causar dano</Text>
+<Text tag="[STATUS_VIGILED_NAME]">Vigília</Text>
+<Text tag="[STATUS_VIGILED_DESC]">Adiciona +3 a todas as suas Reservas de Mana sempre que você combinar 4 ou 5 gemas</Text>
+<Text tag="[STATUS_WALLOFTHORNSED_NAME]">Muro de Espinhos</Text>
+<Text tag="[STATUS_WALLOFTHORNSED_DESC]">O dano é deduzido do Mana Verde em vez dos seus Pontos de Vida</Text>
+<Text tag="[STATUS_WALLOFFIRED_NAME]">Muro de Fogo</Text>
+<Text tag="[STATUS_WALLOFFIRED_DESC]">O dano é deduzido do Mana Vermelho em vez dos seus Pontos de Vida</Text>
+
 </TextLibrary>
