@@ -19,7 +19,21 @@
 |08/10/2022|25/10/2022|128|06:29:14|
 |25/10/2022|06/11/2022|099|04:35:55|
 |06/11/2022|15/11/2022|081|05:21:27|
-|06/11/2022|15/11/2022|081|05:21:27|
+|07/09/2024|15/09/2024|085|09:24:37|
+|15/09/2024|22/09/2024|054|05:25:35|
+|22/09/2024|29/09/2024|055|04:16:10|
+|29/09/2024|06/10/2024|051|04:00:28|
+|07/10/2024|13/10/2024|055|02:57:34|
+|13/10/2024|27/10/2024|119|10:55:32|
+|28/10/2024|03/11/2024|041|04:26:50|
+|03/11/2024|10/11/2024|054|03:14:45|
+|//2024|//2024|0|0::|
+|//2024|//2024|0|0::|
+|//2024|//2024|0|0::|
+|//2024|//2024|0|0::|
+|//2024|//2024|0|0::|
+|//2024|//2024|0|0::|
+
 
 
 ### Clarisse
@@ -69,11 +83,11 @@
 |Clarisse_2022_09_10_14_42_55_836|02:25|15:27|
 |Clarisse_2022_10_05_08_03_55_808|03:00|04:00|
 |Clarisse_Gravação de chamadas Graziela Bruxa_240908_105918|05:35|08:51|
-||||
-||||
-||||
-||||
-||||
+|Clarisse_Gravação de chamadas Graziela Bruxa_241003_100918|05:30|08:00|
+|Clarisse_Gravação de chamadas Graziela Bruxa_241008_122222|00:00|02:11|
+|Clarisse_Gravação de chamadas Graziela Bruxa_241009_130937|01:10|04:35|
+|Clarisse_Gravação de chamadas Graziela Bruxa_241103_161438|00:00|06:00|
+|Clarisse_Gravação de chamadas Graziela Bruxa_241103_193540|01:00|04:20|
 ||||
 ||||
 ||||
@@ -91,6 +105,9 @@
 |Haroldo_2022_09_11_10_03_15_269|00:00|01:30|
 |Haroldo_2022_10_12_09_34_01_308|00:50|04:15|
 |Haroldo_2022_10_26_07_56_49_378|00:25|02:40|
+|Haroldo_Gravação de chamadas Graziela Bruxa_240930_113515|03:20|09:13|
+||||
+||||
 ||||
 ||||
 ||||
@@ -112,9 +129,9 @@
 |Confissão_2022_08_28_20_42_41_706|00:00|03:42|Graziela confessando que foi o Ricardi que atropelou o motociclista na rodovia|
 |Confissão_2022_08_28_21_46_46_434|00:00|03:47|Graziela confessando que assumiu a culpa no lugar do Ricardi.|
 |Confissão_2022_08_29_21_41_31_245|00:00|18:00|Teresinha mentindo para Sônia que foi a Graziela que atropelou o motociclista na rodovia|
-|||||
-|||||
-|||||
+|Confissão_Gravação de chamadas Sônia Vargas_240913_142518|07:15|08:00|Teresina confessando para Sônia que para o plano de saúde do Ricardi|
+|Confissão_Gravação de chamadas Sônia Vargas_241001_195012|14:10|16:00|Teresinha reclamando com Sônia que o Ricardi não para em emprego algum|
+|Confissão_Gravação de chamadas 33367812_241012_144258|28:25|29:35|Teresina falando com Clarisse sobre uma possível traição|
 |||||
 |||||
 |||||
@@ -131,6 +148,11 @@
 |Treta_2022_08_12_07_51_19_347|01:20|07:15|Graziela falando mal da Fátima|
 |Treta_2022_09_24_13_29_06_821|01:10|06:10|Graziela falando mal da Fátima|
 |Treta_2022_11_13_09_23_09_795|03:00|10:10|Graziela falando mal de geral na festa da Célia|
+|Treta_Gravação de chamadas Graziela Bruxa_240929_163802|00:00|00:29|Graziela xingando Teresinha|
+|Treta_Gravação de chamadas Graziela Bruxa_240929_164101|00:00|00:21|Graziela exigindo dinheiro de Teresinha|
+|||||
+|||||
+|||||
 |||||
 |||||
 |||||
