@@ -43,6 +43,23 @@
 |13/02/2025|16/02/2025|017|01:23:58|
 |16/02/2025|23/02/2025|037|02:18:57|
 |23/02/2025|09/03/2025|101|09:31:12|
+|09/03/2025|16/03/2025|068|05:20:47|
+|16/03/2025|23/03/2025|056|04:04:28|
+|23/03/2025|30/03/2025|053|04:14:57|
+|30/03/2025|06/04/2025|053|05:12:14|
+|09/04/2025|13/04/2025|031|02:34:04|
+|15/04/2025|21/04/2025|047|02:36:09|
+|21/04/2025|26/04/2025|051|01:48:46|
+|30/04/2025|04/05/2025|037|02:02:34|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
@@ -112,13 +129,13 @@
 |Clarisse_Gravação de chamadas Graziela Bruxa_250110_110001|00:35|04:49|
 |Clarisse_Gravação de chamadas Graziela Bruxa_250110_162521|00:25|08:58|
 |Clarisse_Gravação de chamadas Graziela Bruxa_250228_081844|09:30|12:25|
-||||
-||||
-||||
-||||
-||||
-||||
-||||
+|Clarisse_Gravação de chamadas Graziela Bruxa_250322_120243|02:20|11:58|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250411_115625|00:00|02:44|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250416_145059|01:00|04:00|
+|Treta_Gravação de chamadas Graziela Bruxa_250417_170916|11:05|14:55|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250424_124824|00:00|04:50|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250424_145307|01:30|03:30|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250430_171515|00:20|02:30|
 ||||
 ||||
 ||||
@@ -213,12 +230,12 @@
 |Treta_Gravação de chamadas Graziela Bruxa_250127_113419|08:25|13:45|Grazila contando que Pedro detesta a Sônia e o Zé Bigode|
 |Treta_Gravação de chamadas Graziela Bruxa_250214_220702|01:00|02:25|Teresinha e Graziela falando mal da Sônia|
 |Treta_Gravação de chamadas Graziela Bruxa_250215_085730|05:45|06:35|Teresinha e Graziela falando mal da Sônia|
-|Treta_Gravação de chamadas Graziela Bruxa_250304_120639|02:35||Graziela e Teresinha falando mal da Fabiana e da Sônia|
-|Treta_Gravação de chamadas Graziela Bruxa_250304_191147|01:15||Graziela e Teresinha falando mal da Sônia e Zé Bigode|
-|||||
-|||||
-|||||
-|||||
+|Treta_Gravação de chamadas Graziela Bruxa_250304_120639|02:35|XX:XX|Graziela e Teresinha falando mal da Fabiana e da Sônia|
+|Treta_Gravação de chamadas Graziela Bruxa_250304_191147|01:15|XX:XX|Graziela e Teresinha falando mal da Sônia e Zé Bigode|
+|Treta_Gravação de chamadas Graziela Bruxa_250310_082802|04:55|07:21|Graziela e Teresinha falando mal da Sônia|
+|Treta_Gravação de chamadas Graziela Bruxa_250310_083540|00:00|00:48|Graziela e Teresinha falando mal da Sônia|
+|Treta_Gravação de chamadas Graziela Bruxa_250322_085945|03:10|09:40|Graziela e Teresinha falando mal da Sônia|
+|Treta_Gravação de chamadas Graziela Bruxa_250417_170916|03:55|05:00|Graziela e Teresinha falando mal da Sônia|
 |||||
 |||||
 |||||
