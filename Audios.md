@@ -51,8 +51,8 @@
 |15/04/2025|21/04/2025|047|02:36:09|
 |21/04/2025|26/04/2025|051|01:48:46|
 |30/04/2025|04/05/2025|037|02:02:34|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
+|09/05/2025|11/05/2025|019|01:09:33|
+|13/05/2025|18/05/2025|036|02:18:45|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
@@ -198,7 +198,7 @@
 |Confissão_Gravação de chamadas Sônia Vargas_240913_142518|07:15|08:00|Teresina confessando para Sônia que para o plano de saúde do Ricardi|
 |Confissão_Gravação de chamadas Sônia Vargas_241001_195012|14:10|16:00|Teresinha reclamando com Sônia que o Ricardi não para em emprego algum|
 |Confissão_Gravação de chamadas 33367812_241012_144258|28:25|29:35|Teresina falando com Clarisse sobre uma possível traição|
-|||||
+|Confissão_Gravação de chamadas 997209072_250510_173312|10:20|11:50|Haroldo alertando pela segunda vez sobre a necessidade da alguem dormir na casa da Teresinha durante a semana|
 |||||
 |||||
 |||||
