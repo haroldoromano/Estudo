@@ -54,7 +54,7 @@
 |09/05/2025|11/05/2025|019|01:09:33|
 |13/05/2025|18/05/2025|036|02:18:45|
 |20/05/2025|25/05/2025|032|03:03:16|
-|//2025|//2025|0|0::|
+|25/05/2025|01/06/2025|051|03:49:59|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
@@ -199,7 +199,7 @@
 |Confissão_Gravação de chamadas Sônia Vargas_241001_195012|14:10|16:00|Teresinha reclamando com Sônia que o Ricardi não para em emprego algum|
 |Confissão_Gravação de chamadas 33367812_241012_144258|28:25|29:35|Teresina falando com Clarisse sobre uma possível traição|
 |Confissão_Gravação de chamadas 997209072_250510_173312|10:20|11:50|Haroldo alertando pela segunda vez sobre a necessidade da alguem dormir na casa da Teresinha durante a semana|
-|||||
+|Confissão_Gravação de chamadas Graziela Bruxa_250530_162442|00:00|20:00|Terezinha falando que o Zé que vai pagar o relógio que o Giovane quebrou|
 |||||
 |||||
 |||||
