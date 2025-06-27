@@ -56,8 +56,8 @@
 |20/05/2025|25/05/2025|032|03:03:16|
 |25/05/2025|01/06/2025|051|03:49:59|
 |01/06/2025|08/06/2025|072|04:58:47|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
+|08/06/2025|15/06/2025|056|04:36:56|
+|15/06/2025|22/06/2025|060|03:45:12|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
@@ -137,6 +137,27 @@
 |Clarisse_Gravação de chamadas Graziela Bruxa_250424_145307|01:30|03:30|
 |Clarisse_Gravação de chamadas Graziela Bruxa_250430_171515|00:20|02:30|
 |Clarisse_Gravação de chamadas Graziela Bruxa_250606_172308|01:50|05:03|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250609_110310|04:20|05:30|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250610_113509|00:55|05:48|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250620_175912|00:00|21:00|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 ||||
 ||||
 ||||
@@ -203,6 +224,20 @@
 |Confissão_Gravação de chamadas 997209072_250602_155956|02:30||Célia falando para Terezinha que Graziela recusou um serviço e que disse para ela e Sônia que não vai mais advogar|
 |Confissão_Gravação de chamadas Graziela Bruxa_250603_103041|01:10|03:05|Graziela falando para Teresinha que vai comprar o motor do Kart|
 |Confissão_Gravação de chamadas Graziela Bruxa_250607_125420|01:20|04:30|Graziela falando quanto custou o chassi do Kart|
+|Confissão_Gravação de chamadas Graziela Bruxa_250610_101113|02:35|06:00|Graziela falando que o Giovane e o amigo terão cada um o seu próprio Kart|
+|Confissão_Gravação de chamadas Graziela Bruxa_250613_113116|02:02|04:05|Teresinha combinando com Graziela a Bodas de ouro|
+|Confissão_Gravação de chamadas Graziela Bruxa_250614_082316|01:50|02:20|Graziela confessando que faz a unha toda semana|
+|Confissão_Gravação de chamadas Graziela Bruxa_250614_144321|02:25|04:50|Teresinha ansiosa para a organização das bodas|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 |||||
 |||||
 |||||
@@ -236,6 +271,14 @@
 |Treta_Gravação de chamadas Graziela Bruxa_250310_083540|00:00|00:48|Graziela e Teresinha falando mal da Sônia|
 |Treta_Gravação de chamadas Graziela Bruxa_250322_085945|03:10|09:40|Graziela e Teresinha falando mal da Sônia|
 |Treta_Gravação de chamadas Graziela Bruxa_250417_170916|03:55|05:00|Graziela e Teresinha falando mal da Sônia|
+|Treta_Gravação de chamadas Graziela Bruxa_250611_133616|02:30|03:05|Graziela reclamando que não foi convidada para a festa do Gael|
+|Treta_Gravação de chamadas Graziela Bruxa_250615_085950|03:25|09:10|Graziela falando mal do Gustavo|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 |||||
 |||||
 |||||
