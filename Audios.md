@@ -58,7 +58,7 @@
 |01/06/2025|08/06/2025|072|04:58:47|
 |08/06/2025|15/06/2025|056|04:36:56|
 |15/06/2025|22/06/2025|060|03:45:12|
-|//2025|//2025|0|0::|
+|22/06/2025|29/06/2025|050|03:18:25|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
@@ -140,9 +140,9 @@
 |Clarisse_Gravação de chamadas Graziela Bruxa_250609_110310|04:20|05:30|
 |Clarisse_Gravação de chamadas Graziela Bruxa_250610_113509|00:55|05:48|
 |Clarisse_Gravação de chamadas Graziela Bruxa_250620_175912|00:00|21:00|
-||||
-||||
-||||
+|Clarisse_Gravação de chamadas Graziela Bruxa_250625_114944|00:00|04:45|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250626_083131|03:15|06:35|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250626_113105|00:29|05:11|
 ||||
 ||||
 ||||
