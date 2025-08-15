@@ -62,6 +62,36 @@
 |10/07/2025|13/07/2025|018|01:51:27|
 |17/07/2025|20/07/2025|022|00:58:28|
 |27/07/2025|03/08/2025|066|04:46:34|
+|04/08/2025|10/08/2025|070|05:40:12|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
+|//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
@@ -228,7 +258,7 @@
 |Confissão_Gravação de chamadas Graziela Bruxa_250613_113116|02:02|04:05|Teresinha combinando com Graziela a Bodas de ouro|
 |Confissão_Gravação de chamadas Graziela Bruxa_250614_082316|01:50|02:20|Graziela confessando que faz a unha toda semana|
 |Confissão_Gravação de chamadas Graziela Bruxa_250614_144321|02:25|04:50|Teresinha ansiosa para a organização das bodas|
-|||||
+|Confissão_Gravação de chamadas Graziela Bruxa_250806_114524|01:05|01:30|Teresinha confessando que tudo para Graziela|
 |||||
 |||||
 |||||
@@ -273,9 +303,9 @@
 |Treta_Gravação de chamadas Graziela Bruxa_250417_170916|03:55|05:00|Graziela e Teresinha falando mal da Sônia|
 |Treta_Gravação de chamadas Graziela Bruxa_250611_133616|02:30|03:05|Graziela reclamando que não foi convidada para a festa do Gael|
 |Treta_Gravação de chamadas Graziela Bruxa_250615_085950|03:25|09:10|Graziela falando mal do Gustavo|
-|||||
-|||||
-|||||
+|Treta_Gravação de chamadas Graziela Bruxa_250805_132800|05:00|05:45|Graziela e Teresinha falando mal da Sônia|
+|Treta_Gravação de chamadas Graziela Bruxa_250806_081210|28:10|34:50|Graziela falando que o Davi usa drogas|
+|Treta_Gravação de chamadas Graziela Bruxa_250807_121143|00:00|00:46|Terezinha conta para Graziela que o Giovane saiu com o Kart na rua|
 |||||
 |||||
 |||||
