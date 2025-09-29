@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
+    font-family: 'Arial';
+    src: url(../fonts/Arial.TTF);
+}
+
+@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
+    font-family: 'TimesNewRoman';
+    src: url(../fonts/TimesNewRoman.ttf);
+}
+
+@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
+    font-family: 'Verdana';
+    src: url(../fonts/Verdana.ttf);
+}
+
+/*Seletor global, serve para definir um padrão de formatação para todo o documento*/
+* { /*Sempre que iniciar uma formatação, esse parametro vai zerar o CSS*/
+    margin: 0px; /*Espaço externo do elemento.*/
+    padding: 0px; /*Espaço) interno do elemento.*/
+    border: 0px; /*Borda do elemento*/
+    box-sizing: border-box; /*Incorpora os valores de padding e border às dimensões do elemento.*/
+}
+
+/*Escopo GLOBAL de variáveis*/
+:root {
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #808080; /*Declaração de variáveis em CSS*/
+    --cor1: #d3d3d3; /*Declaração de variáveis em CSS*/
+    --cor2: #000000; /*Declaração de variáveis em CSS*/
+    --cor3: #000000; /*Declaração de variáveis em CSS*/
+    --cor4: #000000; /*Declaração de variáveis em CSS*/
+    --cor5: #000000; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: Arial, Verdana, TimesNewRoman; /*Declaração de variáveis em CSS*/
+}
+
+body {
+    font-family: var(--fontePadrao); /*Tipo da fonte utilizando uma variável*/
+}
+
+table {
+    width: 500px; /*Tamanho da borda do elemento*/
+    border-collapse: collapse;
+    position: relative; /* Determinar a posição dos elementos. Valores: static, fixed, sticky, relative e absolute.*/
+}
+
+td {
+    border-width: 1px; /*Tamanho da borda do elemento*/
+    border-style: solid; /*Estilo da borda do elemento*/
+    border-color: var(--corPreto); /*Cor da borda do elemento*/
+    padding: 10px 10px 10px 10px; /*Espaço interno do elemento.*/
+}
+
+th {
+    border-width: 1px; /*Tamanho da borda do elemento*/
+    border-style: solid; /*Estilo da borda do elemento*/
+    border-color: var(--corPreto); /*Cor da borda do elemento*/
+    padding: 10px 10px 10px 10px; /*Espaço interno do elemento.*/
+}
+
+caption {
+    font-size: 1.5em; /*Tamanho da fonte*/
+    font-weight: bold; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/
+    padding: 10px 10px 10px 10px; /*Espaço interno do elemento.*/
+    background-color: var(--cor1); /*Cor de fundo utilizando uma variável*/
+}
+
+thead {
+    background-color: var(--cor0); /*Cor de fundo utilizando uma variável*/
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+}
+
+thead > tr > th {
+   position: sticky; /* Determinar a posição dos elementos. Valores: static, fixed, sticky, relative e absolute.*/
+   top: -1px; /* Define o posicionamento de referência (top, bottom, left e right) */
+   background-color: var(--cor0); /*Cor de fundo utilizando uma variável*/
+}
+
+tbody > tr:nth-child(odd) { /*Efeito zebrado nas linhas ímpares*/
+    background-color: var(--corBranco); /*Cor de fundo utilizando uma variável*/
+}
+
+tbody > tr:nth-child(even) { /*Efeito zebrado nas linhas pares*/
+    background-color: var(--cor1); /*Cor de fundo utilizando uma variável*/
+}
+
+tfoot {
+    background-color: var(--cor0); /*Cor de fundo utilizando uma variável*/
+    color: var(--corBranco); /*Cor da fonte utilizando uma variável*/
+}
+
+td.num {
+    text-align: right; /*Alinhamento do texto*/
+}
