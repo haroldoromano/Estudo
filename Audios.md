@@ -65,9 +65,9 @@
 |04/08/2025|10/08/2025|070|05:40:12|
 |13/08/2025|16/08/2025|020|02:19:29|
 |17/08/2025|02/09/2025|139|10:10:44|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
+|03/09/2025|08/09/2025|100|05:23:27|
+|09/09/2025|15/09/2025|060|04:30:40|
+|15/09/2025|21/09/2025|099|06:33:15|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
@@ -101,7 +101,7 @@
 
 ## Clarisse
 
-|Arquivo                        |Início|Fim  |
+|Arquivo                         |Início|Fim |
 |:------------------------------:|:---:|:---:|
 |Clarisse_2022_04_30_12_45_50_069|17:41|24:20|
 |Clarisse_2022_05_01_06_15_57_799|02:01|03:57|
@@ -175,12 +175,12 @@
 |Clarisse_Gravação de chamadas Graziela Bruxa_250626_113105|00:29|05:11|
 |Clarisse_Gravação de chamadas Graziela Bruxa_250729_084216|05:15|11:59|
 |Clarisse_Gravação de chamadas Graziela Bruxa_250729_092731|01:00|02:40|
-||||
-||||
-||||
-||||
-||||
-||||
+|Clarisse_Gravação de chamadas Graziela Bruxa_250826_104140|02:15|11:05|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250903_081525|01:15|04:20|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250904_193708|00:25|07:10|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250904_194915|01:55|14:00|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250904_201039|00:00|16:00|
+|Clarisse_Gravação de chamadas Graziela Bruxa_250905_211418|01:55|14:10|
 ||||
 ||||
 ||||
@@ -200,7 +200,7 @@
 
 ## Haroldo
 
-|Arquivo                       |Início|Fim  |
+|Arquivo                        |Início|Fim |
 |:-----------------------------:|:---:|:---:|
 |Haroldo_2022_05_01_23_20_07_573|15:37|18:02|
 |Haroldo_2022_05_16_20_32_46_804|15:40|18:50|
@@ -217,7 +217,7 @@
 |Haroldo_Gravação de chamadas Graziela Bruxa_241112_091137|04:00|06:05|
 |Haroldo_Gravação de chamadas Graziela Bruxa_241119_110647|02:40|05:30|
 |Haroldo_Gravação de chamadas Graziela Bruxa_250729_144630|00:50|03:25|
-||||
+|Haroldo_Gravação de chamadas Graziela Bruxa_250915_111830|02:15|05:41|
 ||||
 ||||
 ||||
@@ -230,7 +230,7 @@
 
 ## Confissões
 
-|Arquivo                       |Início|Fim  |Descrição|
+|Arquivo                          |Início|Fim |Descrição|
 |:-------------------------------:|:---:|:---:|:-------:|
 |Confissão_2022_05_04_19_57_46_220|02:18|02:30|Teresinha confessando que José comprou a máquina de lavar da Graziela|
 |Confissão_2022_05_05_17_29_33_281|00:20|07:17|Graziela vendeu carro branco(?) e Palio|
@@ -259,7 +259,7 @@
 |Confissão_Gravação de chamadas Graziela Bruxa_250614_082316|01:50|02:20|Graziela confessando que faz a unha toda semana|
 |Confissão_Gravação de chamadas Graziela Bruxa_250614_144321|02:25|04:50|Teresinha ansiosa para a organização das bodas|
 |Confissão_Gravação de chamadas Graziela Bruxa_250806_114524|01:05|01:30|Teresinha confessando que tudo para Graziela|
-|||||
+|Confissão_Gravação de chamadas Graziela Bruxa_250917_151458|04:10|04:58|Teresinha flando para Graziela que não vai conviar Clarisse para bodas|
 |||||
 |||||
 |||||
@@ -281,7 +281,7 @@
 
 ## Tretas
 
-|Arquivo                       |Início|Fim  |Descrição|
+|Arquivo                      |Início|Fim |Descrição|
 |:---------------------------:|:---:|:---:|:-------:|
 |Treta_2022_07_21_11_14_10_223|01:25|03:25|Graziela falando mal de um desconhecido e do Pedro|
 |Treta_2022_07_21_13_15_44_762|03:45|05:59|Graziela falando mal do Pedro|
@@ -306,6 +306,7 @@
 |Treta_Gravação de chamadas Graziela Bruxa_250805_132800|05:00|05:45|Graziela e Teresinha falando mal da Sônia|
 |Treta_Gravação de chamadas Graziela Bruxa_250806_081210|28:10|34:50|Graziela falando que o Davi usa drogas|
 |Treta_Gravação de chamadas Graziela Bruxa_250807_121143|00:00|00:46|Terezinha conta para Graziela que o Giovane saiu com o Kart na rua|
+|Treta_Gravação de chamadas Graziela Bruxa_250919_193813|00:45|03:00|Graziela e Teresinha falando mal da Fabiana|
 |||||
 |||||
 |||||
@@ -317,4 +318,9 @@
 |||||
 |||||
 |||||
-|||||
+
+## Giovane saindo com o kart
+- 07/08/2025
+- 21/08/2025
+- 25/08/2025
+- 26/08/2025
