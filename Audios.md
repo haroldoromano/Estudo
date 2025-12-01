@@ -69,7 +69,7 @@
 |09/09/2025|15/09/2025|060|04:30:40|
 |15/09/2025|21/09/2025|099|06:33:15|
 |21/09/2025|28/09/2025|047|05:13:31|
-|//2025|//2025|0|0::|
+|02/10/2025|05/10/2025|025|02:14:20|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
 |//2025|//2025|0|0::|
@@ -308,7 +308,7 @@
 |Treta_Gravação de chamadas Graziela Bruxa_250807_121143|00:00|00:46|Terezinha conta para Graziela que o Giovane saiu com o Kart na rua|
 |Treta_Gravação de chamadas Graziela Bruxa_250919_193813|00:45|03:00|Graziela e Teresinha falando mal da Fabiana|
 |Treta_Gravação de chamadas Graziela Bruxa_250921_185226|00:50|02:20|Graziela e Teresinha falando mal da Célia|
-|||||
+|Treta_Gravação de chamadas 01516997209072_251004_113944|14:00|17:55|Teresinha e Célia falando mal da Sônia|
 |||||
 |||||
 |||||
@@ -325,3 +325,4 @@
 - 25/08/2025
 - 26/08/2025
 - 28/09/2025
+- 05/10/2025
