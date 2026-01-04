@@ -8,6 +8,40 @@
     <title>Document</title>
 </head>
 <body>
-    
+        <h1>Desafio Parte 1</h1>
+    <!--
+        Hierarquia de Tabelas (Simples)
+        Table (TR)= tabela
+            Table row = linha de tabela
+                table header (TH) = cabeçalho de tabela
+                table data (TD)  = dado de tabela
+    -->
+    <table>
+        <tr> <!-- 1 linha -->
+            <td>1</td> <!-- 01 Coluna -->
+            <td>2</td> <!-- 02 Coluna -->
+            <td rowspan="2">3</td> <!-- 03 Coluna -->
+            <td>4</td> <!-- 04 Coluna -->
+        </tr>
+        <tr> <!-- 2 linha -->
+            <td>5</td> <!-- 01 Coluna -->
+            <td>6</td> <!-- 02 Coluna -->
+            <td>7</td> <!-- 03 Coluna -->
+        </tr>
+        <tr> <!-- 3 linha -->
+            <td colspan="3">8</td> <!-- 01 Coluna -->
+            <td>9</td> <!-- 02 Coluna -->
+        </tr>
+        <tr> <!-- 4 linha -->
+            <td rowspan="2">10</td> <!-- 01 Coluna -->
+            <td colspan="2">11</td> <!-- 02 Coluna -->
+            <td>12</td> <!-- 03 Coluna -->
+        </tr>
+        <tr> <!-- 5 linha -->
+            <td>13</td> <!-- 01 Coluna -->
+            <td>14</td> <!-- 02 Coluna -->
+            <td>15</td> <!-- 03 Coluna -->
+        </tr>
+    </table> 
 </body>
 </html>
