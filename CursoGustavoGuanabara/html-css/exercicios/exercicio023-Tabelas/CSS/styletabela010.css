@@ -1,21 +1,26 @@
-@charset "UTF-8";
+@charset "UTF-8"; /* Define o conjunto de caracteres do arquivo */
 
-@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
-    font-family: 'Arial';
-    src: url(../fonts/Arial.TTF);
+/* =========================
+   Declaração de fontes locais
+   ========================= */
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'Arial'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/Arial.TTF); /* Caminho do arquivo da fonte */
 }
 
-@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
-    font-family: 'TimesNewRoman';
-    src: url(../fonts/TimesNewRoman.ttf);
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'TimesNewRoman'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/TimesNewRoman.ttf); /* Caminho do arquivo da fonte */
 }
 
-@font-face { /*Arquivo da fonte instalado em um diretório no próprio site*/
-    font-family: 'Verdana';
-    src: url(../fonts/Verdana.ttf);
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'Verdana'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/Verdana.ttf); /* Caminho do arquivo da fonte */
 }
 
-/*Seletor global, serve para definir um padrão de formatação para todo o documento*/
+/* =========================
+   Reset global de estilos
+   ========================= */
 * { /*Sempre que iniciar uma formatação, esse parametro vai zerar o CSS*/
     margin: 0px; /*Espaço externo do elemento.*/
     padding: 0px; /*Espaço) interno do elemento.*/
@@ -23,8 +28,10 @@
     box-sizing: border-box; /*Incorpora os valores de padding e border às dimensões do elemento.*/
 }
 
-/*Escopo GLOBAL de variáveis*/
-:root {
+/* =========================
+   Variáveis globais
+   ========================= */
+:root { /* Escopo global de variáveis CSS */
     --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
     --corPreto: #000000; /*Declaração de variáveis em CSS*/
     --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
@@ -38,35 +45,42 @@
     --fontePadrao: Arial, Verdana, TimesNewRoman; /*Declaração de variáveis em CSS*/
 }
 
-table {
+/* =========================
+   Estilos da tabela
+   ========================= */
+table { /* Seleciona todas as tabelas */
     border-collapse: collapse; /*Define se as bordas da tabela serão separadas ou colapsadas.*/
+
+    caption { /* Estiliza o título da tabela */
+        font-size: 1.3em; /* Define o tamanho da fonte */
+        font-weight: bold; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/
+        padding: 10px; /*Espaço interno do elemento.*/
+    }
+
+    th { /* Estiliza células de cabeçalho */
+        border-width: 1px; /* Define a espessura da borda */
+        border-style: solid; /* Define o estilo da borda */
+        border-color: var(--corPreto); /* Define a cor da borda */
+        padding: 10px; /* Espaçamento interno */
+    }
+
+    td { /* Estiliza células de dados */
+        border-width: 1px; /* Define a espessura da borda */
+        border-style: solid; /* Define o estilo da borda */
+        border-color: var(--corPreto); /* Define a cor da borda */
+        padding: 10px; /* Espaçamento interno */
+    }
+
+    tbody { /* Seleciona o corpo da tabela */
+        > tr:nth-child(even) { /* Seleciona somente as linhas pares */
+            background-color: var(--cor0); /*Cor de fundo utilizando uma variável*/
+        }
+    }
 }
 
-caption {
-    font-size: 1.3em; /*Tamanho da fonte*/
-    font-weight: bold; /*Intensidade da fonte (normal, bold = grossa, lightr = fina)*/
-    padding: 10px 10px 10px 10px; /*Espaço interno do elemento.*/
-
-}
-
-th {
-    border-width: 1px; /*Tamanho da borda do elemento*/
-    border-style: solid; /*Estilo da borda do elemento*/
-    border-color: var(--corPreto); /*Cor da borda do elemento*/
-    padding: 10px 10px 10px 10px; /*Espaço interno do elemento.*/
-}
-
-td {
-    border-width: 1px; /*Tamanho da borda do elemento*/
-    border-style: solid; /*Estilo da borda do elemento*/
-    border-color: var(--corPreto); /*Cor da borda do elemento*/
-    padding: 10px 10px 10px 10px; /*Espaço interno do elemento.*/
-}
-
-tbody > tr:nth-child(even) { /*Efeito zebrado nas linhas pares*/
-    background-color: var(--cor0); /*Cor de fundo utilizando uma variável*/
-}
-
-.tabelaProdutos {
-    overflow-x: auto; /*Adiciona uma barra de rolagem horizontal caso o conteúdo ultrapasse a largura do contêiner.*/
+/* =========================
+   Contêiner da tabela
+   ========================= */
+.tabelaProdutos { /* Div que envolve a tabela */
+    overflow-x: auto; /* Cria rolagem horizontal em telas pequenas */
 }
