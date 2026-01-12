@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Images/r_azul.ico" type="image/x-icon">
+    <link rel="stylesheet" href="CSS/styletabela008.css">
+    <title>Tabela008</title>
+</head>
+<body>
+    <h1>Desafio Parte 5</h1>
+
+    <table>
+        <!-- Anatomia para tabelas grandes
+            table
+                caption
+                    thead
+                        table row (TR) = linha de tabela
+                        table header (TH) = cabeçalho de tabela
+                        table data (TD)  = dado de tabela
+                    tbody
+                        table row (TR) = linha de tabela
+                        table header (TH) = cabeçalho de tabela
+                        table data (TD)  = dado de tabela
+                    tfoot
+                        table row (TR) = linha de tabela
+                        table header (TH) = cabeçalho de tabela
+                        table data (TD)  = dado de tabela
+        -->
+        <caption>Alunos</caption>
+        <thead>
+            <tr> <!-- 1 linha -->
+                <th scope="col" rowspan="2">Área</th> <!-- 01 Coluna -->
+                <th scope="col" rowspan="2">Disciplinas</th> <!-- 02 Coluna -->
+                <th scope="colgroup" colspan="2">Notas</th> <!-- 03 Coluna -->
+                <th scope="col" rowspan="2">Média</th> <!-- 04 Coluna -->
+            </tr>
+            <tr> <!-- 2 linha -->
+                <th>Nota 1</th> <!-- 01 Coluna -->
+                <th>Nota 2</th> <!-- 02 Coluna -->
+            </tr>
+        </thead>
+        <tbody>
+            <tr> <!-- 3 linha -->
+                <th scope="rowgroup" rowspan="4">Exatas</th> <!-- 01 Coluna -->
+                <td>Matemática</td>  <!-- 02 Coluna -->
+                <td>0.0</td>  <!-- 03 Coluna -->
+                <td>0.0</td>  <!-- 04 Coluna -->
+                <td>0.0</td>  <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 4 linha -->
+                <td>Física</td>  <!-- 01 Coluna -->
+                <td>0.0</td>  <!-- 02 Coluna -->
+                <td>0.0</td>  <!-- 03 Coluna -->
+                <td>0.0</td>  <!-- 04 Coluna -->
+            </tr>
+            <tr> <!-- 5 linha -->
+                <td>Química</td>  <!-- 01 Coluna -->
+                <td>0.0</td>  <!-- 02 Coluna -->
+                <td>0.0</td>  <!-- 03 Coluna -->
+                <td>0.0</td>  <!-- 04 Coluna -->
+            </tr>
+            <tr> <!-- 6 linha -->
+                <td>Biologia</td>  <!-- 01 Coluna -->
+                <td>0.0</td>  <!-- 02 Coluna -->
+                <td>0.0</td>  <!-- 03 Coluna -->
+                <td>0.0</td>  <!-- 04 Coluna -->
+            </tr>
+            <tr class="media"> <!-- 7 linha -->
+                <td colspan="4">Média de Exatas</td>  <!-- 01 Coluna -->
+                <td>0.0</td>  <!-- 02 Coluna -->
+            </tr>
+            <tr> <!-- 8 linha -->
+                <th scope="rowgroup" rowspan="2">Humanas</th>  <!-- 01 Coluna -->
+                <td>História</td>  <!-- 02 Coluna -->
+                <td>0.0</td>  <!-- 03 Coluna -->
+                <td>0.0</td>  <!-- 04 Coluna -->
+                <td>0.0</td>  <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 9 linha -->
+                <td>Geografia</td>  <!-- 01 Coluna -->
+                <td>0.0</td>  <!-- 02 Coluna -->
+                <td>0.0</td>  <!-- 03 Coluna -->
+                <td>0.0</td>  <!-- 04 Coluna -->
+            </tr>
+            <tr class="media"> <!-- 10 linha -->
+                <td colspan="4">Média de Humanas</td>  <!-- 01 Coluna -->
+                <td >0.0</td>  <!-- 02 Coluna -->
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

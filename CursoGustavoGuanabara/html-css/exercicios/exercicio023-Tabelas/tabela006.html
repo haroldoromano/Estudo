@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Images/r_bonitao.ico" type="image/x-icon">
+    <link rel="stylesheet" href="CSS/styletabela006.css">
+    <title>Tabela006</title>
+</head>
+<body>
+        <h1>Desafio Parte 3</h1>
+    <!--
+        Hierarquia de Tabelas (Simples)
+        Table (TR)= tabela
+            Table row = linha de tabela
+                table header (TH) = cabeçalho de tabela
+                table data (TD)  = dado de tabela
+    -->
+    <table>
+        <thead>
+           <tr>
+                <th scope="col">Grupo</th> <!-- O atributo scope identifica se é um cabeçalho para (col) ou linha (row) -->
+                <th scope="col">Nomes</th> <!-- O atributo scope identifica se é um cabeçalho para (col) ou linha (row) -->
+                <th colspan="3" scope="colgroup">Filmes</th> <!-- O atributo scope identifica se é um cabeçalho para (col) ou linha (row) -->
+            </tr> 
+        </thead>
+        <tbody>
+            <tr> <!-- 1 linha -->
+                <th rowspan="3" scope="rowgroup">Mulheres</th> <!-- 01 Coluna -->
+                <td>Ana Maria Santos</td> <!-- 02 Coluna -->
+                <td>Alien</td> <!-- 03 Coluna -->
+                <td>Rambo</td> <!-- 04 Coluna -->
+                <td>Vingadores</td> <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 2 linha -->
+                <td>Beatriz Souza</td> <!-- 02 Coluna -->
+                <td>Hulk</td> <!-- 03 Coluna -->
+                <td>Inception</td> <!-- 04 Coluna -->
+                <td>Batman</td> <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 3 linha -->
+                <td>Cláudia Melo</td> <!-- 02 Coluna -->
+                <td>Oblivion</td> <!-- 03 Coluna -->
+                <td>Matrix</td> <!-- 04 Coluna -->
+                <td>Big Hero</td> <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 4 linha -->
+                <th rowspan="3" scope="rowgroup">Homens</th> <!-- 01 Coluna -->
+                <td>Bruno Mendornça</td> <!-- 02 Coluna -->
+                <td>Intocáveis</td> <!-- 03 Coluna -->
+                <td>Amnésia</td> <!-- 04 Coluna -->
+                <td>Gladiador</td> <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 5 linha -->
+                <td>Daniel Lourenço</td> <!-- 02 Coluna -->
+                <td>Wall-E</td> <!-- 03 Coluna -->
+                <td>Oldboy</td> <!-- 04 Coluna -->
+                <td>Dangal</td> <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 6 linha -->
+                <td>Fabiano Mota</td> <!-- 02 Coluna -->
+                <td>Star Wars 5</td> <!-- 03 Coluna -->
+                <td>Taxi Driver</td> <!-- 04 Coluna -->
+                <td>Toy Story</td> <!-- 05 Coluna -->
+            </tr>
+        </tbody>
+    </table> 
+</body>
+</html>

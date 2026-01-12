@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Images/Sirubico-Music-Genre-Punk-Rock.ico" type="image/x-icon">
+    <link rel="stylesheet" href="CSS/styletabela007.css">
+    <title>Tabela007</title>
+</head>
+<body>
+    <h1>Desafio Parte 4</h1>
+
+    <table>
+        <!-- Anatomia para tabelas grandes
+            table
+                caption
+                    thead
+                        table row (TR) = linha de tabela
+                        table header (TH) = cabeçalho de tabela
+                        table data (TD)  = dado de tabela
+                    tbody
+                        table row (TR) = linha de tabela
+                        table header (TH) = cabeçalho de tabela
+                        table data (TD)  = dado de tabela
+                    tfoot
+                        table row (TR) = linha de tabela
+                        table header (TH) = cabeçalho de tabela
+                        table data (TD)  = dado de tabela
+        -->
+        <caption>Filmes Favoritos</caption>
+        <thead>
+            <tr> <!-- 1 linha -->
+                <th scope="col">Grupos</th> <!-- 01 Coluna -->
+                <th scope="col">Nomes</th> <!-- 02 Coluna -->
+                <th scope="colgroup" colspan="3">Filmes</th> <!-- 03 Coluna -->
+            </tr>
+        </thead>
+        <tbody>
+            <tr> <!-- 2 linha -->
+                <th scope="rowgroup" rowspan="3">Mulheres</th> <!-- 01 Coluna -->
+                <td>Ana Maria Santos</td>  <!-- 02 Coluna -->
+                <td>Alien</td>  <!-- 03 Coluna -->
+                <td>Rambo</td>  <!-- 04 Coluna -->
+                <td>Vingadores</td>  <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 3 linha -->
+                <td>Beatriz Souza</td>  <!-- 02 Coluna -->
+                <td>Hulk</td>  <!-- 03 Coluna -->
+                <td>Inception</td>  <!-- 04 Coluna -->
+                <td>Batman</td>  <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 4 linha -->
+                <td>Cláudia Melo</td>  <!-- 02 Coluna -->
+                <td>Oblivion</td>  <!-- 03 Coluna -->
+                <td>Matrix</td>  <!-- 04 Coluna -->
+                <td>Big Hero</td>  <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 5 linha -->
+                <th scope="rowgroup" rowspan="3">Homens</th> <!-- 01 Coluna -->
+                <td>Bruno Mendornça</td>  <!-- 02 Coluna -->
+                <td>Intocáveis</td>  <!-- 03 Coluna -->
+                <td>Amnésia</td>  <!-- 04 Coluna -->
+                <td>Gladiador</td>  <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 6 linha -->
+                <td>Daniel Lourenço</td>  <!-- 02 Coluna -->
+                <td>Wall-E</td>  <!-- 03 Coluna -->
+                <td>Oldboy</td>  <!-- 04 Coluna -->
+                <td>Dangal</td>  <!-- 05 Coluna -->
+            </tr>
+            <tr> <!-- 7 linha -->
+                <td>Fabiano Mota</td>  <!-- 02 Coluna -->
+                <td>Star Wars 5</td>  <!-- 03 Coluna -->
+                <td>Taxi Driver</td>  <!-- 04 Coluna -->
+                <td>Toy Story</td>  <!-- 05 Coluna -->
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr> <!-- 8 linha -->
+                <th scope="row" colspan="4">Total</th><!-- 01 Coluna -->
+                <td>1000</td><!-- 02 Coluna -->
+            </tr>
+        </tfoot>              
+    </table>
+</body>
+</html>

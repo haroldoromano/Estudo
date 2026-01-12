@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="Images/r_bonitao.ico" type="image/x-icon">
+    <link rel="stylesheet" href="CSS/styletabela009.css">
+    <title>Tabela009</title>
+</head>
+<body>
+    <h1>Agrupamento de colunas</h1>
+    <table>
+        <!-- Anatomia para tabelas grandes
+            table
+                caption
+                    thead
+                        table row (TR) = linha de tabela
+                        table header (TH) = cabeçalho de tabela
+                        table data (TD)  = dado de tabela
+                    tbody
+                        table row (TR) = linha de tabela
+                        table header (TH) = cabeçalho de tabela
+                        table data (TD)  = dado de tabela
+                    tfoot
+                        table row (TR) = linha de tabela
+                        table header (TH) = cabeçalho de tabela
+                        table data (TD)  = dado de tabela
+        -->
+        <caption>Cadastro</caption>
+        <colgroup>
+            <col span="1" class="colunaNome">
+            <col span="1" class="colunaSexo">
+            <col span="1" class="colunaIdade">
+            <col span="1" class="colunaProfissao">
+        </colgroup>
+        <thead>
+            <tr> <!-- 1 linha -->
+                <th scope="col">Nome</th> <!-- 01 Coluna -->
+                <th scope="col">Sexo</th> <!-- 02 Coluna -->
+                <th scope="col">Idade</th> <!-- 03 Coluna -->
+                <th scope="col">Profissão</th> <!-- 04 Coluna -->
+            </tr>
+        </thead>
+        <tbody>
+            <tr> <!-- 2 linha -->
+                <td>Ana Maria</td>  <!-- 01 Coluna -->
+                <td>F</td>  <!-- 02 Coluna -->
+                <td>25</td>  <!-- 03 Coluna -->
+                <td>jornalista</td>  <!-- 04 Coluna -->
+            </tr>
+            <tr> <!-- 3 linha -->
+                <td>Cláudio</td>  <!-- 01 Coluna -->
+                <td>M</td>  <!-- 02 Coluna -->
+                <td>28</td>  <!-- 03 Coluna -->
+                <td>Programador</td>  <!-- 04 Coluna -->
+            </tr>
+            <tr> <!-- 4 linha -->
+                <td>Gustavo</td>  <!-- 01 Coluna -->
+                <td>F</td>  <!-- 02 Coluna -->
+                <td>42</td>  <!-- 03 Coluna -->
+                <td>Professor</td>  <!-- 04 Coluna -->
+            </tr>
+            <tr> <!-- 5 linha -->
+                <td>Hélio</td>  <!-- 01 Coluna -->
+                <td>M</td>  <!-- 02 Coluna -->
+                <td>19</td>  <!-- 03 Coluna -->
+                <td>Vendedor</td>  <!-- 04 Coluna -->
+            </tr>
+            <tr> <!-- 6 linha -->
+                <td>Maria</td>  <!-- 01 Coluna -->
+                <td>F</td>  <!-- 02 Coluna -->
+                <td>39</td>  <!-- 03 Coluna -->
+                <td>Médica</td>  <!-- 04 Coluna -->
+            </tr>
+            <tr> <!-- 6 linha -->
+                <td>Otávio</td>  <!-- 01 Coluna -->
+                <td>M</td>  <!-- 02 Coluna -->
+                <td>22</td>  <!-- 03 Coluna -->
+                <td>Nutricionista</td>  <!-- 04 Coluna -->
+            </tr>
+        </tbody>    
+    </table>    
+</body>
+</html>
