@@ -1,0 +1,59 @@
+@charset "UTF-8"; /* Define o conjunto de caracteres do arquivo */
+
+/* =========================
+   Declaração de fontes locais
+   ========================= */
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'Arial'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/Arial.TTF); /* Caminho do arquivo da fonte */
+}
+
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'TimesNewRoman'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/TimesNewRoman.ttf); /* Caminho do arquivo da fonte */
+}
+
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'Verdana'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/Verdana.ttf); /* Caminho do arquivo da fonte */
+}
+
+/* =========================
+   Reset global de estilos
+   ========================= */
+* { /*Sempre que iniciar uma formatação, esse parametro vai zerar o CSS*/
+    margin: 0px; /*Espaço externo do elemento.*/
+    padding: 0px; /*Espaço) interno do elemento.*/
+    border: 0px; /*Borda do elemento*/
+    box-sizing: border-box; /*Incorpora os valores de padding e border às dimensões do elemento.*/
+}
+
+/* =========================
+   Variáveis globais
+   ========================= */
+:root { /* Escopo global de variáveis CSS */
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #000000; /*Declaração de variáveis em CSS*/
+    --cor1: #000000; /*Declaração de variáveis em CSS*/
+    --cor2: #000000; /*Declaração de variáveis em CSS*/
+    --cor3: #000000; /*Declaração de variáveis em CSS*/
+    --cor4: #000000; /*Declaração de variáveis em CSS*/
+    --cor5: #000000; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: Arial, Verdana, TimesNewRoman; /*Declaração de variáveis em CSS*/
+}
+
+/* =========================
+   Estilos do iframe
+   ========================= */
+#tela { /* Estilização do elemento iframe */
+    width: 95vw; /* Largura do elemento */
+    height: 400px; /* Altura do elemento */
+    border-width: 2px; /* Largura da borda do elemento */
+    border-style: solid; /* Estilo da borda do elemento */
+    border-color: var(--corPreto); /* Cor da borda do elemento */
+    box-shadow: 0px 0px 10px var(--corSombra); /* Sombra ao redor do elemento */
+    border-radius: 10px 10px 10px 10px; /* Bordas arredondadas do elemento */
+}
