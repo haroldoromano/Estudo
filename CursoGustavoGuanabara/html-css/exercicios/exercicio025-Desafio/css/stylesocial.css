@@ -1,0 +1,69 @@
+@charset "UTF-8"; /* Define o conjunto de caracteres do arquivo */
+
+/* =========================
+   Declaração de fontes locais
+   ========================= */
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'Arial'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/Arial.TTF); /* Caminho do arquivo da fonte */
+}
+
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'TimesNewRoman'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/TimesNewRoman.ttf); /* Caminho do arquivo da fonte */
+}
+
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'Verdana'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/Verdana.ttf); /* Caminho do arquivo da fonte */
+}
+
+/* =========================
+   Reset global de estilos
+   ========================= */
+* { /*Sempre que iniciar uma formatação, esse parametro vai zerar o CSS*/
+    margin: 0px; /*Espaço externo do elemento.*/
+    padding: 0px; /*Espaço) interno do elemento.*/
+    border: 0px; /*Borda do elemento*/
+    box-sizing: border-box; /*Incorpora os valores de padding e border às dimensões do elemento.*/
+}
+
+/* =========================
+   Variáveis globais
+   ========================= */
+:root { /* Escopo global de variáveis CSS */
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #00ff00; /*Declaração de variáveis em CSS*/
+    --cor1: #0000ff; /*Declaração de variáveis em CSS*/
+    --cor2: #ff0000; /*Declaração de variáveis em CSS*/
+    --cor3: #000000; /*Declaração de variáveis em CSS*/
+    --cor4: #000000; /*Declaração de variáveis em CSS*/
+    --cor5: #000000; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: Arial, Verdana, TimesNewRoman; /*Declaração de variáveis em CSS*/
+}
+
+::-webkit-scrollbar {
+    width: 0px; /* Largura da barra de rolagem */
+    height: 0px; /* Altura da barra de rolagem */
+}
+
+img {
+    width: 100vw; /* Define a largura da imagem como 100% do elemento pai */
+}
+
+a {
+    display: block; /* Define o link como um bloco */
+    background-color: var(--cor2); /* Cor de fundo do link */
+    color: var(--corBranco); /* Cor do texto do link */
+    padding: 20px 20px; /* Espaçamento interno do link */
+    text-align: center; /* Centraliza o texto do link */
+    font-weight: bolder; /* Deixa o texto em negrito */
+    text-decoration: none; /* Remove o sublinhado do link */
+}
+
+a:hover {
+    background-color: var(--cor1); /* Cor de fundo do link ao passar o mouse */
+}

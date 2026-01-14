@@ -1,0 +1,97 @@
+@charset "UTF-8"; /* Define o conjunto de caracteres do arquivo */
+
+/* =========================
+   Declaração de fontes locais
+   ========================= */
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'Arial'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/Arial.TTF); /* Caminho do arquivo da fonte */
+}
+
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'TimesNewRoman'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/TimesNewRoman.ttf); /* Caminho do arquivo da fonte */
+}
+
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'Verdana'; /* Nome da fonte a ser usada no CSS */
+    src: url(../fonts/Verdana.ttf); /* Caminho do arquivo da fonte */
+}
+
+/* =========================
+   Reset global de estilos
+   ========================= */
+* { /*Sempre que iniciar uma formatação, esse parametro vai zerar o CSS*/
+    margin: 0px; /*Espaço externo do elemento.*/
+    padding: 0px; /*Espaço) interno do elemento.*/
+    border: 0px; /*Borda do elemento*/
+    box-sizing: border-box; /*Incorpora os valores de padding e border às dimensões do elemento.*/
+}
+
+/* =========================
+   Variáveis globais
+   ========================= */
+:root { /* Escopo global de variáveis CSS */
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #00ff00; /*Declaração de variáveis em CSS*/
+    --cor1: #0000ff; /*Declaração de variáveis em CSS*/
+    --cor2: #000000; /*Declaração de variáveis em CSS*/
+    --cor3: #000000; /*Declaração de variáveis em CSS*/
+    --cor4: #000000; /*Declaração de variáveis em CSS*/
+    --cor5: #000000; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: Arial, Verdana, TimesNewRoman; /*Declaração de variáveis em CSS*/
+}
+
+html, body {
+    height: 100vh;  /* Define a altura total da viewport */
+    width: 100vw;   /* Define a largura total da viewport */
+    background-color: var(--corPreto);  /* Define a cor de fundo usando a variável global */
+}
+
+body {
+    background: url('../images/fundo-madeira.jpg') no-repeat; /* Define a imagem de fundo */
+    background-size: cover;  /* Ajusta a imagem de fundo para cobrir todo o espaço */
+}
+
+main {
+    height: 100vh;  /* Define a altura total da viewport */
+    position: relative;  /* Define o posicionamento relativo para os elementos filhos */
+}
+
+section#telefone {
+    position: absolute; /* Define o posicionamento absoluto */
+    top: 50%; /* Define a distância do topo */
+    left: 50%; /* Define a distância da esquerda */
+    transform: translate(-50%, -50%);   /* Centraliza o elemento */
+    height: 627px; /* Define a altura como 50% do elemento pai */
+    width: 311px; /* Define a largura como 100% do elemento pai */
+    background: url('../images/frame-iphone.png') no-repeat; /* Define a imagem de fundo */
+}
+
+iframe#tela {
+    position: relative; /* Define o posicionamento absoluto */
+    top: 80px; /* Define a distância do topo */
+    left: 22px; /* Define a distância da esquerda */
+    height: 471px; /* Define a altura como 50% do elemento pai */
+    width: 267px; /* Define a largura como 100% do elemento pai */
+}
+
+section#redes-sociais {
+    text-align: right; /* Alinha o conteúdo à direita */
+}
+
+section#redes-sociais img{
+    width: 50px; /* Define a largura da imagem */
+    margin: 10px; /* Define a margem ao redor da imagem */
+    border-radius: 50%; /* Define bordas arredondadas */
+    box-shadow: 2px 2px 5px var(--corSombra); /* Adiciona sombra à imagem */
+    box-sizing: border-box; /* Inclui padding e border na largura e altura totais */
+}
+
+section#redes-sociais img:hover {
+    transform: scale(1.1); /* Aumenta o tamanho da imagem ao passar o mouse */
+    transition: all 0.3s ease-in-out    
+}
