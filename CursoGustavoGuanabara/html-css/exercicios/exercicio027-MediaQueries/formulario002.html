@@ -1,0 +1,31 @@
+<!DOCTYPE html> <!-- Declara o tipo de documento como HTML5, garantindo compatibilidade com navegadores modernos -->
+<html lang="pt-BR"> <!-- Inicia o documento HTML e define o idioma como português do Brasil -->
+<head> <!-- Início da seção de metadados (não visível ao usuário) -->
+    <meta charset="UTF-8"> <!-- Define a codificação de caracteres como UTF-8 (acentos e caracteres especiais funcionam corretamente) -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Torna o layout responsivo, ajustando para telas de celulares e tablets -->
+    <link rel="shortcut icon" href="images/r_bonitao.ico" type="image/x-icon"> <!-- Define o ícone (favicon) que aparece na aba do navegador -->
+    <link rel="stylesheet" href="css/styleformularioXXX.css"> <!-- Importa o arquivo CSS externo responsável pelo estilo da página -->
+    <title>Formulários</title> <!-- Define o título da página exibido na aba do navegador -->
+</head> <!-- Fim da seção head -->
+<body> <!-- Início do corpo da página (conteúdo visível ao usuário) -->
+    <h1>Teste de formulários</h1> <!-- Título principal da página -->
+
+    <!-- Início do formulário -->
+    <form action="cadastro.php" method="post" autocomplete="off"> <!-- **action** define para onde os dados serão enviados. **method="post"** envia os dados de forma mais segura (não visível na URL) -->
+        <p> <!-- Parágrafo usado para agrupar label e input -->
+            <label for="iusuario">Usuário: </label> <!-- Label associado ao input de usuário e o for conecta o label ao input com o mesmo id-->
+            <input type="text" name="usuario" id="iusuario" required> <!-- Campo de texto para o usuário. **name** é o nome da variável enviada ao PHP e **id** é usado para acessibilidade e ligação com o label-->
+        </p>
+        <p> <!-- Parágrafo usado para agrupar label e input -->
+            <label for="isenha">Senha: </label> <!-- Label associado ao input de usuário e o for conecta o label ao input com o mesmo id-->
+            <input type="password" name="senha" id="isenha" required> <!-- Campo do tipo password, que oculta os caracteres digitados -->
+        </p>
+        <p> <!-- Agrupamento dos botões do formulário -->
+            <input type="submit" value="Enviar"> <!-- Botão que envia os dados do formulário -->
+            <input type="reset" value="Limpar"> <!-- Botão que limpa todos os campos do formulário -->
+        </p>
+    </form>
+    <!-- Fim do formulário -->
+
+</body> <!-- Fim do corpo da página -->
+</html> <!-- Fim do documento HTML -->

@@ -1,0 +1,31 @@
+<!DOCTYPE html> <!-- Define que o documento usa HTML5 -->
+<html lang="pt-BR"> <!-- Elemento raiz do HTML, com idioma definido como português do Brasil -->
+    <head>
+        <meta charset="UTF-8">  <!-- Define o conjunto de caracteres como UTF-8 (acentos, ç, etc.) -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Torna o site responsivo em dispositivos móveis -->
+        <link rel="shortcut icon" href="images/r_azul.ico" type="image/x-icon"> <!-- Ícone exibido na aba do navegador -->
+        <link rel="stylesheet" href="css/styleformularioXXX.css"> <!-- Arquivo CSS externo responsável pelo estilo da página -->
+        <title>Formulários</title> <!-- Título exibido na aba do navegador -->
+    </head>
+    <body>
+        <h1>Meu primeiro formulário</h1> <!-- Título principal da página -->  
+        <form> <!-- Início do formulário -->            
+            <p> <!-- Parágrafo usado para organizar os campos -->
+                <label for="inome"> <!-- Label associado ao input pelo atributo "for" -->
+                    Nome: <!-- Texto visível do campo -->
+                    <input type="text" name="nome" id="inome">
+                </label>
+            </p>
+            <p>  <!-- Parágrafo usado para organizar os campos -->
+                <label for="isobrenome"> <!-- Label associado ao input pelo atributo "for" -->
+                    Sobrenome: <!-- Texto visível do campo -->
+                    <input type="text" name="sobrenome" id="isobrenome">
+                </label>
+            </p>
+
+            <p>  <!-- Parágrafo usado para organizar os campos -->
+                <input type="submit" value="Enviar"> <!-- Botão que envia o formulário -->
+            </p>
+        </form>  <!-- Fim do formulário -->       
+    </body>
+</html>
