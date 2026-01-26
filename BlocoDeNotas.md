@@ -26,11 +26,9 @@ Suporte: abacabb
 senha do gordo: Cris2010*-+
 
 
-Nobreak
-New Station ST700BI - 72
-NET4+ 1500BI - 12
-NET4+ Expert 1800BI - 1
-NNET Adapter II GTH - 1
+Leia meu código e comente TODAS as linhas dentro do próprio código de forma detalhada, clara e elucidativa. Ao final reescreva o código com melhorias que modernizem a escrita no padrão Nesting e que melhorem a usabilidade e performance. Esse código reescrito também deve estar Com TODAS as linhas comentadas dentro do próprio código de forma detalhada, clara e elucidativa.
+
+Reescreva meu código sem alterar nada, apenas removendo todos os comentários.
 
 # XX
 ~~~php
