@@ -1,0 +1,11 @@
+@charset "UTF-8"; /* Define o conjunto de caracteres do arquivo como UTF-8, garantindo suporte a acentos, cedilha e caracteres especiais. Deve sempre ser a PRIMEIRA linha do CSS. */
+
+/*
+    Para aparelhos na posição PAISAGEM (landscape)
+*/
+
+body {
+    background-image: url(../images/cev-landscape.jpg); /* Define a imagem de fundo para aparelhos em modo paisagem */
+    background-position: left bottom; /* Centraliza a imagem horizontalmente */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+}

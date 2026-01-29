@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<!-- Declara o tipo de documento como HTML5. Essa linha informa ao navegador que o código segue o padrão moderno do HTML. É essencial para evitar o "modo quirks" (modo de compatibilidade antiga). -->
+
+<html lang="pt-br">
+<!--
+A tag <html> envolve todo o documento HTML.
+O atributo lang="pt-br" informa que o conteúdo está em português do Brasil,
+o que ajuda:
+- leitores de tela (acessibilidade)
+- mecanismos de busca (SEO)
+- navegadores (correção linguística)
+-->
+
+    <head>
+    <!-- A seção <head> contém metadados do documento. Nada aqui aparece diretamente na tela. -->
+
+        <meta charset="UTF-8">
+           <!-- Define a codificação de caracteres como UTF-8. Isso garante que acentos, ç e caracteres especiais sejam exibidos corretamente. Essencial para português. -->
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!--
+            Controla como o site será exibido em dispositivos móveis.
+            width=device-width → largura igual à largura da tela do dispositivo
+            initial-scale=1.0 → nível de zoom inicial
+            Fundamental para layouts responsivos e media queries.
+        -->
+
+        <link rel="shortcut icon" href="images/r_azul.ico" type="image/x-icon">
+        <!--
+            Define o ícone (favicon) exibido na aba do navegador.
+            href aponta para o arquivo do ícone.
+            type indica o tipo MIME do arquivo.
+        -->
+
+        <link rel="stylesheet" href="css/stylemediaqueriestela.css" media="screen">
+        <!--
+            Importa um arquivo CSS específico para telas (screen).
+            Ele será aplicado quando o site for exibido em monitores, celulares, tablets etc.
+        -->
+
+        <link rel="stylesheet" href="css/stylemediaqueriesimpressora.css" media="print">
+        <!--
+            Importa um CSS específico para impressão.
+            Esse arquivo só será aplicado quando o usuário imprimir a página.
+            Excelente uso de media queries via atributo media.
+        -->
+
+        <title>Media Queries</title>
+        <!-- Define o título da página. Aparece na aba do navegador e é importante para SEO. -->
+
+    </head>
+
+    <body>
+    <!-- A tag <body> contém TODO o conteúdo visível da página. -->
+
+        <header>
+        <!--
+            Representa o cabeçalho da página.
+            Normalmente contém:
+            - título
+            - logo
+            - menu de navegação
+        -->
+         
+            <h1>Notícias</h1>
+            <!-- Título principal da página. Deve existir apenas um <h1> por página para boa semântica e SEO. -->
+
+            <menu>
+            <!-- Representa um menu de navegação. OBS: <menu> existe no HTML5, mas é pouco usado. Geralmente substituído por <nav>. -->
+
+                <ul>
+                <!-- Lista não ordenada. Usada para agrupar itens do menu. --> 
+
+                    <li>Esportes</li>
+                    <li>Política</li>
+                    <li>Tecnologia</li>
+                    <!-- Itens de menu -->
+
+                </ul>              
+            </menu>
+        </header>
+
+        <main>
+        <!-- Representa o conteúdo principal da página. Deve ser único. Ajuda leitores de tela e mecanismos de busca a identificar o conteúdo central. -->
+
+            <article>
+            <!-- Representa um conteúdo independente e reutilizável. Ideal para notícias, posts, artigos, blogs etc. -->
+
+                <h2>Estou aprendendo a criar media queries!</h2>
+                <!-- Subtítulo do artigo. Hierarquicamente abaixo do <h1>. -->
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis accusantium odio fuga a animi voluptas quasi velit minima laborum, distinctio, iste rem, neque ratione voluptatem cumque? Facere reprehenderit veniam hic. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ea, facilis adipisci. Fugiat cupiditate laborum dolor accusamus! Expedita molestias non tempora optio, vel dolore laborum distinctio quam accusamus quas aperiam id.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur est expedita sequi natus, commodi temporibus eveniet vitae obcaecati maiores sit ab accusantium sunt aliquid pariatur in itaque eaque doloremque veritatis. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam quo dolorem asperiores, ipsum excepturi repellat dolores, cum, corporis laboriosam ab id est hic quidem. Id quia autem et voluptates cumque!</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente reiciendis aperiam dolore impedit non atque corporis repellendus odit culpa, commodi praesentium reprehenderit laboriosam, nihil eveniet eligendi autem? Corporis, eaque incidunt. Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque eos sit alias aperiam dolores repudiandae libero esse quia nisi culpa corrupti nulla, debitis ea eligendi, saepe asperiores possimus. Minus, nihil?</p>
+                <!-- Parágrafo de texto. Usado para blocos de conteúdo textual. -->
+
+            </article>
+        </main>
+    </body>
+</html>

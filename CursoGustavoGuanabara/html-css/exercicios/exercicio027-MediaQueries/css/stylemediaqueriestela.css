@@ -1,0 +1,79 @@
+@charset "UTF-8"; /* Define o conjunto de caracteres do arquivo como UTF-8, garantindo suporte a acentos, cedilha e caracteres especiais. Deve sempre ser a PRIMEIRA linha do CSS. */
+
+/* =========================
+   Declaração de fontes locais
+   ========================= */
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'ArialLocal'; /* Nome interno da fonte, usado depois no font-family */
+    src: url(../fonts/Arial.TTF); /* Caminho do arquivo da fonte. O "../" indica que o CSS está em uma pasta e a pasta fonts está um nível acima. */
+}
+
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'TimesNewRomanLocal'; /* Nome interno da fonte, usado depois no font-family */
+    src: url(../fonts/TimesNewRoman.ttf); /* Caminho do arquivo da fonte. O "../" indica que o CSS está em uma pasta e a pasta fonts está um nível acima. */
+}
+
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'VerdanaLocal'; /* Nome interno da fonte, usado depois no font-family */
+    src: url(../fonts/Verdana.ttf); /* Caminho do arquivo da fonte. O "../" indica que o CSS está em uma pasta e a pasta fonts está um nível acima. */ 
+}
+
+/* =========================
+   Reset global de estilos
+   ========================= */
+* { /* Seletor universal (*): Aplica essas regras a TODOS os elementos da página */ 
+    margin: 0px; /* Remove margens padrão aplicadas pelos navegadores */    
+    padding: 0px; /* Remove espaçamentos internos padrão */    
+    border: 0px; /* Remove qualquer borda padrão */ 
+    box-sizing: border-box; /* Inclui padding e border no cálculo da largura e altura. Isso facilita o controle do layout e evita "quebras" inesperadas */
+}
+
+/* =========================
+   Variáveis globais
+   ========================= */
+:root { /* :root representa o elemento raiz do documento (html). É o melhor local para declarar variáveis CSS globais */
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #808080; /*Declaração de variáveis em CSS*/
+    --cor1: #696969; /*Declaração de variáveis em CSS*/
+    --cor2: #000000; /*Declaração de variáveis em CSS*/
+    --cor3: #000000; /*Declaração de variáveis em CSS*/
+    --cor4: #000000; /*Declaração de variáveis em CSS*/
+    --cor5: #000000; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: ArialLocal, VerdanaLocal, TimesNewRomanLocal; /* Fonte padrão do site. O navegador tentará usar a primeira disponível */
+}
+
+/* =========================
+   Estilos da página
+   ========================= */
+html { /* Estilização do elemento html */
+    font-family: var(--fontePadrao); /* Aplica a fonte padrão definida na variável */
+    font-size: 1em; /* Define o tamanho base da fonte. 1em normalmente equivale a 16px */
+}
+
+header { /* Estilo do cabeçalho da página */
+    background-color: var(--cor0); /* Define a cor de fundo do header.*/
+}
+
+header > h1 { /* Seleciona apenas o h1 que é filho direto do header */    
+    text-align: center; /* Centraliza o texto horizontalmente */
+}
+
+menu ul { /* Seleciona listas <ul> dentro da tag <menu> */    
+    list-style-type: none; /* Remove os marcadores (bolinhas) da lista */    
+    background-color: var(--cor1); /* Define a cor de fundo da lista */
+}
+
+menu li {/* Seleciona os itens da lista dentro do menu */
+    background-color: var(--corPreto); /* Cor de fundo de cada item */
+    color: var(--corBranco); /* Cor do texto */
+    display: inline-block; /* Faz os itens ficarem lado a lado, mas ainda permitindo definir largura e altura */
+    padding: 10px 10px 10px 10px; /* Espaçamento interno em todos os lados */
+}
+
+article { /* Estilo para o elemento article */
+    width: 600px; /* Define largura fixa do conteúdo */
+    margin: auto; /* Centraliza horizontalmente o article */
+}

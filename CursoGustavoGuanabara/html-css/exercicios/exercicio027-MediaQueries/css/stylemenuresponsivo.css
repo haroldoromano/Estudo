@@ -1,0 +1,118 @@
+@charset "UTF-8"; /* Define o conjunto de caracteres do arquivo como UTF-8, garantindo suporte a acentos, cedilha e caracteres especiais. Deve sempre ser a PRIMEIRA linha do CSS. */
+
+/* =========================
+   Declaração de fontes locais
+   ========================= */
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'ArialLocal'; /* Nome interno da fonte, usado depois no font-family */
+    src: url(../fonts/Arial.TTF); /* Caminho do arquivo da fonte. O "../" indica que o CSS está em uma pasta e a pasta fonts está um nível acima. */
+}
+
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'TimesNewRomanLocal'; /* Nome interno da fonte, usado depois no font-family */
+    src: url(../fonts/TimesNewRoman.ttf); /* Caminho do arquivo da fonte. O "../" indica que o CSS está em uma pasta e a pasta fonts está um nível acima. */
+}
+
+@font-face { /* Define uma fonte personalizada */
+    font-family: 'VerdanaLocal'; /* Nome interno da fonte, usado depois no font-family */
+    src: url(../fonts/Verdana.ttf); /* Caminho do arquivo da fonte. O "../" indica que o CSS está em uma pasta e a pasta fonts está um nível acima. */ 
+}
+
+/* =========================
+   Reset global de estilos
+   ========================= */
+* { /* Seletor universal (*): Aplica essas regras a TODOS os elementos da página */ 
+    margin: 0px; /* Remove margens padrão aplicadas pelos navegadores */    
+    padding: 0px; /* Remove espaçamentos internos padrão */    
+    border: 0px; /* Remove qualquer borda padrão */ 
+    box-sizing: border-box; /* Inclui padding e border no cálculo da largura e altura. Isso facilita o controle do layout e evita "quebras" inesperadas */
+}
+
+/* =========================
+   Variáveis globais
+   ========================= */
+:root { /* :root representa o elemento raiz do documento (html). É o melhor local para declarar variáveis CSS globais */
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #d3d3d3; /*Declaração de variáveis em CSS*/
+    --cor1: #949494; /*Declaração de variáveis em CSS*/
+    --cor2: #575757; /*Declaração de variáveis em CSS*/
+    --cor3: #303030; /*Declaração de variáveis em CSS*/
+    --cor4: #000000; /*Declaração de variáveis em CSS*/
+    --cor5: #000000; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: ArialLocal, VerdanaLocal, TimesNewRomanLocal; /* Fonte padrão do site. O navegador tentará usar a primeira disponível */
+}
+
+/* =========================
+   Estilos da página
+   ========================= */
+html, body { /* Estilização do elemento html */
+    background-color: var(--cor0); /* Define a cor de fundo */
+}
+
+header { /* Estilização do elemento header */
+    background-color: var(--cor1); /* Define a cor de fundo */
+}
+
+header > h1 { /* Estilização do elemento h1 dentro do header */
+    padding: 10px 10px 10px 10px; /* Adiciona espaçamento interno */
+    text-align: center; /* Centraliza o texto horizontalmente */
+}
+
+#burguer { /* Estilização do elemento span com id "burguer" */
+    display: block; /* Garante que o span seja exibido como um bloco */
+    background-color: var(--cor3); /* Define a cor de fundo */
+    color: var(--corBranco); /* Define a cor do texto */
+    text-align: center; /* Centraliza o texto horizontalmente */
+    padding: 10px 10px 10px 10px; /* Adiciona espaçamento interno */
+    cursor: pointer; /* Altera o cursor para indicar que é clicável */
+}
+
+#burguer:hover { /* Estilização do elemento span com id "burguer" quando o mouse passa por cima */
+    background-color: var(--corBranco); /* Altera a cor de fundo ao passar o mouse */
+    color: var(--corPreto); /* Altera a cor do texto ao passar o mouse */
+}
+
+menu { /* Estilização do elemento menu */
+    display: none; /* Oculta o menu por padrão */
+}
+
+menu > ul { /* Estilização das listas não ordenadas dentro do menu */
+    list-style-type: none; /* Remove os marcadores padrão das listas */
+}
+
+menu > ul > li > a { /* Estilização dos itens de lista dentro do menu */
+    display: block; /* Faz com que os links ocupem toda a largura do item de lista */
+    padding: 10px 10px 10px 10px; /* Adiciona espaçamento interno */
+    text-decoration: none; /* Remove o sublinhado dos links */
+    text-align: center; /* Centraliza o texto dos links */
+    color: var(--corBranco); /* Define a cor do texto dos links */
+    background-color: var(--cor2); /* Define a cor de fundo dos links */
+    border-top: 2px solid var(--cor1); /* Adiciona uma borda superior */
+}
+
+menu > ul > li > a:hover { /* Estilização dos links do menu quando o mouse passa por cima */
+    background-color: var(--cor3); /* Altera a cor de fundo ao passar o mouse */
+    color: var(--corBranco); /* Mantém a cor do texto branca */
+}
+
+main { /* Estilização do elemento main */
+    padding: 10px 10px 10px 10px; /* Adiciona espaçamento interno */
+    background-color: var(--corBranco); /* Define a cor de fundo */
+    width: 90%; /* Define a largura do contêiner pai */
+    margin: auto; /* Centraliza o contêiner horizontalmente */
+    margin-top: 10px; /* Adiciona uma margem superior */
+    border-radius: 20px; /* Adiciona cantos arredondados */
+}
+
+article > h2 { /* Estilização do elemento h2 dentro do article */
+    padding-bottom: 20px; /* Adiciona espaçamento interno na parte inferior */
+}
+
+article > p { /* Estilização dos parágrafos dentro do article */
+    text-align: justify; /* Justifica o texto */
+    margin-bottom: 20px; /* Adiciona uma margem inferior */
+    text-indent: 20px; /* Adiciona um recuo na primeira linha do parágrafo */
+}

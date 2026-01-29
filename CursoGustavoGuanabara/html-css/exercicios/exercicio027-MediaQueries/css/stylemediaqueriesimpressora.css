@@ -1,0 +1,75 @@
+@charset "UTF-8"; /* Define a codificação de caracteres do arquivo CSS. UTF-8 garante suporte correto a acentos, caracteres especiais e símbolos. Deve sempre ser a PRIMEIRA linha do arquivo CSS. */
+
+/* ==========================
+   FONTES PERSONALIZADAS
+   ========================== */
+
+@font-face { /* Declaração de uma fonte personalizada para uso no site */
+  font-family: 'ArialLocal'; /* Nome interno que será usado no CSS para referenciar essa fonte */
+  src: url('../fonts/Arial.ttf') format('truetype'); /* Caminho para o arquivo da fonte no sistema de arquivos */
+  font-display: swap; /* Permite que o navegador use uma fonte fallback enquanto a fonte personalizada carrega, melhorando performance e experiência do usuário */
+}
+
+@font-face { /* Declaração de uma fonte personalizada para uso no site */
+  font-family: 'TimesNewRomanLocal'; /* Nome interno que será usado no CSS para referenciar essa fonte */
+  src: url('../fonts/TimesNewRoman.ttf') format('truetype'); /* Caminho para o arquivo da fonte no sistema de arquivos */
+  font-display: swap; /* Permite que o navegador use uma fonte fallback enquanto a fonte personalizada carrega, melhorando performance e experiência do usuário */
+}
+
+@font-face { /* Declaração de uma fonte personalizada para uso no site */
+  font-family: 'VerdanaLocal'; /* Nome interno que será usado no CSS para referenciar essa fonte */
+  src: url('../fonts/Verdana.ttf') format('truetype'); /* Caminho para o arquivo da fonte no sistema de arquivos */
+  font-display: swap; /* Permite que o navegador use uma fonte fallback enquanto a fonte personalizada carrega, melhorando performance e experiência do usuário */
+}
+
+/* ==========================
+   VARIÁVEIS GLOBAIS
+   ========================== */
+
+:root { /* Pseudoclasse root representa o elemento raiz do documento (html). Muito usada para definir variáveis CSS globais. */
+    --corBranco: #ffffff; /*Declaração de variáveis em CSS*/
+    --corPreto: #000000; /*Declaração de variáveis em CSS*/
+    --corSombra: rgba(0, 0, 0, 0.500); /*Declaração de variáveis em CSS*/
+    --cor0: #808080; /*Declaração de variáveis em CSS*/
+    --cor1: #696969; /*Declaração de variáveis em CSS*/
+    --cor2: #000000; /*Declaração de variáveis em CSS*/
+    --cor3: #000000; /*Declaração de variáveis em CSS*/
+    --cor4: #000000; /*Declaração de variáveis em CSS*/
+    --cor5: #000000; /*Declaração de variáveis em CSS*/
+
+    --fontePadrao: Arial, sans-serif, ArialLocal, VerdanaLocal, TimesNewRomanLocal; /* Variável que define a pilha de fontes padrão do site */
+}
+
+/* ==========================
+   ESTILOS BASE
+   ========================== */
+
+body { /* Estilização global do corpo da página */
+  font-family: var(--fontePadrao); /* Aplica a fonte padrão definida na variável */
+  font-size: 1rem; /* Tamanho base da fonte (relativo ao tamanho padrão do navegador). 1em normalmente equivale a 16px */
+  line-height: 1.5; /* Define o espaçamento entre linhas, melhorando legibilidade */
+  padding: 1rem; /* Espaçamento interno do body */
+  color: var(--corPreto); /* Cor do texto */
+  background-color: var(--corBranco); /* Cor de fundo da página */
+
+  /* ==========================
+     CSS Nesting moderno
+     ========================== */
+
+  menu { /* Estilo do elemento HTML <menu> */
+    display: none; /* Oculta completamente o menu (ideal para impressão) */
+  }
+
+  article { /* Estilo para o elemento <article> */
+    width: 100%; /* Ocupa toda a largura disponível */
+
+    &::after { /* Pseudo-elemento criado APÓS o conteúdo do article */
+      content: "Esse artigo foi impresso com um CSS específico para impressão."; /* Texto informativo exibido após o artigo */
+      display: block; /* Faz o pseudo-elemento se comportar como bloco */
+      margin-top: 1rem; /* Espaço acima do texto */
+      font-size: 0.875rem; /* Tamanho base da fonte (relativo ao tamanho padrão do navegador). 1em normalmente equivale a 16px */
+      color: var(--corPreto); /* Cor do texto */
+      clear: both;  /* Garante que elementos flutuantes não interfiram no layout */
+    }
+  }
+}
