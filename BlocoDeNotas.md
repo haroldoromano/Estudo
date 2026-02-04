@@ -36,3 +36,4 @@ Reescreva meu código sem alterar nada, apenas removendo todos os comentários.
 ~~~
 ---
 
+Eu não quero ter meu nome associado a um mau trabalho ou prestar um serviço de má qualidade. Todo o esforço que vem sendo feito, ele vem sendo feito para que a gente possa modernizar no sentido de ter mais controle para favorecer que o SAAE possa ter um serviço de maior qualidade e às vezes as reorganizações nos custam reputações, porque às vezes a pessoa que tá fazendo o trabalho duro, que tá arregaçando as mangas e colocando a coisa para funcionar e não escolheu simplesmente empurrar com a barriga para não desagradar pessoas, essa pessoa é punida por simplesmente desagradar pessoas acomodadas. E isso é uma coisa que a gente precisa fazer com justiça, porque como eu falei, a gente consegue enxergar todo o cenário de uma maneira mais clara e isso acaba beneficiando a todos.
