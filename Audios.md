@@ -309,7 +309,7 @@
 |Treta_Gravação de chamadas Graziela Bruxa_250919_193813|00:45|03:00|Graziela e Teresinha falando mal da Fabiana|
 |Treta_Gravação de chamadas Graziela Bruxa_250921_185226|00:50|02:20|Graziela e Teresinha falando mal da Célia|
 |Treta_Gravação de chamadas 01516997209072_251004_113944|14:00|17:55|Teresinha e Célia falando mal da Sônia|
-|||||
+|Treta_Gravação de chamadas Graziela Bruxa_260123_072402|00:45|04:15|Graziela falando mal da Tuca e da Auta|
 |||||
 |||||
 |||||
