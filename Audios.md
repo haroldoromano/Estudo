@@ -80,24 +80,24 @@
 |23/11/2025|30/11/2025|062|03:43:44|
 |08/12/2025|27/12/2025|014|00:09:24|
 |25/01/2025|31/01/2025|045|03:29:21|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
-|//2025|//2025|0|0::|
+|01/02/2026|08/02/2026|065|06:50:37|
+|10/02/2026|13/02/2026|048|03:41:22|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
 
 ## Clarisse
 
@@ -185,8 +185,8 @@
 |Clarisse_Gravação de chamadas Graziela Bruxa_251113_083826|00:00|02:30|
 |Clarisse_Gravação de chamadas Graziela Bruxa_251129_125544|00:00|06:25|
 |Clarisse_Gravação de chamadas Graziela Bruxa_251130_094608|02:35|04:14|
-|Clarise_Gravação de chamadas Graziela Bruxa_260127_094414|00:00|05:23|
-||||
+|Clarisse_Gravação de chamadas Graziela Bruxa_260127_094414|00:00|05:23|
+|Clarisse_Gravação de chamadas Sônia Vargas_260204_212431|00:00|06:13|
 ||||
 ||||
 ||||
@@ -259,9 +259,9 @@
 |Confissão_Gravação de chamadas Graziela Bruxa_250614_082316|01:50|02:20|Graziela confessando que faz a unha toda semana|
 |Confissão_Gravação de chamadas Graziela Bruxa_250614_144321|02:25|04:50|Teresinha ansiosa para a organização das bodas|
 |Confissão_Gravação de chamadas Graziela Bruxa_250806_114524|01:05|01:30|Teresinha confessando que tudo para Graziela|
-|Confissão_Gravação de chamadas Graziela Bruxa_250917_151458|04:10|04:58|Teresinha flando para Graziela que não vai conviar Clarisse para bodas|
+|Confissão_Gravação de chamadas Graziela Bruxa_250917_151458|04:10|04:58|Teresinha falando para Graziela que não vai conviar Clarisse para bodas|
 |Confissão_Gravação de chamadas Graziela Bruxa_251118_075800|00:55|01:20|Graziela confessando que o Zé paga a fatura do cartão dela|
-|||||
+|Confissão_Gravação de chamadas Graziela Bruxa_260201_134657|00:00|04:21|Teresinha confessando que comprou escrivaninha, cama e colchão para o Giovane|
 |||||
 |||||
 |||||

@@ -1,0 +1,148 @@
+D:\N�O FILTRADOS
+#ImersaoCSS - Alura
+[PACK] Basecamp e Bootcamp Cataline
+100 Algorithms Challenge - Udemy
+30.Desafios.de.JavaScript
+Algebra.Linear.com.Python
+Algomania
+An�lise Financeira com Python - 1� Edi��o - Fernando Feltrin [2020]
+APIs com Python e Django
+Aprendendo SQL do In�cio ao Fim - Josueldo Pajau
+Arduino Do Zero ao Jogo
+Arduino I - Neri Neitzke
+Arduino II - Neri Neitzke
+Arduino.Radio.Frequencia.433mhz
+Ardu�no Iniciante - Thiago Coimbra Da Silva Real
+Banco de Dados SQL
+BcoDados-SQL
+Build Real Software with Python, PyQt5 and QT Designer (udemy)
+Carreira Desenvolvedor Backend .NET - balta.io
+Circuito Fechado de TV - CFTV
+Cisco CCNP - Route-Maps, Redistribui��o e IP SLA
+Clean.Code.e.Clean.Architecture
+CodeBoost
+Construa.um.E-Commerce.com.Python.3.e.Django
+Criando Rob�s com Python - Controlando o Instagram
+crie API'S com python FAST API
+Crie aplicativos em Python com ChatGPT integrado via API!
+Crie chatbot do whatsapp delivery com painel. PHP Python BOT - Victor Souza
+Crie um BOT de atendimento para o INSTAGRAM Python e php
+CRUD B�sico com Bootstrap 4 , PHP e MySQL
+Curso Completo de SassSCSS Do Iniciante ao Avan�ado
+Curso Completo Oracle SQL - DBA
+Curso Crie Sites Premium 2.0 - Rodrigo Castro
+Curso de Eletr�nica Eletricidade B�sica [100% Iniciante]
+Curso de Flu�ncia em HTML5, CSS3, Flexbox e CSSGrid
+Curso de JavaScript e TypeScript do b�sico ao avan�ado 2020
+Curso de Shell Script do Iniciante ao Avan�ado - Terminal Root
+CURSO ELETRONICA PROF. ROMULO FILHO
+Curso Eletr�nica Geral  - AndreCisp
+Curso L�gica de Programa��o - EADCCNA
+Curso Python para Web com Flask 2019
+Curso SQL SERVER - EADCCNA
+Curso.Javascript
+Cursodepython.net - Jhonatan De Souza
+C�digo da Virada -  HTML  CSS  JS Kenzie Academy Brasil
+Dados de sa�de p�blica com Python
+Dashboards.Interativos.com.Python
+DBA Oracle Essencial - Aprenda do zero!
+Descubra.o.SQL
+Desenvolvimento Dinamico - JavaScript
+Desenvolvimento.Front-End.do.Zero.ao.Pro
+Desvendando a web HTML, CSS, Javascript e Typescript [2023]
+DevQuest
+Dominando CSS 3 com SASS SCSS - [2021]
+Dominando Git e GitHub - Do Iniciante ao Expert
+EADCCNA - Curso CFTV Completo
+Electron Crie Aplicacoes Desktop Nativas Usando HTML CSS Javascript
+Eletr�nica - AndreCisp
+Especialista Python
+Estatistica.Descritiva.com.Python
+Excel VBA Cria��o de Sistemas + Banco de Dados Access (SQL) - Wellington Isac Souza
+FIAP ON - Gest�o de Infraestrutura de TI
+Formacao.Analista.de.Dados.Data.Science.Academy
+Formacao.Deep.Learning.com.Pytorch
+Formacao.Desenvolvedor.Moderno
+Formacao.Engenheiro.de.Machine.Learning
+Forma��o Cientista de Dados com Python e R
+FORMA��O EM CFTV (CIRCUITO FECHADO DE TV)
+Front - Angular e outros IGTI
+Frontstart
+FullStack JS - Irm�o+Velho
+Fundamentos de Javascript - Erick Wendel
+Fundamentos.de.Programacao.Design.Orientado.a.Objetos
+henrique lemonis_curso instalacao de cameras cftv 20
+HTML5 e CSS3 T�cnicas Avan�adas (Com Flexbox e 4 Projetos)
+Inteligencia Artificial Sistemas de Recomendacao em Python
+Introdu��o � Cria��o de Sites Din�micos com PHP
+Introdu��o � Programa��o para Bioinform�tica com Python
+JavaScript - De padr�es a uma abordagem funcional
+JavaScript Algoritmos + Estruturas de Dados
+Javascript Completo - Forma��o Mestre Jedi
+JavaScript do B�sico ao Avan�ado (Com Node.js e Projetos) (06-2023) - Matheus Battisti
+Javascript MasterClass
+JavaScript.Expert
+Jones Granatyr e Edson Pacholok - Algoritmos Gen�ticos em Python
+Jornada Docker de A a Z
+Jornada Python Faixa Preta
+Jornada.Python
+JS.Raiz
+LinuxTips - Criando uma API com Python e FastAPI
+Logicamente Pro Logica de Programacao
+Machine Learning A-Z - Hands-On Python and R In Data Science
+Machine.Learning
+Mergulhando.Javascript
+Metodo.PCSC.Programacao.de.CLP.do.Zero.ao.Profissional
+NextJS.do.zero.ao.avancado.na.pratica.2022
+Nutricao.e.Hipertrofia.Muscular
+O poder do m�dulo Requests!
+PHP + MySql
+PHP 8 Curso de Desenvolvimento Web Completo
+PHP Jedai
+PHP Programando Com Orienta��o A Objetos E Design Patterns - Pablo Dall'Oglio
+php-programacao-funcional
+PLAYCODE EXPRESS 2018
+Profissao Programador 2.0 - Paulo Victor Borges [2025]
+Profissao.Desenvolvedor.Full.Stack.Python
+Profissao.Web.Designer.de.Lancamentos
+Programador de Interface Curso de CSS - Universidade XTI
+Programador.Full.Stack.Javascript
+Programa��o LADDER com CADeSIMU
+PROJETO 60 DIAS
+Projeto Xmen
+Provas.TI-047.130.Banco.Dados.SQL.com.Foco.em.DDL
+Python Completo - Do J�nior ao S�nior
+Python para Hacker �ticos
+Python para Pentester
+Python.para.An�lise.de.Dados
+Reconhecimento de Voz e Sintetiza��o de Fala com Python
+Recriando P#RN HUB - Semana JSEXPERT
+RocketSeat - PHP Na Pr�tica
+SASS.e.SCSS.do.basico.ao.avancado.Projetos
+Scrum para Desenvolvedores de Software
+SECA BARRIGA - RENATO CARIANE
+Semana JS Expert - Erick Wendel
+Semana.JavaScript.Expert.6.0
+Shell Script para Hacker_ de usu�rio � Ninja em Shell Script - Udemy
+SQL.do.basico.ao.avancado
+SQL.Para.Analise.de.Dados
+SQL.Server.no.Excel.Uma.Visao.Aprofundada
+Stack.Academy
+Super Forma��o intelig�ncia Artificial com Python e R - Udemy
+Tailwind CSS do b�sico ao avan�ado + Projetos
+Treinamento Arduhack
+TurboPrompt Gere e Baixe Imagens em Lote com 1 Clique
+Udemy - Curso Completo de Mikrotik RouterOS! Do Simples ao Avan�ado!
+Udemy - Curso CSS Um Passo Adiante
+Udemy - Curso Preparat�rio Mikrotik MTCINE - BGP
+Udemy - Curso Preparat�rio Mikrotik MTCRE
+Udemy - Guia do MongoDB(Google Cloud, NoSQL, Alta disponibilidade)
+Udemy - Linux Ubuntu 18.04 do b�sico ao avan�ado
+Udemy - O Curso Completo de NoSQL e MongoDB para DEVs SQL
+Udemy - Python para Todos - Aprenda a Criar Diversas Aplica��es
+Universidade Devops - PromovaWeb
+Universidade Maromba
+UX-UI Design a Prova de Balas 2.0 - Gabriel Silvestri 2022
+Visual.Studio.Code.Produtividade.Absoluta
+Web Design Express
+WINDOWS SERVER 2012
