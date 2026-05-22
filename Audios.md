@@ -82,12 +82,12 @@
 |25/01/2025|31/01/2025|045|03:29:21|
 |01/02/2026|08/02/2026|065|06:50:37|
 |10/02/2026|13/02/2026|048|03:41:22|
-|//2026|//2026|0|0::|
-|//2026|//2026|0|0::|
-|//2026|//2026|0|0::|
-|//2026|//2026|0|0::|
-|//2026|//2026|0|0::|
-|//2026|//2026|0|0::|
+|16/02/2026|22/02/2026|019|01:22:41|
+|27/02/2026|01/03/2026|016|00:50:26|
+|01/03/2026|08/03/2026|074|07:59:38|
+|08/03/2026|21/03/2026|104|07:35:43|
+|27/03/2026|29/03/2026|010|00:39:15|
+|02/04/2026|04/04/2026|019|01:25:44|
 |//2026|//2026|0|0::|
 |//2026|//2026|0|0::|
 |//2026|//2026|0|0::|
@@ -262,8 +262,8 @@
 |Confissão_Gravação de chamadas Graziela Bruxa_250917_151458|04:10|04:58|Teresinha falando para Graziela que não vai conviar Clarisse para bodas|
 |Confissão_Gravação de chamadas Graziela Bruxa_251118_075800|00:55|01:20|Graziela confessando que o Zé paga a fatura do cartão dela|
 |Confissão_Gravação de chamadas Graziela Bruxa_260201_134657|00:00|04:21|Teresinha confessando que comprou escrivaninha, cama e colchão para o Giovane|
-|||||
-|||||
+|Confissão_Gravação de chamadas Graziela Bruxa_260302_094731|35:25|37:00|Graziela confessando que Pega dinheiro do Zé para pagar OAB e que Ricardi "Emprestou" $4000.|
+|Confissão_Gravação de chamadas Graziela Bruxa_260304_212109|01:10|02:40|Graziela confessando que da $50 por dia para Giovane gastar no shopping|
 |||||
 |||||
 |||||
@@ -310,8 +310,8 @@
 |Treta_Gravação de chamadas Graziela Bruxa_250921_185226|00:50|02:20|Graziela e Teresinha falando mal da Célia|
 |Treta_Gravação de chamadas 01516997209072_251004_113944|14:00|17:55|Teresinha e Célia falando mal da Sônia|
 |Treta_Gravação de chamadas Graziela Bruxa_260123_072402|00:45|04:15|Graziela falando mal da Tuca e da Auta|
-|||||
-|||||
+|Treta_Gravação de chamadas Graziela Bruxa_260303_190206|07:45|10:55|Graziela explicando para Teresinha do porque Carlos parou de dar carona para Giovane|
+|Treta_Gravação de chamadas Graziela Bruxa_260321_132322|08:20|10:20|Graziela falando mal do Gustavo|
 |||||
 |||||
 |||||
@@ -319,15 +319,7 @@
 |||||
 |||||
 
-## Giovane saindo com o kart
-- 07/08/2025
-- 21/08/2025
-- 25/08/2025
-- 26/08/2025
-- 28/09/2025
-- 05/10/2025
-- 09/10/2025
-- 10/10/2025
-- 12/10/2025
-- 15/10/2025
-- 18/10/2025
+## Tópicos importantes
+- O Fel deve $6000 para o Ricardi porque ele pagava as contas da garagem, porque ele fezia isso? O Ricardi tirou esse dinheiro de onde? No fim, foi o Zé que pagou as contas do traficante.
+
+- 
