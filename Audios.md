@@ -88,6 +88,36 @@
 |08/03/2026|21/03/2026|104|07:35:43|
 |27/03/2026|29/03/2026|010|00:39:15|
 |02/04/2026|04/04/2026|019|01:25:44|
+|04/04/2026|26/04/2026|089|03:56:51|
+|22/04/2026|04/05/2026|101|04:50:04|
+|04/05/2026|11/05/2026|076|04:22:35|
+|11/05/2026|19/05/2026|071|02:57:31|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
+|//2026|//2026|0|0::|
 |//2026|//2026|0|0::|
 |//2026|//2026|0|0::|
 |//2026|//2026|0|0::|
@@ -218,7 +248,7 @@
 |Haroldo_Gravação de chamadas Graziela Bruxa_241119_110647|02:40|05:30|
 |Haroldo_Gravação de chamadas Graziela Bruxa_250729_144630|00:50|03:25|
 |Haroldo_Gravação de chamadas Graziela Bruxa_250915_111830|02:15|05:41|
-||||
+|Treta_Gravação de chamadas Graziela Bruxa_260408_153112|05:28|07:00|
 ||||
 ||||
 ||||
@@ -264,10 +294,10 @@
 |Confissão_Gravação de chamadas Graziela Bruxa_260201_134657|00:00|04:21|Teresinha confessando que comprou escrivaninha, cama e colchão para o Giovane|
 |Confissão_Gravação de chamadas Graziela Bruxa_260302_094731|35:25|37:00|Graziela confessando que Pega dinheiro do Zé para pagar OAB e que Ricardi "Emprestou" $4000.|
 |Confissão_Gravação de chamadas Graziela Bruxa_260304_212109|01:10|02:40|Graziela confessando que da $50 por dia para Giovane gastar no shopping|
-|||||
-|||||
-|||||
-|||||
+|Confissão_Gravação de chamadas Graziela Bruxa_260408_132643|01:49|02:30|Graziela confessando que pega o dinheiro da conta do Banco do Brasil|
+|Confissão_Gravação de chamadas Graziela Bruxa_260506_091607|01:20|02:50|Graziela explicando o uso das canetas emagrecedoras|
+|Confissão_Gravação de chamadas Graziela Bruxa_260506_100517|07:10|09:08|Teresinha oferecendo dinheiro para Grazeiela|
+|Confissão_Gravação de chamadas Graziela Bruxa_260506_181114|01:10|02:43|Graziela explicando a batida do Giovane e falando que Ricardi está sem dinheiro|
 |||||
 |||||
 |||||
@@ -312,6 +342,26 @@
 |Treta_Gravação de chamadas Graziela Bruxa_260123_072402|00:45|04:15|Graziela falando mal da Tuca e da Auta|
 |Treta_Gravação de chamadas Graziela Bruxa_260303_190206|07:45|10:55|Graziela explicando para Teresinha do porque Carlos parou de dar carona para Giovane|
 |Treta_Gravação de chamadas Graziela Bruxa_260321_132322|08:20|10:20|Graziela falando mal do Gustavo|
+|Treta_Gravação de chamadas Graziela Bruxa_260406_184947|00:10|02:39|Graziela falando mal da Tuca|
+|Treta_Gravação de chamadas Graziela Bruxa_260408_153112|04:35|05:29|Graziela falando mal da Tuca|
+|Treta_Gravação de chamadas Graziela Bruxa_260418_120954|00:25|01:05|Graziela e Teresinha falando mal da Célia|
+|Treta_Gravação de chamadas Graziela Bruxa_260503_092945|06:10|09:25|Graziela e Teresinha falando mal da Célia|
+|Treta_Gravação de chamadas Graziela Bruxa_260504_163630|00:58|04:35|Graziela e Teresinha falando mal da Célia|
+|Treta_Gravação de chamadas Graziela Bruxa_260506_110458|00:10|04:00|Graziela e Teresinha falando mal da Célia|
+|Treta_Gravação de chamadas Sônia Vargas_260504_161941|00:00|07:15|Terezinha e Sônia falando mal da Célia|
+|Treta_Gravação de chamadas Graziela Bruxa_260518_103527|10:00|18:10|Graziela e Teresinha falando mal da Célia|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
 |||||
 |||||
 |||||
@@ -321,5 +371,6 @@
 
 ## Tópicos importantes
 - O Fel deve $6000 para o Ricardi porque ele pagava as contas da garagem, porque ele fezia isso? O Ricardi tirou esse dinheiro de onde? No fim, foi o Zé que pagou as contas do traficante.
-
+- Ricardo comprou luva de goleiro $230
+- Tomando injeção de $600 para emagrecer
 - 
